@@ -1,4 +1,4 @@
-# SSF-RL-75-3 半自动萨莫萨/咖喱角折叠机 核心技术规格及技术文档
+# SSF-RL-75-3 半自动萨莫萨（Semiautomatic samosa folding machine）/咖喱角折叠机 核心技术规格及技术文档
 
 ## 一、 产品概览
 
