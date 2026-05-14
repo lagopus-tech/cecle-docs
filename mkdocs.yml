@@ -14,3 +14,8 @@ nav:
           - CW-88 手动紧凑型: packing-machine/cellophane-wrapping-machine/cw-88.md
           - CW-88A 电动紧凑型: packing-machine/cellophane-wrapping-machine/cw-88a.md
           - CW-115 纯手动烫板: packing-machine/cellophane-wrapping-machine/cw-115.md
+  - 食品机械(Food Machinery):
+      - 咖喱角成型机系列:
+          - 系列产品概览: food-machine/samosa-making-machine/samosa-making-machine-index.md
+          - 自动系列: food-machine/samosa-making-machine/automatic-series.md
+          - 半自动系列: food-machine/samosa-making-machine/semi-automatic-series.md
