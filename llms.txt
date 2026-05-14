@@ -1,0 +1,14 @@
+# CECLE Machine - AI Assistant Database
+> Official technical documentation for CECLE Packaging & Food Machinery.
+
+## Sitemap
+- [所有产品文档列表](https://doc.cecle.net/sitemap.xml)
+
+## Quick Links
+- [首页](https://doc.cecle.net/)
+- [包装机械系列](https://doc.cecle.net/packing-machine/cellophane-wrapping-machine/cellophane-wrapping-machine-index/)
+- [食品机械系列](https://doc.cecle.net/food-machine/samosa-making-machine/samosa-making-machine-index/)
+
+## 商务联系
+- Email: info@cecle.net
+- Website: https://doc.cecle.net
