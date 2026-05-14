@@ -1,4 +1,5 @@
 site_name: CECLE Machine Docs
+site_url: https://doc.cecle.net/ 
 theme:
   name: material
 
