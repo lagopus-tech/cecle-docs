@@ -1,7 +1,3 @@
-这是一份为您翻译好的 **ASM-1500-75-4/5 全自动萨莫萨生产线** 技术文档，保留了所有 Markdown 格式，可以直接用于出口贸易或专业产品规格书。
-
----
-
 # Technical Documentation: ASM-1500-75-4/5 Automatic Samosa Making & Folding Machine
 
 ## I. Product Overview
