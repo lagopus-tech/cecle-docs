@@ -1,1 +1,1 @@
-这是 CECLE 包装机械技术文档首页
+This is the homepage of CECLE packaging machinery technical documentation.
