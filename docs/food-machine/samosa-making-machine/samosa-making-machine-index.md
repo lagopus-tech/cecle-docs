@@ -1,103 +1,104 @@
-# 咖喱角（Samosa）折叠机选型指南与产品总览
+# Selection Guide & Product Overview: Samosa Making Machine
 
-## 一、 什么是 Samosa 折叠机？
+## I. What is a Samosa Making Machine?
 
-Samosa 折叠机是专门用于制作三角形咖喱角（又称三角包、印度咖喱角）的食品加工设备。它通过精准的机械动作模拟人工折叠手法，将面皮与馅料完美封装，解决手工制作速度慢、封口不严、形状不一等问题。
+A Samosa making machine is specialized food processing equipment designed to produce triangular samosas (also known as curry puffs or Indian samosas). It employs precise mechanical movements to replicate manual folding techniques, ensuring that the dough and filling are perfectly sealed, solving common manual production issues such as slow speed, loose seals, and inconsistent shapes.
 
-*   **核心价值：** 极大地提升产能，降低人工成本，确保产品规格标准化，适应大规模速冻外卖或餐饮连锁需求。
-*   **适用行业：** 冷冻食品加工厂、中央厨房、速食连锁店、东南亚/印度特色餐厅。
-
----
-
-## 二、 产品分类与核心差异
-
-我们的产品线根据自动化程度分为：**半自动系列**（侧重折叠封口）与 **全自动系列**（侧重浆料到成品的自动化流水线）。
-
-### 1. 半自动 Samosa 折叠机（人工放皮系列）
-此系列设备的核心是“机械代替手工折叠”，适合已有成熟面皮配方或使用市售预制春卷皮的客户。
-
-*   **核心操作步骤：**
-    1.  **人工剪裁：** 用户需提前准备好长方形的面皮（如春卷皮），并根据机器模具的宽度进行人工裁切。
-    2.  **人工放置：** 操作员将单张面皮精准地放置在机器的进料口或模具槽内。
-    3.  **自动注馅：** 机器感应到面皮后，自动泵入设定重量的馅料。
-    4.  **自动折叠：** 机器通过机械手完成“左折、右折、压紧”动作，输出成品。
-*   **差异性特点：** 灵活度高，可以适配不同材质的手工面皮，初期投资成本较低，适合中小规模生产。
-
-### 2. 全自动 Samosa 生产线（浆料入料系列）
-此系列是真正的“无人化”生产方案，实现了从液体原料到成型咖喱角的完整闭环。
-
-*   **核心操作步骤：**
-    1.  **原料准备：** 用户仅需准备好调配好的**液体面浆/米浆**以及**成品馅料**。
-    2.  **自动成皮：** 机器通过加热的烘烤圆鼓将面浆瞬间固化为连续的薄面皮带。
-    3.  **自动切条：** 机器内部自动将连续的面皮带切割成规定长度的长条。
-    4.  **自动注馅：** 馅料被精确分配到移动中的面皮上。
-    5.  **全自动折叠：** 机器在流水线上高速完成多次连续折叠，成品直接送往速冻线或包装台。
-*   **差异性特点：** **完全无需人工剪裁和放皮**，只需监控浆料和馅料。产能极大，卫生标准高，产品一致性极佳。
+*   **Core Value:** Significantly boosts production capacity, reduces labor costs, ensures product standardization, and meets the demands of large-scale frozen food supply or restaurant chains.
+*   **Target Industries:** Frozen food processing plants, central kitchens, fast-food chains, and Southeast Asian/Indian specialty restaurants.
 
 ---
 
-## 三、 核心型号详细参数选型表
+## II. Product Classification & Core Differences
 
-### 1. 半自动系列（适合创业与中型餐厅）
+Our product line is categorized by automation level: **Semi-Automatic Series** (focusing on folding and sealing) and **Fully Automatic Series** (a complete end-to-end line from slurry to finished product).
 
-| 型号 | 产能 (pcs/h) | 操作模式 | 核心特点 |
+### 1. Semi-Automatic Samosa Machine (Manual Sheet Feeding)
+The core of this series is "mechanical replacement for manual folding," ideal for customers who have mature dough recipes or use commercially available spring roll sheets.
+
+*   **Core Operation Steps:**
+    1.  **Manual Cutting:** The user prepares rectangular dough sheets (e.g., spring roll wrappers) and cuts them to width based on the machine's mold.
+    2.  **Manual Placement:** The operator precisely places each individual sheet into the feed port or mold slot.
+    3.  **Auto Filling:** Upon sensing the dough, the machine automatically pumps in the preset weight of filling.
+    4.  **Auto Folding:** The machine uses mechanical arms to complete the "left-fold, right-fold, and press" actions, outputting the finished samosa.
+*   **Key Characteristics:** High flexibility, compatible with various handmade dough materials, lower initial investment, and suitable for small-to-medium scale production.
+
+### 2. Fully Automatic Samosa Production Line (Slurry Feeding)
+This is a true "unmanned" production solution, creating a closed loop from liquid raw ingredients to formed samosas.
+
+*   **Core Operation Steps:**
+    1.  **Raw Material Preparation:** The user only needs to prepare the mixed **liquid dough slurry** and the **prepared filling**.
+    2.  **Auto Sheet Forming:** The machine uses a heated rotating drum to instantly solidify the slurry into a continuous thin dough belt.
+    3.  **Auto Cutting:** The internal mechanism automatically cuts the continuous dough belt into strips of the specified length.
+    4.  **Auto Filling:** Filling is precisely dispensed onto the moving dough strips.
+    5.  **Full Auto Folding:** The machine completes multiple continuous folds at high speed on the assembly line, delivering the finished product directly to a blast freezer or packaging table.
+*   **Key Characteristics:** **Zero manual cutting or sheet feeding required.** Simply monitor the slurry and filling levels. Massive production capacity, high hygiene standards, and excellent product consistency.
+
+---
+
+## III. Detailed Selection Table
+
+### 1. Semi-Automatic Series (Ideal for Startups & Mid-sized Restaurants)
+
+| Model | Capacity (pcs/h) | Operation Mode | Key Features |
 | :--- | :--- | :--- | :--- |
-| **SSF-RL-75-3** | 500-650 | 人工放皮 | **体积小巧，移动方便。适合现做现卖，模具更换简单，支持多种尺寸。** |
+| **SSF-RL-75-3** | 500-650 | Manual Feeding | **Compact and portable. Ideal for on-the-spot preparation; simple mold change; supports various sizes.** |
 
-### 2. 全自动系列（适合工业化大规模生产）
+### 2. Fully Automatic Series (Ideal for Industrial Scale Production)
 
-| 型号 | 产能 (pcs/h) | 动力源 | 核心特点 |
+| Model | Capacity (pcs/h) | Power Source | Key Features |
 | :--- | :--- | :--- | :--- |
-| **ASF-GT-1500-70-4** | 1200-1500 | 电热/伺服驱动 | **从面浆到成品一气呵成。面皮厚度 0.3mm-2mm 可进行定制，馅料重量精准控制。** |
+| **ASF-GT-1500-70-4** | 1200-1500 | Electric/Servo Drive | **Integrated process from slurry to finish. Customizable sheet thickness (0.3mm-2mm) and precise filling control.** |
 
 ---
 
-## 四、 核心差异对比分析 (Summary)
+## IV. Summary Comparison
 
-| 对比项目 | 半自动 Samosa 机 | 全自动 Samosa 机 |
+| Comparison Item | Semi-Auto Samosa Machine | Fully Auto Samosa Machine |
 | :--- | :--- | :--- |
-| **投入原材料** | **预制面皮 (Solid Sheets)** | **面浆 (Liquid Slurry)** |
-| **人工需求** | 需人工裁切、人工摆放 | **仅需加料，全流程自动化** |
-| **生产逻辑** | 针对单张面皮进行折叠 | 连续成皮、切条、注馅、折叠一体化 |
-| **馅料适应性** | 需泵送，馅料颗粒通常 ≤ 10mm | 需泵送，馅料颗粒通常 ≤ 10mm |
-| **主要优势** | 价格实惠，对皮子要求不严 | 产能极高，极致节省人工成本 |
+| **Input Raw Material** | **Pre-made Sheets (Solid)** | **Dough Slurry (Liquid)** |
+| **Labor Requirement** | Requires manual cutting/feeding | **Only requires feeding raw materials** |
+| **Production Logic** | Folds individual sheets | Continuous forming, cutting, filling, and folding |
+| **Filling Compatibility** | Pumpable, particles ≤ 10mm | Pumpable, particles ≤ 10mm |
+| **Primary Advantage** | Affordable, flexible with sheet type | High capacity, maximum labor savings |
 
 ---
 
-## 五、 技术解答与 FAQ
+## V. Technical FAQ
 
-### 1. 关于面皮与原料
-*   **Q1：半自动机器可以用冷冻的春卷皮吗？**
-    *   **A：** 可以。只要解冻后具有一定的韧性和粘性，半自动机型都能完美折叠。
-*   **Q2：全自动机型的面皮厚度可以调节吗？**
-    *   **A：** 可以。通过调节烘烤圆鼓的间隙和转速，面皮厚度可以在 0.3mm 到 2mm 之间自由控制。
+### 1. Dough and Ingredients
+*   **Q1: Can semi-auto machines use frozen spring roll wrappers?**
+    *   **A:** Yes. As long as they maintain toughness and stickiness after thawing, semi-auto models can fold them perfectly.
+*   **Q2: Can I adjust the dough sheet thickness on the fully automatic model?**
+    *   **A:** Yes. By adjusting the gap and speed of the heating drum, you can control the thickness between 0.3mm and 2mm.
 
-### 2. 关于馅料与形状
-*   **Q3：馅料里有大块的土豆丁或肉块可以吗？**
-    *   **A：** 由于采用泵送注馅，建议馅料颗粒大小控制在 10mm 以内，以防堵塞注馅管。
-*   **Q4：机器出来的形状是标准的三角形吗？**
-    *   **A：** 是的。我们的模具模拟 90 度和 45 度交替折叠，折出的三角形棱角分明，封口严密，油炸不散包。
+### 2. Filling and Shape
+*   **Q3: Can the filling contain large chunks of potato or meat?**
+    *   **A:** Due to the pumping mechanism, we recommend keeping particles within 10mm to prevent clogging the filling nozzle.
+*   **Q4: Is the resulting shape a standard triangle?**
+    *   **A:** Yes. Our molds simulate alternating 90-degree and 45-degree folds, creating a sharp-edged, tightly sealed triangle that won't burst during frying.
 
-### 3. 关于硬件与选型
-*   **Q5：哪款机器更容易清洗？**
-    *   **A：** 全自动机型采用全不锈钢及食品级皮带，支持快拆式设计，更符合工业级卫生标准。
-*   **Q6：如果我想做不同尺寸的 Samosa，需要买多台机器吗？**
-    *   **A：** 
-        *   **半自动：** 目前是只支持一台机器和一种尺寸。
-        *   **全自动：** 目前是只支持一台机器和一种尺寸。
-
----
-
-## 六、 厂家定制方案
-
-1.  **尺寸定制：** 可根据您的成品重量需求（如 15g, 30g, 50g）定制专用折叠模具。
-2.  **加热方式：** 全自动成皮机可选电加热（精准）或燃气加热（节能）。
-3.  **全球化配置：** 支持多国语言 PLC 操作系统，提供多种尺寸馅料定制
-4.  **联动方案：** 可对接下游的油炸线、急冻隧道及自动包装机，构建无人化工厂。
+### 3. Hardware and Selection
+*   **Q5: Which model is easier to clean?**
+    *   **A:** The fully automatic series is built with stainless steel and food-grade belts, featuring a quick-release design that meets industrial hygiene standards.
+*   **Q6: Do I need multiple machines for different Samosa sizes?**
+    *   **A:** 
+        *   **Semi-auto:** One machine supports one size range.
+        *   **Fully Auto:** One machine supports one size range.
 
 ---
 
-### 选型建议速记：
-*   **已有面皮，追求性价比：** 选 **半自动系列**。
-*   **从零开始，追求高产能无人工：** 选 **全自动系列**。
-*   **初创公司小型食品工厂：** 优先考虑 **半自动系列**。
+## VI. Customization Solutions
+
+1.  **Dimension Customization:** Specialized folding molds can be developed based on your target product weight (e.g., 15g, 30g, 50g).
+2.  **Heating Methods:** Fully automatic forming machines are available with electric heating (precise) or gas heating (energy-efficient).
+3.  **Global Configuration:** Multi-language PLC control systems and customized filling modules available.
+4.  **Integrated Solutions:** Can be connected to downstream frying lines, blast freezers, and auto-packagers to build a fully unmanned factory.
+
+### Selection Quick-Memo:
+*   **Already have dough sheets, seeking cost-effectiveness:** Choose **Semi-Automatic Series**.
+*   **Starting from scratch, seeking high capacity and zero labor:** Choose **Fully Automatic Series**.
+*   **Startups or small food factories:** Prioritize **Semi-Automatic Series**.
+
+### Request a Quote & Purchase
+[🛒 Click here to view pricing and purchase on our official store](https://cecle.net/collections/automatic-samosa-pastrymaking-machines)
