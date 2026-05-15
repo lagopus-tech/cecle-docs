@@ -1,83 +1,85 @@
-# 产品产品手册：ACW-88 手动三维包装机
+# Product Manual: ACW-88 Manual Cellophane Wrapping Machine
 
-### 一、 产品概览 (Product Overview)
-**1. 产品类目 (Product Category)**
-*   **设备名称：**手动三维包装机 (Cellophane Wrapping Machine)
-*   **产品型号：**ACW-88
-*   **设备定位：**紧凑型手动包装设备，专为中小规模生产及多样化包装需求设计。
+### I. Product Overview
+**1. Product Category**
+*   **Device Name:** Manual Cellophane Wrapping Machine
+*   **Model Number:** ACW-88
+*   **Positioning:** Compact manual packaging equipment, designed specifically for small-to-medium scale production and diverse packaging needs.
 
-**2. 适用场景 (Applications)**
-*   **行业应用：**广泛用于化妆品（香水、面霜）、保健品、茶叶及文具等方形物品的外部透明膜包装。
-*   **包装材质：**适用于 BOPP 透明塑料膜，卷膜。
-*   **生产规模：**非常适合初创企业、实验室样品制作或小批量个性化定制生产。
+**2. Applications**
+*   **Industry Use:** Widely used for outer transparent film wrapping of box-shaped items such as cosmetics (perfume, face cream), health supplements, tea, and stationery.
+*   **Packaging Material:** Compatible with BOPP transparent plastic film (roll film).
+*   **Production Scale:** Ideal for startups, laboratory sample production, or small-batch personalized customization.
 
-**3. 核心功能 (Core Functions)**
-*   **手动控温裹膜：**通过手动操作完成产品薄膜的覆盖与折叠，灵活性高。
-*   **电热丝切膜：**配备专用热丝切膜装置，切口平整，操作高效。
-*   **精密铝板加热：**利用高性能铝板进行热封，确保包装表面平整、封口美观。
-
----
-
-### 二、 核心优势 (Core Advantages)
-*   **自带调节切刀：**机身配备专用切刀装置，可根据不同产品的尺寸**自由裁切/控制卷膜宽度**，无需频繁更换窄幅卷膜，降低耗材成本。
-*   **极高性价比：**低投入即可实现专业的工业级包装效果。
-*   **性能稳定可靠：**机械结构精简，故障率低，关键加热部件采用工业级铝材。
-*   **维护成本极低：**模块化设计，日常保养简单，无需专业工程师即可维护。
-*   **体积轻巧：**整机重量仅 **21kg (46.3 lbs)**，移动便捷，不占空间。
+**3. Core Functions**
+*   **Manual Film Wrapping & Temperature Control:** High flexibility through manual operation for film covering and folding.
+*   **Hot Wire Film Cutting:** Equipped with a specialized hot wire cutting device for neat, efficient, and precise cutting.
+*   **Precision Aluminum Plate Heating:** Utilizes high-performance aluminum plates for heat sealing, ensuring a smooth surface and aesthetically pleasing seals.
 
 ---
 
-### 三、 技术参数表 (Technical Specifications)
+### II. Core Advantages
+*   **Adjustable Cutter:** The machine is equipped with a dedicated cutter, allowing you to **freely cut/control the width of the roll film** according to product dimensions. No need to frequently change to narrow-width film, reducing consumable costs.
+*   **High Cost-Effectiveness:** Achieve professional, industrial-grade packaging results with low investment.
+*   **Stable & Reliable Performance:** Simplified mechanical structure with a low failure rate; critical heating components are made of industrial-grade aluminum.
+*   **Extremely Low Maintenance:** Modular design makes daily maintenance simple; no specialized engineers required.
+*   **Compact & Lightweight:** The total weight is only **21kg (46.3 lbs)**, making it easy to move and space-efficient.
 
-| 关键项目 (Items) | 详细参数 (Specifications) |
+---
+
+### III. Technical Specifications
+
+| Items | Specifications |
 | :--- | :--- |
-| **产品型号 (Model)** | ACW-88 |
-| **最大膜宽 (Max Film Width)** | **40cm (15.7 in)** |
-| **切膜装置 (Cutting Device)** | 电热丝 (Hot wire) |
-| **包装速度 (Speed)** | 5~10 次/分钟 (times/min) |
-| **加热功率 (Power)** | 1.5kw |
-| **输入电压 (Voltage)** | 220V 50~60Hz |
-| **整机重量 (Weight)** | **21kg (46.3 lbs)** |
-| **机器尺寸 (Dimension)** | **58 * 58 * 28cm (22.8 * 22.8 * 11.0 in)** |
+| **Model** | ACW-88 |
+| **Max Film Width** | **40cm (15.7 in)** |
+| **Cutting Device** | Hot wire |
+| **Packaging Speed** | 5~10 times/min |
+| **Heating Power** | 1.5kw |
+| **Voltage** | 220V 50~60Hz |
+| **Weight** | **21kg (46.3 lbs)** |
+| **Dimension** | **58 * 58 * 28cm (22.8 * 22.8 * 11.0 in)** |
 
 ---
 
-### 四、 销售建议与常见问题 (Sales Tips & FAQ)
-**销售建议**
-*   **卖点强调：**向客户强调本机器的“铝板加热”优势，相比普通热风枪包装，本机器封口更平整、档次更高。
-*   **定制化服务：**外贸客户对电压敏感，主动提及“免费定制电压”能显著提升转化率。
+### IV. Sales Tips & FAQ
+**Sales Tips**
+*   **Emphasize Key Selling Points:** Highlight the "Aluminum Plate Heating" advantage to clients. Compared to standard heat gun packaging, this machine provides a flatter seal and a more premium look.
+*   **Customization Services:** International clients are often sensitive to voltage. Proactively mentioning "Free Voltage Customization" can significantly improve conversion rates.
 
-**常见问题解答 (FAQ)**
-*   **Q: 这台机器耐用吗？**
-    *   A: 我们的机器结构稳固，关键加热部件采用工业级铝材，设计寿命长。
-*   **Q: 发货需要多久？**
-    *   A: 在收到定金后的 7 天内 即可安排发货。
-*   **Q: 关于质保与售后？**
-    *   A: 提供 1 年保修服务及终身维护支持（质保期内零件免费，运费由客户承担）。
-
----
-
-### 五、 媒体与物料库 (Media Resources)
-*   **中文营销视频 (Marketing Video):** [点击跳转西瓜视频]
-*   **英文营销视频 (English Marketing Video):** [YouTube 链接]
-*   **安装教学视频 (Installation):** [YouTube 链接]
+**FAQ**
+*   **Q: Is this machine durable?**
+    *   A: Our machine features a sturdy structure with critical heating components made of industrial-grade aluminum, designed for a long service life.
+*   **Q: What is the lead time for shipment?**
+    *   A: Shipment can be arranged within 7 days after receiving the deposit.
+*   **Q: What about warranty and after-sales service?**
+    *   A: We provide a 1-year warranty and lifetime maintenance support (parts are free during the warranty period, while shipping costs are borne by the customer).
 
 ---
 
-### 六、 商务条款 (Commercial Terms)
+### V. Media Resources
+*   **Marketing Video (Chinese):** (https://www.ixigua.com/7096019512264229384)
+*   **Marketing Video (English):** (https://youtu.be/nK36C18mP3Q)
+*   **Installation Tutorial:** (https://youtu.be/ry2FNHNMm-I)
 
-#### 1. 内贸专属条款 (Domestic Trade)
-*   **结算价格：**4200 元
-*   **适用电压：**220V 50HZ 单相电
-*   **付款方式：**全款预付 或 约定预付款
-*   **物流运输：**国内物流专线/快递（运费通常由买家承担或协商）
-*   **包装形式：**标准纸箱或木架包装
+---
 
-#### 2. 外贸专属条款 (International Trade)
-*   **价格 (Price)：**600 USD/per set (EXW Wenzhou)
-*   **起订量 (MOQ)：**1 set
-*   **电压定制 (Voltage)：**支持电压定制。可免费定制 110V 60Hz (北美标准) 或 220V 60Hz (南非标准)
-*   **付款方式 (Payment)：**T/T (100% in advance)
-*   **交货时间 (Lead Time)：**Within 7 days after deposit
-*   **包装标准 (Packaging)：**Plywood case (出口专用胶合板木箱)，含随机备件及工具
-*   **原产地 (Origin)：**Wenzhou, Zhejiang, China
+### VI. Commercial Terms
+
+#### 1. Domestic Trade Terms (China)
+*   **Voltage:** 220V 50Hz Single-phase
+*   **Payment Terms:** Full payment in advance or as agreed
+*   **Logistics:** Domestic freight/courier (shipping costs usually borne by the buyer or negotiated)
+*   **Packaging:** Standard carton or wooden frame
+
+#### 2. International Trade Terms
+*   **Price:** 600 USD/per set (EXW Wenzhou)
+*   **MOQ:** 1 set
+*   **Voltage Customization:** Voltage customization is supported. We can provide 110V 60Hz (North American standard) or 220V 60Hz (South African standard) free of charge.
+*   **Payment Terms:** T/T (100% in advance)
+*   **Lead Time:** Within 7 days after deposit
+*   **Packaging:** Plywood case (for export), including spare parts and tools
+*   **Origin:** Wenzhou, Zhejiang, China
+
+### Request a Quote & Purchase
+[🛒 Click here to view pricing and purchase on our official store](https://cecle.net/products/acw-88-perfume-box-manual-wrapping-machine)
