@@ -1,96 +1,97 @@
-# SSF-RL-75-3 半自动萨莫萨（Semiautomatic samosa folding machine）/咖喱角折叠机 核心技术规格及技术文档
+# Technical Documentation: SSF-RL-75-3 Semi-Automatic Samosa Folding Machine
 
-## 一、 产品概览
+## I. Product Overview
 
-**1. 设备基本信息**
-* **设备名称**：半自动萨莫萨/咖喱角成型机
-* **产品型号**：SSF-RL-75-3
-* **型号说明**：
-    * **SSF**：半自动 (Semi-Automatic)
-    * **RL**：肉类 (Meat-type)
-    * **75**：适用的面皮宽度 (75mm)
-    * **3**：标准 3 次折叠 (3 Folds)
-* **设备定位**：专为中小型食品加工厂、连锁餐饮及中央厨房研发的精密半自动面点成型装备。
+**1. Basic Information**
+* **Equipment Name**: Semi-Automatic Samosa Folding Machine
+* **Model Number**: SSF-RL-75-3
+* **Nomenclature**:
+    * **SSF**: Semi-Automatic
+    * **RL**: Meat-type (Granular filling compatible)
+    * **75**: Applicable dough sheet width (75mm)
+    * **3**: Standard 3-fold forming process
+* **Positioning**: Precision semi-automatic dough forming equipment developed for small-to-medium food processing plants, chain catering, and central kitchens.
 
-**2. 核心定位：为何选择半自动设备？**
-对于处于**起步阶段的食品工厂**或**追求标准化转型的小型食品店**，半自动机型是比全自动生产线更理性的商业选择：
-* **极低的入场门槛**：仅需全自动设备约三分之一的投资成本，极大地缓解了创业初期的资金压力，让您能够以最小的资金风险实现产能跃升。
-* **灵活应对市场起步**：在业务初期订单量波动时，半自动设备提供更高的操作灵活性，既能满足标准化的快速出货，又避免了大型自动化流水线空转带来的高昂维护与能耗成本。
-* **人机协同的平衡艺术**：保留了人工放皮的灵活性（可兼容不同手工口感的面皮），同时由机器取代最耗时、最难标准化的“包馅与折叠”工序，确保每个成品外观高度统一，提升品牌专业度。
-* **极简维保与低技术要求**：无需高薪聘请专业技师，普通员工通过短时间培训即可上岗，完美解决小型企业“招工难、留人难”的痛点。
+**2. Core Positioning: Why Choose Semi-Automatic?**
+For startups or small food shops transitioning to standardized production, a semi-automatic machine is a more rational business choice than a fully automated line:
+* **Low Barrier to Entry**: With an investment cost only one-third that of fully automated lines, it significantly reduces financial pressure during the startup phase, allowing for rapid capacity scaling with minimal risk.
+* **Operational Flexibility**: During early business stages with fluctuating order volumes, semi-automatic equipment provides high flexibility—meeting standardized output targets without the high maintenance and energy costs associated with idle automated lines.
+* **The Art of Human-Machine Collaboration**: It retains the flexibility of manual feeding (compatible with various handmade dough textures) while automating the time-consuming and labor-intensive "filling and folding" stages, ensuring consistent product appearance and a professional brand image.
+* **Ease of Maintenance**: No need to hire high-salaried specialized technicians. Staff can operate the machine with short-term training, solving common labor shortage issues in small businesses.
 
-**3. 加工兼容性与定制限制 (重要提示)**
-* **灌装系统专机专用**：目前灌装系统需根据馅料物理特性进行针对性设计，**暂不支持双用或切换**。订货时须明确：
-    * **膏体类专用版**：适配土豆泥、奶酪等固体/膏状馅料。
-    * **肉类/颗粒类专用版**：适配纯肉、肉菜混合物、豆子等颗粒馅料。
-* **规格固定化设计**：为保证成型的极致美观与结构紧固，单台设备的**成品尺寸、克重及折叠轨迹均不可调节或更改**。
-* **定制范围**：半自动系列机型可定制的面皮宽度范围为 **45mm 至 120mm**（本型号 SSF-RL-75 固定为 75mm 宽度）。
-
----
-
-## 二、 生产工艺与标准操作流程 (SOP)
-
-**1. 基材预置 (面皮准备)**
-操作人员需将叠放整齐的长方形面皮精准置于设备的供料工位上。
-
-![面皮预置与供料区域](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/a54805c376ec3265b2d97a449f3224ec.jpg?v=1778569329)
-
-**2. 物料预处理与上料**
-将调配完成的馅料（需与注馅系统匹配）倒入设备顶部的专用储料斗中。
-
-**3. 自动化拉皮与伺服注馅**
-机械传送机构自动抓取单张面皮送入成型区，注馅系统定量吐出馅料至面皮中心。
-
-**4. 精密折叠与压合封口**
-设备按照预设轨迹进行自动化面皮折叠与包覆。**标准配置为“三次折叠”**。
-
-![自动化折叠与成型区域](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/6d889faccd3f936a77140bc3c04f2a61.jpg?v=1778569330)
-
-**5. 自动导料与输出**
-成品由推料机构自动推出，可滑落至容器或对接后端输送线。
+**3. Processing Compatibility & Limitations (Important Notice)**
+* **Dedicated Filling System**: The filling system is specialized based on the physical properties of the filling and **does not support dual-use or switching**. Please specify your requirement at the time of ordering:
+    * **Paste Filling Version**: Optimized for mashed potatoes, cheese, and other solid/pasty fillings.
+    * **Meat/Granular Version**: Optimized for minced meat, meat-vegetable mixtures, beans, and other granular fillings.
+* **Fixed Specification Design**: To ensure optimal appearance and tight structural integrity, the **finished product size, weight, and folding trajectory of a single unit are fixed and cannot be adjusted or altered.**
+* **Customization Range**: The dough sheet width for the semi-automatic series can be customized between **45mm and 120mm** (This model, SSF-RL-75, is fixed at 75mm).
 
 ---
 
-## 三、 核心技术参数
+## II. Production Process & SOP
 
-| 关键技术指标 | 详细规格参数 |
+**1. Base Material Preparation**
+Operators place neatly stacked rectangular dough sheets precisely onto the machine's feeding station.
+
+![Dough Sheet Feeding Area](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/a54805c376ec3265b2d97a449f3224ec.jpg?v=1778569329)
+
+**2. Material Pre-processing & Loading**
+Load the prepared filling (matched to the selected filling system) into the storage hopper at the top of the machine.
+
+**3. Automatic Sheet Handling & Servo Filling**
+The mechanical conveying mechanism automatically picks up single sheets, transports them to the forming zone, and the filling system dispenses a precise amount into the center of the sheet.
+
+**4. Precision Folding & Sealing**
+The equipment automatically folds and wraps the dough along a pre-set trajectory. **Standard configuration is "3-fold."**
+
+![Automatic Folding & Forming Area](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/6d889faccd3f936a77140bc3c04f2a61.jpg?v=1778569330)
+
+**5. Automatic Output**
+Finished products are pushed out automatically, ready to be collected in containers or transferred to a downstream conveyor.
+
+---
+
+## III. Core Technical Specifications
+
+| Key Technical Indicators | Detailed Specifications |
 | :--- | :--- |
-| **产品型号** | SSF-RL-75-3 |
-| **标准产能** | 650 个/小时 |
-| **灌装系统类型** | **专机专用**：膏体型（土豆泥/奶酪） **或** 肉类颗粒型（纯肉/肉菜/豆子） |
-| **成品规格调节** | **不可调节**：尺寸固定，不支持后期更改尺寸或调整克重 |
-| **面皮宽度范围** | 45mm - 120mm (本型号 SSF-RL-75 固定为 75mm 宽度) |
-| **机身制造材质** | SUS304 食品级不锈钢 |
-| **核心驱动方式** | 电动马达传动 + 气动辅助执行 |
-| **额定输入电压** | 220V 50Hz 单相电 |
-| **设备净重** | 160 kg |
-| **整机外形尺寸** | 800 mm × 643 mm × 1530 mm |
+| **Model** | SSF-RL-75-3 |
+| **Standard Capacity** | 650 pcs/hour |
+| **Filling System Type** | **Dedicated per machine**: Paste Version (Potato/Cheese) **or** Meat Version (Meat/Veg/Beans) |
+| **Adjustability** | **Non-adjustable**: Fixed size; cannot be changed after production |
+| **Dough Sheet Width** | 45mm - 120mm (Fixed at 75mm for this model) |
+| **Material Construction** | SUS304 Food-grade Stainless Steel |
+| **Drive System** | Electric Motor + Pneumatic Auxiliary |
+| **Input Voltage** | 220V 50Hz Single-phase |
+| **Net Weight** | 160 kg |
+| **Dimensions** | 800 mm × 643 mm × 1530 mm |
 
 ---
 
-## 四、 常见技术释疑 (FAQ)
+## IV. Technical FAQ
 
-* **问：我可以在一台机器上通过更换部件来改变产品大小吗？**
-  * 答：不可以。本设备的机械行程和成型模具是针对单一尺寸精准匹配的，**尺寸不可以调节或更改**。
-* **问：我目前刚起步，馅料种类比较多，可以共用吗？**
-  * 答：由于膏体和肉类颗粒对推料机构的要求完全不同，**目前还不支持双用**。建议优先选择您的主打核心产品进行设备配套。
-* **问：你们最小和最大的规格能做多少？**
-  * 答：针对半自动系列，我们拥有丰富的定制经验，面皮宽度覆盖范围为 **45mm 至 120mm**。
+* **Q: Can I change the product size by replacing parts?**
+  * **A: No.** The mechanical stroke and forming molds are precisely matched to a single size; the size cannot be adjusted or changed.
+* **Q: I am just starting and have many filling types; can the machine be shared?**
+  * **A: No.** Because the requirements for paste and granular fillings are fundamentally different, they cannot be shared. We recommend prioritizing your core flagship product.
+* **Q: What are the minimum and maximum size ranges available?**
+  * **A: We have extensive customization experience in the semi-automatic series, covering dough sheet widths from 45mm to 120mm.**
 
 ---
 
-## 五、 商务合作条款
+## V. Business Terms
 
-### 1. 内贸标准业务条款
-* **结算价格**：
-  * **膏体灌装版配置**：140,000 元 / 台
-  * **肉类灌装版配置**：150,000 元 / 台
-* **付款方式**：30% 预付款；发货前视频验机后付清 70% 尾款。
-* **售后服务**：核心部件 1 年质保，提供终身在线技术指导。
+### 1. Domestic Trade Terms (China)
+* **Pricing**:
+* **Payment Terms**: 30% deposit; 70% balance paid after video inspection and before shipment.
+* **After-sales**: 1-year warranty on core components; lifetime online technical support.
 
-### 2. 外贸标准业务条款 (International Trade Terms)
-* **结算价格 (FOB Ningbo)**：
-  * **膏体灌装版 (Paste Filling Type)**：20,000 美元 / 台
-  * **肉类灌装版 (Meat Filling Type)**：21,500 美元 / 台
-* **电压定制**：支持定制各个国家的插头电压是固定的 220V 60Hz。
-* **交货时间**：确认定金后 2 个月内。
+### 2. International Trade Terms (Export)
+* **Pricing (FOB Ningbo)**:
+  * **Paste Filling Version**: 20,000 USD / unit
+  * **Meat Filling Version**: 21,500 USD / unit
+* **Voltage Customization**: Supports customization for local voltages (220V 60Hz supported).
+* **Lead Time**: 2 months after confirmation of deposit.
+
+### Request a Quote & Purchase
+[🛒 Click here to view pricing and purchase on our official store](https://cecle.net/products/automatic-samosa-making-samosa-folding-machine-and-fold-patti-samosa)
