@@ -1,90 +1,97 @@
-# ASM-1500-75-4/5 全自动萨莫萨（Automatic Samosa Making Machine and Samosa Folding Machine）/咖喱角生产线 核心技术规格及技术文档
-
-## 一、 产品概览
-
-**1. 设备基本信息**
-* **设备名称**：全自动萨莫萨/咖喱角成型流水线
-* **产品型号**：ASM-1500-75-4 / ASM-1500-75-5
-* **型号命名释义**：
-    * **ASM**：全自动萨莫萨成型机 (Automatic Samosa Making machine)
-    * **1500**：标准设计产能，即每小时稳定成型 1500 个成品
-    * **75**：深度定制规格，适用的连续面带宽度固定为 75mm
-    * **-4 / -5**：高阶折叠工艺，代表 4 次或 5 次折叠成型
-* **设备定位**：专为大型食品加工厂、连锁餐饮中央厨房及具有规模化生产需求的企业研发。集自动面糊成皮、精准注馅、精密折叠成型于一体的工业级面点成型装备。
-
-**2. 核心系统配置：灌装类型技术解析**
-本生产线的注馅系统（Filling System）根据物料的物理流变学特性，分为以下两种专业灌装配置，确保不同馅料的完整度与口感：
-
-*   **膏体灌装系统 (Paste Filling Type)**
-    *   **适用物料**：土豆泥、融化奶酪、浓稠咖喱酱、纯豆沙等流动性较差、黏度较高或含有软质淀粉成分的糊状馅料。
-    *   **技术特点**：采用专用的转子泵或螺旋挤出系统，针对高粘度物料进行动力学优化。确保注馅顺畅、无气泡空鼓，保障每颗咖喱角内馅饱满且克重极致精准。
-*   **肉类/颗粒灌装系统 (Meat & Particle Filling Type)**
-    *   **适用物料**：生/熟肉糜、肉丁与蔬菜混合物（如洋葱猪肉）、鹰嘴豆等具有明显颗粒感或粗纤维结构的馅料。
-    *   **技术特点**：配备防卡顿的大通道推料机构。核心在于“无损输送”，在保证伺服定量的同时，最大程度保留肉类和蔬菜的颗粒完整性，避免因过度挤压而将颗粒馅料碾压成泥。
-
-**3. 加工兼容性与定制限制**
-* **定制宽度规格**：常规面皮宽度范围为 45-70mm，**超过 70mm 需进行特殊定制**。本型号采用的 75mm 宽度即属于非标定制规格，以满足大克重产品的充皮需求。
-* **空气压缩机要求**：用户需自行在厂房端配备功率在 **5kW 以上的空气压缩机**，以为气动执行机构提供稳定的高压气源。
+这是一份为您翻译好的 **ASM-1500-75-4/5 全自动萨莫萨生产线** 技术文档，保留了所有 Markdown 格式，可以直接用于出口贸易或专业产品规格书。
 
 ---
 
-## 二、 生产工艺与标准操作流程 (SOP)
+# Technical Documentation: ASM-1500-75-4/5 Automatic Samosa Making & Folding Machine
 
-**1. 浆料预置与自动面糊成皮 (核心工艺革新)**
-打破传统的“和面-压面”工艺，本设备采用先进的**面糊成膜技术**。
-操作人员将由**面粉和水**按特定比例混合调制而成的面糊 (Batter) 泵入设备的供浆系统。鉴于各客户配方（如小麦粉种类、吸水率及比例）的差异，成皮系统具备极高的工艺宽容度。面糊通过精密滚筒的均匀涂布与瞬间熟化，转化为厚薄一致、韧性极佳且宽度为 75mm 的连续面带。
+## I. Product Overview
 
-**2. 物料预处理与自动泵料**
-将调配完成的馅料倒入匹配的专用储料缸中，自动泵料系统将根据成型主机的节拍进行不间断供料。
+**1. Basic Information**
+* **Equipment Name:** Automatic Samosa Forming & Production Line
+* **Model Number:** ASM-1500-75-4 / ASM-1500-75-5
+* **Nomenclature:**
+    * **ASM:** Automatic Samosa Making Machine
+    * **1500:** Designed capacity of 1,500 finished pieces per hour.
+    * **75:** Custom specification; fixed continuous dough belt width of 75mm.
+    * **-4 / -5:** Advanced folding technology; represents 4-fold or 5-fold forming process.
+* **Positioning:** Industrial-grade equipment designed for large-scale food processing plants, central kitchens of restaurant chains, and large-scale manufacturing enterprises. It integrates automatic batter-to-sheet forming, precision filling, and precision folding into one automated line.
 
-**3. 自动同步切皮与伺服注馅**
-熟化后的连续面带被平稳输送至成型核心区，机械刀具进行等距裁切；同步瞬间，伺服注馅系统根据设定的克重（20-40g 灵活可调），将馅料精准泵入面带中心。
+**2. Filling System Technology**
+The filling system is categorized into two professional configurations based on the physical rheological properties of the materials to ensure filling integrity and texture:
 
-**4. 精密折叠与压合封口**
-成型主机 (Folding machine) 的机械手按照预设空间轨迹进行包覆折叠。
-*   **ASM-1500-75-4**：标准四次折叠。
-*   **ASM-1500-75-5**：高阶五次折叠，结构更紧实，防漏浆能力更强。
+* **Paste Filling System**
+    * **Suitable Materials:** Mashed potatoes, melted cheese, thick curry sauces, bean paste, and other high-viscosity, low-fluidity pastes.
+    * **Technical Features:** Utilizes specialized rotor pumps or screw extrusion systems optimized for high-viscosity materials. Ensures smooth filling without air pockets, guaranteeing consistent weight and perfectly filled samosas.
+* **Meat & Particle Filling System**
+    * **Suitable Materials:** Raw/cooked ground meat, mixtures of meat and vegetables (e.g., onion & pork), chickpeas, or other fillings with distinct texture and fiber structure.
+    * **Technical Features:** Equipped with large-channel feeding mechanisms to prevent clogging. Designed for "non-destructive transport," the servo-driven dosing system maintains particle integrity, preventing the crushing of meat or vegetable chunks.
+
+**3. Customization & Requirements**
+* **Sheet Width Customization:** The standard width range is 45-70mm. **Any width exceeding 70mm requires special customization.** The 75mm specification in this model is a non-standard custom size to accommodate larger product volumes.
+* **Air Compressor Requirement:** Users must provide an **air compressor with a power of at least 5kW** to provide a stable, high-pressure air supply for the pneumatic actuators.
 
 ---
 
-## 三、 核心技术参数
+## II. Production Process & SOP
 
-| 关键技术指标 | 详细规格参数 |
+**1. Batter Preparation & Auto-Sheet Forming (Core Innovation)**
+Moving away from traditional "dough-kneading and pressing" methods, this equipment employs advanced **batter-to-film technology**.
+Operators pump a specific ratio of flour and water batter into the feeding system. The machine accommodates high flexibility in recipes (varying by flour type, hydration rates, etc.). Through uniform coating on precision rollers and instant heating, the batter is converted into a continuous dough belt that is 75mm wide, uniform in thickness, and highly elastic.
+
+**2. Material Pre-processing & Auto-Pumping**
+Prepared filling is poured into the dedicated storage tank. The automatic pumping system supplies material continuously in synchronization with the forming host’s cadence.
+
+**3. Auto-Sync Cutting & Servo Filling**
+The cured dough belt is conveyed to the forming zone where mechanical blades perform equidistant cutting. Simultaneously, the servo-filling system precisely pumps the filling (20-40g, adjustable) into the center of the dough strips.
+
+**4. Precision Folding & Sealing**
+The forming machine (Folding machine) uses mechanical arms to fold the pastry along a pre-set spatial trajectory.
+* **ASM-1500-75-4:** Standard 4-fold process.
+* **ASM-1500-75-5:** Advanced 5-fold process, offering a tighter structure and superior resistance to filling leakage.
+
+---
+
+## III. Technical Specifications
+
+| Key Technical Indicators | Specifications |
 | :--- | :--- |
-| **产品型号** | ASM-1500-75-4 / -5 |
-| **设计产量** | 1500 pcs/h |
-| **整机净重** | 1500 kg |
-| **成型机尺寸** | 200 × 170 × 180 cm |
-| **面糊成皮机尺寸** | 155 × 102 × 167 cm |
-| **总功率** | 成型 20kw + 成皮 15kw |
-| **连续面皮宽度** | 75mm (定制规格) |
-| **注馅克重范围** | 20 - 40g (伺服不可调) |
-| **控制模式** | 智能电气控制 (Electric PLC Control) |
-| **附属设施要求** | 用户需自备 5kW 以上空压机 |
+| **Model** | ASM-1500-75-4 / -5 |
+| **Designed Capacity** | 1,500 pcs/h |
+| **Net Weight** | 1,500 kg |
+| **Forming Machine Dim.** | 200 × 170 × 180 cm |
+| **Sheet-Forming Machine Dim.** | 155 × 102 × 167 cm |
+| **Total Power** | Forming 20kW + Forming 15kW |
+| **Continuous Sheet Width** | 75mm (Custom Specification) |
+| **Filling Weight Range** | 20 - 40g (Servo-controlled) |
+| **Control Mode** | Intelligent Electric PLC Control |
+| **Auxiliary Requirement** | User-supplied 5kW+ Air Compressor |
 
 ---
 
-## 四、 常见技术释疑 (FAQ)
+## IV. Technical FAQ
 
-* **问：不同客户的面糊配方（小麦粉+水）差异很大，机器能适应吗？**
-    * 答：完全可以。设备的成皮主机对不同流变特性的面糊兼容性良好。通过微调滚筒间隙或加热温度，即可适配您专属的配方，生产出理想的熟面皮。
-* **问：膏体和肉类灌装系统可以随时切换吗？**
-    * 答：由于内部机械结构要求不同，两种灌装核心模块是相互独立的。如需一机多用，建议增购一套备用灌装总成进行快速替换。
-* **问：为什么型号里的 75mm 宽度需要特殊说明？**
-    * 答：常规机型宽度在 45-70mm。75mm 属于超宽规格，需要对供浆模头和机械折叠模具进行专属定制，以保证大号产品的完美包覆。
+* **Q: Can the machine adapt to different flour-to-water batter recipes?**
+    * **A:** Yes. The sheet-forming host is highly compatible with varying rheological characteristics. By fine-tuning the roller gap or heating temperature, you can adapt the machine to your proprietary recipe.
+* **Q: Can the paste and meat filling systems be switched easily?**
+    * **A:** Because the internal mechanical structures differ, these two filling modules are independent. For multi-purpose production, we recommend purchasing an additional filling assembly for quick replacement.
+* **Q: Why is the 75mm width considered a special specification?**
+    * **A:** Standard models range from 45-70mm. The 75mm specification is an extra-wide size that requires exclusive customization of the feeding die head and folding molds to ensure perfect coverage for larger products.
 
 ---
 
-## 五、 商务合作条款 
+## V. Business Terms
 
-### 1. 销售价格 (Commercial Pricing)
+### 1. Commercial Pricing
 
-| 配置型号 | 出厂价格 (USD) | 出厂价格 (RMB) |
+| Model | Price (USD) | Price (RMB) |
 | :--- | :--- | :--- |
-| **ASM-1500-75-4 (四次折叠)** | $95,000 起步价| ￥650,000 |
-| **ASM-1500-75-5 (五次折叠)** | $105,000 起步价 | ￥750,000 |
+| **ASM-1500-75-4 (4-fold)** | From $95,000 | 
+| **ASM-1500-75-5 (5-fold)** | From $105,000 | 
 
-### 2. 标准条款
-* **定制生产周期**：交货时间通常为确认定金、验收配方参数后的 60-90 个工作日。
-* **结算方式**：40% 预付款启动排产；设备完工后，带料视频验收合格后付清 60% 尾款发货。
-* **售后保障**：核心部件享有 1 年质保期，提供终身在线技术支持及原厂易损件快速供应。
+### 2. Standard Terms
+* **Lead Time:** Typically 60-90 working days after confirming deposit and recipe parameters.
+* **Payment Terms:** 40% deposit to initiate production; 60% balance payable after successful video testing with raw materials and prior to shipment.
+* **After-sales:** 1-year warranty on core components, lifetime online technical support, and rapid supply of original spare parts.
+
+### Request a Quote & Purchase
+[🛒 Click here to view pricing and purchase on our official store](https://cecle.net/products/commercial-samosa-paste-sheets-and-folding-into-samosa-pasta-products)
