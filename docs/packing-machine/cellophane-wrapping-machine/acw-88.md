@@ -58,9 +58,9 @@
 ---
 
 ### V. Media Resources
-*   **Marketing Video (Chinese):** [https://www.ixigua.com/7096019512264229384]
-*   **Marketing Video (English):** [https://youtu.be/nK36C18mP3Q]
-*   **Installation Tutorial:** [https://youtu.be/ry2FNHNMm-I]
+*   [Marketing Video (Chinese)](https://www.ixigua.com/7096019512264229384)
+*   [Marketing Video (English)](https://youtu.be/nK36C18mP3Q)
+*   [Installation Tutorial](https://youtu.be/ry2FNHNMm-I)
 
 ---
 
