@@ -88,10 +88,6 @@ A5: The whole machine has a 1-year warranty, consumables are not covered.
 - Packaging: Wooden case packaging, including spare parts and tools
 - Delivery Time: Shipped within 15–20 days after full payment received
 
-### 4. Contact Information
-- Mobile / WhatsApp: +86 15958307706
-- Email: ceclemachine@163.com; sale3@tdmachinery.cn
-- Website: www.cecle.net; www.tdmachinery.cn
 
 ### Request a Quote & Purchase
 [🛒 Click here to view pricing and purchase on our official store](https://cecle.net/products/blister-packing-machine-small-manual-mini-electric-tablet-capsule-blister-packing-machine-for-pill?variant=45589911470397)
