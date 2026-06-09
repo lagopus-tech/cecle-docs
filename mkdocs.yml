@@ -16,6 +16,17 @@ nav:
           - CW-88 Small: packing-machine/cellophane-wrapping-machine/cw-88.md
           - CW-88A Electric: packing-machine/cellophane-wrapping-machine/cw-88a.md
           - CW-115 Manual: packing-machine/cellophane-wrapping-machine/cw-115.md
+      - Blister Packing Machine:
+          - Overview: packing-machine/Blister-Packing-Machine/blister-packing-machine-index.md
+          - MTBP-180 Benchtop Entry-level: packing-machine/Blister-Packing-Machine/mtbp-180.md
+          - TBP-180 Benchtop Pneumatic: packing-machine/Blister-Packing-Machine/tbp-180.md
+          - ETBP-180 Benchtop Electric: packing-machine/Blister-Packing-Machine/etbp-180.md
+          - BP-180 Vertical Basic: packing-machine/Blister-Packing-Machine/bp-180.md
+          - CP-180 Vertical Standard: packing-machine/Blister-Packing-Machine/cp-180.md
+          - DP-180 Vertical Upgraded: packing-machine/Blister-Packing-Machine/dp-180.md
+          - DPP-80 Fully Automatic Small: packing-machine/Blister-Packing-Machine/dpp-80.md
+          - DPP-150 Fully Automatic Medium: packing-machine/Blister-Packing-Machine/dpp-150.md
+          - DPP-260 Fully Automatic Large: packing-machine/Blister-Packing-Machine/dpp-260.md
   - Food Machinery:
       - Samosa Making Series:
           - Overview: food-machine/samosa-making-machine/samosa-making-machine-index.md
