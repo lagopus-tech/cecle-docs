@@ -1,5 +1,5 @@
 # DPP-80 Automatic Alu-Plastic Blister Packing Machine
-
+![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/DPP-80S_5ff80cf8-f0aa-4efc-93da-46abd6267d53.png?v=1782548436)
 ## 1. Product Overview
 The DPP-80 series automatic alu-plastic blister packing machine is specially designed for continuous forming, filling, heat sealing, batch number printing, and punching of PVC/PET blister + aluminum foil for capsules, tablets, pills, small hardware, electronic components, and other items. Adopting PLC touch screen control and servo drive system, it features stable operation and high automation, suitable for pharmaceutical factories, health care products factories, food factories, standardized production lines, and continuous mass production.
 
@@ -56,16 +56,6 @@ A: 1-year warranty for the whole machine (excluding consumables), lifetime maint
 ## 6. Media & Materials
 * **🎬 Machine Operation Video:** [https://youtu.be/qadfGV9jmIg](https://www.youtube.com/watch?v=qadfGV9jmIg)
 * **🎬 Machine Operation Video:** [https://youtu.be/PPG2DXgpTAU](https://www.youtube.com/watch?v=PPG2DXgpTAU)
-
-## 7. Commercial Terms
-- MOQ: 1 unit
-- Ex-factory Price (EXW):
-  - DPP-80S: 6500 USD / unit
-  - DPP-80L: 7900 USD / unit
-- Payment Term: 100% T/T in advance
-- Delivery Time: 15–25 days after payment
-- Packaging: Export standard plywood wooden case (including accessories and tools)
-- Warranty: 1 year (excluding consumables)
 
 ### Request a Quote & Purchase
 [🛒 Click here to view pricing and purchase on our official store](https://cecle.net/products/dpp-80-automatic-alu-pvc-pharmacy-tablet-blister-packing-cutting-machine-for-capsule-blister-packing-machine?variant=31746157576301)
