@@ -1,5 +1,5 @@
 # MTBP-180 Manual Blister Packing Machine
-
+![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/6275e99a519edc9c7d42bc693f75d227.png?v=1782545817)
 ## 1. Product Overview
 | Item | Details |
 | ---- | ---- |
@@ -68,16 +68,7 @@ A5: Plug and play, no air compressor needed, reduces supporting cost.
 * **📽️ Operation Video:** [https://youtu.be/NHo1XX22ySY](https://youtube.com/shorts/NHo1XX22ySY?feature=share)
 * **🔧 Installation Video:** [https://youtu.be/NHo1XX22ySY](https://youtu.be/NHo1XX22ySY)
 
-## 7. Business Terms
-| Terms | Details |
-| ---- | ---- |
-| MOQ | 1 set |
-| Unit Price | 1250 USD /set (EXW) |
-| Packaging | Standard export carton |
-| Payment | 100% T/T in advance |
-| Lead Time | 15–20 days after payment |
-| Warranty | 1 year (excluding vulnerable parts) |
-| After-sales Service | 1-year warranty, lifelong technical support |
+------
 
 ### Request a Quote & Purchase
 [🛒 Click here to view pricing and purchase on our official store](https://cecle.net/products/mtbp-180-small-manual-tablet-blister-packing-machine-for-capsule-pill)
