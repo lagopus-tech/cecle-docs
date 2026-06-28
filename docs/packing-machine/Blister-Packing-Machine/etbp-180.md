@@ -1,5 +1,5 @@
 # ETBP-180 Desktop Electric Blister Packing Machine
-
+![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/6275e99a519edc9c7d42bc693f75d227_69da781e-7137-47b3-8b3a-e8908f80e28c.png?v=1782546418)
 ## 1. Product Overview
 | Item | Details |
 | ---- | ---- |
@@ -75,19 +75,6 @@ A5: The whole machine has a 1-year warranty, consumables are not covered.
 
 ## 6. Media & Materials
 * **🎬 Machine Operation Video:** [https://youtu.be/gRAgqXH-Qjk](https://www.youtube.com/watch?v=gRAgqXH-Qjk)
-
-## 7. Commercial Terms
-### 1. Price & MOQ
-- Unit Price: 2299 USD / unit (EXW)
-- MOQ: 1 unit
-
-### 2. Payment Terms
-- T/T: 100% in advance
-
-### 3. Packaging & Delivery
-- Packaging: Wooden case packaging, including spare parts and tools
-- Delivery Time: Shipped within 15–20 days after full payment received
-
 
 ### Request a Quote & Purchase
 [🛒 Click here to view pricing and purchase on our official store](https://cecle.net/products/blister-packing-machine-small-manual-mini-electric-tablet-capsule-blister-packing-machine-for-pill?variant=45589911470397)
