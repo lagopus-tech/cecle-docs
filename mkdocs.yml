@@ -39,6 +39,17 @@ nav:
           - Climbing Belt Conveyor: packing-machine/screw-conveyor/climbing-belt-conveyor.md
           - Bucket Elevator: packing-machine/screw-conveyor/bucket-elevator.md
           - Z-type Bucket Elevator: packing-machine/screw-conveyor/z-type-bucket-elevator.md
+      - Printing Machine: 
+          - Screen Printing Machine:
+              - Overview: packing-machine/printing-machine/screen-printing-machine/screen-printing-machine-index.md
+              - Automatic Series: packing-machine/printing-machine/screen-printing-machine/automatic-series.md
+              - Manual Series: packing-machine/printing-machine/screen-printing-machine/manual-series.md
+              - Cylindrical Series: packing-machine/printing-machine/screen-printing-machine/cylindrical-series.md
+              - Flat Big Series: packing-machine/printing-machine/screen-printing-machine/flat-big-series.md
+              - Flat TD-1518: packing-machine/printing-machine/screen-printing-machine/flat-td-1518.md
+              - Flat TD-1525: packing-machine/printing-machine/screen-printing-machine/flat-td-1525.md
+              - Flat TD-2030SF: packing-machine/printing-machine/screen-printing-machine/flat-td-2030sf.md
+              - Flat TD-2533: packing-machine/printing-machine/screen-printing-machine/flat-td-2533.md
   - Food Machinery:
       - Samosa Making Series:
           - Overview: food-machine/samosa-making-machine/samosa-making-machine-index.md
