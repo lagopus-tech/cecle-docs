@@ -59,7 +59,3 @@ Automated filling for fluids and semi-fluid materials.
 | **Liquid Filling Machine**| Fluids / Liquids | Broad industry applicability |
 
 *If you require assistance with selection based on specific production capacities or factory layouts, please consult us further through our official website.*
-"""
-
-with open("Industrial_Material_Feeder_Selection_Guide.md", "w", encoding="utf-8") as f:
-    f.write(markdown_content)
