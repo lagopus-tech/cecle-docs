@@ -29,6 +29,16 @@ nav:
           - DPP-260 Fully Automatic Large: packing-machine/Blister-Packing-Machine/dpp-260.md
       - Honey Straw Filling Machine:
           - Overview: packing-machine/filling-machine/honey-straw-filling-machine/honey-straw-filling-machine-index.md
+      - Conveyor & Feeder Series:
+          - Overview: packing-machine/screw-conveyor/conveyor&feeder-index.md
+          - Powder Screw Conveyor: packing-machine/screw-conveyor/powder-screw-conveyor.md
+          - Flexible Screw Conveyor: packing-machine/screw-conveyor/flexible-screw-conveyor.md
+          - Horizontal Screw Feeder: packing-machine/screw-conveyor/horizontal-screw-feeder.md
+          - Loss-in-weight Screw Feeder SC40: packing-machine/screw-conveyor/loss-in-weight-screw-feeder-SC40.md
+          - Liquid Feeding Machine: packing-machine/screw-conveyor/liquid-feeding-machine.md
+          - Climbing Belt Conveyor: packing-machine/screw-conveyor/climbing-belt-conveyor.md
+          - Bucket Elevator: packing-machine/screw-conveyor/bucket-elevator.md
+          - Z-type Bucket Elevator: packing-machine/screw-conveyor/z-type-bucket-elevator.md
   - Food Machinery:
       - Samosa Making Series:
           - Overview: food-machine/samosa-making-machine/samosa-making-machine-index.md
