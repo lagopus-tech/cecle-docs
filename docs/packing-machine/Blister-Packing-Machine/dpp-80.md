@@ -1,5 +1,7 @@
 # DPP-80 Automatic Alu-Plastic Blister Packing Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/DPP-80S_5ff80cf8-f0aa-4efc-93da-46abd6267d53.png?v=1782548436)
+![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/DPP-80L_ced92c02-2a3e-4473-9a96-98fca615bbe3.png?v=1782710967)
+
 ## 1. Product Overview
 The DPP-80 series automatic alu-plastic blister packing machine is specially designed for continuous forming, filling, heat sealing, batch number printing, and punching of PVC/PET blister + aluminum foil for capsules, tablets, pills, small hardware, electronic components, and other items. Adopting PLC touch screen control and servo drive system, it features stable operation and high automation, suitable for pharmaceutical factories, health care products factories, food factories, standardized production lines, and continuous mass production.
 
