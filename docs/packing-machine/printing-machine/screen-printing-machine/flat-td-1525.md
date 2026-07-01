@@ -9,13 +9,13 @@
 ### 1. Product Category
 * **Equipment Name**：Flat Screen Printing Machine
 * **Product Model**：TD-1525
-* **Equipment Positioning**：Precision pneumatic screen printing equipment, specially designed for micro flat products demanding extreme printing precision.
+* **Equipment Positioning**：Precision pneumatic screen printing equipment, specially designed for small flat products.
 * **Form Factor**：**Desktop Design**. The net weight of the machine is about 65KG. It is recommended to place it on a sturdy workbench with sufficient load-bearing capacity to meet ergonomic height requirements, making it convenient for operators to align and unload materials.
 
 ### 2. Applications
 * **Industry Applications**：Widely used for printing various small flat objects (e.g., acrylic nameplates, glass lenses, electronic component shells, instrument panels, etc.).
 * **Material Characteristics**：Supports substrates up to 120MM (12CM) in thickness, offering extremely strong compatibility.
-* **Production Scale**：Suitable for medium and small-scale continuous production processing and commercial printing with extremely high requirements for yield rate and overprinting precision.
+* **Production Scale**：Suitable for medium and small-scale continuous production processing and commercial printing with high requirements for yield rate and overprinting precision.
 
 ### 3. Core Functions
 * **0.01MM Extreme Micro-adjustment Precision**：The machine's front, back, left, and right angle adjustment precision can be strictly guaranteed at 0.01MM.
