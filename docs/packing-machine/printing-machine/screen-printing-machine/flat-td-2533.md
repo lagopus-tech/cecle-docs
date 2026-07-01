@@ -9,7 +9,7 @@
 ### 1. Product Category
 * **Equipment Name**：Flatbed Screen Printing Machine
 * **Product Model**：TD-2533
-* **Equipment Positioning**：Pneumatically driven flatbed screen printing equipment, specially designed for printing flat products demanding high precision.
+* **Equipment Positioning**：Pneumatically driven flatbed screen printing equipment, specially designed for printing flat products.
 * **Form Factor**：**Medium-sized Desktop Machine**. The net weight of the machine is about 90KG. It is recommended to place it on a sturdy workbench with sufficient load-bearing capacity to meet ergonomic height requirements and avoid operators working in a squatting position; it can also be operated directly on the ground.
 
 ### 2. Applications
@@ -78,8 +78,8 @@ Before operating this machine, customers need to prepare themselves or purchase 
 * **Bundled Sales**：When customers inquire, proactively ask if they need custom screens. Offering a "one-stop solution" increases customer stickiness.
 
 ### FAQ
-* **Q:  Is the machine stable during operation? How is the durability?**
-  * **A**: Extremely stable. The machine utilizes precision milling machining and electroplating/baking paint processes, which effectively reduces running friction resistance. It maintains extremely high precision even with long-term, high-frequency use.
+* **Q:  Is the machine stable during operation?**
+  * **A**: Extremely stable. The machine utilizes precision milling machining and electroplating/baking paint processes, which effectively reduces running friction resistance. 
 * **Q: Can the machine be used just by plugging it in after purchase?**
   * **A**: The machine is pneumatically driven. In addition to plugging it in, you must equip it with an air compressor with a capacity of 100L or more and a power of 3KW or more. Also, please prepare a sturdy workbench (the machine weighs about 90kg) for operation.
 * **Q: How long does shipping take?**
