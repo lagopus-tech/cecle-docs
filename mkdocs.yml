@@ -29,6 +29,16 @@ nav:
           - DPP-260 Fully Automatic Large: packing-machine/Blister-Packing-Machine/dpp-260.md
       - Honey Straw Filling Machine:
           - Overview: packing-machine/filling-machine/honey-straw-filling-machine/honey-straw-filling-machine-index.md
+      - Vacuum Skin Packaging Machine:
+          - Overview: packing-machine/vacuum-skin-packaging-machine/vacuum-skin-packing-machine-index.md
+          - RVSP-4634 Rotary Type: packing-machine/vacuum-skin-packaging-machine/rvsp-4634.md
+          - VSP-4634 Drawer Type: packing-machine/vacuum-skin-packaging-machine/vsp-4634.md
+          - Desktop Manual Type: packing-machine/vacuum-skin-packaging-machine/desktop.md
+      - Modified Atmosphere Packaging Machine:
+          - Overview: packing-machine/modified-atmosphere-packaging-machine/modified-atmosphere-packaging-machine-index.md
+          - AMAP-5827 Continuous Type: packing-machine/modified-atmosphere-packaging-machine/amap-5827-modified-atmosphere-packaging-machine.md
+          - MAP-4634 Drawer Type: packing-machine/modified-atmosphere-packaging-machine/map-4634-drawer-type.md
+          - RMAP-4634 Rotary Type: packing-machine/modified-atmosphere-packaging-machine/rmap-4634-modified-atmosphere-packaging-machine.md
       - Conveyor & Feeder Series:
           - Overview: packing-machine/screw-conveyor/conveyor&feeder-index.md
           - Powder Screw Conveyor: packing-machine/screw-conveyor/powder-screw-conveyor.md
