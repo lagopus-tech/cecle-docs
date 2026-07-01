@@ -1,97 +1,116 @@
-# Technical Documentation: SSF-RL-75-3 Semi-Automatic Samosa Folding Machine
+# SSF-RL-75-3 Semi-Automatic Samosa Folding Machine
+
+![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/A_131c6500-3c56-430f-a039-ce278a10affe.jpg?v=1780123999)
 
 ## I. Product Overview
 
-**1. Basic Information**
-* **Equipment Name**: Semi-Automatic Samosa Folding Machine
-* **Model Number**: SSF-RL-75-3
-* **Nomenclature**:
-    * **SSF**: Semi-Automatic
-    * **RL**: Meat-type (Granular filling compatible)
-    * **75**: Applicable dough sheet width (75mm)
-    * **3**: Standard 3-fold forming process
-* **Positioning**: Precision semi-automatic dough forming equipment developed for small-to-medium food processing plants, chain catering, and central kitchens.
+**1. Basic Equipment Information**
+* **Equipment Name**: Semi-Automatic Samosa/Curry Puff Forming Machine
+* **Product Model**: SSF-RL-75-3
+* **Model Nomenclature**:
+  * **SSF**: Semi-Automatic
+  * **RL**: Meat-type
+  * **75**: Applicable dough wrapper width (75 mm)
+  * **3**: Standard 3-fold process
+* **Equipment Positioning**: Precision semi-automatic pastry forming equipment designed for small-to-medium food processing plants, restaurant chains, and central kitchens.
 
-**2. Core Positioning: Why Choose Semi-Automatic?**
-For startups or small food shops transitioning to standardized production, a semi-automatic machine is a more rational business choice than a fully automated line:
-* **Low Barrier to Entry**: With an investment cost only one-third that of fully automated lines, it significantly reduces financial pressure during the startup phase, allowing for rapid capacity scaling with minimal risk.
-* **Operational Flexibility**: During early business stages with fluctuating order volumes, semi-automatic equipment provides high flexibility—meeting standardized output targets without the high maintenance and energy costs associated with idle automated lines.
-* **The Art of Human-Machine Collaboration**: It retains the flexibility of manual feeding (compatible with various handmade dough textures) while automating the time-consuming and labor-intensive "filling and folding" stages, ensuring consistent product appearance and a professional brand image.
-* **Ease of Maintenance**: No need to hire high-salaried specialized technicians. Staff can operate the machine with short-term training, solving common labor shortage issues in small businesses.
+**Sample Appearance & Technical Explanation**:
 
-**3. Processing Compatibility & Limitations (Important Notice)**
-* **Dedicated Filling System**: The filling system is specialized based on the physical properties of the filling and **does not support dual-use or switching**. Please specify your requirement at the time of ordering:
-    * **Paste Filling Version**: Optimized for mashed potatoes, cheese, and other solid/pasty fillings.
-    * **Meat/Granular Version**: Optimized for minced meat, meat-vegetable mixtures, beans, and other granular fillings.
-* **Fixed Specification Design**: To ensure optimal appearance and tight structural integrity, the **finished product size, weight, and folding trajectory of a single unit are fixed and cannot be adjusted or altered.**
-* **Customization Range**: The dough sheet width for the semi-automatic series can be customized between **45mm and 120mm** (This model, SSF-RL-75, is fixed at 75mm).
+* **Standardized Geometry**: Through a standard 3-fold mechanical cycle, each samosa/curry puff is formed into a uniform equilateral triangle with clean lines and a highly consistent appearance.
+* **Secure Sealing**: The machine uses a specialized pneumatically assisted actuator for precise edge sealing, preventing bursting or filling leakage during subsequent frying or baking.
+* **Precise Weight Control**: Once the wrapper specifications (fixed at 75 mm for this model) and the filling system are set, the ratio of wrapper to filling and the overall weight variation are maintained within a minimal range, effectively addressing the inconsistencies in size common in manual production.
 
----
+**2. Dough Sheet Preparation & Recipe**
+Scaling up the production of high-quality batter requires a precise recipe and careful processing. In the initial stage, pour 170 to 190 liters of clean water into the mixing tank (the exact water volume can be adjusted slightly based on the absorption quality of the wheat flour), and add 1 to 1.5 kg of salt, stirring until completely dissolved. To improve the elasticity of the finished product, 2 to 3 kg of vegetable oil may also be added if desired.
 
-## II. Production Process & SOP
+Once the liquid base is ready, with the mixer running continuously, slowly and evenly add 100 kg of premium wheat flour into the tank. Mix thoroughly for 15 to 20 minutes until the batter is smooth and free of lumps. Finally, allow the prepared batter to rest for 30 to 60 minutes. This resting period lets the gluten relax and the moisture fully penetrate before starting the machine for subsequent production.
 
-**1. Base Material Preparation**
-Operators place neatly stacked rectangular dough sheets precisely onto the machine's feeding station.
+**3. Core Positioning: Why Choose Semi-Automatic?**
+For startup food factories or small food shops transitioning to standardized production, a semi-automatic model offers a highly practical business choice compared to fully automatic production lines:
+* **Lower Capital Requirement**: At approximately one-third of the investment cost of fully automatic equipment, this option significantly reduces financial pressure during startup phases, allowing for increased production capacity with lower financial risk.
+* **Flexibility for Initial Market Demands**: When order volumes fluctuate during early stages, semi-automatic equipment provides greater operational flexibility. It meets the demand for standardized, fast shipments while avoiding the high maintenance and energy costs associated with running large, automated lines under capacity.
+* **Balanced Human-Machine Collaboration**: It retains the flexibility of manual wrapper placement (accommodating various handmade-style wrappers) while automating the most time-consuming and difficult-to-standardize processes: filling and folding. This ensures consistent product appearance and enhances brand professionalism.
+* **Simple Maintenance & Low Technical Requirements**: There is no need for highly specialized technicians. General staff can operate the machine after brief training, effectively addressing recruitment and retention challenges common in small businesses.
 
-![Dough Sheet Feeding Area](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/a54805c376ec3265b2d97a449f3224ec.jpg?v=1778569329)
-
-**2. Material Pre-processing & Loading**
-Load the prepared filling (matched to the selected filling system) into the storage hopper at the top of the machine.
-
-**3. Automatic Sheet Handling & Servo Filling**
-The mechanical conveying mechanism automatically picks up single sheets, transports them to the forming zone, and the filling system dispenses a precise amount into the center of the sheet.
-
-**4. Precision Folding & Sealing**
-The equipment automatically folds and wraps the dough along a pre-set trajectory. **Standard configuration is "3-fold."**
-
-![Automatic Folding & Forming Area](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/6d889faccd3f936a77140bc3c04f2a61.jpg?v=1778569330)
-
-**5. Automatic Output**
-Finished products are pushed out automatically, ready to be collected in containers or transferred to a downstream conveyor.
+**4. Processing Compatibility & Customization Constraints (Important Notice)**
+* **Dedicated Filling System**: The filling system must be designed specifically based on the physical characteristics of the filling material; dual-use or switching is currently not supported. The choice must be specified at the time of ordering:
+  * **Paste-Type Version**: Suitable for solid or paste-like fillings such as mashed potatoes or cheese.
+  * **Meat/Granular-Type Version**: Suitable for granular fillings such as pure meat, meat-vegetable mixtures, or beans.
+* **Fixed Specifications**: To ensure reliable forming quality and structural integrity, the finished product dimensions, weight, and folding path of a single machine are fixed and cannot be adjusted or modified.
+* **Customization Range**: For the semi-automatic series, the customizable wrapper width ranges from 45 mm to 120 mm (the SSF-RL-75 model is fixed at a 75 mm width).
 
 ---
 
-## III. Core Technical Specifications
+## II. Production Process & Standard Operating Procedure (SOP)
 
-| Key Technical Indicators | Detailed Specifications |
-| :--- | :--- |
-| **Model** | SSF-RL-75-3 |
-| **Standard Capacity** | 650 pcs/hour |
-| **Filling System Type** | **Dedicated per machine**: Paste Version (Potato/Cheese) **or** Meat Version (Meat/Veg/Beans) |
-| **Adjustability** | **Non-adjustable**: Fixed size; cannot be changed after production |
-| **Dough Sheet Width** | 45mm - 120mm (Fixed at 75mm for this model) |
-| **Material Construction** | SUS304 Food-grade Stainless Steel |
-| **Drive System** | Electric Motor + Pneumatic Auxiliary |
-| **Input Voltage** | 220V 50Hz Single-phase |
-| **Net Weight** | 160 kg |
-| **Dimensions** | 800 mm × 643 mm × 1530 mm |
+**1. Material Pre-positioning (Wrapper Preparation)**
+* **Process Description**: Operators place neatly stacked rectangular dough wrappers onto the feeding station, marking the starting point of the automated forming process.
 
----
+**2. Material Pre-treatment & Feeding**
+* **Process Description**: Pour the prepared filling (ensuring the material state matches the selected filling system) into the hopper at the top of the equipment, maintaining an adequate supply.
 
-## IV. Technical FAQ
+**3. Automated Wrapper Feeding & Servo Filling**
+* **Process Description**: The mechanical transfer mechanism automatically feeds a single wrapper into the forming area, while the filling system dispenses a measured amount of filling onto the center of the wrapper according to the preset parameters.
 
-* **Q: Can I change the product size by replacing parts?**
-  * **A: No.** The mechanical stroke and forming molds are precisely matched to a single size; the size cannot be adjusted or changed.
-* **Q: I am just starting and have many filling types; can the machine be shared?**
-  * **A: No.** Because the requirements for paste and granular fillings are fundamentally different, they cannot be shared. We recommend prioritizing your core flagship product.
-* **Q: What are the minimum and maximum size ranges available?**
-  * **A: We have extensive customization experience in the semi-automatic series, covering dough sheet widths from 45mm to 120mm.**
+**4. Precise Folding & Press Sealing**
+* **Process Description**: The machine automatically folds the wrapper along a preset path. This standard model is configured for a "3-fold" process, with the final edge sealing completed by a pneumatically assisted actuator.
+
+**5. Automated Discharge & Output**
+* **Process Description**: The formed products are automatically pushed out by the discharge mechanism, gliding directly into a collection container or transferring smoothly to a downstream conveyor line.
 
 ---
 
-## V. Business Terms
+## III. Key Technical Specifications
 
-### 1. Domestic Trade Terms (China)
-* **Pricing**:
-* **Payment Terms**: 30% deposit; 70% balance paid after video inspection and before shipment.
-* **After-sales**: 1-year warranty on core components; lifetime online technical support.
+| Key Technical Indicator              | Detailed Specifications                                      |
+| :----------------------------------- | :----------------------------------------------------------- |
+| **Product Model**                    | SSF-RL-75-3                                                  |
+| **Standard Capacity**                | 650 units/hour                                               |
+| **Filling System Type**              | **Dedicated System** (Options: Paste-type for mashed potatoes/cheese, or Meat/Granular-type for meat, meat-vegetable mixes, or beans) |
+| **Product Specification Adjustment** | **Non-adjustable** (The size is entirely fixed; post-purchase size or weight adjustments are not supported) |
+| **Dough Wrapper Width**              | 45 mm - 120 mm (This SSF-RL-75 model is fixed at 75 mm)      |
+| **Frame Material**                   | Food-grade SUS304 stainless steel                            |
+| **Core Drive Method**                | Electric motor drive + Pneumatic assist                      |
+| **Rated Input Voltage**              | 220V 50Hz Single-Phase                                       |
+| **Net Weight**                       | 160 kg                                                       |
+| **Overall Dimensions**               | 800 mm × 643 mm × 1530 mm                                    |
 
-### 2. International Trade Terms (Export)
-* **Pricing (FOB Ningbo)**:
-  * **Paste Filling Version**: 20,000 USD / unit
-  * **Meat Filling Version**: 21,500 USD / unit
-* **Voltage Customization**: Supports customization for local voltages (220V 60Hz supported).
-* **Lead Time**: 2 months after confirmation of deposit.
+---
 
-### Request a Quote & Purchase
-[🛒 Click here to view pricing and purchase on our official store](https://cecle.net/products/automatic-samosa-making-samosa-folding-machine-and-fold-patti-samosa)
+## IV. Frequently Asked Questions (FAQ)
+
+* **Q: Can I change the product size on a single machine by replacing parts?**
+  * **A**: No. The mechanical path and forming mold of this machine are precisely designed for a single size. The dimensions cannot be adjusted or modified.
+* **Q: I am just starting out and have various types of fillings. Can I use them on the same machine?**
+  * **A**: Because paste-type and meat/granular-type fillings require entirely different pushing mechanisms, a single dual-use configuration is not currently supported. We suggest matching the machine to your primary product first.
+* **Q: What are the minimum and maximum sizes available?**
+  * **A**: For our semi-automatic series, we offer customization options with dough wrapper widths ranging from 45 mm to 120 mm.
+
+---
+
+## V. Video Demonstration & Operational Reference
+
+To view the actual feeding process, dough folding path, and automated discharge of this machine, please see the demonstration video via the link below:
+
+[🎬 Click to Watch: SSF-RL-75-3 Semi-Automatic Samosa/Curry Puff Folding Machine Operation & Feeding Demo](https://youtu.be/nqPcbgWgH1s?si=V6O8gvKI6ECIX7PS)
+
+---
+
+## VI. Commercial Terms
+
+### 1. Domestic Business Terms (China)
+
+* **Payment Terms**: 30% advance payment; the remaining 70% balance is due after video inspection before shipment.
+* **After-Sales Service**: 1-year warranty on core components, with lifetime online technical support.
+
+### 2. International Trade Terms
+
+* **Voltage Customization**: Supports customizing plugs for various countries, with a fixed operating voltage of 220V 60Hz.
+
+* **Delivery Time**: Within 2 months after confirmation of deposit.
+
+  
+
+### **VII. **Request a Quote & Purchase****
+
+[🛒 Click here to view pricing and purchase on our official store](https://cecle.net/products/automatic-samosa-making-samosa-folding-machine-and-fold-patti-samosa?_pos=2&_sid=e1fe3f266&_ss=r)
