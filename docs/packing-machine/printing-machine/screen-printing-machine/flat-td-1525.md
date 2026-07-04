@@ -9,16 +9,16 @@
 ### 1. Product Category
 * **Equipment Name**：Flat Screen Printing Machine
 * **Product Model**：TD-1525
-* **Equipment Positioning**：Precision pneumatic screen printing equipment, specially designed for small flat products.
+* **Equipment Positioning**：Pneumatic screen printing equipment, specially designed for small flat products.
 * **Form Factor**：**Desktop Design**. The net weight of the machine is about 65KG. It is recommended to place it on a sturdy workbench with sufficient load-bearing capacity to meet ergonomic height requirements, making it convenient for operators to align and unload materials.
 
 ### 2. Applications
 * **Industry Applications**：Widely used for printing various small flat objects (e.g., acrylic nameplates, glass lenses, electronic component shells, instrument panels, etc.).
 * **Material Characteristics**：Supports substrates up to 120MM (12CM) in thickness, offering extremely strong compatibility.
-* **Production Scale**：Suitable for medium and small-scale continuous production processing and commercial printing with high requirements for yield rate and overprinting precision.
+* **Production Scale**：Perfect for small-to-medium scale batch processing. It delivers consistent performance and a high product yield.
 
 ### 3. Core Functions
-* **0.01MM Extreme Micro-adjustment Precision**：The machine's front, back, left, and right angle adjustment precision can be strictly guaranteed at 0.01MM.
+* **0.01mm Precision Worktable**：Features knobs for front, back, left, and right fine-tuning, strictly guaranteeing X/Y-axis positioning precision up to 0.01mm.
 * **Guide Rail Lifting System**：The screen frame lifting adopts guide rail guidance, ensuring high precision and smooth movement.
 * **Highly Efficient Pneumatic Printing**：Driven by 4BAR air pressure, it runs extremely fast, with a maximum printing efficiency of up to 1500 pcs/hr, higher than conventional flatbed models.
 
@@ -26,7 +26,6 @@
 
 ## II.  Core Advantages
 
-* **Leapfrog Printing Precision**：Thanks to the 0.01MM micro-adjustment structure and guide rail lifting system, this machine is highly suitable for precision printing.
 * **Ultra-high Production Efficiency**：Printing speed up to 1500 pcs/hr, which can greatly enhance daily production capacity.
 * **Extremely Low Air Source Consumption**：Requires only 4BAR of working air pressure to run smoothly, lowering the load requirement on the air compressor.
 
@@ -59,7 +58,7 @@ Before operating this machine, customers need to prepare themselves or purchase 
 * **Thinner**：Used to adjust the viscosity of the ink to ensure smooth printing.
 * **Squeegee**：Installed on the machine to scrape and press the ink.
 * **Screen Wash**：Used to clean residual ink from the screen after printing.
-* **Fixture**：Used to accurately secure the product on the countertop to maximize the machine's 0.01mm high-precision advantage.
+* **Fixture**：Used to accurately secure the product on the countertop.
 
 ### 2. Standard Workflow
 1. **Install the Screen**：Securely install the custom-patterned screen into the screen frame clamps of the machine.
@@ -72,7 +71,7 @@ Before operating this machine, customers need to prepare themselves or purchase 
 ## V.  Sales Tips & FAQ
 
 ### Sales Tips
-* **Highlight Selling Points**：Emphasize to the customer the machine's "precision workbench guaranteed at 0.01mm" and "guide rail lifting". If the customer wants to print electronic panels with tiny text or shells with high precision requirements, this machine is a better choice than standard pneumatic models.
+* **Highlight Selling Points**：Emphasize to the customer the machine's "precision workbench guaranteed at 0.01mm" and "guide rail lifting". If the customer wants to print electronic panels or shells with tiny text, this machine is a better choice than standard pneumatic models.
 * **Customization Services**：Proactively mentioning in foreign trade communications that the machine can be built for 110V or 220V voltage can significantly improve the conversion rate.
 * **Bundled Sales**：When customers inquire, proactively ask if they need custom screens. Offering a "one-stop solution" increases customer stickiness.
 
