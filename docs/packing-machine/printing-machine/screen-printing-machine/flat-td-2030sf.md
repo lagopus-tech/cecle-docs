@@ -61,7 +61,7 @@ Before operating this machine, customers need to prepare or purchase the followi
 * **Other Consumables**：Thinner, squeegee, screen wash, fixtures.
 
 ### 2. Standard Workflow
-1. **Precision Registration**：Install the screen into the clamp arms, and perform millimeter-level X/Y/Z axis alignment using the precision fine-tuning handles located under the worktable.
+1. **Precision Registration**：Install the screen frame into the clamp arms, and perform precise X/Y axis alignment using the precision fine-tuning handles located under the worktable.
 2. **Parameter Setting**：Set the printing stroke, squeegee speed, flood bar speed, and fully automatic interval time on the PLC touch screen.
 3. **Placing the Product**：Place the product on the worktable and turn on the vacuum suction function to secure it firmly.
 4. **Start Printing**：The servo motor drives the squeegee to glide smoothly across, completing the extremely high-precision pattern transfer.

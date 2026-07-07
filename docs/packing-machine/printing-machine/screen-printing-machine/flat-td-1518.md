@@ -9,12 +9,12 @@
 ### 1. Product Category
 * **Equipment Name**：Oblique Arm Flat Screen Printing Machine
 * **Product Model**：TD-1518
-* **Equipment Positioning**：Small-sized pneumatically driven single-color screen printing equipment, specially designed for high-frequency, fast printing of small-area flat products.
+* **Equipment Positioning**：Small-sized pneumatically driven single-color screen printing equipment, specially designed for small-area flat products.
 * **Form Factor**：**Desktop Design**. The net weight of the machine is about 50KG. It needs to be placed on a sturdy workbench with sufficient load-bearing capacity for use. The machine is equipped with a foot switch, allowing the operator to work in a seated position and completely freeing their hands.
 
 ### 2. Applications
 * **Industry Applications**：Widely used for single-color printing of various small flat products, such as metal sheets, glass lenses, wood boards, CD cards, paper, etc.
-* **Production Scale**：Suitable for medium and small-scale continuous production processing and commercial customized high-frequency batch printing.
+* **Production Scale**：Suitable for medium and small-scale continuous production processing and commercial customized batch printing.
 
 ### 3. Core Functions
 * **Intuitive Control Panel**：Equipped with a multi-button control panel, each function is independently controlled for simple and convenient operation.
