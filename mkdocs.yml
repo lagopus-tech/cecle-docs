@@ -2,6 +2,44 @@ site_name: CECLE Machine Docs
 site_url: https://doc.cecle.net/ 
 theme:
   name: material
+  language: en
+  features:
+    - content.code.copy
+    - i18n.language.switch # 🌟 检查这一行是否已经加上，前面要有两个空格对齐
+plugins:
+  - search
+  - i18n:
+      default_language: en
+      languages:
+        - locale: en
+          name: English
+          default: true
+        - locale: zh
+          name: 简体中文
+        - locale: es
+          name: Español
+        - locale: fr
+          name: Français
+        - locale: pt
+          name: Português (Brasil)
+        - locale: ar
+          name: العربية
+        - locale: id
+          name: Indonesia
+        - locale: vi
+          name: Tiếng Việt
+        - locale: th
+          name: ภาษาไทย
+        - locale: pl
+          name: Polski
+        - locale: de
+          name: Deutsch
+        - locale: ru
+          name: Русский
+        - locale: tr
+          name: Türkçe
+        - locale: it
+          name: Italiano
 
 nav:
   - Official Website: https://cecle.net
