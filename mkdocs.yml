@@ -40,7 +40,8 @@ plugins:
           name: Türkçe
         - locale: it
           name: Italiano
-
+extra_javascript:
+  - js/redirect.js
 nav:
   - Official Website: https://cecle.net
   - Home: index.md
