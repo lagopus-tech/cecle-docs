@@ -41,7 +41,7 @@ plugins:
         - locale: it
           name: Italiano
 extra_javascript:
-  - js/redirect.js
+  - js/redirect.j
 nav:
   - Official Website: https://cecle.net
   - Home: index.md
