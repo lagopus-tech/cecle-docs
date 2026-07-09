@@ -6,9 +6,17 @@
 
 ## I. Series Selection Guide
 To help customers quickly match the right machine, please refer to the following core selection rules:
-Printing flat surfaces, single color, small objects (wooden boards, flat fabric pieces, glass): Please choose 【1. Manual Flat Screen Printing Table (MS/(A)MS Series)】
-Printing T-shirts/apparel, requiring multi-color overprinting, personal shops/limited budget: Please choose 【2. Manual Desktop Four-Color Screen Printing Machine (NS Series)】
-Printing T-shirts/backpacks, multi-color overprinting, professional screen printing workshops: Please choose 【3. Manual Column-Type Screen Printing Machine (YH Series)】
+
+Printing flat surfaces, single color, small objects (wooden boards, flat fabric pieces, glass): 
+
+Please choose 【1. Manual Flat Screen Printing Table (MS/(A)MS Series)】
+Printing T-shirts/apparel, requiring multi-color overprinting, personal shops/limited budget: 
+
+Please choose 【2. Manual Desktop Four-Color Screen Printing Machine (NS Series)】
+
+Printing T-shirts/backpacks, multi-color overprinting, professional screen printing workshops: 
+
+Please choose 【3. Manual Column-Type Screen Printing Machine (YH Series)】
 
 ---
 
@@ -101,7 +109,7 @@ All machines in this series feature **purely mechanical manual operation**, requ
 * **Place of origin**：Wenzhou, Zhejiang, China
 
 ### Request a Quote & Purchase
-[🛒 Click here to view pricing and purchase on our official store]
-MS/(A)MS Series：(https://cecle.net/products/manual-screen-printing-table-small-manual-silk-screen-station-tempered-glass-flat-screen-printing-machine)
-NS Series：(https://cecle.net/products/silk-screen-printing-machine-rotary-4-color-1-2-4-station-manual-silk-t-shirt-flat-screen-printing-machine)
-YH Series：(https://cecle.net/products/manual-screen-printing-machine-flat-garment-4-6-8-color-4-6-8-station-screen-printing-machine-for-clothes-t-shirt-screen-printing)
+🛒 Click here to view pricing and purchase on our official store
+[MS/(A)MS Series：](https://cecle.net/products/manual-screen-printing-table-small-manual-silk-screen-station-tempered-glass-flat-screen-printing-machine)
+[NS Series：](https://cecle.net/products/silk-screen-printing-machine-rotary-4-color-1-2-4-station-manual-silk-t-shirt-flat-screen-printing-machine)
+[YH Series：](https://cecle.net/products/manual-screen-printing-machine-flat-garment-4-6-8-color-4-6-8-station-screen-printing-machine-for-clothes-t-shirt-screen-printing)
