@@ -126,9 +126,7 @@ def main():
                 parts = file.split('.')
                 if len(parts) >= 3 and parts[-2] in LANGUAGES:
                     continue
-                # 🌟 新增的临时测试代码：只翻译蜂蜜灌装机文件
-                if "honey-straw-filling-machine-index" not in file:
-                    continue        
+        
                 english_file_path = os.path.join(root, file)
                 print(f"\n🚀 正在处理英文原版: {english_file_path}")
                 
