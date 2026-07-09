@@ -89,7 +89,7 @@ Before operating this machine, customers need to prepare or purchase the followi
 * **MOQ**：1 set 
 * **Payment Method**：T/T (100% in advance)
 * **Lead Time**：Within 15 days
-* **Packaging Standard**：Wooden case (Export standard)
+* **Packaging Standard**：plywood case (Export standard)
 * **Place of origin**：Wenzhou, Zhejiang, China
 
 ### Request a Quote & Purchase
