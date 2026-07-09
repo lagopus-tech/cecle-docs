@@ -1,0 +1,1 @@
+To jest strona główna dokumentacji technicznej maszyn pakujących CECLE.
