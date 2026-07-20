@@ -2,20 +2,18 @@
 
 ###  This series covers all of our purely manual, zero-energy screen printing equipment. Based on customer printing requirements, product types, and budgets, we divide our manual screen printing equipment into three major sub-series: Manual Flat Screen Printing Table (MS/(A)MS Series), Manual Desktop Four-Color Screen Printing Machine (NS Series), and Manual Column-Type Screen Printing Machine (YH Series). We provide you with a full range of manual printing solutions, from low-cost entry-level options to professional multi-color overprinting workshops.
 
+> **Core Abstract**
+The Manual Screen Printing Machine Series consists of heavy-duty, multi-color rotary and flatbed desktop screen printers engineered for high-precision manual registration. Perfectly optimized for the textile apparel, customized clothing, t-shirt printing, and graphic advertising industries, these machines easily handle substrates like fabrics, garments, and flat panels. As a core advantage, the entire series operates entirely without power, delivering exceptional stability, long-term operational durability, and a highly cost-effective production setup. Equipped with advanced spring-tensioned support arms and micro-adjustment X/Y handles on premium models, it ensures flawless color-to-color alignment and steady operational consistency, providing small workshops and start-up factories with an exceptionally cost-effective, high-yield production setup.
+
 ---
 
 ## I. Series Selection Guide
 To help customers quickly match the right machine, please refer to the following core selection rules:
-
 Printing flat surfaces, single color, small objects (wooden boards, flat fabric pieces, glass): 
-
 Please choose 【1. Manual Flat Screen Printing Table (MS/(A)MS Series)】
 Printing T-shirts/apparel, requiring multi-color overprinting, personal shops/limited budget: 
-
 Please choose 【2. Manual Desktop Four-Color Screen Printing Machine (NS Series)】
-
 Printing T-shirts/backpacks, multi-color overprinting, professional screen printing workshops: 
-
 Please choose 【3. Manual Column-Type Screen Printing Machine (YH Series)】
 
 ---
@@ -89,13 +87,46 @@ All machines in this series feature **purely mechanical manual operation**, requ
 ### FAQ
 * **Q: Do I need to plug the machine in or connect it to an air pump after purchase?**
   * **A**: Absolutely not. This is 100% purely mechanical manual equipment. You can start working right after unboxing and completing assembly.
+* **Q: What about warranty and after-sales services?**
+  * **A**: We provide a 1-year warranty service. During the warranty period, if damage occurs under normal use according to the manual, we provide free replacement parts (the buyer is responsible for the international shipping costs from China to their local area).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to plug the machine in or connect it to an air pump after purchase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely not. This is 100% purely mechanical manual equipment. You can start working right after unboxing and completing assembly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What about warranty and after-sales services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We provide a 1-year warranty service. During the warranty period, if damage occurs under normal use according to the manual, we provide free replacement parts (the buyer is responsible for the international shipping costs from China to their local area)."
+      }
+    }
+  ]
+}
+</script>
 
 ---
 
 ## IV. Media Resources
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/05JAGFePy8M?si=gOgweUajqMBoXAFR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lAAfXWjpO1M?si=-pbfAJfByFur-fYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uIN0tVOFJEY?si=6B7hmXUAsJfuRbKl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * **📽️ MS/(A)Manual Flat Screen Printing Table Operation Video: ** [https://youtu.be/05JAGFePy8M](https://youtu.be/05JAGFePy8M)
-* **📽️ NS Manual Desktop Four-Color Screen Printing Machine Operation Video: ** [https://youtu.be/kuZP4n-r2wo](https://youtu.be/kuZP4n-r2wo)
+* **📽️ NS Manual Desktop Four-Color Screen Printing Machine Operation Video: ** [https://youtu.be/lAAfXWjpO1M](https://youtu.be/lAAfXWjpO1M)
 * **📽️ YH Manual Column-Type Screen Printing Machine Operation Video: ** [https://youtu.be/uIN0tVOFJEY](https://youtu.be/uIN0tVOFJEY)
 
 ---
@@ -109,7 +140,7 @@ All machines in this series feature **purely mechanical manual operation**, requ
 * **Place of origin**：Wenzhou, Zhejiang, China
 
 ### Request a Quote & Purchase
-🛒 Click here to view pricing and purchase on our official store
+[🛒 Click here to view pricing and purchase on our official store]
 [MS/(A)MS Series：](https://cecle.net/products/manual-screen-printing-table-small-manual-silk-screen-station-tempered-glass-flat-screen-printing-machine)
 [NS Series：](https://cecle.net/products/silk-screen-printing-machine-rotary-4-color-1-2-4-station-manual-silk-t-shirt-flat-screen-printing-machine)
 [YH Series：](https://cecle.net/products/manual-screen-printing-machine-flat-garment-4-6-8-color-4-6-8-station-screen-printing-machine-for-clothes-t-shirt-screen-printing)
