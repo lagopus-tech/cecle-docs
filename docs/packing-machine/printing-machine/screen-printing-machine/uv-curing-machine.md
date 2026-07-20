@@ -1,6 +1,10 @@
 # UV Curing Machine
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_az2quiaz2quiaz2q.png?v=1782817564)
+
+> **Core Abstract**
+> The TD-UV400 and TD-UV600 series consist of industrial conveyor-type UV curing machines engineered as high-efficiency post-press drying systems. Perfectly optimized for automated mass production in the electronics, plastics, communications, and optoelectronics industries, they effortlessly cure UV surface coatings and specialized glues on items like mobile casings and membrane switches. The series' core advantages rely on a dual UV light source configuration paired with imported highly-reflective focusing lampshades for instant drying capabilities. Driven by a smooth, noiseless Teflon mesh belt transmission with stepless speed regulation, this series delivers consistent, high-frequency curing speeds alongside an integrated exhaust system to maximize workplace safety and production line factory yield.
+
 ---
 
 ## I. Product Overview
@@ -59,9 +63,36 @@
 * **Q: What about warranty and after-sales services?**
   * **A**: We provide a 1-year warranty service. During the warranty period, if damage occurs under normal use according to the manual, we provide free replacement parts (the buyer is responsible for the international shipping costs from China to their local area).
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does the machine run at a very high temperature? Will it warp or damage plastic products?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The machine is equipped with an efficient exhaust system, and both the UV lampshade height and mesh belt conveyor speed are fully adjustable. As long as the parameters are set properly, the heat will be promptly extracted, making it completely safe for heat-sensitive products like plastic casings and thin films."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What about warranty and after-sales services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We provide a 1-year warranty service. During the warranty period, if damage occurs under normal use according to the manual, we provide free replacement parts (the buyer is responsible for the international shipping costs from China to their local area)."
+      }
+    }
+  ]
+}
+</script>
+
 ---
 
 ## VI. Media Resources
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mnKWayTkffU?si=AkRrdvUtW9QhG_1m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * **📽️ Operation video: ** [https://youtu.be/mnKWayTkffU](https://youtu.be/mnKWayTkffU)
 
