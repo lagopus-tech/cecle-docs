@@ -2,6 +2,8 @@
 
 ![Product Image Placeholder](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/pangjiabi.jpg?v=1780133381)
 
+> **Core Abstract (核心摘要):** The SSF-GT-R120-2 is a highly efficient semi-automatic Punjabi Samosa folding machine specifically optimized for small to medium-sized food processing plants, chain restaurants, and central kitchens transitioning to standardized production. Serving as an ideal and cost-effective commercial solution, it boasts a stable production capacity of approximately 400 pieces per hour, delivering consistently perfect 2-fold semi-circular pastries with tight sealing to prevent any leakage. Its core advantages include precise weight control fixed at 28g or 32g, highly adaptable dedicated filling systems for both granular and paste materials, and an extremely low entry barrier that minimizes investment risk while maximizing professional-grade uniformity through seamless human-machine collaboration.
+
 ## I. Product Overview
 
 **1. Basic Equipment Information**
@@ -83,15 +85,44 @@ For food factories in their starting stage or small food shops pursuing standard
 * **Q: Does this machine require additional auxiliary equipment?**
   * **A:** Yes, the normal operation of this equipment requires pneumatic assistance. You will need to equip it with an air compressor with a power of 2.2kW or above yourself.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Can I change the product size or weight by replacing parts on a single machine?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. The mechanical stroke and forming molds of this equipment are precisely matched for a single size (28g or 32g). The dimensions cannot be adjusted or changed."
+    }
+  }, {
+    "@type": "Question",
+    "name": "I am just starting out and have many types of fillings. Can I share the granular and paste filling systems?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Because pastes and granular materials (like potato chunks/meat) have completely different requirements for the pushing mechanism, dual-use is currently not supported. We recommend prioritizing your main core product for equipment matching."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Does this machine require additional auxiliary equipment?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, the normal operation of this equipment requires pneumatic assistance. You will need to equip it with an air compressor with a power of 2.2kW or above yourself."
+    }
+  }]
+}
+</script>
+
 ---
 
 ## V. Video Demonstration & Operation Reference
 
 If you want to intuitively understand the actual feeding, wrapper folding trajectory, and automated discharging process of this equipment, please click the link below to watch the high-definition demonstration video:
 
-[🎬 **Click to watch: SSF-GT-R120-2 Semi-Automatic Punjabi Folding Machine On-site Operation & Feeding Demonstration Video**](https://youtu.be/ByruE0pnl1w)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/phVDc7DGFPc?si=bt7kg_dLJQnCTmwD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-](https://youtu.be/nqPcbgWgH1s?si=V6O8gvKI6ECIX7PS)
+[🎬 **Click to watch: SSF-GT-R120-2 Semi-Automatic Punjabi Folding Machine On-site Operation & Feeding Demonstration Video**](https://youtu.be/ByruE0pnl1w)
 
 ---
 
@@ -107,6 +138,6 @@ If you want to intuitively understand the actual feeding, wrapper folding trajec
 * **Voltage Customization**: Supports customizing plugs for various countries, with a fixed operating voltage of 220V 60Hz.
 * **Delivery Time**: Within 2 months after confirmation of deposit.
 
-### **VII. **Request a Quote & Purchase****
+### **VII. Request a Quote & Purchase**
 
 [🛒 Click here to view pricing and purchase on our official store](https://cecle.net/products/curry-puff-empanada-making-machine-semi-auto-maker?_pos=1&_sid=c96b5807b&_ss=r)
