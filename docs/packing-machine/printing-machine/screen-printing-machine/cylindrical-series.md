@@ -4,6 +4,9 @@
 
 ### This series covers five models of microcomputer-controlled pneumatic cylindrical screen printing machines: TD-250, TD-400, TD-600, TD-800, and TD-1100. While the core control system and operational logic are identical across the series, the primary differences lie in the supported product diameters and maximum printing sizes. This series is designed to provide users with efficient, automated industrial printing solutions for cylindrical packaging containers.
 
+> **Core Abstract**
+> The Cylindrical Screen Printing Machine Series (TD-250 to TD-1100) consists of advanced, microcomputer-controlled pneumatic curved screen printing equipment specifically engineered for industrial cylindrical products. Perfectly suited for the catering packaging, cosmetics, and daily chemical industries, this series accommodates items ranging from small lipstick tubes and milk tea cups to large paint buckets. Its core advantages lie in high automation with automatic squeegee scraping and an all-around micro-adjustment system for the worktable and screen frame. Delivering an adjustable printing stroke and speeds up to 1200 pcs/h, it provides an exceptionally stable and accurate high-volume production solution for diverse industrial packaging needs.
+
 ---
 
 ## I. Product Overview
@@ -79,11 +82,46 @@ Before running this machine, customers need to prepare the following consumables
 * **Q: What about warranty and after-sales services?**
   * **A**: We provide a 1-year warranty service. During the warranty period, if damage occurs under normal use according to the manual, we provide free replacement parts (the buyer is responsible for the international shipping costs from China to their local area).
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can this machine print multiple colors (multi-color overprinting)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Screen printing machines are primarily designed for single-color printing. If you need to print 2 or 3 colors on the same bottle, it is possible, but you must print them in separate passes—only one color can be printed at a time. The critical prerequisite is that your bottle must have a positioning point."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What else do I need to buy after purchasing the machine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This is a pneumatic machine, so you must purchase an air compressor. Additionally, dedicated fixtures must be custom-made by us for your specific bottles. You will also need to prepare consumables such as screens, ink, squeegees, screen wash, and thinners."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What about warranty and after-sales services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We provide a 1-year warranty service. During the warranty period, if damage occurs under normal use according to the manual, we provide free replacement parts (the buyer is responsible for the international shipping costs from China to their local area)."
+      }
+    }
+  ]
+}
+</script>
+
 ---
 
 ## VI.  Media Resources
 
-* **📽️ Operation video: ** [ https://youtu.be/OCVO4HEm5jI?si=0iOKK0BRhcsTn2Ui]( https://youtu.be/OCVO4HEm5jI?si=0iOKK0BRhcsTn2Ui)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OCVO4HEm5jI?si=XId02o0gyMPOsDsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* **📽️ Operation video: ** [ https://youtu.be/OCVO4HEm5jI]( https://youtu.be/OCVO4HEm5jI)
 
 
 ---
