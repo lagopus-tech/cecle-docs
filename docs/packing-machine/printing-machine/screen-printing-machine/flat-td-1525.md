@@ -2,6 +2,9 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/MD.jpg?v=1782292363)
 
+> **Core Abstract**
+> The TD-1525 is a pneumatically driven, desktop flat screen printing machine specially designed for printing on small flat objects. It is perfectly suited for industries such as electronics, instruments, and advertising, handling items like acrylic nameplates, and electronic component shells up to 120mm in thickness. Its core advantages include a 0.01mm precision adjustable worktable and a guide rail lifting system that ensure exceptional positioning accuracy and consistency. Furthermore, it operates efficiently with an extremely low air source consumption of just 4BAR, delivering an ultra-high production speed of up to 1500 pcs/hr to significantly boost daily capacity for small-to-medium batch processing.
+
 ---
 
 ## I. Product Overview
@@ -13,7 +16,7 @@
 * **Form Factor**：**Desktop Design**. The net weight of the machine is about 65KG. It is recommended to place it on a sturdy workbench with sufficient load-bearing capacity to meet ergonomic height requirements, making it convenient for operators to align and unload materials.
 
 ### 2. Applications
-* **Industry Applications**：Widely used for printing various small flat objects (e.g., acrylic nameplates, glass lenses, electronic component shells, instrument panels, etc.).
+* **Industry Applications**：Widely used for printing various small flat objects (e.g., acrylic nameplates, electronic component shells, instrument panels, etc.).
 * **Material Characteristics**：Supports substrates up to 120MM (12CM) in thickness, offering extremely strong compatibility.
 * **Production Scale**：Perfect for small-to-medium scale batch processing. It delivers consistent performance and a high product yield.
 
@@ -37,7 +40,7 @@
 | :--- | :--- |
 | **Model** | TD-1525 |
 | **Max printing area** | 150×250MM/5.9×9.8" |
-| **Max screen frame** | 300×600MM/11.8×23.6" |
+| **Max screen frame size** | 300×600MM/11.8×23.6" |
 | **Max table size** | 180×280MM/7.1×11" |
 | **Max height of workpiece** | 120MM/4.7" |
 | **Printing speed** | 1500 pcs/hr |
@@ -83,12 +86,47 @@ Before operating this machine, customers need to prepare themselves or purchase 
 * **Q: What about warranty and after-sales services?**
   * **A**: We provide a 1-year warranty service. During the warranty period, if damage occurs under normal use according to the manual, we provide free replacement parts (the buyer is responsible for the international shipping costs from China to their local area).
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can the machine be used just by plugging it in after purchase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The machine is pneumatically driven. In addition to plugging it in, you must equip it with an air compressor with a capacity of about 90L and a power of around 2.55KW to provide an air source of at least 4BAR."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does shipping take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The machine will be packed in a wooden case and ready for shipment within 5-7 days after receiving payment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What about warranty and after-sales services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We provide a 1-year warranty service. During the warranty period, if damage occurs under normal use according to the manual, we provide free replacement parts (the buyer is responsible for the international shipping costs from China to their local area)."
+      }
+    }
+  ]
+}
+</script>
+
 ---
 
 ## VI.  Media Resources
 
-* **📽️ Operation video: ** [ https://youtu.be/YCJ55p__aV4]( https://youtu.be/YCJ55p__aV4)
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/YCJ55p__aV4?si=evyhyXV1G_YOULNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+* **📽️ Operation video: ** [ https://youtu.be/YCJ55p__aV4]( https://youtu.be/YCJ55p__aV4)
 
 ---
 
