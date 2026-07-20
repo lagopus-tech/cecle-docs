@@ -2,6 +2,9 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_k6nuj6k6nuj6k6nu.png?v=1782348129)
 
+> **Core Abstract**
+> The TD-1518 is a small-sized, pneumatically driven single-color oblique arm flat screen printing machine specifically engineered for small-area flat products. It is highly ideal for industries such as electronics, packaging, and commercial crafts, delivering consistent quality on materials like metal sheets, wood boards, and paper. The machine's core advantages stem from its lightweight yet robust oblique arm structure and cylinder-driven pneumatic printing system, ensuring uniform pressure and smooth operation. Offering ultimate cost-effectiveness with low investment costs, it boasts a remarkably fast running speed capable of reaching 1000-1200 pcs/hr, making it an excellent entry-level automation choice for small-to-medium continuous production.
+
 ---
 
 ## I. Product Overview
@@ -13,7 +16,7 @@
 * **Form Factor**：**Desktop Design**. The net weight of the machine is about 50KG. It needs to be placed on a sturdy workbench with sufficient load-bearing capacity for use. The machine is equipped with a foot switch, allowing the operator to work in a seated position and completely freeing their hands.
 
 ### 2. Applications
-* **Industry Applications**：Widely used for single-color printing of various small flat products, such as metal sheets, glass lenses, wood boards, CD cards, paper, etc.
+* **Industry Applications**：Widely used for single-color printing of various small flat products, such as metal sheets, wood boards, CD cards, paper, etc.
 * **Production Scale**：Suitable for medium and small-scale continuous production processing and commercial customized batch printing.
 
 ### 3. Core Functions
@@ -84,11 +87,46 @@ Before operating this machine, customers need to prepare themselves or purchase 
 * **Q: What about warranty and after-sales services?**
   * **A**: We provide a 1-year warranty service. During the warranty period, if damage occurs under normal use according to the manual, we provide free replacement parts (the buyer is responsible for the international shipping costs from China to their local area).
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can the machine be used just by plugging it in after purchase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The machine is pneumatically driven. In addition to plugging it in, you must equip it with an air compressor with a capacity of about 90L and a power of around 2.55KW. Also, please prepare a sturdy workbench (the machine weighs about 50kg) for operation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can this machine print multiple colors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This machine is a single-color screen printing machine. If you need to print multiple colors, you need to make multiple screens, and after printing the first color, replace the screen to overprint the second color."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What about warranty and after-sales services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We provide a 1-year warranty service. During the warranty period, if damage occurs under normal use according to the manual, we provide free replacement parts (the buyer is responsible for the international shipping costs from China to their local area)."
+      }
+    }
+  ]
+}
+</script>
+
 ---
 
 ## VI.  Media Resources
 
-* **📽️ Operation video: ** [ https://youtu.be/qLDGZA5sMtI]( https://youtu.be/qLDGZA5sMtI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OR9LDjM79IM?si=j0S9A3IS3RYl3knc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* **📽️ Operation video: ** [ https://youtu.be/OR9LDjM79IM?list=LL]( https://youtu.be/OR9LDjM79IM?list=LL)
 
 
 ---
