@@ -2,7 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/A_131c6500-3c56-430f-a039-ce278a10affe.jpg?v=1780123999)
 
-> **Core Abstract (核心摘要):** The SSF-RL-75-3 is a precision semi-automatic samosa and curry puff forming machine tailored for small-to-medium food processing plants, restaurant chains, and central kitchens looking to scale up with consistent quality. As an efficient and economical solution, it delivers a high production capacity of 650 units per hour while utilizing a durable, food-grade SUS304 stainless steel frame for maximum hygiene and longevity. Its core advantages include a highly reliable standard 3-fold mechanical cycle and pneumatically assisted precise edge sealing, ensuring perfectly uniform, leak-proof pastries with every cycle. This machine expertly balances flexible human operation with automated precision, minimizing initial investment risks while significantly maximizing your standardized production capability and brand professionalism.
+> **Core Abstract :** The SSF-RL-75-3 is a precision semi-automatic samosa and curry puff forming machine tailored for small-to-medium food processing plants, restaurant chains, and central kitchens looking to scale up with consistent quality. As an efficient and economical solution, it delivers a high production capacity of 650 units per hour while utilizing a durable, food-grade SUS304 stainless steel frame for maximum hygiene and longevity. Its core advantages include a highly reliable standard 3-fold mechanical cycle and pneumatically assisted precise edge sealing, ensuring perfectly uniform, leak-proof pastries with every cycle. This machine expertly balances flexible human operation with automated precision, minimizing initial investment risks while significantly maximizing your standardized production capability and brand professionalism.
 
 ## I. Product Overview
 
@@ -123,7 +123,9 @@ For startup food factories or small food shops transitioning to standardized pro
 
 To view the actual feeding process, dough folding path, and automated discharge of this machine, please see the demonstration video via the link below:
 
-[🎬 Click to Watch: SSF-RL-75-3 Semi-Automatic Samosa/Curry Puff Folding Machine Operation & Feeding Demo](https://youtu.be/nqPcbgWgH1s?si=V6O8gvKI6ECIX7PS)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S4851IeMeGc?si=cV9BEQWUnR9ak0vn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[🎬 Click to Watch: SSF-RL-75-3 Semi-Automatic Samosa/Curry Puff Folding Machine Operation & Feeding Demo](https://youtu.be/S4851IeMeGc?si=AZmKzY-MlFxiWr-3)
 
 ---
 
@@ -140,4 +142,4 @@ To view the actual feeding process, dough folding path, and automated discharge 
 * **Delivery Time**: Within 2 months after confirmation of deposit.
 ### Request a Quote & Purchase
 
-[🛒 Click here to view pricing and purchase on our official store](https://cecle.net/products/automatic-samosa-making-samosa-folding-machine-and-fold-patti-samosa?_pos=7&_sid=c17744283&_ss=r)
+[🛒 Click here to view pricing and purchase on our official store](https://cecle.net/products/automatic-samosa-making-samosa-folding-machine-and-fold-patti-samosa?_pos=7&_sid=c17744283&_ss=r)  
