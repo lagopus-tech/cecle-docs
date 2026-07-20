@@ -88,6 +88,11 @@ nav:
           - Climbing Belt Conveyor: packing-machine/screw-conveyor/climbing-belt-conveyor.md
           - Bucket Elevator: packing-machine/screw-conveyor/bucket-elevator.md
           - Z-type Bucket Elevator: packing-machine/screw-conveyor/z-type-bucket-elevator.md
+      - Stand-up Pouch Packing Machine:
+          - Overview: packing-machine/stand-up-pouch-packing-machine/stand-up-pouch-packing-machine-index.md
+          - Granule Pouch Packing: packing-machine/stand-up-pouch-packing-machine/granule-stand-up-pouch-packing-machine.md
+          - Liquid Pouch Packing: packing-machine/stand-up-pouch-packing-machine/liquid-stand-up-pouch-packing-machine.md
+          - Powder Pouch Packing: packing-machine/stand-up-pouch-packing-machine/powder-stand-up-pouch-packing-machine.md
       - Printing Machine: 
           - Screen Printing Machine:
               - Overview: packing-machine/printing-machine/screen-printing-machine/screen-printing-machine-index.md
