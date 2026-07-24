@@ -1,104 +1,184 @@
-# Blister Packing Machine Selection Guide & Product Overview
-
-## 1. What is a Blister Packing Machine
+# Blister Packing Machine Selection Guide & Full Product Overview
+## 1. What Is A Blister Packing Machine
 ### 1.1 Core Definition
-A Blister Packing Machine is a specialized packaging device that seals products between PVC blisters and aluminum foil films. Through core processes including heating, forming and sealing, it achieves independent sealed packaging of products, combining dual attributes of physical protection, moisture/dust resistance and product display. It is widely suitable for packaging small-sized products in pharmaceuticals, food, electronics, hardware, daily chemicals and other industries, covering all scenarios from laboratory trial production to large-scale production.
+Blister Packing Machine, also known as Alu-Plastic Packing Machine, is special packaging equipment that seals tablets, capsules, small hardware parts between PVC/PET blister shells and pharmaceutical aluminum foil via heat sealing. It adopts processes including heat pressing, foil winding, blanking to form individual sealed packs. The finished packs feature moisture-proof, light-proof, dust-proof, anti-collision and visible display performance. The equipment covers lab sampling, small workshop batch processing and pharmaceutical factory mass continuous production, widely applied in pharmaceuticals, food, electronics & hardware, daily cosmetic samples and other industries for small-sized products.
 
 ### 1.2 Working Principle
-This series of blister packing machines mainly adopts hot-press sealing technology, divided into four driving and control modes (manual, pneumatic, electric and fully automatic) based on model positioning. The digital temperature control module and time relay accurately control the heating temperature and sealing duration, fusing the aluminum foil film and PVC blister under uniform pressure to ensure firm and leak-free sealing. Mid-to-high-end models are additionally equipped with film winding/unwinding devices, PLC touch screens, stepper motors and photoelectric eye identification systems, enabling automatic conveying of aluminum foil rolls and precise alignment of printed patterns. Some fully automatic models can independently complete the entire process of forming, filling, cutting and waste recycling. All models support customized molds to fit products of different shapes, sizes and depths, flexibly meeting various packaging requirements.
+The whole series is divided into three categories: desktop manual/semi-automatic, vertical semi-automatic and DPP full-automatic flat machines, with two core processes:
+1. Semi-automatic Desktop & Vertical Series (MTBP / TBP / ETBP / BP / CP / DP)
+Operators manually load materials into pre-made PVC blisters and place them in molds, then cover with aluminum foil sheets or rolls. Electric heating plates or air cylinders apply constant temperature & pressure to fuse aluminum foil and blisters. Operators cut excess foil to get finished products. High-end DP models are equipped with photoelectric color mark sensor for precise registration of printed aluminum foil.
+2. DPP Full-automatic Series (DPP-80 / 150 / 260 / 140E / 250E)
+Integrated roll-to-roll continuous production: PVC unwinding → heating blister forming → automatic feeding → aluminum foil heat sealing → batch coding → blanking → waste foil rewinding. High-end models support both Alu-Alu cold forming and Alu-Plastic hot forming, as well as particle missing inspection & automatic rejection. The PLC touch screen controls all parameters, and the machines can connect to automatic assembly lines.
 
-### 1.3 Core Values
-- Excellent protection: The fully sealed structure effectively blocks moisture, dust and oxidation, prevents collision damage during transportation and storage, and greatly extends product shelf life;
-- Hygienic and convenient: Independent blister packaging ensures single use without affecting remaining products, eliminating secondary pollution and meeting basic hygiene requirements for food and pharmaceutical industries;
-- High site adaptability: Benchtop models are compact and lightweight, usable directly on desktops without large space occupation; Vertical models feature a regular structure, and fully automatic models are compact, suitable for small workshops, laboratories, small workshops and other sites;
-- Low operation threshold: Manual and semi-automatic models are easy to operate, usable by novices without professional training; Fully automatic models support one-click parameter setting and automatic operation, greatly saving labor costs;
-- Wide voltage compatibility: All models support 110V/220V 50Hz/60Hz wide voltage, driven by conventional mains power without high-voltage connection, adapting to power grid environments at home and abroad.
+### 1.3 Core Advantages
+- Superior Sealing Protection: Fully sealed Alu-Plastic / Alu-Alu structure isolates moisture, light and dust, extending shelf life of medicines & food, and prevents breakage during transportation.
+- Sanitary & Convenient Single-dose Pack: Individual blister packs avoid cross-contamination after partial use, complying with basic GMP hygiene standards for pharmaceutical products.
+- Flexible Site Adaptation: Desktop models can be placed on tables and shipped by air/courier; vertical semi-automatic machines occupy moderate space; full-automatic flat machines fit standardized production workshops.
+- Low Operation Threshold: Manual machines can be mastered within 5 mins; semi-automatic machines support one-click start; full-automatic machines store parameter presets.
+- Global Voltage Compatibility: All models support 110V / 220V 50/60Hz. High-power full-automatic machines support 380V three-phase industrial power.
+- High Customization Flexibility: Custom molds are available. Optional batch stamping, Alu-Alu dual process and multi-cavity multi-board designs.
 
 ### 1.4 Applicable Industries
-- Pharmaceutical industry: Tablets, capsules, soft capsules, small ointments, disposable medical accessories, medical consumables, etc.;
-- Food industry: Milk tablets, candies, nuts, freeze-dried foods, small-sized snacks, etc.;
-- Electronics & hardware: Small electronic components, screws, nuts, micro precision parts, hardware accessories, etc.;
-- Daily chemicals: Sample skincare products, trial cosmetics, small-sized toiletries, etc.;
-- Special scenarios: Laboratory trial production and sampling, scattered production in small workshops, customized e-commerce small-batch packaging, multi-variety production switching.
+- Pharmaceutical Industry: Tablets, hard/soft capsules, pills, supplies, disposable medical supplies
+- Food Industry: Milk tablets, candies, freeze-dried snacks, health care products
+- Electronics & Hardware: Micro screws, earphone accessories, button batteries, precision tiny parts
+- Daily Cosmetics: Skincare samples, capsule essence, small personal care packs
+- Scenarios: Lab R&D sampling, pharmacy small batch filling, small processing factories, mass pharmaceutical production lines
 
-## 2. Core Model Differentiation Selection Table
+## 2. Full Series Model Differentiation Selection Table
+### 2.1 Desktop Mini Blister Machines (Tabletop, Sampling & Ultra-low Output)
+| Model | Body Type | Drive & Control | Air Requirement | Working Table Size | Production Speed | Net Weight | Standard Operation Flow | Core Features | Application Scenarios |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| MTBP-180 | Desktop Tabletop | Manual Lever + Electric Heating | No Air Compressor Required | 140×180mm | 5-8 pcs/min | 23KG | Load materials into blisters → Cover aluminum foil sheet → Manual lever pressing → Trim edges | Plug & play, no auxiliary equipment, only for unprinted aluminum sheets, lowest cost | Labs, pharmacies, small workshops without air supply, daily output < 100 packs |
+| TBP-180 | Desktop Tabletop | Pneumatic Semi-auto | 0.6-0.8Mpa Air Compressor Required | 140×180mm | 5-10 pcs/min | 23KG | Load materials into blisters → Cover aluminum foil sheet → Auto pressing by button → Trim edges | Uniform cylinder pressure, labor-saving, fit aluminum sheets | Small batch sampling, sites with air compressor |
+| ETBP-180 | Desktop Tabletop | Full Electric Auto Winding | No Air Compressor Required | 140×180mm | 10-15 pcs/min | 52KG | Load materials into blisters → Auto aluminum foil roll feeding → Auto heat sealing → Trim edges | Built-in foil winding system, no manual sheet cutting, fit printed aluminum rolls | Small batch long-term production, customers using aluminum rolls without air supply |
 
-| Model Series | Core Model | Body Type | Driving/Control Mode | Worktable Size (mm/inch) | Production Speed | Air Supply Requirement | Net Weight (KG/lb) | Standard Operation Procedure | Core Features | Applicable Scenarios |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Benchtop Entry-level | MTBP-180 | Benchtop | Manual lever + electric heating | 140×180mm（5.51×7.09inch） | 5-8 pcs/min | None (plug-and-play) | 23/25KG（50.7/55.1lb） | Manually put capsules, tablets and other products into PVC blisters → Place the loaded PVC blisters into the machine mold → Put in aluminum foil sheet → Press the switch → Manually press down to complete sealing → Trim excess aluminum foil edges with scissors to get the finished package | Pure manual benchtop operation, compact and lightweight, space-saving, desktop placement, plug-and-play, compatible with aluminum foil sheets | Small workshops, laboratories, low-output product packaging, products without aluminum foil printing |
-| Benchtop Pneumatic | TBP-180 | Benchtop | Pneumatic control | 140×180mm（5.51×7.09inch） | 5-10 pcs/min | 0.6-0.8Mpa (air compressor required) | 23/25KG（50.7/55.1lb） | Manually put capsules, tablets and other products into PVC blisters → Place the loaded PVC blisters into the machine mold → Put in aluminum foil sheet → Press the switch → Machine automatically presses down to complete sealing → Trim excess aluminum foil edges with scissors to get the finished package | Semi-automatic benchtop, compact, desktop placement, no manual pressure required, uniform sealing force, compatible with aluminum foil sheets | Small workshops, laboratories, low-output product packaging, products without aluminum foil printing |
-| Benchtop Electric | ETBP-180 | Benchtop | Full electric control | 140×180mm（5.51×7.09inch） | 5-10 pcs/min | None (plug-and-play) | 52/55KG（114.6/121.3lb） | Manually put capsules, tablets and other products into PVC blisters → Place the loaded PVC blisters into the machine mold → Press the switch → Machine automatically presses down to complete sealing → Trim excess aluminum foil edges with scissors to get the finished package | Semi-automatic benchtop, compact, desktop placement, plug-and-play, built-in film winding/unwinding device for aluminum foil rolls, eliminating sheet cutting steps | Small workshops, laboratories, compatible with printed aluminum foil roll products |
-| Vertical Basic | BP-180 | Vertical (floor-standing) | Pneumatic control | 140×180mm（5.51×7.09inch） | 5-10 pcs/min | 0.6-0.8Mpa (air compressor required) | 110KG（242.5lb） | Manually put capsules, tablets and other products into PVC blisters → Place the loaded PVC blisters into the machine mold → Put in aluminum foil sheet → Press the switch → Manually press down to complete sealing → Trim excess aluminum foil edges with scissors to get the finished package | Manual vertical, stable body, suitable for fixed-site production, compatible with aluminum foil sheets | Small workshops, small factories, low-output product packaging, equipped with air compressor, products without aluminum foil printing |
-| Vertical Standard | CP-180 | Vertical (floor-standing) | Pneumatic control | 140×180mm（5.51×7.09inch） | 5-10 pcs/min | 0.6-0.8Mpa (air compressor required) | 120KG（264.6lb） | Manually put capsules, tablets and other products into PVC blisters → Place the loaded PVC blisters into the machine mold → Press the switch → Machine automatically presses down to complete sealing → Trim excess aluminum foil edges with scissors to get the finished package | Semi-automatic vertical, stable body, no manual pressure required, built-in film winding/unwinding device for aluminum foil rolls | Small workshops, small factories, conventional small-batch product packaging, equipped with air compressor |
-| Vertical Upgraded | DP-180 | Vertical (floor-standing) | Pneumatic + PLC + stepper motor + photoelectric eye | 140×180mm（5.51×7.09inch） | 5-10 pcs/min | 0.6-0.8Mpa (air compressor required) | 150KG（330.7lb） | Manually put capsules, tablets and other products into PVC blisters → Place the loaded PVC blisters into the machine mold → Press the switch → Machine automatically presses down to complete sealing → Trim excess aluminum foil edges with scissors to get the finished package | Semi-automatic vertical, built-in film winding/unwinding device for rolls, equipped with PLC, stepper motor and photoelectric eye identification, precise alignment of aluminum foil printed patterns | Small workshops, small factories, conventional small-batch product packaging, compatible with printed aluminum foil roll products |
-| Fully Automatic Small | DPP-80 | Vertical (floor-standing) | Fully automatic pneumatic + PLC touch screen | 105*70mm（4.13*2.76inch） | 10-33 times/min | 0.6-0.8Mpa (air compressor required) | 480/520KG（1058.2/1146.4lb） | Connect air supply and power → Install PVC and aluminum foil rolls → Set heating temperature and operating speed → Inching test run after temperature stabilization → Start automatic production after qualified test run → Cool and clean the equipment after shutdown | Compact structure, stable operation, PID precise temperature control, supports aluminum-plastic, aluminum-aluminum, paper-plastic packaging, automatically completes forming, filling, heat sealing, batch number printing, cutting, low noise, easy maintenance | Laboratories, small workshops, small-batch large-scale packaging of pharmaceuticals and similar small products, continuous automatic production |
-| Fully Automatic Medium | DPP-150 | Vertical (floor-standing) | Fully automatic pneumatic + PLC touch screen + variable frequency speed control | 130*100mm（5.12*3.94inch） | 10-44 times/min | 0.6-0.8Mpa (air compressor required) | 890KG（1962.1lb） | Connect air supply and power → Install packaging rolls → Set temperature, speed and other parameters → Inching test run after temperature stabilization → Automatic production after qualified test run → Complete cleaning and maintenance after cooling shutdown | Flat plate design, stable and low-noise parallel shaft gear transmission, adjustable station spacing, convenient mold change, automatically completes feeding, forming, filling, heat sealing, batch number printing, cutting, waste recycling, optional missing particle detection and rejection function, compliant with GMP standards | Small and medium workshops, multi-variety small and medium-batch product packaging, suitable for pharmaceuticals such as tablets and capsules |
-| Fully Automatic Large | DPP-260 | Vertical (floor-standing) | Fully automatic pneumatic + PLC touch screen + variable frequency speed control | 250*120mm(9.84*4.72inch) | 15-45 times/min | 0.6-0.8Mpa (air compressor required) | 1200KG(2645.54lb) | Connect air supply and power → Install packaging rolls → Set temperature, speed and other parameters → Inching test run after temperature stabilization → Automatic production after qualified test run → Complete cleaning and maintenance after cooling shutdown | Flat plate design, stable and low-noise parallel shaft gear transmission, adjustable station spacing, convenient mold change, automatically completes feeding, forming, filling, heat sealing, batch number printing, cutting, waste recycling, optional missing particle detection and rejection function, compliant with GMP standards | Small and medium workshops, multi-variety small and medium-batch product packaging, suitable for pharmaceuticals such as tablets and capsules |
+### 2.2 Vertical Semi-automatic Blister Machines (Floor-standing, Medium & Small Batch)
+| Model | Body Type | Drive Control | Air Supply | Working Size | Speed | Weight | Core Features | Application Scenarios |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| BP-180 | Vertical Floor | Pneumatic + Foot Switch | 0.6-0.8Mpa | 140×180mm | 5-10 pcs/min | 110KG | Stable vertical frame, only support aluminum sheets without auto foil feeding | Small fixed factories, low-cost batch packaging |
+| CP-180 | Vertical Floor | Pneumatic + Auto Foil Rewind | 0.6-0.8Mpa | 140×180mm | 5-10 pcs/min | 120KG | Built-in aluminum roll unwinding & winding, no manual sheet laying | Regular small batch, customers using aluminum foil rolls |
+| DP-180 | Vertical Floor | PLC + Stepper Motor + Photoelectric Registration | 0.6-0.8Mpa | 140×180mm | 5-10 pcs/min | 150KG | Color mark alignment for printed foil, support batch stamping | Packaging with color printed aluminum foil, mid-end small batch orders |
 
-### Core Selection Suggestions
-1. Select by production capacity: For ultra-small batch scenarios with daily output below 100 pieces, choose the MTBP-180 benchtop manual model; For small-batch scenarios with daily output of 100-500 pieces, choose TBP-180 and ETBP-180 benchtop models; For conventional batch scenarios with daily output of 500-2000 pieces, choose BP-180, CP-180 and DP-180 vertical models; For large-scale production with daily output over 2000 pieces, directly select the DPP-80 and DPP-150 fully automatic series.
-2. Select by site and supporting facilities: For scenarios without a fixed workshop and only desktop operation, give priority to the 180 series benchtop models; For scenarios without an air compressor, directly choose plug-and-play MTBP-180 and ETBP-180; For scenarios with a fixed workshop and equipped with an air compressor, choose vertical 180 series or fully automatic models.
-3. Select by aluminum foil type: For those only using aluminum foil sheets without printing requirements, choose MTBP-180, TBP-180, BP-180; For those using aluminum foil rolls without high-precision alignment requirements, choose ETBP-180, CP-180; For aluminum foil with printed patterns requiring precise alignment, choose DP-180.
-4. Select by operation convenience: For those with an extremely low budget and acceptable pure manual operation, choose MTBP-180; For those wanting to save labor and pursue semi-automatic operation, choose pneumatic or electric semi-automatic models; For those with high requirements for packaging accuracy and production efficiency, hoping to reduce manual intervention, choose the fully automatic series.
+### 2.3 DPP Full-automatic Flat Series (Mass Continuous Production)
+#### 2.3.1 Small Full-auto DPP-80
+| Item | Specification |
+| ---- | ---- |
+| Control System | PLC Touch Screen Full Automatic |
+| Air Requirement | 0.6-0.8Mpa Air Compressor |
+| Effective Forming Size | 105×70mm |
+| Production Speed | 10-33 cycles/min |
+| Machine Weight | 480-520KG |
+| Core Advantages | Compact structure, auto forming / feeding / sealing / blanking integrated |
+| Application | Small health product factories, lab preparation rooms, small standardized production lines |
 
-## 3. Common Questions & Technical Answers
-### 3.1 Equipment Operation
-- Q: What are the power supply requirements of all models? Is a separate high-voltage connection required?
-- A: All models support 110V/220V 50Hz/60Hz universal wide voltage. The power of benchtop and vertical 180 series is 1000W, and the fully automatic DPP series is 2.8kw. They can be used with conventional household or workshop mains power without separate high-voltage connection, and wiring is simple and convenient.
-- Q: What specification of air compressor is required for pneumatic models?
-- A: All pneumatic models (TBP-180, BP-180, CP-180, DP-180, DPP full series) are uniformly compatible with 1200W*50L air compressors. Normal sealing production can be met as long as the air pressure is stably maintained at 0.6-0.8Mpa.
-- Q: How to adjust the equipment heating temperature and sealing time?
-- A: For 180 series manual and basic semi-automatic models, adjust the sealing time (conventional 3-6s) through the digital time relay; ETBP-180 supports precise temperature control adjustment of 80-150℃; For DP-180 and fully automatic DPP series, directly set temperature, time and speed parameters visually through the PLC touch screen, which is easy to operate.
-- Q: Does professional training are required to operate the equipment? Can novices get started quickly?
-- A: 180 series manual and semi-automatic models have extremely simple operation steps. The manufacturer provides basic operation instructions, no professional training is required, and novices can master them in a short time; Fully automatic models only need to set parameters in advance and run automatically after qualified test run, with a very low operation threshold.
+#### 2.3.2 Medium Full-auto DPP-150
+| Item | Specification |
+| ---- | ---- |
+| Control System | PLC Touch Screen + Variable Frequency Speed Regulation |
+| Air Requirement | 0.6-0.8Mpa Air Compressor |
+| Effective Forming Size | 130×100mm |
+| Production Speed | 10-44 cycles/min |
+| Machine Weight | 890KG |
+| Core Advantages | Adjustable stations, fast mold change, optional particle rejection, basic GMP compliance |
+| Application | Medium & small pharmaceutical factories, multi-variety batch production |
 
-### 3.2 Mold & Customization
-- Q: What materials are required to customize a mold? How long is the customization cycle?
-- A: To customize a mold, 6-8 pieces of products or PVC blister samples are required. The manufacturer precisely opens the mold according to the size, shape and depth of the samples; The customization cycle of conventional molds is short, and molds can be produced and delivered synchronously with the equipment without delaying the production schedule.
-- Q: Are molds interchangeable? Do I need to re-open the mold when changing products?
-- A: Molds are exclusively customized. One set of molds is only suitable for one size and shape of product or blister. For later replacement of product specifications, new molds need to be customized according to new samples. The manufacturer supports separate mold customization and procurement.
-- Q: Can production dates and batch numbers be printed on the package?
-- A: Printing function is available for all models. If printing requirements are specified during mold customization, printing modules such as production date, batch number and brand logo can be integrated. Sealing and printing are completed synchronously; Fully automatic models are equipped with an independent batch number printing device without additional equipment.
+#### 2.3.3 Large Full-auto DPP-260
+| Item | Specification |
+| ---- | ---- |
+| Control System | PLC Touch Screen + Variable Frequency Speed Regulation |
+| Air Requirement | 0.6-0.8Mpa Air Compressor |
+| Effective Forming Size | 250×120mm |
+| Production Speed | 15-45 cycles/min |
+| Machine Weight | 1200KG |
+| Core Advantages | Wide large plate, high-speed continuous operation, automatic waste recovery |
+| Application | Medium pharmaceutical factories, mass food production lines |
 
-### 3.3 Equipment Maintenance & Consumables
-- Q: What are the vulnerable parts of the equipment? Can they be purchased separately?
-- A: The core vulnerable part is the heating plate. All heating plates adopt a standardized quick-release design for fast replacement. The manufacturer can separately supply various parts such as heating plates, molds, roll film accessories and photoelectric heads, with convenient after-sales supply.
-- Q: What consumables are compatible with the equipment? Are there any special requirements?
-- A: All models are compatible with PVC blisters and aluminum foil films, divided into aluminum foil sheets and rolls. There are no special consumable requirements. Conventional and compliant PVC blisters and aluminum foil films on the market can be used. The manufacturer can also provide recommended compatible consumables.
-- Q: What should I do if the heating plate is damaged?
-- A: The heating plate features a quick-release and quick-install structure, which can be replaced by users without professional tools; The manufacturer provides complete supporting parts and remote fault guidance throughout the process to solve problems quickly without affecting normal production.
+#### 2.3.4 Dual-function Alu-Alu & Alu-Plastic DPP-140E / DPP-250E
+| Model | Max Forming Size | Core Functions | Output | Target Customers |
+| ---- | ---- | ---- | ---- | ---- |
+| DPP-140E | 140×120mm | Switch between Alu-Alu cold forming & Alu-Plastic hot forming by mold, 3-stage particle inspection | Alu-Alu:15-30 cycles/min; Alu-Plastic:20-45 cycles/min | Medium & small pharmaceutical factories with limited space, light-sensitive medicine production |
+| DPP-250E | 250×120mm | Wide plate, water-cooled mold, visual rejection, tear line optional | Alu-Alu:15-30 cycles/min; Alu-Plastic:20-45 cycles/min | Large pharmaceutical manufacturers, high-standard GMP workshops |
 
-### 3.4 Equipment Performance
-- Q: Can the 180 series models package smaller-sized products?
-- A: Yes. The worktable size of the 180 series is 140×180mm (5.51×7.09inch), which is the maximum packaging size. It can be compatible with various smaller-sized products and blisters downward. Only the customized mold of the corresponding specification needs to be replaced without changing the whole machine.
-- Q: Does the fully automatic DPP series support special-shaped blister packaging?
-- A: Yes. The DPP full series can customize exclusive forming and sealing molds according to the products or blister samples provided by customers, suitable for various special-shaped, non-standard sizes and blister packaging of different depths. Mold replacement is convenient, adapting to multi-variety production switching.
-- Q: How to ensure the sealing effect of the equipment?
-- A: All models ensure sealing quality through three guarantees: first, precise temperature control to avoid high-temperature melting damage or low-temperature loose sealing; second, uniform pressure output (manual pressure for manual models, uniform cylinder pressure for pneumatic and electric models) for dead-angle-free sealing; third, precise time control to ensure in-place sealing and eliminate leaky and false sealing.
+## 3. Core Selection Suggestions
+### 3.1 Select By Daily Output
+1. Daily output < 100 packs for sampling & filling: MTBP-180 manual desktop model
+2. Daily output 100-500 small batches: TBP-180 / ETBP-180 desktop models
+3. Daily output 500-2000 regular batches: BP / CP / DP vertical semi-automatic models
+4. Daily output > 2000 continuous mass production: All DPP full-automatic series
 
-## 4. Customization Capabilities of This Machine Series
-### 4.1 Core Customization: Mold Customization
-- Size customization: Precisely customize exclusive molds of different lengths, widths and forming depths according to customers' product or blister samples. One set of molds corresponds to one specification, perfectly fitting products and avoiding product shaking and displacement;
-- Shape customization: Supports mold customization for round, square, special-shaped and various irregular blisters, fully adapting to packaging of small products with different shapes;
-- Printing integration: Molds can be integrated with printing modules such as production date, batch number, expiration date and brand logo. Sealing and printing processes are completed synchronously, eliminating subsequent secondary processing steps and improving packaging efficiency.
+### 3.2 Select By Air Compressor Condition
+- No air compressor, only common city power available: MTBP-180, ETBP-180 all-electric models (plug & play)
+- Already equipped with 0.6-0.8Mpa air compressor: All pneumatic desktop, vertical and DPP full-automatic machines are available
 
-### 4.2 Function Customization: Equipment Configuration Expansion
-- Foil feeding system installation: The vertical BP-180 basic model is not equipped with an automatic foil feeding device, and a roll film winding/unwinding module can be installed later according to production needs. The manufacturer provides exclusive accessories and installation guidance;
-- Control mode upgrade: Basic manual models can be upgraded to pneumatic semi-automatic models, and basic pneumatic models can be upgraded to PLC touch screen + photoelectric eye alignment models to meet higher-precision packaging requirements;
-- Detection function optional: For high-demand industries such as pharmaceuticals and food, optional material shortage detection, sealing detection and automatic defective product rejection functions are available, greatly improving packaging qualification rate and reducing defective rate.
+### 3.3 Select By Aluminum Foil Type
+1. Unprinted aluminum sheets for low-cost simple packaging: MTBP, TBP, BP-180
+2. Unprinted aluminum rolls to cut sheets manually: ETBP, CP-180
+3. Color printed aluminum foil requiring precise pattern alignment: DP-180, all DPP full-automatic machines
+4. Light-sensitive medicines requiring Alu-Alu cold forming: DPP-140E / DPP-250E dual-function models
 
-### 4.3 Adaptability Customization: Industry-specific Optimization
-- Pharmaceutical industry: Optimize sealing accuracy and equipment hygiene structure, adopt anti-pollution design for molds, comply with pharmaceutical industry packaging specifications, and some models can meet basic GMP requirements;
-- Electronics & hardware industry: Customize deepened and thickened blister molds to enhance product protection performance, effectively avoiding collision and scratch damage of electronic components and hardware accessories in packaging;
-- Food industry: Adopt food-grade contact parts, optimize temperature control range to prevent high temperature from affecting food quality and taste, and meet food packaging hygiene and safety standards.
+### 3.4 Select By Site & Automation Requirement
+1. Tabletop placement, movable small space: Desktop MTBP / TBP / ETBP
+2. Fixed workshop, medium batch, limited budget: BP / CP vertical semi-automatic
+3. Standardized workshop, 24h non-stop production, labor reduction: DPP full-automatic flat series
+4. Pharmaceutical factories with GMP & particle inspection requirement: DPP-150 / 260 / 140E / 250E
 
-### 4.4 Customization Process
-1. Customers submit product or blister samples, accurate size parameters, and clarify packaging requirements (including printing requirements, production capacity, aluminum foil type, accuracy standards, etc.);
-2. The manufacturer issues an exclusive mold design plan and equipment configuration optimization plan according to customer needs, and connects with customers to confirm all details;
-3. After the customer confirms the plan, the manufacturer carries out equipment production, debugging and mold customization synchronously;
-4. The equipment and molds are delivered synchronously. The manufacturer provides a full-process service of remote or on-site mold installation, equipment debugging and operation training to ensure normal production.
+### 3.5 Select By Packaging Material
+1. Regular PVC + pharmaceutical aluminum foil (tablets & capsules): All series compatible
+2. PET eco-friendly high-barrier sheets: DP & full DPP series supported
+3. Alu-Alu cold forming light barrier packs: Only DPP-140E / DPP-250E available
 
-### 4.5 Customization Guarantee
-- All custom molds undergo multiple sealing tests before leaving the factory to ensure perfect adaptation to the equipment and qualified sealing effect;
-- Customized molds and complete machines are included in the unified after-sales support system, and the manufacturer provides lifelong technical support;
-- Support separate customization and supplement of molds in the later stage, flexibly meeting customers' production needs of multi-variety, small-batch and frequent production switching.
+## 4. General Technical FAQ
+### 4.1 Power & Air Matching
+**Q: What are the power and voltage specifications of the whole series?**
+A: Desktop 180 series power: 500W / 1000W; vertical semi-automatic: 1000-1500W; DPP full-automatic: 2.8-8.5KW. All models support 110V / 220V 50/60Hz. Large DPP machines can be customized to 380V three-phase industrial power, compatible with standard factory power supply.
+
+**Q: What specification of air compressor for pneumatic models?**
+A: All pneumatic desktop, vertical and DPP full-automatic machines match 1200W / 50L silent air compressor, stable air pressure at 0.6-0.8Mpa for normal operation.
+
+**Q: Can pneumatic machines work without air compressor?**
+A: No, air cylinders rely on air pressure for pressing. Customers without air supply shall choose MTBP or ETBP all-electric desktop machines.
+
+### 4.2 Mold Customization
+**Q: Are molds included with machine standard package?**
+A: All machines do not include molds. Molds are customized separately based on product samples. Customers need to provide 6-8 pcs PVC blister samples for mold design before order.
+
+**Q: Are molds interchangeable? Do I need new molds for new products?**
+A: Molds can be shared among machines with identical table size. New molds are required if product size, shape or blister depth changes. 1-4 cavity multi-cavity molds are available to boost single-cycle output.
+
+**Q: Can molds stamp batch number & production date?**
+A: Stamping modules can be integrated into molds for desktop & vertical semi-automatic machines. All DPP full-automatic machines come with independent coding device to print batch & expiry date during heat sealing.
+
+### 4.3 Consumables & Sealing Troubleshooting
+**Q: What packaging materials are compatible?**
+- Semi-automatic desktop & vertical: Pre-made PVC / PET blisters, pharmaceutical aluminum sheets & rolls
+- DPP full-automatic: PVC / PET rolls, PTP heat-seal aluminum foil, cold-form Alu-Alu film
+
+**Q: How to fix incomplete sealing, bubbles and foil offset?**
+1. Incomplete sealing / air bubbles: Increase heating temperature & holding time, check stable air pressure
+2. Wrinkled & offset aluminum foil: Adjust winding tension, calibrate guide roller parallelism
+3. Misalignment of printed patterns: Activate photoelectric compensation on DP & DPP machines, recalibrate color mark sensor
+
+### 4.4 Maintenance & Warranty
+**Q: What are wearable spare parts and can I buy them separately?**
+A: Heating plates, high-temperature adhesive tapes, sealing gaskets, photoelectric sensors (DP/DPP), high-frequency electrical components (full-automatic) are all available for separate purchase. We provide remote replacement guidance.
+
+**Q: What is the machine warranty policy?**
+A: All machines enjoy 1-year whole machine warranty. Wearable parts (heating plate, seal gasket, electronic components) are excluded. We provide lifetime technical support, mold renovation and on-site commissioning service.
+
+**Q: How to clean residual aluminum glue on heating plate?**
+A: Cut off power and wait for full cooling, wipe with soft cloth dipped in anhydrous alcohol. Do not use steel wool or hard blades to scratch the coating, which will cause uneven sealing.
+
+## 5. Full Machine Customization Capability
+### 5.1 Core Mold Customization
+1. Size & Depth Custom: Custom single/multi-cavity molds according to product dimension and blister depth
+2. Shape Custom: Exclusive molds for round, square, irregular capsules & suppositories
+3. Function Integration: Molds with batch number, LOGO & expiry date stamping module to eliminate secondary processing
+
+### 5.2 Optional Machine Upgrades
+1. Feeding System Upgrade: BP basic model can be retrofitted with auto aluminum foil winding device
+2. Control Upgrade: Basic pneumatic machines can upgrade to PLC + photoelectric registration system
+3. Inspection Optional: Pharmaceutical DPP machines support particle missing detection & automatic rejection
+4. Process Expansion: DPP-140E / 250E support Alu-Alu cold forming process upgrade
+5. Voltage & Panel Custom: Overseas orders support 110V voltage & English touch screen customization
+
+### 5.3 Industry Exclusive Optimization
+1. Pharmaceutical Industry: All stainless steel contact parts, burr-free molds. DPP series meet basic GMP standards for sterile medicine packaging
+2. Food Industry: Food-grade heating contact surfaces, optimized temperature curve to avoid flavor damage by high heat
+3. Electronics & Hardware: Deepened & thickened molds with higher clamping force to prevent scratch & collision of tiny parts
+4. Export Customization: Reinforced wooden export package, Chinese & English bilingual manuals, overseas voltage adaptation
+
+### 5.4 Complete Custom Process
+1. Customer provides product samples / blister drawings, clarifies daily output, aluminum foil type, workshop air & power condition
+2. Supplier issues machine configuration & mold design proposal, confirm all dimension & function details with customer
+3. Machine production and mold manufacturing proceed simultaneously. Multiple sealing tests before factory delivery
+4. Machine delivery with remote video commissioning support; on-site installation & operator training available
+
+## 6. General Standard Operation Flow (Vertical Semi-automatic Example)
+1. Connect power and air compressor, stabilize air pressure at 0.6-0.8Mpa. Power on and preheat heating plate, set temperature 80-150℃, sealing time 3-6s
+2. Fix customized mold on worktable, load tablets / capsules into PVC blisters
+3. Lay aluminum foil sheet or activate auto aluminum roll feeding system
+4. Step on foot switch or press panel button for automatic constant-temperature heat pressing
+5. Lift heating plate after sealing, take out blister board and trim excess aluminum foil with scissors
+6. Repeat loading & sealing for continuous production
+7. Stop heating, air supply and power after work. Clean mold residual foil glue after full cooling, maintain slide rail & cylinder regularly
