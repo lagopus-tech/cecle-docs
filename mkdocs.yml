@@ -66,6 +66,17 @@ nav:
           - DPP-80 Fully Automatic Small: packing-machine/Blister-Packing-Machine/dpp-80.md
           - DPP-150 Fully Automatic Medium: packing-machine/Blister-Packing-Machine/dpp-150.md
           - DPP-260 Fully Automatic Large: packing-machine/Blister-Packing-Machine/dpp-260.md
+      - Blister Sealing Machine:
+          - Overview: packing-machine/blister-sealing-machine/blister-sealing-machine-index.md
+          - BS-2030 Mold Heating: packing-machine/blister-sealing-machine/bs-2030.md
+          - BS-2037 Mold Heating: packing-machine/blister-sealing-machine/bs-2037.md
+          - BS-3180 Mold Heating: packing-machine/blister-sealing-machine/bs-3180.md
+          - BS-5030 Mold Heating: packing-machine/blister-sealing-machine/bs-5030.md
+          - BS-5070 Mold Heating: packing-machine/blister-sealing-machine/bs-5070.md
+          - UBS-5030 Heating Plate Type: packing-machine/blister-sealing-machine/ubs-5030.md
+          - HFQ-01 High Frequency: packing-machine/blister-sealing-machine/hfq-01.md
+          - HFQ-02 / HFQ-03 High Frequency: packing-machine/blister-sealing-machine/hfq-02-hfq-03.md
+          - HFQ-04 / HFQ-05 High Frequency: packing-machine/blister-sealing-machine/hfq-04-hfq-05.md
       - Honey Straw Filling Machine:
           - Overview: packing-machine/filling-machine/honey-straw-filling-machine/honey-straw-filling-machine-index.md
       - Vacuum Skin Packaging Machine:
