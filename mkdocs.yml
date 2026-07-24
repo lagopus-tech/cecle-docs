@@ -47,7 +47,7 @@ nav:
   - Home: index.md
   - Packing Machinery:
       - Cellophane Wrapping Machine:
-          - Overview: packing-machine/cellophane-wrapping-machine/cellophane-wrapping-machine.md
+          - Overview: packing-machine/cellophane-wrapping-machine/cellophane-wrapping-machine-index.md
           - ACW-88 Automatic: packing-machine/cellophane-wrapping-machine/acw-88.md
           - ACW-88D Dot Heat: packing-machine/cellophane-wrapping-machine/acw-88d.md
           - ACW-88F Film Rewind : packing-machine/cellophane-wrapping-machine/acw-88f.md
