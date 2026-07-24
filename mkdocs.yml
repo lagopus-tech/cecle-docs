@@ -82,7 +82,7 @@ nav:
           - ETBPC-180 Electric Benchtop: packing-machine/blister-cutting-machine/etbpc-180.md
       - Honey Straw Filling Machine:
           - Overview: packing-machine/filling-machine/honey-straw-filling-machine/honey-straw-filling-machine-index.md
-      - Vacuum Skin Packaging Machine:
+      - Tray Vacuum Skin Packaging (Food):
           - Overview: packing-machine/vacuum-skin-packaging-machine/vacuum-skin-packing-machine-index.md
           - RVSP-4634 Rotary Type: packing-machine/vacuum-skin-packaging-machine/rvsp-4634.md
           - VSP-4634 Drawer Type: packing-machine/vacuum-skin-packaging-machine/vsp-4634.md
@@ -92,6 +92,12 @@ nav:
           - AMAP-5827 Continuous Type: packing-machine/modified-atmosphere-packaging-machine/amap-5827-modified-atmosphere-packaging-machine.md
           - MAP-4634 Drawer Type: packing-machine/modified-atmosphere-packaging-machine/map-4634-drawer-type.md
           - RMAP-4634 Rotary Type: packing-machine/modified-atmosphere-packaging-machine/rmap-4634-modified-atmosphere-packaging-machine.md
+      - Industrial Skin Packaging (Non-Food / Hardware):
+          - Overview: packing-machine/skin-packing-machine/vacuum-skin-packing-machine-index.md
+          - SP-390 Skin Packing Machine: packing-machine/skin-packing-machine/sp-390.md
+          - SP-5478 Skin Packing Machine: packing-machine/skin-packing-machine/sp-5478.md
+          - SP-1100 Skin Packing Machine: packing-machine/skin-packing-machine/sp-1100.md
+          - SP-2008 Skin Packing Machine: packing-machine/skin-packing-machine/sp-2008.md
       - Conveyor & Feeder Series:
           - Overview: packing-machine/screw-conveyor/conveyor&feeder-index.md
           - Powder Screw Conveyor: packing-machine/screw-conveyor/powder-screw-conveyor.md
