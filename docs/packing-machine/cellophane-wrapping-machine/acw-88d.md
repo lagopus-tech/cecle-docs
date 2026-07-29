@@ -1,79 +1,80 @@
-# 产品规格书：三维包装机 (Cellophane Wrapping Machine)
-### 型号：ACW-88D
+# Product Specification: Cellophane Wrapping Machine
+### Model: ACW-88D
 
 ---
 
-## 一、 产品概览 (Product Overview)
-*   **设备名称：** 三维包装机 / 透明膜包装机 (Cellophane Wrapping Machine)
-*   **设备型号：** ACW-88D
-*   **设备定位：** 桌面型手动高精度封包设备，专为中小规模生产、打样及多规格切换场景设计。
-*   **适用场景：** 广泛应用于香水盒、化妆品、保健品、茶叶、扑克牌、巧克力盒等长方体或正方体产品的“烟包式”透明膜折叠包装。
-*   **核心功能：** 集切膜、热封、点烫于一体，通过精确的手动控制，使产品外层薄膜紧致服帖。
+## I. Product Overview
+*   **Equipment Name:** Cellophane Wrapping Machine / 3D Overwrapping Machine
+*   **Model:** ACW-88D
+*   **Product Positioning:** Desktop manual high-precision wrapping equipment, specially designed for small-to-medium scale production, sampling, and multi-specification switching scenarios.
+*   **Applications:** Widely used for "cigarette-style" transparent film folding packaging of rectangular or cubical products, such as perfume boxes, cosmetics, health supplements, tea boxes, playing cards, chocolate boxes, etc.
+*   **Core Functions:** Combines film cutting, heat sealing, and spot sealing into one unit. Precise manual control ensures the outer film is tightly and smoothly wrapped around the product.
 
 ---
 
-## 二、 核心优势 (Core Advantages)
-1.  **⭐ 最大亮点：加装精密点烫装置 (Spot Sealing System)**  
-    针对正方形或侧面重叠面积较大的包装盒，传统大面积加热容易导致膜材重叠处产生褶皱。**ACW-88D 特别加装了点烫装置**，仅在侧面中心点位进行加热固定。这一设计能让薄膜紧紧服帖于盒身，有效解决翘边问题，消除多余褶皱，使成品更平整、精致、美观。
-2.  **高精度铝质加热板：** 采用优质铝材作为发热基底，热量分布均匀，升温快且控温精准，确保大面积封口平整且不伤膜。
-3.  **集成热丝切断系统：** 内置电热丝 (Hot wire) 切刀，切膜迅速整齐，切口自动热封，防止薄膜边缘脱散。
-4.  **张力调节系统：** 专业的张力机构 (Tension System) 可根据膜材厚度灵活调节送膜松紧，确保包装后的薄膜呈现如蝉翼般的紧致质感。
-5.  **低维护成本：** 全机械结构配合模块化电路设计，坚固耐用，日常维护仅需简单清洁加热表面，使用寿命长。
+## II. Core Advantages
+1.  **�8�2 Key Highlight: Equipped with Precision Spot Sealing System**  
+    For square boxes or boxes with large side-overlap areas, traditional large-area heating often causes wrinkles at film overlaps. **The ACW-88D is specifically equipped with a spot sealing system** that applies heat strictly to the center point of the side fold. This design tightly adheres the film to the box body, effectively preventing edge curling, eliminating redundant wrinkles, and giving the finished product a smooth, refined, and aesthetic appearance.
+2.  **High-Precision Aluminum Heating Plate:** Made of high-quality aluminum as the heating substrate, featuring uniform heat distribution, fast temperature rise, and precise temperature control. It ensures flat, smooth large-area sealing without damaging the film.
+3.  **Integrated Hot Wire Cutting System:** Built-in electric hot wire cutter cuts film quickly and neatly, automatically heat-sealing the cut edge to prevent fraying or unraveling.
+4.  **Tension Adjustment System:** Professional tension mechanism can flexibly adjust film feeding tension based on film thickness, ensuring a taut, crisp wrap finish.
+5.  **Low Maintenance Cost:** All-mechanical structure combined with modular circuit design makes the machine durable and reliable. Daily maintenance requires only simple cleaning of the heating surface, delivering a long service life.
 
 ---
 
-## 三、 技术参数表 (Technical Specifications)
+## III. Technical Specifications
 
-| 项目 | 参数详情 |
+| Item | Details |
 | :--- | :--- |
-| **设备名称** | 三维包装机 (Cellophane Wrapping Machine) |
-| **设备型号** | ACW-88D |
-| **最大卷膜宽度** | 40cm |
-| **核心亮点** | **侧面点烫装置 (Spot Sealer)** |
-| **切割装置** | 电热丝切割 (Hot wire) |
-| **包装速度** | 5~10 次/分钟 (视操作熟练度) |
-| **机器净重** | **21kg** |
-| **工作电压** | 220V 50~60Hz |
-| **整机功率** | 1.5kw |
-| **自动化程度** | 手动 (Manual) |
-| **整机尺寸** | 58 * 58 * 28 cm |
+| **Equipment Name** | Cellophane Wrapping Machine (3D Overwrapper) |
+| **Model** | ACW-88D |
+| **Max Film Roll Width** | 40 cm |
+| **Key Highlight** | **Side Spot Sealing System (Spot Sealer)** |
+| **Cutting Mechanism** | Electric Hot Wire Cutting |
+| **Wrapping Speed** | 5�C10 packs/min (depending on operator proficiency) |
+| **Net Weight** | **21 kg** |
+| **Working Voltage** | 220V 50�C60Hz |
+| **Total Power** | 1.5 kW |
+| **Automation Level** | Manual |
+| **Machine Dimensions** | 58 �� 58 �� 28 cm |
 
 ---
 
-## 四、 销售建议与常见问题 (Sales Tips & FAQ)
+## IV. Sales Tips & FAQ
 
-### 销售建议：
-*   **主打“高颜值”包装：** 针对香水、面霜、高档茶叶等对外观要求极高的客户，重点演示“点烫功能”如何消除正方形盒子侧面的褶皱。
-*   **低成本试错首选：** 强调该机型相比全自动机型具有极高的性价比，是初创品牌提升包装质感、小批量生产的最佳选择。
-*   **耗材带动增长：** 销售机台时建议配套提供 BOPP 烟膜及易拉线，为客户提供一站式包装解决方案。
+### Sales Tips:
+*   **Highlight "High-End Aesthetic" Packaging:** For clients with high visual demands (e.g., perfume, face cream, luxury tea), focus on demonstrating how the "spot sealing function" eliminates side wrinkles on square boxes.
+*   **Ideal Entry-Level Choice for Low-Cost Validation:** Emphasize its extremely high cost-effectiveness compared to fully automatic machines, making it the best choice for startup brands to upgrade packaging quality or conduct low-volume production.
+*   **Drive Revenue via Consumables:** When selling the machine, recommend pairing it with BOPP film rolls and tear tape to provide customers with a one-stop packaging solution.
 
-### 常见问题 (FAQ)：
-*   **Q: 为什么正方形盒子侧面包装总是有很多褶皱？**
-    *   A: 因为正方形侧面折叠时膜的重叠面积较大。ACW-88D 的点烫装置通过点对点加热固定，避免了大面积加热造成的膜材收缩，从而消除褶皱。
-*   **Q: 机器收货后是否需要组装？**
-    *   A: 机器整体发货，仅需简单安装张力支架并接通电源预热即可使用。
-*   **Q: 铝板温度如何设定？**
-    *   A: 通常设定在 130℃-160℃ 之间，具体需根据膜的材质和厚度进行微调。
-
----
-
-## 五、 媒体与物料库 (Media & Materials)
-
-*   **🎬 操作演示视频 (Operation)：** [https://youtu.be/7jBHWQPt-qY](https://youtube.com/shorts/Y-FNse_ySr0?feature=share)
-*   **🛠️ 安装教学视频 (Installation)：** [https://youtu.be/XOwnq3oIhU4](https://youtu.be/XOwnq3oIhU4)
-*   **关键组件图示：** 线材固定系统 (Wire Fixing)、点烫装置 (Spot Sealing)、张力系统 (Tension System)。
+### Frequently Asked Questions (FAQ):
+*   **Q: Why do square boxes often have many wrinkles on the sides after wrapping?**
+    *   A: Square box side-folding results in a larger film overlap area. The spot sealer on the ACW-88D uses point-to-point localized heating, preventing film shrinkage caused by large-area heating and thus eliminating wrinkles.
+*   **Q: Does the machine require assembly after delivery?**
+    *   A: The machine is shipped fully assembled. Users only need to attach the simple tension bracket and connect power to preheat before use.
+*   **Q: How to set the aluminum plate temperature?**
+    *   A: Typically set between 130��C and 160��C. Fine-tune according to the material and thickness of the film.
 
 ---
 
-## 六、 工作流程 (Workflow)
+## V. Media & Materials
 
-1.  **预热准备：** 接通电源，设定主加热板及点烫头温度，等待约 3-5 分钟达到设定值。
-2.  **切膜裁切：** 按照产品尺寸拉出薄膜，通过电热丝装置快速切断。
-3.  **底封折叠：** 将产品置于薄膜中心，折叠长边重叠处，在主加热板上快速平滑掠过完成底封。
-4.  **侧面折叠与点烫：**
-    *   手动折叠两侧的燕尾角。
-    *   **将侧面折叠中心对准“点烫装置”的加热头，轻轻按压 1-2 秒。**
-    *   薄膜在中心点被瞬间固定，侧面平整服帖，无冗余褶皱。
-5.  **成品检查：** 确认封口紧实、外观精致，完成包装。
+*   **�9�0 Operation Video:** [https://youtu.be/7jBHWQPt-qY](https://youtube.com/shorts/Y-FNse_ySr0?feature=share)
+*   **�0�0�1�5 Installation Video:** [https://youtu.be/XOwnq3oIhU4](https://youtu.be/XOwnq3oIhU4)
+*   **Key Component Diagrams:** Wire Fixing System, Spot Sealing System, Tension System.
 
 ---
+
+## VI. Workflow
+
+1.  **Preheating & Preparation:** Turn on power, set the temperatures for both the main heating plate and the spot sealing head, and wait about 3�C5 minutes to reach target temperatures.
+2.  **Film Pulling & Cutting:** Pull out film to fit the product dimensions, then cut quickly and cleanly using the hot wire cutter.
+3.  **Bottom Folding & Sealing:** Place the product in the center of the film, fold the long edges, and gently glide over the main heating plate to seal the bottom.
+4.  **Side Folding & Spot Sealing:**
+    *   Manually tuck and fold the envelope folds on both sides.
+    *   **Align the center of the folded side with the spot sealing heating tip and press lightly for 1�C2 seconds.**
+    *   The film is instantly fixed at the center point, creating a flat, taut side surface without unwanted wrinkles.
+5.  **Inspection:** Ensure seals are secure and the exterior finish is clean and tight before finishing the package.
+
+---
+```
