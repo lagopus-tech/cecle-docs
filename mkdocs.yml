@@ -113,6 +113,17 @@ nav:
           - Granule Pouch Packing: packing-machine/stand-up-pouch-packing-machine/granule-stand-up-pouch-packing-machine.md
           - Liquid Pouch Packing: packing-machine/stand-up-pouch-packing-machine/liquid-stand-up-pouch-packing-machine.md
           - Powder Pouch Packing: packing-machine/stand-up-pouch-packing-machine/powder-stand-up-pouch-packing-machine.md
+      - Labeling Machine Series:
+          - Overview: packing-machine/labeling-machine/round-bottle-labeling-machine-index.md
+          - ML-50 Manual Round Bottle: packing-machine/labeling-machine/ml-50-manual-round.md
+          - L-50 Semi-Auto Round Bottle: packing-machine/labeling-machine/l-50-semi-auto-round.md
+          - MT-60 Semi-Auto Flat Surface: packing-machine/labeling-machine/mt-60-semi-auto-flat.md
+          - AD-220 Desktop Auto Round: packing-machine/labeling-machine/ad-220-desktop-auto-round.md
+          - AD-F220 Automatic Flat Surface: packing-machine/labeling-machine/ad-f220-automatic-flat.md
+          - AL-220 Automatic Round Bottle: packing-machine/labeling-machine/al-220-automatic-round.md
+          - AL-H220 High-Speed Round Bottle: packing-machine/labeling-machine/al-h220-automatic-round.md
+          - AL-D220 Double-Sided Labeling: packing-machine/labeling-machine/al-d220-automaitc-twoside.md
+          - ABL-220 Flat Paging System: packing-machine/labeling-machine/abl-220-auto-flat-paging-sys.md
       - Printing Machine: 
           - Screen Printing Machine:
               - Overview: packing-machine/printing-machine/screen-printing-machine/screen-printing-machine-index.md
