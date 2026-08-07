@@ -124,6 +124,20 @@ nav:
           - AL-H220 High-Speed Round Bottle: packing-machine/labeling-machine/al-h220-automatic-round.md
           - AL-D220 Double-Sided Labeling: packing-machine/labeling-machine/al-d220-automaitc-twoside.md
           - ABL-220 Flat Paging System: packing-machine/labeling-machine/abl-220-auto-flat-paging-sys.md
+      - Stretch Wrapping Machine:
+          - Overview: packing-machine/stretch-wrapping-machine/stretch-wrapping-machine-index.md
+          - Small Electric Stretch Wrapper: packing-machine/stretch-wrapping-machine/small-electric-stretch-wrapping-machine.md
+          - TP1650F-L Standard Pallet: packing-machine/stretch-wrapping-machine/tp1650f-l-standard-pallet.md
+          - CTP1650F-L Weighing Pallet: packing-machine/stretch-wrapping-machine/ctp1650f-l-weighing-pallet.md
+          - TP1650F-M M-Type Pallet: packing-machine/stretch-wrapping-machine/tp1650f-m-m-type-pallet.md
+          - TP1650F-CS Pneumatic Top Platen: packing-machine/stretch-wrapping-machine/tp1650f-cs-pneumatic-top-platen-pallet.md
+          - TP1650F-DS Electric Top Platen: packing-machine/stretch-wrapping-machine/tp1650f-ds-electric-top-platen-pallet.md
+          - QTP1800F-L Remote Control Pallet: packing-machine/stretch-wrapping-machine/qtp1800f-l-full-automatic-remote-control-pallet.md
+          - TP1650F-DCS Door Panel Wrapper: packing-machine/stretch-wrapping-machine/tp1650f-dcs-door-panel.md
+          - HYP2000F-AU Cylindrical Roll Wrapper: packing-machine/stretch-wrapping-machine/hyp2000f-au-fully-enclosed-cylindrical-roll.md
+          - DBC800 Semi-Auto Carton Wrapper: packing-machine/stretch-wrapping-machine/dbc800-semi-automatic-carton.md
+          - LP600F-L Luggage Wrapper: packing-machine/stretch-wrapping-machine/lp600f-l-luggage.md
+          - LP600S Small Luggage Wrapper: packing-machine/stretch-wrapping-machine/lp600s-for-small-luggage.md
       - Printing Machine: 
           - Screen Printing Machine:
               - Overview: packing-machine/printing-machine/screen-printing-machine/screen-printing-machine-index.md
@@ -142,3 +156,14 @@ nav:
           - Automatic: food-machine/samosa-making-machine/automatic-series.md
           - Semi: food-machine/samosa-making-machine/semi-automatic-series.md
           - Punjabi Samosa: food-machine/samosa-making-machine/punjabi-samosa.md
+      - Dumpling Making Series:
+          - Overview: food-machine/dumpling-making-machine/dumpling-series-index.md
+          - Automatic Series: food-machine/dumpling-making-machine/dumpling-series.md
+          - Semi-Automatic Series: food-machine/dumpling-making-machine/semi-dumpling-series.md
+          - Small / Desktop Series: food-machine/dumpling-making-machine/small-dumpling-series.md
+  - Pharmaceutical Equipment:
+      - Capsule Filling Machine:
+          - Overview: pharmaceutical-equipment/caspule-filling-machine/capsul-filling-machine-index.md
+          - Manual Capsule Filling Tool: pharmaceutical-equipment/caspule-filling-machine/capsule-filling-tool.md
+          - CGN-208D Semi-Auto Capsule Filler: pharmaceutical-equipment/caspule-filling-machine/cgn-208d-semi-auto-capsule-filling-machine.md
+          - NJP Series Automatic Capsule Filler: pharmaceutical-equipment/caspule-filling-machine/njp-series-automatic-capsule-filling-machine.md
