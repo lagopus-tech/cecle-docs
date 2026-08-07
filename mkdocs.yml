@@ -168,6 +168,11 @@ nav:
           - Automatic Series: food-machine/dumpling-making-machine/dumpling-series.md
           - Semi-Automatic Series: food-machine/dumpling-making-machine/semi-dumpling-series.md
           - Small / Desktop Series: food-machine/dumpling-making-machine/small-dumpling-series.md
+      - Food Mixer Series:
+          - Overview: food-machine/mixer-machine/mixer-index.md
+          - Dough Mixer Series: food-machine/mixer-machine/dough-mixer-series.md
+          - Egg & Planetary Beater Series: food-machine/mixer-machine/egg-mixer-seiesl.md
+          - Stuffing & Filling Mixer Series: food-machine/mixer-machine/filling-mixer-series.md
   - Pharmaceutical Equipment:
       - Capsule Filling Machine:
           - Overview: pharmaceutical-equipment/caspule-filling-machine/capsul-filling-machine-index.md
