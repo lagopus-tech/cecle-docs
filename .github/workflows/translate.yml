@@ -41,6 +41,8 @@ jobs:
           if ! git diff --cached --quiet; then
             # 🌟 核心优化：这里去掉了 [skip ci]，这样 Cloudflare 每次都会高高兴兴地自动部署您翻译好的网站！
             git commit -m "docs: auto translate markdown files via DeepSeek"
+            # 🌟 核心修复：推送前先自动合并云端最新的修改，防止冲突拒绝！
+            git pull --rebase origin HEAD:${{ github.ref }}
             git push origin HEAD:${{ github.ref }}
           else
             echo "No changes to commit"
