@@ -7,9 +7,13 @@ on:
     paths:
       - 'docs/**/*.md'
 
+# 🌟 核心排队锁：强制所有翻译任务单线程排队运行，彻底解决多任务同时运行导致的 git 拒绝推送！
+concurrency:
+  group: translation-queue
+  cancel-in-progress: false
+
 jobs:
   translate:
-    # 🌟 核心防无限循环：如果提交者是机器人本身，直接跳过
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
@@ -34,7 +38,6 @@ jobs:
           python translate.py
 
       - name: Commit and push translated files
-        # 🌟 抛弃易报错的原生 Shell 命令，使用 GitHub 官方推荐的自动提交组件！
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs: auto translate markdown files via DeepSeek"
