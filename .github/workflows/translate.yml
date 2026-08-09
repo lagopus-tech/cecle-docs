@@ -19,6 +19,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          ref: main  # 🌟 核心修复 1：强制检出最新的 main 分支，绝不基于过时的历史节点运行！
           fetch-depth: 0
 
       - name: Set up Python
@@ -36,10 +37,11 @@ jobs:
         run: |
           python translate.py
 
-      # 🌟 核心修复：在提交前，先自动拉取合并您在此期间推送的新 Commit（如第二套代码），绝不浪费翻译成果！
-      - name: Pull latest remote changes
+      # 🌟 核心修复 2：提交前再次合并云端最新的修改
+      - name: Rebase latest changes
         run: |
-          git pull --rebase origin main || true
+          git fetch origin main
+          git rebase origin/main || true
 
       - name: Commit and push translated files
         uses: stefanzweifel/git-auto-commit-action@v5
