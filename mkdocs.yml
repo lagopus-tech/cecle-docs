@@ -190,6 +190,11 @@ nav:
       - Tablet Press Machine:
           - Overview: pharmaceutical-equipment/tablet-press-machine/tablet-press-machine-index.md
           - Manual Tablet Press: pharmaceutical-equipment/tablet-press-machine/manual-tablet-press-machine.md
+      - Film Coating Machine:
+          - Overview: pharmaceutical-equipment/film-coating-machine/coating-machine-index.md
+          - BG Series High-Efficiency Coater: pharmaceutical-equipment/film-coating-machine/bg-series-coating-machine.md
+          - BYC Series Coating Machine: pharmaceutical-equipment/film-coating-machine/byc-series-coating-machine.md
+          - BY Series Sugar Coater: pharmaceutical-equipment/film-coating-machine/by-series-coating-machine.md
   - Material Handling Equipment:
       - Stacker Series:
           - Overview: material-handling/stacker/stacker-index.md
