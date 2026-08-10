@@ -165,6 +165,12 @@ nav:
               - UV Curing Machine: packing-machine/printing-machine/screen-printing-machine/uv-curing-machine.md
               - Flat Series: packing-machine/printing-machine/screen-printing-machine/flat-series.md
               - Manual Screen Printing Machine Series: packing-machine/printing-machine/screen-printing-machine/manual-screen-printing-machine-series.md
+          - Coding Machine:
+              - Overview: packing-machine/printing-machine/coding-machine/coding-machine-index.md
+              - DY-8 Manual Ribbon Coder: packing-machine/printing-machine/coding-machine/dy-8-manual-coding-machine.md
+              - HP-241B Electric Ribbon Coder: packing-machine/printing-machine/coding-machine/hp-241b-electric-coding-machine.md
+              - HP-241C Pneumatic Ribbon Coder: packing-machine/printing-machine/coding-machine/hp-241c-pneumatic-coding-machine.md
+              - MY-380F Solid-Ink Coder: packing-machine/printing-machine/coding-machine/my-380f-solid-ink-coding-machine.md
   - Food Machinery:
       - Samosa Making Series:
           - Overview: food-machine/samosa-making-machine/samosa-making-machine-index.md
@@ -202,8 +208,8 @@ nav:
           - Fully Electric Straddle Stacker (Detachable): material-handling/stacker/fully-electric-straddle-stacker-with-detachable-platform.md
           - Semi-Electric Stacker: material-handling/stacker/semi-electric-stacker.md
           - Semi-Electric Lift Stacker: material-handling/stacker/semi-electric-lift-stacker.md
-          - Semi-Electric Straddle Stacker (Adjustable): material-handling/stacker/semi-electric- straddle- stacker-with- adjustable-legs.md
+          - Semi-Electric Straddle Stacker (Adjustable): material-handling/stacker/semi-electric-straddle-stacker-with-adjustable-legs.md
           - Stand-On Electric Stacker: material-handling/stacker/stand-on-electric-stacker.md
           - Manual Hydraulic Stacker: material-handling/stacker/manual-stacker.md
-          - Manual Oil Drum Stacker: material-handling/stacker/manual -oil-drum-stacker.md
+          - Manual Oil Drum Stacker: material-handling/stacker/manual-oil-drum-stacker.md
           - Parrot-Beak Drum Lifter: material-handling/stacker/parrot-beak-drum-lifter.md
