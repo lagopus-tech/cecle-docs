@@ -6,9 +6,10 @@ theme:
   features:
     - content.code.copy
     - i18n.language.switch # 🌟 检查这一行是否已经加上，前面要有两个空格对齐
+hooks:
+  - hooks/strip_search.py 
 plugins:
-  - search:
-      indexing: 'titles'  # 方案一：只索引标题和小标题，彻底解决文件过大问题
+  - search    
   - i18n:
       languages:
         - locale: en
