@@ -63,17 +63,17 @@ nav:
           - CW-230 Full Auto Rotary Type: packing-machine/cellophane-wrapping-machine/cw-230-full-auto-rotary-type.md
           - CW-320 Full Auto Horizontal Push: packing-machine/cellophane-wrapping-machine/cw-320-full-auto-horizontal-push.md
       - Blister Packing Machine:
-          - Overview: packing-machine/Blister-Packing-Machine/blister-packing-machine-index.md
-          - MTBP-180 Benchtop Entry-level: packing-machine/Blister-Packing-Machine/mtbp-180.md
-          - TBP-180 Benchtop Pneumatic: packing-machine/Blister-Packing-Machine/tbp-180.md
-          - ETBP-180 Benchtop Electric: packing-machine/Blister-Packing-Machine/etbp-180.md
-          - BP-180 Vertical Basic: packing-machine/Blister-Packing-Machine/bp-180.md
-          - CP-180 Vertical Standard: packing-machine/Blister-Packing-Machine/cp-180.md
-          - DP-180 Vertical Upgraded: packing-machine/Blister-Packing-Machine/dp-180.md
-          - DPP-80 Fully Automatic Small: packing-machine/Blister-Packing-Machine/dpp-80.md
-          - DPP-150 Fully Automatic Medium: packing-machine/Blister-Packing-Machine/dpp-150.md
-          - DPP-260 Fully Automatic Large: packing-machine/Blister-Packing-Machine/dpp-260.md
-          - DPP-140E&250E Alu-Alu Series: packing-machine/Blister-Packing-Machine/dpp-140e&250e.md
+          - Overview: packing-machine/blister-packing-machine/blister-packing-machine-index.md
+          - MTBP-180 Benchtop Entry-level: packing-machine/blister-packing-machine/mtbp-180.md
+          - TBP-180 Benchtop Pneumatic: packing-machine/blister-packing-machine/tbp-180.md
+          - ETBP-180 Benchtop Electric: packing-machine/blister-packing-machine/etbp-180.md
+          - BP-180 Vertical Basic: packing-machine/blister-packing-machine/bp-180.md
+          - CP-180 Vertical Standard: packing-machine/blister-packing-machine/cp-180.md
+          - DP-180 Vertical Upgraded: packing-machine/blister-packing-machine/dp-180.md
+          - DPP-80 Fully Automatic Small: packing-machine/blister-packing-machine/dpp-80.md
+          - DPP-140E & DPP-250E Alu-Alu Series: packing-machine/blister-packing-machine/dpp-140e&250e.md
+          - DPP-150 Fully Automatic Medium: packing-machine/blister-packing-machine/dpp-150.md
+          - DPP-260 Fully Automatic Large: packing-machine/blister-packing-machine/dpp-260.md
       - Blister Sealing Machine:
           - Overview: packing-machine/blister-sealing-machine/blister-sealing-machine-index.md
           - BS-2030 Heating Plate Type: packing-machine/blister-sealing-machine/bs-2030.md
@@ -205,7 +205,7 @@ nav:
       - Stacker Series:
           - Overview: material-handling/stacker/stacker-index.md
           - Fully Electric Straddle Stacker: material-handling/stacker/fully-electric-straddle-stacker.md
-          - Fully Electric Straddle Stacker (Detachable): material-handling/stacker/fully-electric-straddle-stacker-with-detachable-platform.md
+          - Fully Electric Straddle Stacker (Detachable): material-handling/stacker/fully-electric-straddle-stacker-with-detachable-legs.md
           - Semi-Electric Stacker: material-handling/stacker/semi-electric-stacker.md
           - Semi-Electric Lift Stacker: material-handling/stacker/semi-electric-lift-stacker.md
           - Semi-Electric Straddle Stacker (Adjustable): material-handling/stacker/semi-electric-straddle-stacker-with-adjustable-legs.md
