@@ -121,6 +121,15 @@ nav:
           - Granule Pouch Packing: packing-machine/stand-up-pouch-packing-machine/granule-stand-up-pouch-packing-machine.md
           - Liquid Pouch Packing: packing-machine/stand-up-pouch-packing-machine/liquid-stand-up-pouch-packing-machine.md
           - Powder Pouch Packing: packing-machine/stand-up-pouch-packing-machine/powder-stand-up-pouch-packing-machine.md
+      - Small Stand-up Pouch Packing Machine:
+          - Overview: packing-machine/small-stand-up-pouch-packing-machine/stand-up-pouch-packing-machine-index.md
+          - DGD-W30TD Powder Pouch Machine: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-f500-powder.md
+          - DGD-W30TD Bucket Conveyor Type: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-w-fd-bucket-conveyor.md
+          - DGD-W30TD Paste Pneumatic Plunger: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-w-g300-paste-pneumatic-plunger.md
+          - DGD-W30TD Sauce Pneumatic Plunger: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-w-j500-sauce-pneumatic-plunger.md
+          - DGD-W30TD Regular-Shaped Granule: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-w-k500-regular-shaped-granule.md
+          - DGD-W30TD Manual Feeding: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-w-manual-feeding.md
+          - DGD-W30TD Liquid Digital Control: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-w-ysk280-liquid-digital-control.md
       - Labeling Machine Series:
           - Overview: packing-machine/labeling-machine/round-bottle-labeling-machine-index.md
           - ML-50 Manual Round Bottle: packing-machine/labeling-machine/ml-50-manual-round.md
