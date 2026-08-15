@@ -221,6 +221,12 @@ nav:
           - Dough Mixer Series: food-machine/mixer-machine/dough-mixer-series.md
           - Egg & Planetary Beater Series: food-machine/mixer-machine/egg-mixer-seiesl.md
           - Stuffing & Filling Mixer Series: food-machine/mixer-machine/filling-mixer-series.md
+      - Bun Making Series:
+          - Overview: food-machine/bun-making-machine/bun-making-series-index.md
+          - Standard Automatic Series: food-machine/bun-making-machine/bun-machine-making-series.md
+          - Intelligent CNC Series: food-machine/bun-making-machine/intelligence-bun-making-machine-series.md
+          - Small / Desktop Series: food-machine/bun-making-machine/small-bun-making-machine-series.md
+          
   - Pharmaceutical Equipment:
       - Capsule Filling Machine:
           - Overview: pharmaceutical-equipment/caspule-filling-machine/capsul-filling-machine-index.md
