@@ -247,3 +247,6 @@ nav:
           - Manual Hydraulic Stacker: material-handling/stacker/manual-stacker.md
           - Manual Oil Drum Stacker: material-handling/stacker/manual-oil-drum-stacker.md
           - Parrot-Beak Drum Lifter: material-handling/stacker/parrot-beak-drum-lifter.md
+      - Pallet Jack Series:
+          - Standard Manual Pallet Jack: material-handling/pallet-jack/manual-pallet-jack.md
+          - Manual Pallet Jack with Scale: material-handling/pallet-jack/electronic-scale-manual-pallet-jack.md
