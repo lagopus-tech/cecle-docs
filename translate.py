@@ -3,22 +3,38 @@ import re
 import requests
 
 # ================== 🌟 业务员核心配置区域 ==================
-# 1. 填入你的 DeepSeek API Key（后续也可在 Cloudflare 环境变量里安全绑定）
-DEEPSEEK_API_KEY = os.environ.get("LLM_API_KEY")
+# 1. 选择当前调用的翻译大模型引擎：输入 "qwen" 或 "deepseek"
+ACTIVE_PROVIDER = "qwen"
 
-# DeepSeek 官方标准端点与模型名称
-API_URL = "https://api.deepseek.com/v1/chat/completions"
-MODEL = "deepseek-chat"  # 指向极度聪明的 DeepSeek-V3 模型
+# 2. 各服务商具体配置表（已接入阿里云 DashScope OpenAI 兼容接口与 DeepSeek 官方接口）
+PROVIDER_CONFIGS = {
+    "qwen": {
+        "api_key": os.environ.get("QWEN_API_KEY") or os.environ.get("LLM_API_KEY"),
+        "api_url": "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
+        "model": "qwen-flash",  # 千问 Flash 模型（高性价比、极致速度、适合大规模翻译）
+    },
+    "deepseek": {
+        "api_key": os.environ.get("DEEPSEEK_API_KEY") or os.environ.get("LLM_API_KEY"),
+        "api_url": "https://api.deepseek.com/v1/chat/completions",
+        "model": "deepseek-chat", # DeepSeek-V3 模型
+    }
+}
 
-# 2. 你的 Shopify 官网主域名 (🌟请改成你们机械站的实际域名，不要带 https:// 和末尾斜杠)
+# 提取当前激活的服务商配置
+current_config = PROVIDER_CONFIGS.get(ACTIVE_PROVIDER, PROVIDER_CONFIGS["qwen"])
+API_KEY = current_config["api_key"]
+API_URL = current_config["api_url"]
+MODEL = current_config["model"]
+
+# 3. 你的 Shopify 官网主域名 (🌟请改成你们机械站的实际域名，不要带 https:// 和末尾斜杠)
 SHOPIFY_DOMAIN = "cecle.net" 
 
-# 3. Shopify Markets 小语言路径映射表（对应你在 Shopify 后台 Market 开启的语言子目录）
+# 4. Shopify Markets 小语言路径映射表（对应你在 Shopify 后台 Market 开启的语言子目录）
 SHOPIFY_LANG_MAPPING = {
     'zh': 'zh',      # 简体中文 -> www.cecle.net/zh/
     'es': 'es',      # 西班牙语 -> www.cecle.net/es/
     'fr': 'fr',      # 法语
-    'pt': 'pt',      # 葡萄牙语（如果是巴西站通常也是 /pt 或 /pt-br，根据实际修改）
+    'pt': 'pt',      # 葡萄牙语
     'ar': 'ar',      # 阿拉伯语
     'id': 'id',      # 印尼语
     'vi': 'vi',      # 越南语
@@ -31,7 +47,7 @@ SHOPIFY_LANG_MAPPING = {
 }
 # ==========================================================
 
-# 定义 14 种目标语言全称
+# 定义 13 种目标语言全称
 LANGUAGES = {
     'zh': 'Simplified Chinese',
     'es': 'Spanish',
@@ -71,13 +87,13 @@ def localize_shopify_links(markdown_content, lang_code):
     
     return re.sub(pattern, replace_match, markdown_content)
 
-def translate_text_via_deepseek(text, target_lang):
-    if not DEEPSEEK_API_KEY or DEEPSEEK_API_KEY == "YOUR_DEEPSEEK_API_KEY_HERE":
-        print("提示: 未检测到有效的 DEEPSEEK_API_KEY，跳过实际翻译。")
+def translate_text_via_llm(text, target_lang):
+    if not API_KEY or API_KEY in ["YOUR_DEEPSEEK_API_KEY_HERE", "YOUR_QWEN_API_KEY_HERE"]:
+        print(f"提示: 未检测到有效的 API Key ({ACTIVE_PROVIDER.upper()})，跳过实际翻译。")
         return text
     
     headers = {
-        "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
+        "Authorization": f"Bearer {API_KEY}",
         "Content-Type": "application/json"
     }
     
@@ -106,7 +122,7 @@ def translate_text_via_deepseek(text, target_lang):
         if response.status_code == 200:
             return response.json()['choices'][0]['message']['content']
         else:
-            print(f"DeepSeek 翻译失败，状态码: {response.status_code}, 错误信息: {response.text}")
+            print(f"[{ACTIVE_PROVIDER.upper()}] 翻译失败，状态码: {response.status_code}, 错误信息: {response.text}")
             return None
     except Exception as e:
         print(f"网络请求异常: {e}")
@@ -117,6 +133,8 @@ def main():
     if not os.path.exists(docs_dir):
         print("错误：未找到 docs 文件夹，请确认路径是否正确。")
         return
+
+    print(f"🌟 当前使用的翻译大模型引擎: 【{ACTIVE_PROVIDER.upper()} - {MODEL}】")
 
     # 自动遍历 docs 目录，寻找英文原版 .md 文件
     for root, dirs, files in os.walk(docs_dir):
@@ -133,7 +151,7 @@ def main():
                 with open(english_file_path, "r", encoding="utf-8") as f:
                     content = f.read()
                 
-                # 循环翻译成 14 种语言
+                # 循环翻译成 13/14 种目标语言
                 for lang_code, lang_name in LANGUAGES.items():
                     base_name = ".".join(parts[:-1])
                     translated_file_name = f"{base_name}.{lang_code}.md"
@@ -143,8 +161,8 @@ def main():
                     if os.path.exists(translated_file_path):
                         continue
                     
-                    print(f"  -> 正在通过 DeepSeek 翻译为 【{lang_name}】...")
-                    translated_content = translate_text_via_deepseek(content, lang_name)
+                    print(f"  -> 正在通过 {ACTIVE_PROVIDER.upper()} 翻译为 【{lang_name}】...")
+                    translated_content = translate_text_via_llm(content, lang_name)
                     
                     if translated_content:
                         # 🌟 核心后处理：强制替换独立站官网链接为对应的小语言站点链接
