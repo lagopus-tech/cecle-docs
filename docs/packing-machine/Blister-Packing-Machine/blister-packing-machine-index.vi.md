@@ -1,88 +1,184 @@
-# Hướng dẫn Chọn Máy Ép Vỉ & Tổng Quan Sản Phẩm
-
-## 1. Máy Ép Vỉ là gì?
+# Hướng dẫn chọn máy đóng gói blister & Tổng quan sản phẩm đầy đủ
+## 1. Máy đóng gói blister là gì?
 ### 1.1 Định nghĩa cốt lõi
-Máy ép vỉ là một thiết bị đóng gói chuyên dụng, dùng để hàn kín sản phẩm giữa màng nhựa PVC và màng nhôm. Thông qua các quy trình cốt lõi bao gồm gia nhiệt, tạo hình và hàn kín, máy tạo ra bao bì kín độc lập cho sản phẩm, kết hợp các đặc tính bảo vệ vật lý, chống ẩm/bụi và trưng bày sản phẩm. Máy phù hợp rộng rãi để đóng gói các sản phẩm kích thước nhỏ trong các ngành dược phẩm, thực phẩm, điện tử, kim khí, hóa mỹ phẩm hàng ngày và các ngành công nghiệp khác, bao gồm tất cả các tình huống từ sản xuất thử nghiệm trong phòng thí nghiệm đến sản xuất quy mô lớn.
+Máy đóng gói blister, còn được gọi là Máy đóng gói Alu-Plastic, là thiết bị đóng gói chuyên dụng dùng để đóng gói viên nén, viên nang, các chi tiết nhỏ bằng kim loại giữa vỏ blister PVC/PET và giấy nhôm dược phẩm thông qua quá trình nhiệt ép. Thiết bị sử dụng quy trình bao gồm ép nhiệt, cuộn giấy nhôm, cắt định hình để tạo thành từng gói riêng biệt đã được niêm phong. Sản phẩm hoàn thiện có đặc tính chống ẩm, chống ánh sáng, chống bụi, chống va đập và hiển thị rõ ràng. Thiết bị phù hợp với việc lấy mẫu phòng thí nghiệm, sản xuất nhỏ trong xưởng và sản xuất hàng loạt tại nhà máy dược phẩm, được ứng dụng rộng rãi trong ngành dược phẩm, thực phẩm, điện tử & cơ khí, mẫu mỹ phẩm hàng ngày và các ngành khác cho sản phẩm kích thước nhỏ.
 
 ### 1.2 Nguyên lý hoạt động
-Dòng máy ép vỉ này chủ yếu áp dụng công nghệ hàn kín bằng nhiệt, được chia thành bốn chế độ truyền động và điều khiển (thủ công, khí nén, điện và hoàn toàn tự động) dựa trên định vị model. Mô-đun điều khiển nhiệt độ kỹ thuật số và rơ-le thời gian kiểm soát chính xác nhiệt độ gia nhiệt và thời gian hàn kín, làm nóng chảy màng nhôm và vỉ nhựa PVC dưới áp lực đồng đều, đảm bảo hàn kín chắc chắn và không rò rỉ. Các model từ trung cấp đến cao cấp được trang bị thêm thiết bị cuộn/xả màng, màn hình cảm ứng PLC, động cơ bước và hệ thống nhận diện mắt quang điện, cho phép vận chuyển tự động cuộn màng nhôm và căn chỉnh chính xác các họa tiết in. Một số model hoàn toàn tự động có thể hoàn thành độc lập toàn bộ quy trình tạo hình, nạp liệu, cắt và tái chế chất thải. Tất cả các model đều hỗ trợ khuôn mẫu tùy chỉnh để phù hợp với các sản phẩm có hình dạng, kích thước và độ sâu khác nhau, đáp ứng linh hoạt các yêu cầu đóng gói khác nhau.
+Toàn bộ dòng máy được chia thành ba loại: máy bàn tay/semi-tự động, máy đứng dọc semi-tự động và máy phẳng tự động hoàn toàn DPP, với hai quy trình chính:
+1. Dòng máy bàn tay & đứng dọc semi-tự động (MTBP / TBP / ETBP / BP / CP / DP)
+   Người vận hành tải nguyên liệu vào các vỏ blister PVC đã chuẩn bị sẵn, đặt vào khuôn, sau đó phủ lên lớp giấy nhôm tấm hoặc cuộn. Các tấm gia nhiệt điện hoặc xi-lanh khí nén áp suất và nhiệt độ ổn định để kết dính giấy nhôm và vỏ blister. Người vận hành cắt phần giấy nhôm thừa để thu được sản phẩm hoàn thiện. Các mô hình DP cao cấp được trang bị cảm biến dấu màu quang học để xác định chính xác vị trí in trên giấy nhôm.
+2. Dòng máy DPP tự động hoàn toàn (DPP-80 / 150 / 260 / 140E / 250E)
+   Sản xuất liên tục dạng cuộn – cuộn: Cuộn PVC → Đóng hình bằng nhiệt → Nạp tự động → Ép nhiệt giấy nhôm → Mã hóa lô → Cắt định hình → Cuộn lại giấy nhôm thừa. Các mô hình cao cấp hỗ trợ cả quá trình đóng hình lạnh Alu-Alu và đóng hình nóng Alu-Plastic, đồng thời kiểm tra thiếu hạt và loại bỏ tự động. Hệ thống điều khiển PLC màn hình cảm ứng quản lý tất cả tham số, máy có thể kết nối với dây chuyền lắp ráp tự động.
 
-### 1.3 Giá trị cốt lõi
-- Bảo vệ tuyệt vời: Cấu trúc hàn kín hoàn toàn ngăn chặn hiệu quả độ ẩm, bụi và oxy hóa, ngăn ngừa hư hỏng do va đập trong quá trình vận chuyển và lưu trữ, kéo dài đáng kể thời hạn sử dụng của sản phẩm;
-- Vệ sinh và tiện lợi: Bao bì vỉ độc lập đảm bảo sử dụng một lần mà không ảnh hưởng đến các sản phẩm còn lại, loại bỏ ô nhiễm thứ cấp và đáp ứng các yêu cầu vệ sinh cơ bản cho ngành thực phẩm và dược phẩm;
-- Khả năng thích ứng cao với địa điểm: Các model để bàn nhỏ gọn và nhẹ, có thể sử dụng trực tiếp trên bàn mà không cần nhiều không gian; Các model đứng có cấu trúc thông thường, và các model hoàn toàn tự động nhỏ gọn, phù hợp cho các xưởng nhỏ, phòng thí nghiệm, xưởng sản xuất nhỏ và các địa điểm khác;
-- Yêu cầu vận hành thấp: Các model thủ công và bán tự động dễ vận hành, người mới có thể sử dụng mà không cần đào tạo chuyên nghiệp; Các model hoàn toàn tự động hỗ trợ cài đặt thông số một chạm và vận hành tự động, tiết kiệm đáng kể chi phí nhân công;
-- Tương thích điện áp rộng: Tất cả các model đều hỗ trợ điện áp rộng 110V/220V 50Hz/60Hz, được dẫn động bằng nguồn điện thông thường mà không cần đấu nối điện áp cao, thích ứng với môi trường lưới điện trong và ngoài nước.
+### 1.3 Ưu điểm cốt lõi
+- Bảo vệ niêm phong vượt trội: Cấu trúc Alu-Plastic / Alu-Alu kín hoàn toàn cách ly độ ẩm, ánh sáng và bụi, kéo dài tuổi thọ của thuốc và thực phẩm, ngăn ngừa vỡ trong quá trình vận chuyển.
+- Gói đơn liều vệ sinh & tiện lợi: Mỗi gói blister riêng biệt tránh nhiễm chéo sau khi sử dụng một phần, tuân thủ tiêu chuẩn vệ sinh GMP cơ bản cho sản phẩm dược phẩm.
+- Linh hoạt thích ứng không gian: Các mô hình bàn tay có thể đặt trên bàn và vận chuyển bằng máy bay/dịch vụ giao hàng; máy đứng dọc chiếm diện tích vừa phải; máy phẳng tự động hoàn toàn phù hợp với nhà máy sản xuất chuẩn hóa.
+- Ngưỡng vận hành thấp: Máy thủ công có thể làm chủ chỉ trong 5 phút; máy semi-tự động hỗ trợ khởi động một nút; máy tự động hoàn toàn lưu trữ các cài đặt tham số trước.
+- Phù hợp điện áp toàn cầu: Tất cả các mô hình đều hỗ trợ 110V / 220V 50/60Hz. Các máy tự động công suất lớn hỗ trợ nguồn điện công nghiệp 3 pha 380V.
+- Tính tùy biến cao: Có thể tùy chỉnh khuôn. Tùy chọn đánh dấu lô, quy trình kép Alu-Alu và thiết kế nhiều ô, nhiều bảng.
 
-### 1.4 Các ngành công nghiệp áp dụng
-- Ngành dược phẩm: Viên nén, viên nang, viên nang mềm, thuốc mỡ nhỏ, phụ kiện y tế dùng một lần, vật tư tiêu hao y tế, v.v.;
-- Ngành thực phẩm: Viên sữa, kẹo, các loại hạt, thực phẩm đông khô, đồ ăn nhẹ kích thước nhỏ, v.v.;
-- Điện tử & kim khí: Linh kiện điện tử nhỏ, ốc vít, đai ốc, chi tiết chính xác siêu nhỏ, phụ kiện kim khí, v.v.;
-- Hóa mỹ phẩm hàng ngày: Mẫu sản phẩm chăm sóc da, mỹ phẩm dùng thử, đồ vệ sinh cá nhân kích thước nhỏ, v.v.;
-- Các tình huống đặc biệt: Sản xuất thử nghiệm và lấy mẫu trong phòng thí nghiệm, sản xuất phân tán trong xưởng nhỏ, đóng gói lô nhỏ tùy chỉnh cho thương mại điện tử, chuyển đổi sản xuất đa chủng loại.
+### 1.4 Các ngành ứng dụng
+- Ngành dược phẩm: Viên nén, viên nang cứng/lỏng, thuốc, vật tư y tế dùng một lần
+- Ngành thực phẩm: Viên sữa, kẹo, đồ ăn nhẹ đông khô, sản phẩm chăm sóc sức khỏe
+- Điện tử & Cơ khí: Vít siêu nhỏ, phụ kiện tai nghe, pin button, chi tiết nhỏ chính xác
+- Mỹ phẩm hàng ngày: Mẫu thử skincare, tinh chất dạng viên nang, gói cá nhân nhỏ
+- Trường hợp sử dụng: Lấy mẫu nghiên cứu phát triển, đóng gói nhỏ tại hiệu thuốc, xưởng sản xuất nhỏ, dây chuyền sản xuất hàng loạt dược phẩm
 
-## 2. Bảng Lựa Chọn Phân Biệt Model Cốt Lõi
+## 2. Bảng phân biệt lựa chọn đầy đủ các dòng model
+### 2.1 Máy blister mini bàn tay (Bàn, lấy mẫu & sản lượng cực thấp)
+| Model | Kiểu thân máy | Điều khiển & truyền động | Yêu cầu khí nén | Kích thước bàn làm việc | Tốc độ sản xuất | Trọng lượng ròng | Quy trình vận hành tiêu chuẩn | Đặc điểm nổi bật | Trường hợp ứng dụng |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| MTBP-180 | Bàn tay kiểu bàn | Tay gạt thủ công + gia nhiệt điện | Không cần máy nén khí | 140×180mm | 5-8 sản phẩm/phút | 23KG | Tải nguyên liệu vào vỏ blister → Che phủ tấm giấy nhôm → Ép bằng tay gạt → Cắt viền thừa | Cắm là chạy, không cần thiết bị phụ trợ, chỉ dùng giấy nhôm chưa in, giá rẻ nhất | Phòng thí nghiệm, hiệu thuốc, xưởng nhỏ không có khí nén, sản lượng hàng ngày < 100 gói |
+| TBP-180 | Bàn tay kiểu bàn | Pneumatic semi-tự động | Cần máy nén khí 0.6-0.8Mpa | 140×180mm | 5-10 sản phẩm/phút | 23KG | Tải nguyên liệu vào vỏ blister → Che phủ tấm giấy nhôm → Ép tự động bằng nút bấm → Cắt viền thừa | Áp lực xi-lanh đều, tiết kiệm sức lao động, phù hợp với tấm giấy nhôm | Lấy mẫu nhỏ, nơi có máy nén khí |
+| ETBP-180 | Bàn tay kiểu bàn | Tự động cuộn điện hoàn toàn | Không cần máy nén khí | 140×180mm | 10-15 sản phẩm/phút | 52KG | Tải nguyên liệu vào vỏ blister → Tự động cấp cuộn giấy nhôm → Tự động ép nhiệt → Cắt viền thừa | Hệ thống cuộn giấy nhôm tích hợp, không cần cắt thủ công, phù hợp cuộn giấy nhôm in | Sản xuất nhỏ dài hạn, khách hàng dùng cuộn giấy nhôm mà không cần khí nén |
 
-| Dòng Model | Model Cốt Lõi | Loại Thân Máy | Chế độ Truyền động/Điều khiển | Kích thước Bàn làm việc (mm/inch) | Tốc độ Sản xuất | Yêu cầu Cấp Khí | Trọng lượng Tịnh (KG/lb) | Quy trình Vận hành Tiêu chuẩn | Tính năng Cốt lõi | Các Tình huống Áp dụng |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Để bàn Cơ bản | MTBP-180 | Để bàn | Cần thủ công + gia nhiệt điện | 140×180mm (5.51×7.09inch) | 5-8 cái/phút | Không (cắm là chạy) | 23/25KG (50.7/55.1lb) | Cho sản phẩm (viên nang, viên nén...) vào vỉ PVC thủ công → Đặt vỉ PVC đã nạp vào khuôn máy → Đặt lá nhôm → Nhấn công tắc → Nhấn cần thủ công để hoàn tất hàn kín → Cắt bỏ phần lá nhôm thừa bằng kéo để có thành phẩm | Vận hành để bàn hoàn toàn thủ công, nhỏ gọn, nhẹ, tiết kiệm không gian, đặt trên bàn, cắm là chạy, tương thích với lá nhôm | Xưởng nhỏ, phòng thí nghiệm, đóng gói sản phẩm năng suất thấp, sản phẩm không yêu cầu in trên lá nhôm |
-| Để bàn Khí nén | TBP-180 | Để bàn | Điều khiển khí nén | 140×180mm (5.51×7.09inch) | 5-10 cái/phút | 0.6-0.8Mpa (cần máy nén khí) | 23/25KG (50.7/55.1lb) | Cho sản phẩm (viên nang, viên nén...) vào vỉ PVC thủ công → Đặt vỉ PVC đã nạp vào khuôn máy → Đặt lá nhôm → Nhấn công tắc → Máy tự động ép xuống để hoàn tất hàn kín → Cắt bỏ phần lá nhôm thừa bằng kéo để có thành phẩm | Bán tự động để bàn, nhỏ gọn, đặt trên bàn, không cần lực tay, lực hàn kín đồng đều, tương thích với lá nhôm | Xưởng nhỏ, phòng thí nghiệm, đóng gói sản phẩm năng suất thấp, sản phẩm không yêu cầu in trên lá nhôm |
-| Để bàn Điện | ETBP-180 | Để bàn | Điều khiển hoàn toàn bằng điện | 140×180mm (5.51×7.09inch) | 5-10 cái/phút | Không (cắm là chạy) | 52/55KG (114.6/121.3lb) | Cho sản phẩm (viên nang, viên nén...) vào vỉ PVC thủ công → Đặt vỉ PVC đã nạp vào khuôn máy → Nhấn công tắc → Máy tự động ép xuống để hoàn tất hàn kín → Cắt bỏ phần lá nhôm thừa bằng kéo để có thành phẩm | Bán tự động để bàn, nhỏ gọn, đặt trên bàn, cắm là chạy, tích hợp thiết bị cuộn/xả màng cho cuộn màng nhôm, loại bỏ bước cắt lá | Xưởng nhỏ, phòng thí nghiệm, tương thích với sản phẩm cuộn màng nhôm có in |
-| Đứng Cơ bản | BP-180 | Đứng (đặt sàn) | Điều khiển khí nén | 140×180mm (5.51×7.09inch) | 5-10 cái/phút | 0.6-0.8Mpa (cần máy nén khí) | 110KG (242.5lb) | Cho sản phẩm (viên nang, viên nén...) vào vỉ PVC thủ công → Đặt vỉ PVC đã nạp vào khuôn máy → Đặt lá nhôm → Nhấn công tắc → Nhấn cần thủ công để hoàn tất hàn kín → Cắt bỏ phần lá nhôm thừa bằng kéo để có thành phẩm | Đứng thủ công, thân máy ổn định, phù hợp sản xuất cố định, tương thích với lá nhôm | Xưởng nhỏ, nhà máy nhỏ, đóng gói sản phẩm năng suất thấp, được trang bị máy nén khí, sản phẩm không yêu cầu in trên lá nhôm |
-| Đứng Tiêu chuẩn | CP-180 | Đứng (đặt sàn) | Điều khiển khí nén | 140×180mm (5.51×7.09inch) | 5-10 cái/phút | 0.6-0.8Mpa (cần máy nén khí) | 120KG (264.6lb) | Cho sản phẩm (viên nang, viên nén...) vào vỉ PVC thủ công → Đặt vỉ PVC đã nạp vào khuôn máy → Nhấn công tắc → Máy tự động ép xuống để hoàn tất hàn kín → Cắt bỏ phần lá nhôm thừa bằng kéo để có thành phẩm | Bán tự động đứng, thân máy ổn định, không cần lực tay, tích hợp thiết bị cuộn/xả màng cho cuộn màng nhôm | Xưởng nhỏ, nhà máy nhỏ, đóng gói sản phẩm lô nhỏ thông thường, được trang bị máy nén khí |
-| Đứng Nâng cấp | DP-180 | Đứng (đặt sàn) | Khí nén + PLC + động cơ bước + mắt quang điện | 140×180mm (5.51×7.09inch) | 5-10 cái/phút | 0.6-0.8Mpa (cần máy nén khí) | 150KG (330.7lb) | Cho sản phẩm (viên nang, viên nén...) vào vỉ PVC thủ công → Đặt vỉ PVC đã nạp vào khuôn máy → Nhấn công tắc → Máy tự động ép xuống để hoàn tất hàn kín → Cắt bỏ phần lá nhôm thừa bằng kéo để có thành phẩm | Bán tự động đứng, tích hợp thiết bị cuộn/xả màng cho cuộn, được trang bị PLC, động cơ bước và nhận diện mắt quang điện, căn chỉnh chính xác họa tiết in trên màng nhôm | Xưởng nhỏ, nhà máy nhỏ, đóng gói sản phẩm lô nhỏ thông thường, tương thích với sản phẩm cuộn màng nhôm có in |
-| Hoàn toàn Tự động Nhỏ | DPP-80 | Đứng (đặt sàn) | Hoàn toàn tự động khí nén + màn hình cảm ứng PLC | 105*70mm (4.13*2.76inch) | 10-33 lần/phút | 0.6-0.8Mpa (cần máy nén khí) | 480/520KG (1058.2/1146.4lb) | Kết nối nguồn khí và điện → Lắp cuộn PVC và màng nhôm → Cài đặt nhiệt độ gia nhiệt và tốc độ vận hành → Chạy thử từng bước sau khi nhiệt độ ổn định → Bắt đầu sản xuất tự động sau khi chạy thử đạt yêu cầu → Làm nguội và vệ sinh thiết bị sau khi tắt máy | Cấu trúc nhỏ gọn, vận hành ổn định, kiểm soát nhiệt độ chính xác PID, hỗ trợ đóng gói nhôm-nhựa, nhôm-nhôm, giấy-nhựa, tự động hoàn thành tạo hình, nạp liệu, hàn kín nhiệt, in số lô, cắt, độ ồn thấp, dễ bảo trì | Phòng thí nghiệm, xưởng nhỏ, đóng gói quy mô lớn lô nhỏ cho dược phẩm và các sản phẩm nhỏ tương tự, sản xuất tự động liên tục |
-| Hoàn toàn Tự động Trung bình | DPP-150 | Đứng (đặt sàn) | Hoàn toàn tự động khí nén + màn hình cảm ứng PLC + điều khiển tốc độ biến tần | 130*100mm (5.12*3.94inch) | 10-44 lần/phút | 0.6-0.8Mpa (cần máy nén khí) | 890KG (1962.1lb) | Kết nối nguồn khí và điện → Lắp cuộn bao bì → Cài đặt nhiệt độ, tốc độ và các thông số khác → Chạy thử từng bước sau khi nhiệt độ ổn định → Sản xuất tự động sau khi chạy thử đạt yêu cầu → Hoàn tất vệ sinh và bảo trì sau khi làm nguội và tắt máy | Thiết kế tấm phẳng, truyền động bánh răng trục song song ổn định và ít ồn, khoảng cách trạm có thể điều chỉnh, thay khuôn thuận tiện, tự động hoàn thành cấp liệu, tạo hình, nạp liệu, hàn kín nhiệt, in số lô, cắt, tái chế chất thải, tùy chọn chức năng phát hiện và loại bỏ viên thiếu, tuân thủ tiêu chuẩn GMP | Xưởng vừa và nhỏ, đóng gói sản phẩm lô vừa và nhỏ đa chủng loại, phù hợp cho dược phẩm như viên nén và viên nang |
-| Hoàn toàn Tự động Lớn | DPP-260 | Đứng (đặt sàn) | Hoàn toàn tự động khí nén + màn hình cảm ứng PLC + điều khiển tốc độ biến tần | 250*120mm (9.84*4.72inch) | 15-45 lần/phút | 0.6-0.8Mpa (cần máy nén khí) | 1200KG (2645.54lb) | Kết nối nguồn khí và điện → Lắp cuộn bao bì → Cài đặt nhiệt độ, tốc độ và các thông số khác → Chạy thử từng bước sau khi nhiệt độ ổn định → Sản xuất tự động sau khi chạy thử đạt yêu cầu → Hoàn tất vệ sinh và bảo trì sau khi làm nguội và tắt máy | Thiết kế tấm phẳng, truyền động bánh răng trục song song ổn định và ít ồn, khoảng cách trạm có thể điều chỉnh, thay khuôn thuận tiện, tự động hoàn thành cấp liệu, tạo hình, nạp liệu, hàn kín nhiệt, in số lô, cắt, tái chế chất thải, tùy chọn chức năng phát hiện và loại bỏ viên thiếu, tuân thủ tiêu chuẩn GMP | Xưởng vừa và nhỏ, đóng gói sản phẩm lô vừa và nhỏ đa chủng loại, phù hợp cho dược phẩm như viên nén và viên nang |
+### 2.2 Máy blister đứng dọc semi-tự động (Chân đứng, sản lượng trung bình & nhỏ)
+| Model | Kiểu thân máy | Điều khiển & truyền động | Cấp khí | Kích thước làm việc | Tốc độ | Trọng lượng | Đặc điểm nổi bật | Trường hợp ứng dụng |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| BP-180 | Chân đứng | Pneumatic + công tắc chân | 0.6-0.8Mpa | 140×180mm | 5-10 sản phẩm/phút | 110KG | Khung đứng ổn định, chỉ hỗ trợ giấy nhôm tấm, không có cấp tự động | Nhà máy cố định nhỏ, đóng gói lô nhỏ giá thấp |
+| CP-180 | Chân đứng | Pneumatic + cuộn lại giấy nhôm tự động | 0.6-0.8Mpa | 140×180mm | 5-10 sản phẩm/phút | 120KG | Tích hợp cuộn ra và cuộn lại giấy nhôm, không cần đặt thủ công | Sản xuất lô thường xuyên, khách hàng dùng cuộn giấy nhôm |
+| DP-180 | Chân đứng | PLC + động cơ bước + đăng ký màu quang học | 0.6-0.8Mpa | 140×180mm | 5-10 sản phẩm/phút | 150KG | Đồng bộ hóa dấu màu cho giấy nhôm in, hỗ trợ đánh dấu lô | Đóng gói giấy nhôm in màu, đơn hàng nhỏ trung cấp |
 
-### Gợi ý Lựa chọn Cốt lõi
-1. Lựa chọn theo năng lực sản xuất: Đối với các tình huống siêu nhỏ với sản lượng hàng ngày dưới 100 cái, chọn model để bàn thủ công MTBP-180; Đối với các tình huống lô nhỏ với sản lượng hàng ngày 100-500 cái, chọn các model để bàn TBP-180 và ETBP-180; Đối với các tình huống lô thông thường với sản lượng hàng ngày 500-2000 cái, chọn các model đứng BP-180, CP-180 và DP-180; Đối với sản xuất quy mô lớn với sản lượng hàng ngày trên 2000 cái, chọn trực tiếp dòng hoàn toàn tự động DPP-80 và DPP-150.
-2. Lựa chọn theo địa điểm và cơ sở hạ tầng hỗ trợ: Đối với các tình huống không có xưởng cố định và chỉ vận hành trên bàn, ưu tiên các model để bàn dòng 180; Đối với các tình huống không có máy nén khí, chọn trực tiếp MTBP-180 và ETBP-180 (cắm là chạy); Đối với các tình huống có xưởng cố định và được trang bị máy nén khí, chọn các model đứng dòng 180 hoặc model hoàn toàn tự động.
-3. Lựa chọn theo loại màng nhôm: Đối với những người chỉ sử dụng lá nhôm không có yêu cầu in, chọn MTBP-180, TBP-180, BP-180; Đối với những người sử dụng cuộn màng nhôm không có yêu cầu căn chỉnh độ chính xác cao, chọn ETBP-180, CP-180; Đối với màng nhôm có in họa tiết yêu cầu căn chỉnh chính xác, chọn DP-180.
-4. Lựa chọn theo sự tiện lợi khi vận hành: Đối với những người có ngân sách cực kỳ thấp và chấp nhận vận hành thủ công hoàn toàn, chọn MTBP-180; Đối với những người muốn tiết kiệm nhân công và hướng tới vận hành bán tự động, chọn các model bán tự động khí nén hoặc điện; Đối với những người có yêu cầu cao về độ chính xác đóng gói và hiệu quả sản xuất, hy vọng giảm thiểu sự can thiệp thủ công, chọn dòng hoàn toàn tự động.
+### 2.3 Dòng máy phẳng tự động hoàn toàn DPP (Sản xuất hàng loạt liên tục)
+#### 2.3.1 DPP-80 tự động nhỏ
+| Mục | Thông số |
+| ---- | ---- |
+| Hệ thống điều khiển | PLC màn hình cảm ứng tự động hoàn toàn |
+| Yêu cầu khí nén | Máy nén khí 0.6-0.8Mpa |
+| Kích thước đóng hình hiệu quả | 105×70mm |
+| Tốc độ sản xuất | 10-33 chu kỳ/phút |
+| Trọng lượng máy | 480-520KG |
+| Ưu điểm cốt lõi | Cấu trúc gọn nhẹ, tích hợp tự động đóng hình / nạp / niêm phong / cắt |
+| Ứng dụng | Nhà máy sản phẩm sức khỏe nhỏ, phòng thí nghiệm chuẩn bị, dây chuyền sản xuất chuẩn nhỏ |
 
-## 3. Câu hỏi Thường gặp & Giải đáp Kỹ thuật
-### 3.1 Vận hành Thiết bị
-- H: Yêu cầu về nguồn điện của tất cả các model là gì? Có cần đấu nối điện áp cao riêng không?
-- TL: Tất cả các model đều hỗ trợ điện áp rộng phổ thông 110V/220V 50Hz/60Hz. Công suất của dòng để bàn và đứng 180 là 1000W, và dòng hoàn toàn tự động DPP là 2.8kw. Có thể sử dụng với nguồn điện gia dụng hoặc xưởng thông thường mà không cần đấu nối điện áp cao riêng, và việc đi dây rất đơn giản và thuận tiện.
-- H: Các model khí nén yêu cầu máy nén khí thông số kỹ thuật nào?
-- TL: Tất cả các model khí nén (TBP-180, BP-180, CP-180, DP-180, toàn bộ dòng DPP) đều tương thích thống nhất với máy nén khí 1200W*50L. Miễn là áp suất khí được duy trì ổn định ở mức 0.6-0.8Mpa, có thể đáp ứng sản xuất hàn kín bình thường.
-- H: Làm thế nào để điều chỉnh nhiệt độ gia nhiệt và thời gian hàn kín của thiết bị?
-- TL: Đối với các model thủ công và bán tự động cơ bản dòng 180, điều chỉnh thời gian hàn kín (thông thường 3-6 giây) thông qua rơ-le thời gian kỹ thuật số; ETBP-180 hỗ trợ điều chỉnh kiểm soát nhiệt độ chính xác 80-150℃; Đối với DP-180 và dòng hoàn toàn tự động DPP, trực tiếp cài đặt trực quan các thông số nhiệt độ, thời gian và tốc độ thông qua màn hình cảm ứng PLC, thao tác dễ dàng.
-- H: Có cần đào tạo chuyên nghiệp để vận hành thiết bị không? Người mới có thể bắt đầu nhanh không?
-- TL: Các model thủ công và bán tự động dòng 180 có các bước vận hành cực kỳ đơn giản. Nhà sản xuất cung cấp hướng dẫn vận hành cơ bản, không cần đào tạo chuyên nghiệp, người mới có thể thành thạo trong thời gian ngắn; Các model hoàn toàn tự động chỉ cần cài đặt thông số trước và chạy tự động sau khi chạy thử đạt yêu cầu, với yêu cầu vận hành rất thấp.
+#### 2.3.2 DPP-150 tự động trung bình
+| Mục | Thông số |
+| ---- | ---- |
+| Hệ thống điều khiển | PLC màn hình cảm ứng + điều tốc tần số biến đổi |
+| Yêu cầu khí nén | Máy nén khí 0.6-0.8Mpa |
+| Kích thước đóng hình hiệu quả | 130×100mm |
+| Tốc độ sản xuất | 10-44 chu kỳ/phút |
+| Trọng lượng máy | 890KG |
+| Ưu điểm cốt lõi | Trạm điều chỉnh, thay khuôn nhanh, tùy chọn phát hiện hạt thiếu, tuân thủ GMP cơ bản |
+| Ứng dụng | Nhà máy dược phẩm trung - nhỏ, sản xuất đa dạng theo lô |
 
-### 3.2 Khuôn mẫu & Tùy chỉnh
-- H: Cần những vật liệu gì để tùy chỉnh khuôn? Thời gian tùy chỉnh là bao lâu?
-- TL: Để tùy chỉnh khuôn, cần 6-8 cái sản phẩm hoặc mẫu vỉ PVC. Nhà sản xuất mở khuôn chính xác theo kích thước, hình dạng và độ sâu của mẫu; Thời gian tùy chỉnh khuôn thông thường ngắn, và khuôn có thể được sản xuất và giao hàng đồng bộ với thiết bị mà không làm chậm tiến độ sản xuất.
-- H: Các khuôn có thể hoán đổi cho nhau không? Có cần mở khuôn mới khi thay đổi sản phẩm không?
-- TL: Khuôn được tùy chỉnh độc quyền. Một bộ khuôn chỉ phù hợp với một kích thước và hình dạng sản phẩm hoặc vỉ nhất định. Đối với việc thay đổi quy cách sản phẩm sau này, cần tùy chỉnh khuôn mới theo mẫu mới. Nhà sản xuất hỗ trợ tùy chỉnh và mua sắm khuôn riêng lẻ.
-- H: Có thể in ngày sản xuất và số lô lên bao bì không?
-- TL: Chức năng in có sẵn cho tất cả các model. Nếu có yêu cầu in trong quá trình tùy chỉnh khuôn, có thể tích hợp các mô-đun in như ngày sản xuất, số lô và logo thương hiệu. Hàn kín và in được hoàn thành đồng bộ; Các model hoàn toàn tự động được trang bị thiết bị in số lô độc lập mà không cần thiết bị bổ sung.
+#### 2.3.3 DPP-260 tự động lớn
+| Mục | Thông số |
+| ---- | ---- |
+| Hệ thống điều khiển | PLC màn hình cảm ứng + điều tốc tần số biến đổi |
+| Yêu cầu khí nén | Máy nén khí 0.6-0.8Mpa |
+| Kích thước đóng hình hiệu quả | 250×120mm |
+| Tốc độ sản xuất | 15-45 chu kỳ/phút |
+| Trọng lượng máy | 1200KG |
+| Ưu điểm cốt lõi | Bề mặt lớn, vận hành liên tục tốc độ cao, thu hồi chất thải tự động |
+| Ứng dụng | Nhà máy dược phẩm trung bình, dây chuyền sản xuất thực phẩm hàng loạt |
 
-### 3.3 Bảo trì Thiết bị & Vật tư Tiêu hao
-- H: Các bộ phận dễ hỏng của thiết bị là gì? Có thể mua riêng không?
-- TL: Bộ phận dễ hỏng cốt lõi là tấm gia nhiệt. Tất cả các tấm gia nhiệt đều áp dụng thiết kế tháo lắp nhanh tiêu chuẩn để thay thế nhanh chóng. Nhà sản xuất có thể cung cấp riêng các bộ phận khác nhau như tấm gia nhiệt, khuôn mẫu, phụ kiện cuộn màng và đầu quang điện, với nguồn cung cấp hậu mãi thuận tiện.
-- H: Thiết bị tương thích với những vật tư tiêu hao nào? Có yêu cầu đặc biệt gì không?
-- TL: Tất cả các model đều tương thích với vỉ nhựa PVC và màng nhôm, được chia thành lá nhôm và cuộn. Không có yêu cầu đặc biệt về vật tư tiêu hao. Có thể sử dụng vỉ PVC và màng nhôm thông thường và tuân thủ quy định trên thị trường. Nhà sản xuất cũng có thể cung cấp các vật tư tiêu hao tương thích được khuyến nghị.
-- H: Tôi nên làm gì nếu tấm gia nhiệt bị hỏng?
-- TL: Tấm gia nhiệt có cấu trúc tháo lắp nhanh, người dùng có thể tự thay thế mà không cần dụng cụ chuyên nghiệp; Nhà sản xuất cung cấp đầy đủ các bộ phận hỗ trợ và hướng dẫn khắc phục sự cố từ xa trong suốt quá trình để giải quyết vấn đề nhanh chóng mà không ảnh hưởng đến sản xuất bình thường.
+#### 2.3.4 Dòng DPP-140E / DPP-250E chức năng kép Alu-Alu & Alu-Plastic
+| Model | Kích thước đóng hình tối đa | Chức năng chính | Sản lượng | Khách hàng mục tiêu |
+| ---- | ---- | ---- | ---- | ---- |
+| DPP-140E | 140×120mm | Chuyển đổi giữa đóng hình lạnh Alu-Alu và đóng hình nóng Alu-Plastic bằng khuôn, kiểm tra hạt 3 cấp độ | Alu-Alu: 15-30 chu kỳ/phút; Alu-Plastic: 20-45 chu kỳ/phút | Nhà máy dược phẩm trung - nhỏ, không gian hạn chế, sản xuất thuốc nhạy sáng |
+| DPP-250E | 250×120mm | Bề mặt rộng, khuôn làm mát bằng nước, loại bỏ bằng hình ảnh, đường rách tùy chọn | Alu-Alu: 15-30 chu kỳ/phút; Alu-Plastic: 20-45 chu kỳ/phút | Nhà máy dược phẩm lớn, phòng sạch GMP tiêu chuẩn cao |
 
-### 3.4 Hiệu suất Thiết bị
-- H: Các model dòng 180 có thể đóng gói các sản phẩm có kích thước nhỏ hơn không?
-- TL: Có. Kích thước bàn làm việc của dòng 180 là 140×180mm (5.51×7.09inch), đây là kích thước đóng gói tối đa. Nó có thể tương thích ngược với các sản phẩm và vỉ có kích thước nhỏ hơn khác nhau. Chỉ cần thay khuôn tùy chỉnh có quy cách tương ứng mà không cần thay đổi toàn bộ máy.
-- H: Dòng hoàn toàn tự động DPP có hỗ trợ đóng gói vỉ hình dạng đặc biệt không?
-- TL: Có. Toàn bộ dòng DPP có thể tùy chỉnh khuôn tạo hình và hàn kín độc quyền theo sản phẩm hoặc mẫu vỉ do khách hàng cung cấp, phù hợp với nhiều loại vỉ có hình dạng đặc biệt, kích thước không tiêu chuẩn và độ sâu khác nhau. Việc thay khuôn thuận tiện, thích ứng với việc chuyển đổi sản xuất đa chủng loại.
-- H: Làm thế nào để đảm bảo hiệu quả hàn kín của thiết bị?
-- TL: Tất cả các model đảm bảo chất lượng hàn kín thông qua ba yếu tố đảm bảo: thứ nhất, kiểm soát nhiệt độ chính xác để tránh hư hỏng do nhiệt độ cao làm chảy hoặc hàn kín lỏng lẻo do nhiệt độ thấp; thứ hai, áp lực đầu ra đồng đều (áp lực tay cho model thủ công, áp lực xi lanh đồng đều cho model khí nén và điện) để hàn kín không có góc chết; thứ ba, kiểm soát thời gian chính xác để đảm bảo hàn kín đúng vị trí, loại bỏ hàn kín rò rỉ và hàn kín giả.
+## 3. Gợi ý chọn lựa cốt lõi
+### 3.1 Chọn theo sản lượng hàng ngày
+1. Sản lượng hàng ngày < 100 gói cho lấy mẫu & đóng gói: Mô hình MTBP-180 bàn tay thủ công
+2. Sản lượng hàng ngày 100-500 lô nhỏ: Mô hình desktop TBP-180 / ETBP-180
+3. Sản lượng hàng ngày 500-2000 lô thường xuyên: Mô hình đứng dọc BP / CP / DP semi-tự động
+4. Sản lượng hàng ngày > 2000 sản phẩm sản xuất liên tục: Tất cả dòng DPP tự động hoàn toàn
 
-## 4. Khả năng Tùy chỉnh của Dòng Máy này
-### 4.1 Tùy chỉnh Cốt lõi: Tùy chỉnh Khuôn mẫu
-- Tùy chỉnh kích thước: Tùy chỉnh chính xác các khuôn độc quyền có chiều dài, chiều rộng và độ sâu tạo hình khác nhau theo mẫu sản phẩm hoặc vỉ của khách hàng. Một bộ khuôn tương ứng với một quy cách, hoàn toàn phù hợp với sản phẩm, tránh rung lắc và dịch chuyển sản phẩm;
-- Tùy chỉnh hình dạng: Hỗ trợ tùy chỉnh khuôn cho vỉ tròn, vuông, hình dạng đặc biệt và các loại vỉ không đều khác nhau, hoàn toàn thích ứng với việc đóng gói các sản phẩm nhỏ có hình dạng khác nhau;
-- Tích hợp in ấn: Khuôn có thể được tích hợp với các mô-đun in như ngày sản xuất, số lô, ngày hết hạn và logo thương hiệu. Quy trình hàn kín và in được hoàn thành đồng bộ, loại bỏ các bước gia công thứ cấp tiếp theo và nâng cao hiệu quả đóng gói.
+### 3.2 Chọn theo điều kiện máy nén khí
+- Không có máy nén khí, chỉ có điện dân dụng thông thường: Mô hình MTBP-180, ETBP-180 điện toàn bộ (cắm là chạy)
+- Đã trang bị máy nén khí 0.6-0.8Mpa: Tất cả máy pneumatic bàn tay, đứng dọc và DPP tự động hoàn toàn đều có thể sử dụng
 
-### 4.2 Tùy chỉnh Chức năng: Mở rộng Cấu hình Thiết bị
-- Lắp đặt hệ thống cấp màng: Model cơ bản đứng BP-180 không được trang bị thiết bị cấp màng tự động, và có thể lắp đặt mô-đun cuộn/xả màng cuộn sau đó theo nhu cầu sản xuất. Nhà sản xuất cung cấp phụ kiện độc quyền và hướng dẫn lắp đặt;
-- Nâng cấp chế độ điều khiển: Các model thủ công cơ bản có thể được nâng cấp lên model bán tự động khí nén, và các model khí nén cơ bản có thể được nâng cấp lên model màn hình cảm ứng PLC + căn chỉnh mắt quang điện để đáp ứng các yêu cầu đóng gói có độ chính xác cao hơn;
-- Tùy chọn chức năng phát hiện: Đối với các ngành công nghiệp yêu cầu cao như dược ph
+### 3.3 Chọn theo loại giấy nhôm
+1. Giấy nhôm tấm chưa in cho đóng gói đơn giản tiết kiệm chi phí: MTBP, TBP, BP-180
+2. Cuộn giấy nhôm chưa in, cắt tấm thủ công: ETBP, CP-180
+3. Giấy nhôm in màu yêu cầu căn chỉnh mẫu chính xác: DP-180, tất cả máy DPP tự động hoàn toàn
+4. Thuốc nhạy sáng cần đóng gói Alu-Alu hình lạnh: Mô hình DPP-140E / DPP-250E chức năng kép
+
+### 3.4 Chọn theo điều kiện địa điểm & yêu cầu tự động hóa
+1. Đặt trên bàn, không gian nhỏ di chuyển được: Mô hình desktop MTBP / TBP / ETBP
+2. Xưởng cố định, sản lượng trung bình, ngân sách hạn chế: Mô hình đứng dọc BP / CP semi-tự động
+3. Xưởng chuẩn hóa, sản xuất 24h liên tục, giảm nhân công: Dòng máy phẳng tự động hoàn toàn DPP
+4. Nhà máy dược phẩm có yêu cầu GMP & kiểm tra hạt: DPP-150 / 260 / 140E / 250E
+
+### 3.5 Chọn theo vật liệu đóng gói
+1. PVC thông thường + giấy nhôm dược phẩm (viên nén & viên nang): Tất cả các dòng đều tương thích
+2. Tấm PET thân thiện môi trường, rào cản cao: Hỗ trợ dòng DP & toàn bộ dòng DPP
+3. Gói bảo vệ ánh sáng Alu-Alu hình lạnh: Chỉ có DPP-140E / DPP-250E
+
+## 4. Câu hỏi thường gặp kỹ thuật tổng quát
+### 4.1 Phối hợp điện & khí
+**Câu hỏi: Các thông số điện & điện áp của toàn bộ dòng máy là gì?**  
+Trả lời: Công suất dòng máy bàn 180: 500W / 1000W; máy semi-tự động đứng dọc: 1000-1500W; máy DPP tự động hoàn toàn: 2,8-8,5KW. Tất cả mô hình đều hỗ trợ 110V / 220V 50/60Hz. Máy DPP lớn có thể tùy chỉnh sang nguồn điện công nghiệp 3 pha 380V, tương thích với nguồn điện nhà máy tiêu chuẩn.
+
+**Câu hỏi: Máy nén khí có thông số gì cho các máy pneumatic?**  
+Trả lời: Tất cả máy pneumatic bàn tay, đứng dọc và DPP tự động hoàn toàn đều phù hợp với máy nén khí lặng 1200W / 50L, áp lực khí ổn định ở mức 0,6-0,8Mpa để hoạt động bình thường.
+
+**Câu hỏi: Máy pneumatic có thể hoạt động mà không cần máy nén khí không?**  
+Trả lời: Không, xi-lanh khí phụ thuộc vào áp lực khí để ép. Khách hàng không có nguồn khí nên chọn máy bàn tay điện toàn bộ MTBP hoặc ETBP.
+
+### 4.2 Tùy chỉnh khuôn
+**Câu hỏi: Khuôn có đi kèm trong gói máy tiêu chuẩn không?**  
+Trả lời: Tất cả máy đều không đi kèm khuôn. Khuôn được tùy chỉnh riêng dựa trên mẫu sản phẩm. Khách hàng cần cung cấp 6-8 mẫu vỏ blister PVC để thiết kế khuôn trước khi đặt hàng.
+
+**Câu hỏi: Khuôn có thể thay thế lẫn nhau được không? Tôi có cần khuôn mới cho sản phẩm mới không?**  
+Trả lời: Khuôn có thể chia sẻ giữa các máy có cùng kích thước bàn. Khuôn mới cần thiết nếu kích thước, hình dạng hoặc độ sâu vỏ blister thay đổi. Có sẵn khuôn đa ô 1-4 ô để tăng sản lượng mỗi chu kỳ.
+
+**Câu hỏi: Khuôn có thể in số lô & ngày sản xuất không?**  
+Trả lời: Bộ phận in số có thể tích hợp vào khuôn cho máy bàn tay & đứng dọc semi-tự động. Tất cả máy DPP tự động hoàn toàn đều có thiết bị mã hóa độc lập để in số lô & hạn sử dụng trong quá trình ép nhiệt.
+
+### 4.3 Vật tư tiêu hao & khắc phục lỗi niêm phong
+**Câu hỏi: Loại vật liệu đóng gói nào tương thích?**  
+- Máy semi-tự động bàn tay & đứng dọc: Vỏ blister PVC/PET đã chuẩn bị sẵn, giấy nhôm dược phẩm tấm & cuộn  
+- Máy DPP tự động hoàn toàn: Cuộn PVC/PET, giấy nhôm nhiệt ép PTP, màng Alu-Alu hình lạnh  
+
+**Câu hỏi: Làm sao để sửa lỗi niêm phong không hoàn chỉnh, bọt khí và lệch giấy nhôm?**  
+1. Niêm phong không hoàn chỉnh / bọt khí: Tăng nhiệt độ gia nhiệt & thời gian giữ, kiểm tra áp lực khí ổn định  
+2. Giấy nhôm nhăn & lệch: Điều chỉnh lực căng cuộn, căn chỉnh song song con lăn hướng dẫn  
+3. Lệch mẫu in: Kích hoạt bù sai số quang học trên máy DP & DPP, căn lại cảm biến dấu màu
+
+### 4.4 Bảo trì & bảo hành
+**Câu hỏi: Phụ tùng mòn là gì và tôi có thể mua riêng không?**  
+Trả lời: Các bộ phận mòn như tấm gia nhiệt, băng keo chịu nhiệt, gioăng niêm phong, cảm biến quang học (DP/DPP), linh kiện điện cao tần (tự động) đều có bán riêng. Chúng tôi cung cấp hướng dẫn thay thế từ xa.
+
+**Câu hỏi: Chính sách bảo hành máy là gì?**  
+Trả lời: Tất cả máy đều được bảo hành 1 năm toàn bộ máy. Các bộ phận mòn (tấm gia nhiệt, gioăng niêm phong, linh kiện điện tử) không nằm trong bảo hành. Chúng tôi cung cấp hỗ trợ kỹ thuật suốt đời, cải tạo khuôn và dịch vụ lắp đặt tại chỗ.
+
+**Câu hỏi: Làm thế nào để làm sạch keo nhôm dư trên tấm gia nhiệt?**  
+Trả lời: Ngắt điện và chờ nguội hoàn toàn, lau bằng vải mềm nhúng anhydrous alcohol. Không dùng vải thép hoặc dao sắc để cào lớp phủ, vì sẽ gây niêm phong không đều.
+
+## 5. Khả năng tùy chỉnh máy toàn diện
+### 5.1 Tùy chỉnh khuôn cốt lõi
+1. Tùy chỉnh kích thước & độ sâu: Khuôn đơn/multi-cavity tùy chỉnh theo kích thước sản phẩm và độ sâu vỏ blister  
+2. Tùy chỉnh hình dạng: Khuôn riêng biệt cho viên nang tròn, vuông, bất quy tắc & suppositories  
+3. Tích hợp chức năng: Khuôn có module in số lô, LOGO & hạn sử dụng để loại bỏ xử lý thứ cấp
+
+### 5.2 Cải tiến máy tùy chọn
+1. Cải tiến hệ thống nạp: Mô hình BP cơ bản có thể nâng cấp thêm thiết bị cuộn giấy nhôm tự động  
+2. Cải tiến điều khiển: Máy pneumatic cơ bản có thể nâng cấp lên hệ thống PLC + đăng ký màu quang học  
+3. Tùy chọn kiểm tra: Máy DPP dược phẩm hỗ trợ phát hiện thiếu hạt & loại bỏ tự động  
+4. Mở rộng quy trình: DPP-140E / 250E hỗ trợ nâng cấp quy trình đóng hình lạnh Alu-Alu  
+5. Tùy chỉnh điện áp & bảng điều khiển: Đơn hàng xuất khẩu hỗ trợ điện áp 110V & màn hình cảm ứng tiếng Anh tùy chỉnh
+
+### 5.3 Tối ưu hóa riêng ngành
+1. Ngành dược phẩm: Toàn bộ bộ phận tiếp xúc bằng thép không gỉ 304, khuôn không mép. Dòng DPP đạt tiêu chuẩn GMP cơ bản cho đóng gói thuốc vô trùng  
+2. Ngành thực phẩm: Bề mặt gia nhiệt đạt tiêu chuẩn thực phẩm, đường nhiệt tối ưu để tránh làm hỏng hương vị do nhiệt độ cao  
+3. Điện tử & Cơ khí: Khuôn sâu & dày hơn, lực kẹp cao hơn để tránh trầy xước & va chạm cho các chi tiết nhỏ  
+4. Tùy chỉnh xuất khẩu: Thùng gỗ gia cố, tài liệu song ngữ Trung - Anh, thích nghi điện áp nước ngoài
+
+### 5.4 Quy trình tùy chỉnh hoàn chỉnh
+1. Khách hàng cung cấp mẫu sản phẩm / bản vẽ vỏ blister, xác định sản lượng hàng ngày, loại giấy nhôm, điều kiện khí & điện trong xưởng  
+2. Nhà cung cấp gửi đề xuất cấu hình máy & thiết kế khuôn, xác nhận tất cả kích thước & chức năng với khách hàng  
+3. Sản xuất máy và chế tạo khuôn diễn ra song song. Thực hiện nhiều lần kiểm tra niêm phong trước khi giao hàng nhà máy  
+4. Giao máy kèm hỗ trợ commissioning video từ xa; dịch vụ lắp đặt tại chỗ & đào tạo người vận hành có sẵn
+
+## 6. Quy trình vận hành tiêu chuẩn (Ví dụ máy đứng dọc semi-tự động)
+1. Kết nối điện và máy nén khí, ổn định áp lực khí ở mức 0,6-0,8Mpa. Bật nguồn và làm nóng tấm gia nhiệt, đặt nhiệt độ 80-150℃, thời gian niêm phong 3-6 giây  
+2. Cố định khuôn tùy chỉnh trên bàn làm việc, tải viên nén / viên nang vào vỏ blister PVC  
+3. Đặt tấm giấy nhôm hoặc kích hoạt hệ thống cấp cuộn giấy nhôm tự động  
+4. Nhấn công tắc chân hoặc nhấn nút trên bảng điều khiển để thực hiện ép nhiệt tự động ở nhiệt độ ổn định  
+5. Nâng tấm gia nhiệt sau khi niêm phong, lấy bảng blister ra và cắt phần giấy nhôm thừa bằng kéo  
+6. Lặp lại quy trình tải & niêm phong để sản xuất liên tục  
+7. Tắt nguồn nhiệt, nguồn khí và nguồn điện sau khi làm việc. Làm sạch keo giấy nhôm dư trên khuôn sau khi nguội hoàn toàn, bảo trì ray trượt & xi-lanh định kỳ

@@ -1,104 +1,184 @@
-# Panduan Pemilihan & Ikhtisar Produk Mesin Pengemas Blister
-
-## 1. Apa itu Mesin Pengemas Blister
+# Panduan Pemilihan Mesin Pengemas Blister & Tinjauan Produk Lengkap
+## 1. Apa Itu Mesin Pengemas Blister
 ### 1.1 Definisi Inti
-Mesin Pengemas Blister adalah perangkat pengemasan khusus yang menyegel produk di antara blister PVC dan film aluminium foil. Melalui proses inti termasuk pemanasan, pembentukan, dan penyegelan, mesin ini mencapai pengemasan produk yang tersegel secara independen, menggabungkan atribut ganda dari perlindungan fisik, ketahanan terhadap kelembaban/debu, dan tampilan produk. Mesin ini banyak digunakan untuk mengemas produk berukuran kecil di industri farmasi, makanan, elektronik, perangkat keras, bahan kimia sehari-hari, dan lainnya, mencakup semua skenario mulai dari produksi uji coba laboratorium hingga produksi skala besar.
+Mesin Pengemas Blister, juga dikenal sebagai Mesin Pengemas Alu-Plastic, adalah peralatan khusus yang menyegel tablet, kapsul, dan bagian kecil perangkat keras di antara cangkang blister PVC/PET dan foil aluminium farmasi melalui proses penyegelan panas. Mesin ini menggunakan proses seperti penekanan panas, penggulungan foil, dan pemotongan untuk membentuk kemasan terpisah yang tersegel. Hasil akhir memiliki performa tahan lembap, tahan cahaya, tahan debu, tahan benturan, serta tampilan transparan yang memungkinkan visibilitas produk. Peralatan ini mencakup sampling laboratorium, produksi batch kecil di bengkel, hingga produksi massal berkelanjutan di pabrik farmasi, banyak digunakan di industri farmasi, makanan, elektronik & perangkat keras, sampel kosmetik harian, dan lainnya untuk produk berukuran kecil.
 
 ### 1.2 Prinsip Kerja
-Seri mesin pengemas blister ini terutama mengadopsi teknologi penyegelan tekan panas, dibagi menjadi empat mode penggerak dan kontrol (manual, pneumatik, elektrik, dan otomatis penuh) berdasarkan positioning model. Modul kontrol suhu digital dan relay waktu secara akurat mengontrol suhu pemanasan dan durasi penyegelan, melelehkan film aluminium foil dan blister PVC di bawah tekanan seragam untuk memastikan penyegelan yang kuat dan bebas bocor. Model kelas menengah ke atas juga dilengkapi dengan perangkat penggulungan/pelepasan film, layar sentuh PLC, motor stepper, dan sistem identifikasi mata fotolistrik, memungkinkan pengangkutan otomatis gulungan aluminium foil dan penyelarasan presisi pola cetakan. Beberapa model otomatis penuh dapat secara independen menyelesaikan seluruh proses pembentukan, pengisian, pemotongan, dan daur ulang limbah. Semua model mendukung cetakan khusus agar sesuai dengan produk dengan bentuk, ukuran, dan kedalaman yang berbeda, secara fleksibel memenuhi berbagai persyaratan pengemasan.
+Seluruh seri dibagi menjadi tiga kategori: desktop manual/semi-otomatis, vertikal semi-otomatis, dan mesin datar otomatis penuh DPP, dengan dua proses inti:
+1. **Seri Desktop & Vertikal Semi-Otomatis (MTBP / TBP / ETBP / BP / CP / DP)**
+   Operator secara manual memasukkan material ke dalam blister PVC yang sudah jadi dan menempatkannya di cetakan, lalu menutupinya dengan lembaran foil aluminium atau gulungan. Plat pemanas listrik atau silinder udara menerapkan suhu konstan dan tekanan untuk menggabungkan foil aluminium dan blister. Operator memotong sisa foil untuk mendapatkan produk jadi. Model DP tingkat atas dilengkapi sensor pencocokan warna fotoelektrik untuk pencocokan presisi foil aluminium yang dicetak.
+2. **Seri DPP Otomatis Penuh (DPP-80 / 150 / 260 / 140E / 250E)**
+   Produksi berkelanjutan dari gulungan ke gulungan: pelepasan PVC → pembentukan blister panas → pengumpanan otomatis → penyegelan foil aluminium → pencetakan batch → pemotongan → penggulungan kembali foil limbah. Model tingkat atas mendukung proses cold forming Alu-Alu dan hot forming Alu-Plastic, serta inspeksi partikel yang hilang dan penolakan otomatis. Kontrol PLC layar sentuh mengatur semua parameter, dan mesin dapat terhubung ke jalur perakitan otomatis.
 
-### 1.3 Nilai Inti
-- Perlindungan unggul: Struktur tersegel penuh secara efektif memblokir kelembaban, debu, dan oksidasi, mencegah kerusakan akibat benturan selama transportasi dan penyimpanan, dan sangat memperpanjang umur simpan produk;
-- Higienis dan nyaman: Kemasan blister independen memastikan penggunaan tunggal tanpa mempengaruhi produk yang tersisa, menghilangkan kontaminasi sekunder dan memenuhi persyaratan higienis dasar untuk industri makanan dan farmasi;
-- Adaptabilitas tempat tinggi: Model meja ringkas dan ringan, dapat digunakan langsung di atas meja tanpa memakan banyak ruang; Model vertikal memiliki struktur yang teratur, dan model otomatis penuh ringkas, cocok untuk bengkel kecil, laboratorium, bengkel kecil, dan tempat lainnya;
-- Ambang operasi rendah: Model manual dan semi-otomatis mudah dioperasikan, dapat digunakan oleh pemula tanpa pelatihan profesional; Model otomatis penuh mendukung pengaturan parameter satu tombol dan operasi otomatis, sangat menghemat biaya tenaga kerja;
-- Kompatibilitas tegangan luas: Semua model mendukung tegangan luas 110V/220V 50Hz/60Hz, digerakkan oleh listrik rumah tangga konvensional tanpa sambungan tegangan tinggi, beradaptasi dengan lingkungan jaringan listrik di dalam dan luar negeri.
+### 1.3 Keunggulan Utama
+- **Perlindungan Penyegelan Unggul**: Struktur Alu-Plastic / Alu-Alu yang sepenuhnya tersegel mengisolasi kelembapan, cahaya, dan debu, memperpanjang masa simpan obat dan makanan, serta mencegah kerusakan selama transportasi.
+- **Kemasan Dosis Satu Kali Higienis & Mudah Digunakan**: Kemasan blister individu mencegah kontaminasi silang setelah penggunaan sebagian, sesuai dengan standar higiene GMP dasar untuk produk farmasi.
+- **Adaptasi Lokasi Fleksibel**: Model desktop bisa ditempatkan di meja dan dikirim via udara/kurir; mesin vertikal semi-otomatis membutuhkan ruang sedang; mesin flat otomatis penuh cocok untuk bengkel produksi standar.
+- **Ambang Operasi Rendah**: Mesin manual bisa dikuasai dalam 5 menit; mesin semi-otomatis mendukung start satu tombol; mesin otomatis penuh menyimpan preset parameter.
+- **Kompatibilitas Tegangan Global**: Semua model mendukung 110V / 220V 50/60Hz. Mesin otomatis penuh daya tinggi mendukung listrik industri tiga fase 380V.
+- **Fleksibilitas Kustomisasi Tinggi**: Cetakan khusus tersedia. Opsional pencetakan batch, proses ganda Alu-Alu, dan desain multi-kavitas multi-papan.
 
-### 1.4 Industri yang Cocok
-- Industri farmasi: Tablet, kapsul, kapsul lunak, salep kecil, aksesori medis sekali pakai, bahan habis pakai medis, dll.;
-- Industri makanan: Tablet susu, permen, kacang-kacangan, makanan beku-kering, camilan berukuran kecil, dll.;
-- Elektronik & perangkat keras: Komponen elektronik kecil, sekrup, mur, bagian presisi mikro, aksesori perangkat keras, dll.;
-- Bahan kimia sehari-hari: Produk perawatan kulit sampel, kosmetik uji coba, perlengkapan mandi berukuran kecil, dll.;
-- Skenario khusus: Produksi uji coba dan pengambilan sampel laboratorium, produksi tersebar di bengkel kecil, pengemasan batch kecil e-commerce khusus, peralihan produksi multi-variasi.
+### 1.4 Industri yang Sesuai
+- **Industri Farmasi**: Tablet, kapsul keras/lunak, pil, perlengkapan medis, alat medis sekali pakai
+- **Industri Makanan**: Tablet susu, permen, camilan beku kering, produk kesehatan
+- **Elektronik & Perangkat Keras**: Sekrup mikro, aksesori earphone, baterai tombol, bagian kecil presisi
+- **Kosmetik Harian**: Sampel perawatan kulit, esensi kapsul, kemasan perawatan diri kecil
+- **Aplikasi**: Sampling R&D laboratorium, pengisian batch kecil toko obat, pabrik kecil, jalur produksi farmasi massal
 
-## 2. Tabel Perbedaan Pemilihan Model Inti
+## 2. Tabel Pemilihan Perbedaan Seri Lengkap
+### 2.1 Mesin Blister Mini Desktop (Meja, Sampling & Output Ultra-Rendah)
+| Model | Jenis Tubuh | Penggerak & Kontrol | Kebutuhan Udara | Ukuran Meja Kerja | Kecepatan Produksi | Berat Bersih | Alur Operasi Standar | Fitur Utama | Aplikasi |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| MTBP-180 | Meja Desktop | Tuas Manual + Pemanas Listrik | Tidak Memerlukan Kompressor Udara | 140×180mm | 5-8 pcs/min | 23KG | Masukkan material ke blister → Tutup dengan lembaran foil aluminium → Tekan tuas manual → Potong sisa tepi | Plug & play, tanpa peralatan tambahan, hanya untuk foil aluminium tidak dicetak, biaya terendah | Laboratorium, toko obat, bengkel kecil tanpa pasokan udara, output harian < 100 pack |
+| TBP-180 | Meja Desktop | Semi-otomatis Pneumatik | Memerlukan Kompressor Udara 0.6-0.8Mpa | 140×180mm | 5-10 pcs/min | 23KG | Masukkan material ke blister → Tutup dengan lembaran foil aluminium → Tekan otomatis dengan tombol → Potong sisa tepi | Tekanan silinder seragam, hemat tenaga kerja, cocok untuk lembaran foil aluminium | Sampling batch kecil, lokasi dengan kompressor udara |
+| ETBP-180 | Meja Desktop | Otomatis Penuh Listrik Penggulung | Tidak Memerlukan Kompressor Udara | 140×180mm | 10-15 pcs/min | 52KG | Masukkan material ke blister → Pengumpanan otomatis rol foil aluminium → Penyegelan panas otomatis → Potong sisa tepi | Sistem penggulungan foil internal, tidak perlu pemotongan manual lembaran, cocok untuk gulungan foil dicetak | Produksi jangka panjang batch kecil, pelanggan menggunakan gulungan aluminium tanpa kompressor |
 
-| Seri Model | Model Inti | Tipe Badan | Mode Penggerak/Kontrol | Ukuran Meja Kerja (mm/inci) | Kecepatan Produksi | Persyaratan Pasokan Udara | Berat Bersih (KG/lb) | Prosedur Operasi Standar | Fitur Inti | Skenario yang Cocok |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Meja Entry-level | MTBP-180 | Meja | Tuas manual + pemanas elektrik | 140×180mm (5,51×7,09inci) | 5-8 pcs/mnt | Tidak ada (colok dan pakai) | 23/25KG (50,7/55,1lb) | Masukkan kapsul, tablet, dan produk lainnya secara manual ke dalam blister PVC → Tempatkan blister PVC yang sudah diisi ke dalam cetakan mesin → Masukkan lembaran aluminium foil → Tekan sakelar → Tekan secara manual untuk menyelesaikan penyegelan → Potong tepi aluminium foil berlebih dengan gunting untuk mendapatkan kemasan jadi | Operasi meja manual murni, ringkas dan ringan, hemat ruang, penempatan di atas meja, colok dan pakai, kompatibel dengan lembaran aluminium foil | Bengkel kecil, laboratorium, pengemasan produk dengan hasil rendah, produk tanpa cetakan aluminium foil |
-| Meja Pneumatik | TBP-180 | Meja | Kontrol pneumatik | 140×180mm (5,51×7,09inci) | 5-10 pcs/mnt | 0,6-0,8Mpa (kompresor udara diperlukan) | 23/25KG (50,7/55,1lb) | Masukkan kapsul, tablet, dan produk lainnya secara manual ke dalam blister PVC → Tempatkan blister PVC yang sudah diisi ke dalam cetakan mesin → Masukkan lembaran aluminium foil → Tekan sakelar → Mesin secara otomatis menekan untuk menyelesaikan penyegelan → Potong tepi aluminium foil berlebih dengan gunting untuk mendapatkan kemasan jadi | Semi-otomatis meja, ringkas, penempatan di atas meja, tidak perlu tekanan manual, gaya penyegelan seragam, kompatibel dengan lembaran aluminium foil | Bengkel kecil, laboratorium, pengemasan produk dengan hasil rendah, produk tanpa cetakan aluminium foil |
-| Meja Elektrik | ETBP-180 | Meja | Kontrol elektrik penuh | 140×180mm (5,51×7,09inci) | 5-10 pcs/mnt | Tidak ada (colok dan pakai) | 52/55KG (114,6/121,3lb) | Masukkan kapsul, tablet, dan produk lainnya secara manual ke dalam blister PVC → Tempatkan blister PVC yang sudah diisi ke dalam cetakan mesin → Tekan sakelar → Mesin secara otomatis menekan untuk menyelesaikan penyegelan → Potong tepi aluminium foil berlebih dengan gunting untuk mendapatkan kemasan jadi | Semi-otomatis meja, ringkas, penempatan di atas meja, colok dan pakai, perangkat penggulungan/pelepasan film internal untuk gulungan aluminium foil, menghilangkan langkah pemotongan lembaran | Bengkel kecil, laboratorium, kompatibel dengan produk gulungan aluminium foil cetak |
-| Vertikal Dasar | BP-180 | Vertikal (berdiri di lantai) | Kontrol pneumatik | 140×180mm (5,51×7,09inci) | 5-10 pcs/mnt | 0,6-0,8Mpa (kompresor udara diperlukan) | 110KG (242,5lb) | Masukkan kapsul, tablet, dan produk lainnya secara manual ke dalam blister PVC → Tempatkan blister PVC yang sudah diisi ke dalam cetakan mesin → Masukkan lembaran aluminium foil → Tekan sakelar → Tekan secara manual untuk menyelesaikan penyegelan → Potong tepi aluminium foil berlebih dengan gunting untuk mendapatkan kemasan jadi | Vertikal manual, badan stabil, cocok untuk produksi di tempat tetap, kompatibel dengan lembaran aluminium foil | Bengkel kecil, pabrik kecil, pengemasan produk dengan hasil rendah, dilengkapi kompresor udara, produk tanpa cetakan aluminium foil |
-| Vertikal Standar | CP-180 | Vertikal (berdiri di lantai) | Kontrol pneumatik | 140×180mm (5,51×7,09inci) | 5-10 pcs/mnt | 0,6-0,8Mpa (kompresor udara diperlukan) | 120KG (264,6lb) | Masukkan kapsul, tablet, dan produk lainnya secara manual ke dalam blister PVC → Tempatkan blister PVC yang sudah diisi ke dalam cetakan mesin → Tekan sakelar → Mesin secara otomatis menekan untuk menyelesaikan penyegelan → Potong tepi aluminium foil berlebih dengan gunting untuk mendapatkan kemasan jadi | Semi-otomatis vertikal, badan stabil, tidak perlu tekanan manual, perangkat penggulungan/pelepasan film internal untuk gulungan aluminium foil | Bengkel kecil, pabrik kecil, pengemasan produk batch kecil konvensional, dilengkapi kompresor udara |
-| Vertikal Ditingkatkan | DP-180 | Vertikal (berdiri di lantai) | Pneumatik + PLC + motor stepper + mata fotolistrik | 140×180mm (5,51×7,09inci) | 5-10 pcs/mnt | 0,6-0,8Mpa (kompresor udara diperlukan) | 150KG (330,7lb) | Masukkan kapsul, tablet, dan produk lainnya secara manual ke dalam blister PVC → Tempatkan blister PVC yang sudah diisi ke dalam cetakan mesin → Tekan sakelar → Mesin secara otomatis menekan untuk menyelesaikan penyegelan → Potong tepi aluminium foil berlebih dengan gunting untuk mendapatkan kemasan jadi | Semi-otomatis vertikal, perangkat penggulungan/pelepasan film internal untuk gulungan, dilengkapi PLC, motor stepper, dan identifikasi mata fotolistrik, penyelarasan presisi pola cetakan aluminium foil | Bengkel kecil, pabrik kecil, pengemasan produk batch kecil konvensional, kompatibel dengan produk gulungan aluminium foil cetak |
-| Otomatis Penuh Kecil | DPP-80 | Vertikal (berdiri di lantai) | Otomatis penuh pneumatik + layar sentuh PLC | 105*70mm (4,13*2,76inci) | 10-33 kali/mnt | 0,6-0,8Mpa (kompresor udara diperlukan) | 480/520KG (1058,2/1146,4lb) | Hubungkan pasokan udara dan daya → Pasang gulungan PVC dan aluminium foil → Atur suhu pemanasan dan kecepatan operasi → Uji coba inching setelah suhu stabil → Mulai produksi otomatis setelah uji coba lulus → Dinginkan dan bersihkan peralatan setelah dimatikan | Struktur ringkas, operasi stabil, kontrol suhu presisi PID, mendukung pengemasan aluminium-plastik, aluminium-aluminium, kertas-plastik, secara otomatis menyelesaikan pembentukan, pengisian, penyegelan panas, pencetakan nomor batch, pemotongan, kebisingan rendah, perawatan mudah | Laboratorium, bengkel kecil, pengemasan skala besar batch kecil untuk farmasi dan produk kecil serupa, produksi otomatis berkelanjutan |
-| Otomatis Penuh Sedang | DPP-150 | Vertikal (berdiri di lantai) | Otomatis penuh pneumatik + layar sentuh PLC + kontrol kecepatan frekuensi variabel | 130*100mm (5,12*3,94inci) | 10-44 kali/mnt | 0,6-0,8Mpa (kompresor udara diperlukan) | 890KG (1962,1lb) | Hubungkan pasokan udara dan daya → Pasang gulungan kemasan → Atur suhu, kecepatan, dan parameter lainnya → Uji coba inching setelah suhu stabil → Produksi otomatis setelah uji coba lulus → Selesaikan pembersihan dan perawatan setelah pendinginan mati | Desain pelat datar, transmisi gigi poros paralel yang stabil dan rendah kebisingan, jarak stasiun yang dapat disesuaikan, penggantian cetakan yang mudah, secara otomatis menyelesaikan pengumpanan, pembentukan, pengisian, penyegelan panas, pencetakan nomor batch, pemotongan, daur ulang limbah, fungsi deteksi dan penolakan partikel hilang opsional, sesuai dengan standar GMP | Bengkel kecil dan menengah, pengemasan produk batch kecil dan menengah multi-variasi, cocok untuk farmasi seperti tablet dan kapsul |
-| Otomatis Penuh Besar | DPP-260 | Vertikal (berdiri di lantai) | Otomatis penuh pneumatik + layar sentuh PLC + kontrol kecepatan frekuensi variabel | 250*120mm (9,84*4,72inci) | 15-45 kali/mnt | 0,6-0,8Mpa (kompresor udara diperlukan) | 1200KG (2645,54lb) | Hubungkan pasokan udara dan daya → Pasang gulungan kemasan → Atur suhu, kecepatan, dan parameter lainnya → Uji coba inching setelah suhu stabil → Produksi otomatis setelah uji coba lulus → Selesaikan pembersihan dan perawatan setelah pendinginan mati | Desain pelat datar, transmisi gigi poros paralel yang stabil dan rendah kebisingan, jarak stasiun yang dapat disesuaikan, penggantian cetakan yang mudah, secara otomatis menyelesaikan pengumpanan, pembentukan, pengisian, penyegelan panas, pencetakan nomor batch, pemotongan, daur ulang limbah, fungsi deteksi dan penolakan partikel hilang opsional, sesuai dengan standar GMP | Bengkel kecil dan menengah, pengemasan produk batch kecil dan menengah multi-variasi, cocok untuk farmasi seperti tablet dan kapsul |
+### 2.2 Mesin Blister Vertikal Semi-Otomatis (Berdiri, Batch Sedang & Kecil)
+| Model | Jenis Tubuh | Penggerak & Kontrol | Suplai Udara | Ukuran Kerja | Kecepatan | Berat | Fitur Utama | Aplikasi |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| BP-180 | Vertikal Berdiri | Pneumatik + Saklar Kaki | 0.6-0.8Mpa | 140×180mm | 5-10 pcs/min | 110KG | Rangka vertikal stabil, hanya mendukung lembaran foil aluminium tanpa pengumpanan otomatis | Pabrik tetap kecil, kemasan batch rendah biaya |
+| CP-180 | Vertikal Berdiri | Pneumatik + Penggulungan Otomatis Foil | 0.6-0.8Mpa | 140×180mm | 5-10 pcs/min | 120KG | Dilengkapi penggulungan dan penggulungan ulang gulungan foil, tidak perlu penempatan manual lembaran | Batch rutin kecil, pelanggan menggunakan gulungan foil aluminium |
+| DP-180 | Vertikal Berdiri | PLC + Motor Stepper + Pencocokan Fotoelektrik | 0.6-0.8Mpa | 140×180mm | 5-10 pcs/min | 150KG | Pencocokan pola warna untuk foil dicetak, mendukung pencetakan batch | Kemasan dengan foil aluminium berwarna dicetak, pesanan batch kecil menengah |
 
-### Saran Pemilihan Inti
-1. Pilih berdasarkan kapasitas produksi: Untuk skenario batch sangat kecil dengan hasil harian di bawah 100 buah, pilih model manual meja MTBP-180; Untuk skenario batch kecil dengan hasil harian 100-500 buah, pilih model meja TBP-180 dan ETBP-180; Untuk skenario batch konvensional dengan hasil harian 500-2000 buah, pilih model vertikal BP-180, CP-180, dan DP-180; Untuk produksi skala besar dengan hasil harian di atas 2000 buah, langsung pilih seri otomatis penuh DPP-80 dan DPP-150.
-2. Pilih berdasarkan tempat dan fasilitas pendukung: Untuk skenario tanpa bengkel tetap dan hanya operasi meja, prioritaskan seri model meja 180; Untuk skenario tanpa kompresor udara, langsung pilih MTBP-180 dan ETBP-180 yang colok dan pakai; Untuk skenario dengan bengkel tetap dan dilengkapi kompresor udara, pilih seri vertikal 180 atau model otomatis penuh.
-3. Pilih berdasarkan jenis aluminium foil: Untuk yang hanya menggunakan lembaran aluminium foil tanpa persyaratan cetakan, pilih MTBP-180, TBP-180, BP-180; Untuk yang menggunakan gulungan aluminium foil tanpa persyaratan penyelarasan presisi tinggi, pilih ETBP-180, CP-180; Untuk aluminium foil dengan pola cetakan yang memerlukan penyelarasan presisi, pilih DP-180.
-4. Pilih berdasarkan kemudahan operasi: Untuk yang memiliki anggaran sangat rendah dan dapat menerima operasi manual murni, pilih MTBP-180; Untuk yang ingin menghemat tenaga kerja dan menginginkan operasi semi-otomatis, pilih model semi-otomatis pneumatik atau elektrik; Untuk yang memiliki persyaratan tinggi pada akurasi pengemasan dan efisiensi produksi, berharap mengurangi intervensi manual, pilih seri otomatis penuh.
+### 2.3 Seri Flat Otomatis Penuh DPP (Produksi Massal Berkelanjutan)
+#### 2.3.1 DPP-80 Otomatis Kecil
+| Item | Spesifikasi |
+| ---- | ---- |
+| Sistem Kontrol | PLC Layar Sentuh Otomatis Penuh |
+| Kebutuhan Udara | Kompressor Udara 0.6-0.8Mpa |
+| Ukuran Pembentukan Efektif | 105×70mm |
+| Kecepatan Produksi | 10-33 siklus/min |
+| Berat Mesin | 480-520KG |
+| Keunggulan Utama | Struktur ringkas, integrasi pembentukan/penyediaan/penyegelan/pemotongan otomatis |
+| Aplikasi | Pabrik produk kesehatan kecil, ruang persiapan laboratorium, jalur produksi standar kecil |
 
-## 3. Pertanyaan Umum & Jawaban Teknis
-### 3.1 Operasi Peralatan
-- T: Apa persyaratan catu daya dari semua model? Apakah diperlukan sambungan tegangan tinggi terpisah?
-- J: Semua model mendukung tegangan luas universal 110V/220V 50Hz/60Hz. Daya seri meja dan vertikal 180 adalah 1000W, dan seri otomatis penuh DPP adalah 2,8kw. Dapat digunakan dengan listrik rumah tangga atau bengkel konvensional tanpa sambungan tegangan tinggi terpisah, dan pemasangan kabel sederhana dan nyaman.
-- T: Spesifikasi kompresor udara apa yang diperlukan untuk model pneumatik?
-- J: Semua model pneumatik (TBP-180, BP-180, CP-180, DP-180, seri DPP penuh) kompatibel secara seragam dengan kompresor udara 1200W*50L. Produksi penyegelan normal dapat dipenuhi selama tekanan udara dijaga stabil pada 0,6-0,8Mpa.
-- T: Bagaimana cara menyesuaikan suhu pemanasan dan waktu penyegelan peralatan?
-- J: Untuk seri 180 model manual dan semi-otomatis dasar, sesuaikan waktu penyegelan (konvensional 3-6 detik) melalui relay waktu digital; ETBP-180 mendukung penyesuaian kontrol suhu presisi 80-150℃; Untuk DP-180 dan seri otomatis penuh DPP, atur parameter suhu, waktu, dan kecepatan secara visual melalui layar sentuh PLC, yang mudah dioperasikan.
-- T: Apakah diperlukan pelatihan profesional untuk mengoperasikan peralatan? Dapatkah pemula cepat memulai?
-- J: Seri 180 model manual dan semi-otomatis memiliki langkah operasi yang sangat sederhana. Pabrikan menyediakan instruksi operasi dasar, tidak diperlukan pelatihan profesional, dan pemula dapat menguasainya dalam waktu singkat; Model otomatis penuh hanya perlu mengatur parameter terlebih dahulu dan berjalan secara otomatis setelah uji coba lulus, dengan ambang operasi yang sangat rendah.
+#### 2.3.2 DPP-150 Otomatis Menengah
+| Item | Spesifikasi |
+| ---- | ---- |
+| Sistem Kontrol | PLC Layar Sentuh + Regulasi Kecepatan Frekuensi Variabel |
+| Kebutuhan Udara | Kompressor Udara 0.6-0.8Mpa |
+| Ukuran Pembentukan Efektif | 130×100mm |
+| Kecepatan Produksi | 10-44 siklus/min |
+| Berat Mesin | 890KG |
+| Keunggulan Utama | Stasiun yang dapat disesuaikan, pergantian cetakan cepat, opsional penolakan partikel, kepatuhan dasar GMP |
+| Aplikasi | Pabrik farmasi menengah & kecil, produksi batch multi-varian |
 
-### 3.2 Cetakan & Kustomisasi
-- T: Bahan apa yang diperlukan untuk membuat cetakan khusus? Berapa lama siklus kustomisasi?
-- J: Untuk membuat cetakan khusus, diperlukan 6-8 buah produk atau sampel blister PVC. Pabrikan membuat cetakan secara presisi sesuai dengan ukuran, bentuk, dan kedalaman sampel; Siklus kustomisasi cetakan konvensional pendek, dan cetakan dapat diproduksi dan dikirim bersamaan dengan peralatan tanpa menunda jadwal produksi.
-- T: Apakah cetakan dapat dipertukarkan? Apakah perlu membuat cetakan baru saat mengganti produk?
-- J: Cetakan dibuat khusus secara eksklusif. Satu set cetakan hanya cocok untuk satu ukuran dan bentuk produk atau blister. Untuk penggantian spesifikasi produk di kemudian hari, cetakan baru perlu dibuat khusus sesuai dengan sampel baru. Pabrikan mendukung kustomisasi dan pengadaan cetakan terpisah.
-- T: Dapatkah tanggal produksi dan nomor batch dicetak pada kemasan?
-- J: Fungsi pencetakan tersedia untuk semua model. Jika persyaratan pencetakan ditentukan selama kustomisasi cetakan, modul pencetakan seperti tanggal produksi, nomor batch, dan logo merek dapat diintegrasikan. Penyegelan dan pencetakan selesai secara sinkron; Model otomatis penuh dilengkapi dengan perangkat pencetakan nomor batch independen tanpa peralatan tambahan.
+#### 2.3.3 DPP-260 Otomatis Besar
+| Item | Spesifikasi |
+| ---- | ---- |
+| Sistem Kontrol | PLC Layar Sentuh + Regulasi Kecepatan Frekuensi Variabel |
+| Kebutuhan Udara | Kompressor Udara 0.6-0.8Mpa |
+| Ukuran Pembentukan Efektif | 250×120mm |
+| Kecepatan Produksi | 15-45 siklus/min |
+| Berat Mesin | 1200KG |
+| Keunggulan Utama | Plat besar, operasi berkelanjutan kecepatan tinggi, pemulihan limbah otomatis |
+| Aplikasi | Pabrik farmasi menengah, jalur produksi makanan massal |
 
-### 3.3 Perawatan Peralatan & Bahan Habis Pakai
-- T: Apa saja bagian yang rentan dari peralatan? Dapatkah dibeli secara terpisah?
-- J: Bagian rentan inti adalah pelat pemanas. Semua pelat pemanas mengadopsi desain pelepas cepat standar untuk penggantian cepat. Pabrikan dapat memasok berbagai bagian seperti pelat pemanas, cetakan, aksesori film gulungan, dan kepala fotolistrik secara terpisah, dengan pasokan purna jual yang nyaman.
-- T: Bahan habis pakai apa yang kompatibel dengan peralatan? Apakah ada persyaratan khusus?
-- J: Semua model kompatibel dengan blister PVC dan film aluminium foil, dibagi menjadi lembaran aluminium foil dan gulungan. Tidak ada persyaratan bahan habis pakai khusus. Blister PVC dan film aluminium foil konvensional dan sesuai di pasaran dapat digunakan. Pabrikan juga dapat menyediakan bahan habis pakai kompatibel yang direkomendasikan.
-- T: Apa yang harus dilakukan jika pelat pemanas rusak?
-- J: Pelat pemanas memiliki struktur pelepas dan pemasangan cepat, yang dapat diganti oleh pengguna tanpa alat profesional; Pabrikan menyediakan bagian pendukung lengkap dan panduan pemecahan masalah jarak jauh secara menyeluruh untuk menyelesaikan masalah dengan cepat tanpa mempengaruhi produksi normal.
+#### 2.3.4 DPP-140E / DPP-250E Dual-Fungsi Alu-Alu & Alu-Plastic
+| Model | Ukuran Pembentukan Maks | Fungsi Inti | Output | Pelanggan Target |
+| ---- | ---- | ---- | ---- | ---- |
+| DPP-140E | 140×120mm | Beralih antara cold forming Alu-Alu dan hot forming Alu-Plastic dengan cetakan, inspeksi partikel 3 tahap | Alu-Alu: 15-30 siklus/min; Alu-Plastic: 20-45 siklus/min | Pabrik farmasi menengah & kecil dengan ruang terbatas, produksi obat sensitif cahaya |
+| DPP-250E | 250×120mm | Plat lebar, cetakan pendingin air, penolakan visual, garis robek opsional | Alu-Alu: 15-30 siklus/min; Alu-Plastic: 20-45 siklus/min | Produsen farmasi besar, workshop GMP standar tinggi |
 
-### 3.4 Kinerja Peralatan
-- T: Dapatkah model seri 180 mengemas produk berukuran lebih kecil?
-- J: Ya. Ukuran meja kerja seri 180 adalah 140×180mm (5,51×7,09inci), yang merupakan ukuran pengemasan maksimum. Dapat kompatibel dengan berbagai produk dan blister berukuran lebih kecil ke bawah. Hanya perlu mengganti cetakan khusus dari spesifikasi yang sesuai tanpa mengubah seluruh mesin.
-- T: Apakah seri otomatis penuh DPP mendukung pengemasan blister bentuk khusus?
-- J: Ya. Seri DPP penuh dapat membuat cetakan pembentukan dan penyegelan eksklusif sesuai dengan produk atau sampel blister yang disediakan pelanggan, cocok untuk berbagai bentuk khusus, ukuran tidak standar, dan pengemasan blister dengan kedalaman berbeda. Penggantian cetakan nyaman, beradaptasi dengan peralihan produksi multi-variasi.
-- T: Bagaimana cara memastikan efek penyegelan peralatan?
-- J: Semua model memastikan kualitas penyegelan melalui tiga jaminan: pertama, kontrol suhu presisi untuk menghindari kerusakan leleh suhu tinggi atau penyegelan longgar suhu rendah; kedua, output tekanan seragam (tekanan manual untuk model manual, tekanan silinder seragam untuk model pneumatik dan elektrik) untuk penyegelan tanpa sudut mati; ketiga, kontrol waktu presisi untuk memastikan penyegelan tepat waktu dan menghilangkan penyegelan bocor dan palsu.
+## 3. Saran Pemilihan Inti
+### 3.1 Pilih Berdasarkan Output Harian
+1. Output harian < 100 pack untuk sampling & pengisian: Model desktop manual MTBP-180
+2. Output harian 100-500 batch kecil: Model desktop TBP-180 / ETBP-180
+3. Output harian 500-2000 batch rutin: Model vertikal semi-otomatis BP / CP / DP
+4. Output harian > 2000 produksi massal berkelanjutan: Semua seri DPP otomatis penuh
 
-## 4. Kemampuan Kustomisasi Seri Mesin Ini
-### 4.1 Kustomisasi Inti: Kustomisasi Cetakan
-- Kustomisasi ukuran: Buat cetakan eksklusif dengan panjang, lebar, dan kedalaman pembentukan yang berbeda secara presisi sesuai dengan sampel produk atau blister pelanggan. Satu set cetakan sesuai dengan satu spesifikasi, sangat cocok dengan produk dan menghindari goyangan dan perpindahan produk;
-- Kustomisasi bentuk: Mendukung kustomisasi cetakan untuk blister bulat, persegi, bentuk khusus, dan berbagai blister tidak beraturan, sepenuhnya beradaptasi dengan pengemasan produk kecil dengan bentuk berbeda;
-- Integrasi pencetakan: Cetakan dapat diintegrasikan dengan modul pencetakan seperti tanggal produksi, nomor batch, tanggal kedaluwarsa, dan logo merek. Proses penyegelan dan pencetakan selesai secara sinkron, menghilangkan langkah pemrosesan sekunder selanjutnya dan meningkatkan efisiensi pengemasan.
+### 3.2 Pilih Berdasarkan Kondisi Kompressor Udara
+- Tidak ada kompressor udara, hanya listrik kota biasa tersedia: Model MTBP-180, ETBP-180 all-electric (plug & play)
+- Sudah dilengkapi kompressor udara 0.6-0.8Mpa: Semua mesin pneumatik desktop, vertikal, dan DPP otomatis penuh tersedia
 
-### 4.2 Kustomisasi Fungsi: Ekspansi Konfigurasi Peralatan
-- Pemasangan sistem pengumpanan foil: Model dasar vertikal BP-180 tidak dilengkapi dengan perangkat pengumpanan foil otomatis, dan modul penggulungan/pelepasan film gulungan dapat dipasang kemudian sesuai dengan kebutuhan produksi. Pabrikan menyediakan aksesori eksklusif dan panduan pemasangan;
-- Peningkatan mode kontrol: Model manual dasar dapat ditingkatkan ke model semi-otomatis pneumatik, dan model pneumatik dasar dapat ditingkatkan ke model layar sentuh PLC + penyelarasan mata fotolistrik untuk memenuhi persyaratan pengemasan presisi lebih tinggi;
-- Fungsi deteksi opsional: Untuk industri dengan permintaan tinggi seperti farmasi dan makanan, fungsi deteksi kekurangan bahan, deteksi penyegelan, dan penolakan produk cacat otomatis tersedia sebagai opsi, sangat meningkatkan tingkat kelulusan pengemasan dan mengurangi tingkat cacat.
+### 3.3 Pilih Berdasarkan Jenis Foil Aluminium
+1. Lembaran foil aluminium tidak dicetak untuk kemasan sederhana biaya rendah: MTBP, TBP, BP-180
+2. Gulungan foil aluminium tidak dicetak untuk dipotong manual: ETBP, CP-180
+3. Foil aluminium berwarna yang membutuhkan pencocokan pola presisi: DP-180, semua mesin DPP otomatis penuh
+4. Obat sensitif cahaya yang membutuhkan cold forming Alu-Alu: Model dual-fungsi DPP-140E / DPP-250E
 
-### 4.3 Kustomisasi Adaptabilitas: Optimasi Khusus Industri
-- Industri farmasi: Optimalkan akurasi penyegelan dan struktur higienis peralatan, adopsi desain anti-polusi untuk cetakan, patuhi spesifikasi pengemasan industri farmasi, dan beberapa model dapat memenuhi persyaratan GMP dasar;
-- Industri elektronik & perangkat keras: Kustomisasi cetakan blister yang diperdalam dan dipertebal untuk meningkatkan kinerja perlindungan produk, secara efektif menghindari kerusakan benturan dan goresan komponen elektronik dan aksesori perangkat keras dalam kemasan;
-- Industri makanan: Adopsi bagian kontak food grade, optimalkan rentang kontrol suhu untuk mencegah suhu tinggi mempengaruhi kualitas dan rasa makanan, dan memenuhi standar higienis dan keselamatan pengemasan makanan.
+### 3.4 Pilih Berdasarkan Kebutuhan Lokasi & Otomasi
+1. Penempatan meja, ruang kecil bergerak: Desktop MTBP / TBP / ETBP
+2. Bengkel tetap, batch sedang, anggaran terbatas: BP / CP vertikal semi-otomatis
+3. Bengkel standar, produksi 24 jam non-stop, pengurangan tenaga kerja: Seri flat otomatis penuh DPP
+4. Pabrik farmasi dengan syarat GMP & inspeksi partikel: DPP-150 / 260 / 140E / 250E
 
-### 4.4 Proses Kustomisasi
-1. Pelanggan menyerahkan sampel produk atau blister, parameter ukuran yang akurat, dan memperjelas persyaratan pengemasan (termasuk persyaratan pencetakan, kapasitas produksi, jenis aluminium foil, standar akurasi, dll.);
-2. Pabrikan mengeluarkan rencana desain cetakan eksklusif dan rencana optimasi konfigurasi peralatan sesuai dengan kebutuhan pelanggan, dan terhubung dengan pelanggan untuk mengkonfirmasi semua detail;
-3. Setelah pelanggan mengkonfirmasi rencana, pabrikan melakukan produksi peralatan, debugging, dan kustomisasi cetakan secara sinkron;
-4. Peralatan dan cetakan dikirim secara sinkron. Pabrikan menyediakan layanan proses penuh berupa pemasangan cetakan jarak jauh atau di tempat, debugging peralatan, dan pelatihan operasi untuk memastikan produksi normal.
+### 3.5 Pilih Berdasarkan Bahan Kemasan
+1. PVC reguler + foil aluminium farmasi (tablet & kapsul): Semua seri kompatibel
+2. Lembaran PET ramah lingkungan penghalang tinggi: Didukung oleh seri DP & DPP penuh
+3. Kemasan barrier cahaya cold forming Alu-Alu: Hanya tersedia DPP-140E / DPP-250E
 
-### 4.5 Jaminan Kustomisasi
-- Semua cetakan khusus menjalani beberapa tes penyegelan sebelum meninggalkan pabrik untuk memastikan adaptasi sempurna dengan peralatan dan efek penyegelan yang memenuhi syarat;
-- Cetakan khusus dan mesin lengkap termasuk dalam sistem dukungan purna jual yang terpadu, dan pabrikan menyediakan dukungan teknis seumur hidup;
-- Mendukung kustomisasi dan penambahan cetakan terpisah di tahap selanjutnya, secara fleksibel memenuhi kebutuhan produksi pelanggan akan multi-variasi, batch kecil, dan seringnya peralihan produksi.
+## 4. FAQ Teknis Umum
+### 4.1 Kesesuaian Daya & Udara
+**Q: Spesifikasi daya dan tegangan seluruh seri apa saja?**  
+A: Daya seri desktop 180: 500W / 1000W; semi-otomatis vertikal: 1000-1500W; DPP otomatis penuh: 2,8-8,5KW. Semua model mendukung 110V / 220V 50/60Hz. Mesin DPP besar dapat disesuaikan menjadi listrik industri tiga fase 380V, kompatibel dengan pasokan listrik pabrik standar.
+
+**Q: Kompressor udara spesifikasi berapa untuk mesin pneumatik?**  
+A: Semua mesin pneumatik desktop, vertikal, dan DPP otomatis penuh cocok dengan kompressor diam 1200W / 50L, tekanan udara stabil 0,6-0,8Mpa untuk operasi normal.
+
+**Q: Bisa mesin pneumatik bekerja tanpa kompressor udara?**  
+A: Tidak, silinder pneumatik bergantung pada tekanan udara untuk penekanan. Pelanggan tanpa pasokan udara harus memilih mesin desktop all-electric MTBP atau ETBP.
+
+### 4.2 Kustomisasi Cetakan
+**Q: Apakah cetakan termasuk dalam paket standar mesin?**  
+A: Semua mesin tidak termasuk cetakan. Cetakan dikustomisasi terpisah berdasarkan sampel produk. Pelanggan perlu menyediakan 6-8 buah sampel blister PVC untuk desain cetakan sebelum pemesanan.
+
+**Q: Apakah cetakan bisa saling dipertukarkan? Haruskah cetakan baru untuk produk baru?**  
+A: Cetakan bisa digunakan bersama mesin dengan ukuran meja identik. Cetakan baru diperlukan jika ukuran, bentuk, atau kedalaman blister produk berubah. Cetakan multi-kavitas 1-4 lubang tersedia untuk meningkatkan output per siklus.
+
+**Q: Bisa cetakan mencetak nomor batch & tanggal produksi?**  
+A: Modul pencetakan bisa diintegrasikan ke dalam cetakan untuk mesin desktop & vertikal semi-otomatis. Semua mesin DPP otomatis penuh dilengkapi perangkat pencetakan independen untuk mencetak nomor batch & tanggal kadaluarsa saat penyegelan panas.
+
+### 4.3 Bahan Habis Pakai & Troubleshooting Penyegelan
+**Q: Material kemasan apa yang kompatibel?**  
+- Mesin semi-otomatis desktop & vertikal: Blister PVC/PET siap pakai, lembaran & gulungan foil aluminium farmasi  
+- Mesin DPP otomatis penuh: Gulungan PVC/PET, foil aluminium penyegelan PTP, film Alu-Alu cold forming  
+
+**Q: Bagaimana cara memperbaiki penyegelan tidak sempurna, gelembung, dan pergeseran foil?**  
+1. Penyegelan tidak sempurna / gelembung udara: Tingkatkan suhu pemanas & waktu penahanan, periksa tekanan udara stabil  
+2. Foil aluminium kusut & bergeser: Sesuaikan ketegangan penggulungan, kalibrasi paralelisme rol panduan  
+3. Pencocokan pola cetak tidak sejajar: Aktifkan kompensasi fotoelektrik pada mesin DP & DPP, kalibrasi kembali sensor pencocokan warna  
+
+### 4.4 Perawatan & Garansi
+**Q: Apa bagian yang mudah aus dan bisa dibeli terpisah?**  
+A: Plat pemanas, tape perekat tahan panas, gasket penyegelan, sensor fotoelektrik (DP/DPP), komponen listrik frekuensi tinggi (otomatis penuh) semuanya tersedia untuk pembelian terpisah. Kami menyediakan panduan penggantian jarak jauh.
+
+**Q: Apa kebijakan garansi mesin?**  
+A: Semua mesin mendapat garansi keseluruhan 1 tahun. Bagian yang mudah aus (plat pemanas, gasket penyegelan, komponen elektronik) tidak termasuk. Kami menyediakan dukungan teknis seumur hidup, renovasi cetakan, dan layanan instalasi & komisioning di lokasi.
+
+**Q: Bagaimana membersihkan sisa lem aluminium pada plat pemanas?**  
+A: Matikan daya dan tunggu pendinginan penuh, lap dengan kain lembut yang dibasahi alkohol anhidrat. Jangan gunakan kain baja atau pisau keras untuk menggores lapisan, karena akan menyebabkan penyegelan tidak merata.
+
+## 5. Kemampuan Kustomisasi Mesin Lengkap
+### 5.1 Kustomisasi Cetakan Inti
+1. Kustomisasi Ukuran & Kedalaman: Cetakan tunggal/multi-kavitas sesuai dimensi produk dan kedalaman blister  
+2. Kustomisasi Bentuk: Cetakan eksklusif untuk kapsul bulat, persegi, tidak beraturan, dan supositoria  
+3. Integrasi Fungsi: Cetakan dengan modul pencetakan nomor batch, LOGO, dan tanggal kadaluarsa untuk menghilangkan proses sekunder  
+
+### 5.2 Upgrade Mesin Opsional
+1. Upgrade Sistem Pengumpanan: Model BP dasar bisa ditingkatkan dengan perangkat penggulungan foil aluminium otomatis  
+2. Upgrade Kontrol: Mesin pneumatik dasar bisa ditingkatkan ke sistem PLC + pencocokan fotoelektrik  
+3. Inspeksi Opsional: Mesin DPP farmasi mendukung deteksi partikel yang hilang & penolakan otomatis  
+4. Ekspansi Proses: DPP-140E / 250E mendukung upgrade proses cold forming Alu-Alu  
+5. Kustomisasi Tegangan & Panel: Pesanan luar negeri mendukung tegangan 110V & kustomisasi layar sentuh bahasa Inggris  
+
+### 5.3 Optimalisasi Khusus Industri
+1. **Industri Farmasi**: Semua bagian kontak stainless steel, cetakan tanpa burr. Seri DPP memenuhi standar GMP dasar untuk kemasan obat steril  
+2. **Industri Makanan**: Permukaan kontak pemanas food-grade, kurva suhu dioptimalkan untuk mencegah kerusakan rasa akibat panas tinggi  
+3. **Elektronik & Perangkat Keras**: Cetakan lebih dalam & tebal dengan gaya penjepit lebih tinggi untuk mencegah goresan & tabrakan bagian kecil  
+4. **Kustomisasi Ekspor**: Kemasan kayu ekspor diperkuat, manual bilingual China-Inggris, adaptasi tegangan luar negeri  
+
+### 5.4 Proses Kustom Lengkap
+1. Pelanggan menyediakan sampel produk / gambar blister, menjelaskan output harian, jenis foil aluminium, kondisi udara & listrik bengkel  
+2. Pemasok mengeluarkan proposal konfigurasi mesin & desain cetakan, konfirmasi semua detail dimensi & fungsi dengan pelanggan  
+3. Produksi mesin dan pembuatan cetakan berlangsung bersamaan. Uji penyegelan beberapa kali sebelum pengiriman pabrik  
+4. Pengiriman mesin dilengkapi dukungan komisioning video jarak jauh; instalasi & pelatihan operator di lokasi tersedia  
+
+## 6. Alur Operasi Standar Umum (Contoh Mesin Vertikal Semi-Otomatis)
+1. Hubungkan daya dan kompressor udara, stabilkan tekanan udara di 0,6-0,8Mpa. Nyalakan dan panaskan plat pemanas, atur suhu 80-150℃, waktu penyegelan 3-6 detik  
+2. Pasang cetakan khusus di meja kerja, isi tablet/kapsul ke blister PVC  
+3. Letakkan lembaran foil aluminium atau aktifkan sistem pengumpanan gulungan foil otomatis  
+4. Tekan saklar kaki atau tombol panel untuk penekanan panas otomatis konstan suhu  
+5. Angkat plat pemanas setelah penyegelan, ambil papan blister dan potong sisa foil aluminium dengan gunting  
+6. Ulangi proses pengisian & penyegelan untuk produksi berkelanjutan  
+7. Matikan pemanas, pasokan udara, dan daya setelah bekerja. Bersihkan sisa lem foil pada cetakan setelah pendinginan penuh, rawat rel geser & silinder secara berkala

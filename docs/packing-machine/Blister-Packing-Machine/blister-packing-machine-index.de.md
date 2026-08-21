@@ -1,104 +1,193 @@
-# Leitfaden zur Auswahl von Blisterverpackungsmaschinen & Produktübersicht
+# Blisterverpackungsmaschinen-Auswahl-Leitfaden & Vollständiges Produktüberblick
 
 ## 1. Was ist eine Blisterverpackungsmaschine?
-### 1.1 Kern-Definition
-Eine Blisterverpackungsmaschine ist ein spezielles Verpackungsgerät, das Produkte zwischen PVC-Blister und Aluminiumfolienfolien versiegelt. Durch Kernprozesse wie Erhitzen, Formen und Versiegeln wird eine unabhängige, versiegelte Verpackung der Produkte erreicht, die die dualen Eigenschaften von physischem Schutz, Feuchtigkeits-/Staubschutz und Produktpräsentation vereint. Sie ist weit verbreitet für die Verpackung kleiner Produkte in der Pharma-, Lebensmittel-, Elektronik-, Hardware-, Chemie- und anderen Industrien und deckt alle Szenarien von der Laborversuchsproduktion bis zur Großserienproduktion ab.
 
-### 1.2 Funktionsprinzip
-Diese Serie von Blisterverpackungsmaschinen verwendet hauptsächlich die Heißsiegeldrucktechnologie, unterteilt in vier Antriebs- und Steuerungsmodi (manuell, pneumatisch, elektrisch und vollautomatisch) basierend auf der Modellpositionierung. Das digitale Temperaturregelmodul und das Zeitrelais steuern präzise die Heiztemperatur und die Siegelzeit, verschmelzen die Aluminiumfolienfolie und den PVC-Blister unter gleichmäßigem Druck und gewährleisten eine feste und leckagefreie Versiegelung. Mittel- bis Hochleistungsmodelle sind zusätzlich mit Folienwickel-/Abwickelvorrichtungen, PLC-Touchscreens, Schrittmotoren und Fotozellen-Erkennungssystemen ausgestattet, die den automatischen Transport von Aluminiumfolienrollen und die präzise Ausrichtung von bedruckten Mustern ermöglichen. Einige vollautomatische Modelle können den gesamten Prozess des Formens, Befüllens, Schneidens und Abfallrecyclings unabhängig durchführen. Alle Modelle unterstützen kundenspezifische Formen, die zu Produkten unterschiedlicher Formen, Größen und Tiefen passen, und erfüllen flexibel verschiedene Verpackungsanforderungen.
+### 1.1 Kerndefinition
+Blisterverpackungsmaschine, auch bekannt als Alu-Plastik-Verpackungsmaschine, ist spezielle Verpackungsausrüstung, die Tabletten, Kapseln und kleine Hardwareteile zwischen PVC-/PET-Blisterhüllen und pharmazeutischer Aluminiumfolie mittels Wärmeversiegelung verpackt. Sie verwendet Prozesse wie Heißpressen, Folienwickeln und Stanzen, um individuelle versiegelte Packungen herzustellen. Die fertigen Packungen zeichnen sich durch wasserdichte, lichtdichte, staubdichte, stoßfeste und sichtbare Anzeigeleistung aus. Die Geräte decken Laborprobenahme, kleine Werkstattserienproduktion und massenhafte kontinuierliche Produktion in pharmazeutischen Fabriken ab und werden in der Pharmaindustrie, Lebensmittelindustrie, Elektronik & Hardware, täglichen Kosmetikproben und anderen Branchen für kleine Produkte eingesetzt.
 
-### 1.3 Kernwerte
-- **Hervorragender Schutz**: Die vollständig versiegelte Struktur blockiert effektiv Feuchtigkeit, Staub und Oxidation, verhindert Kollisionsschäden während des Transports und der Lagerung und verlängert die Produkthaltbarkeit erheblich.
-- **Hygienisch und praktisch**: Die unabhängige Blisterverpackung gewährleistet die einmalige Verwendung, ohne die restlichen Produkte zu beeinträchtigen, eliminiert Sekundärkontamination und erfüllt die grundlegenden Hygieneanforderungen für die Lebensmittel- und Pharmaindustrie.
-- **Hohe Standortanpassungsfähigkeit**: Tischmodelle sind kompakt und leicht, direkt auf Schreibtischen nutzbar, ohne viel Platz zu beanspruchen. Vertikalmodelle haben eine reguläre Struktur, und vollautomatische Modelle sind kompakt, geeignet für kleine Werkstätten, Labore, Kleinbetriebe und andere Standorte.
-- **Niedrige Betriebsschwelle**: Manuelle und halbautomatische Modelle sind einfach zu bedienen, auch von Anfängern ohne professionelle Schulung nutzbar. Vollautomatische Modelle unterstützen die Parametereinstellung per Knopfdruck und den automatischen Betrieb, was die Arbeitskosten erheblich senkt.
-- **Breite Spannungskompatibilität**: Alle Modelle unterstützen 110V/220V 50Hz/60Hz Weitspannung, werden mit herkömmlichem Netzstrom betrieben, ohne Hochspannungsanschluss, und passen sich den Stromnetzumgebungen im In- und Ausland an.
+### 1.2 Arbeitsprinzip
+Die gesamte Serie gliedert sich in drei Kategorien: Desktop-Manual/halbautomatisch, vertikal halbautomatisch und DPP-vollautomatische Flachmaschinen, mit zwei zentralen Prozessen:
 
-### 1.4 Anwendbare Branchen
-- **Pharmaindustrie**: Tabletten, Kapseln, Weichkapseln, kleine Salben, medizinische Einwegartikel, medizinische Verbrauchsmaterialien usw.
-- **Lebensmittelindustrie**: Milchtabletten, Bonbons, Nüsse, gefriergetrocknete Lebensmittel, kleine Snacks usw.
-- **Elektronik & Hardware**: Kleine elektronische Komponenten, Schrauben, Muttern, Mikropräzisionsteile, Hardwarezubehör usw.
-- **Chemie**: Hautpflegeproben, Kosmetikproben, kleine Toilettenartikel usw.
-- **Spezielle Szenarien**: Laborversuchsproduktion und Probenahme, Kleinserienproduktion in kleinen Werkstätten, kundenspezifische E-Commerce-Kleinverpackungen, Produktionswechsel mit vielen Varianten.
+1. **Halbautomatische Desktop- & Vertikalserie (MTBP / TBP / ETBP / BP / CP / DP)**  
+   Bediener laden Materialien manuell in vorgefertigte PVC-Blister ein und legen sie in Formen. Danach wird die Aluminiumfolie als Blatt oder Rolle aufgelegt. Elektrische Heizplatten oder Druckzylinder üben konstante Temperatur und Druck an, um Aluminiumfolie und Blister zu verschmelzen. Bediener schneiden überschüssige Folie ab, um die fertigen Produkte zu erhalten. Hochwertige DP-Modelle sind mit Photoelektrik-Farbmarksensor ausgestattet, um die genaue Ausrichtung bedruckter Aluminiumfolie sicherzustellen.
 
-## 2. Kernmodell-Differenzierungsauswahltabelle
+2. **DPP-Vollautomatische Serie (DPP-80 / 150 / 260 / 140E / 250E)**  
+   Integrierte Roll-zu-Roll-Kontinuierlichproduktion: PVC-Aufwicklung → Heißformen des Blister → automatisches Zuführen → Wärmeversiegelung mit Aluminiumfolie → Serienkennzeichnung → Stanzen → Abwicklung von Restfolie. Hochwertige Modelle unterstützen sowohl Alu-Alu-Kaltformen als auch Alu-Plastik-Hot-Formen sowie Teilchenmangeldetektion und automatische Ausschaltung. Der PLC-Touchscreen steuert alle Parameter, und die Maschinen können mit automatischen Montagelinien verbunden werden.
 
-| Modellserie | Kernmodell | Gehäusetyp | Antriebs-/Steuerungsmodus | Arbeitstischgröße (mm/Zoll) | Produktionsgeschwindigkeit | Druckluftanforderung | Nettogewicht (KG/lb) | Standard-Betriebsablauf | Kernfunktionen | Anwendungsszenarien |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Tisch-Einsteiger | MTBP-180 | Tisch | Manueller Hebel + elektrische Heizung | 140×180mm (5,51×7,09 Zoll) | 5-8 Stk./min | Keine (einstecken und loslegen) | 23/25KG (50,7/55,1 lb) | Manuelles Einlegen von Kapseln, Tabletten usw. in PVC-Blister → Befüllte PVC-Blister in die Maschinenform legen → Aluminiumfolienblatt einlegen → Schalter drücken → Manuelles Herunterdrücken zum Versiegeln → Überschüssige Aluminiumfolienränder mit einer Schere abschneiden, um die fertige Verpackung zu erhalten | Reine manuelle Tischbedienung, kompakt und leicht, platzsparend, Tischaufstellung, einstecken und loslegen, kompatibel mit Aluminiumfolienblättern | Kleine Werkstätten, Labore, Produktverpackung mit geringem Ausstoß, Produkte ohne Aluminiumfolienbedruckung |
-| Tisch-Pneumatik | TBP-180 | Tisch | Pneumatische Steuerung | 140×180mm (5,51×7,09 Zoll) | 5-10 Stk./min | 0,6-0,8 Mpa (Druckluftkompressor erforderlich) | 23/25KG (50,7/55,1 lb) | Manuelles Einlegen von Kapseln, Tabletten usw. in PVC-Blister → Befüllte PVC-Blister in die Maschinenform legen → Aluminiumfolienblatt einlegen → Schalter drücken → Maschine drückt automatisch herunter, um die Versiegelung abzuschließen → Überschüssige Aluminiumfolienränder mit einer Schere abschneiden, um die fertige Verpackung zu erhalten | Halbautomatischer Tisch, kompakt, Tischaufstellung, kein manueller Druck erforderlich, gleichmäßige Siegelkraft, kompatibel mit Aluminiumfolienblättern | Kleine Werkstätten, Labore, Produktverpackung mit geringem Ausstoß, Produkte ohne Aluminiumfolienbedruckung |
-| Tisch-Elektrik | ETBP-180 | Tisch | Vollelektrische Steuerung | 140×180mm (5,51×7,09 Zoll) | 5-10 Stk./min | Keine (einstecken und loslegen) | 52/55KG (114,6/121,3 lb) | Manuelles Einlegen von Kapseln, Tabletten usw. in PVC-Blister → Befüllte PVC-Blister in die Maschinenform legen → Schalter drücken → Maschine drückt automatisch herunter, um die Versiegelung abzuschließen → Überschüssige Aluminiumfolienränder mit einer Schere abschneiden, um die fertige Verpackung zu erhalten | Halbautomatischer Tisch, kompakt, Tischaufstellung, einstecken und loslegen, eingebaute Folienwickel-/Abwickelvorrichtung für Aluminiumfolienrollen, eliminiert den Schritt des Blattschneidens | Kleine Werkstätten, Labore, kompatibel mit bedruckten Aluminiumfolienrollenprodukten |
-| Vertikal-Basis | BP-180 | Vertikal (Standgerät) | Pneumatische Steuerung | 140×180mm (5,51×7,09 Zoll) | 5-10 Stk./min | 0,6-0,8 Mpa (Druckluftkompressor erforderlich) | 110KG (242,5 lb) | Manuelles Einlegen von Kapseln, Tabletten usw. in PVC-Blister → Befüllte PVC-Blister in die Maschinenform legen → Aluminiumfolienblatt einlegen → Schalter drücken → Manuelles Herunterdrücken zum Versiegeln → Überschüssige Aluminiumfolienränder mit einer Schere abschneiden, um die fertige Verpackung zu erhalten | Manuelles Vertikal, stabiles Gehäuse, geeignet für die stationäre Produktion, kompatibel mit Aluminiumfolienblättern | Kleine Werkstätten, kleine Fabriken, Produktverpackung mit geringem Ausstoß, ausgestattet mit Druckluftkompressor, Produkte ohne Aluminiumfolienbedruckung |
-| Vertikal-Standard | CP-180 | Vertikal (Standgerät) | Pneumatische Steuerung | 140×180mm (5,51×7,09 Zoll) | 5-10 Stk./min | 0,6-0,8 Mpa (Druckluftkompressor erforderlich) | 120KG (264,6 lb) | Manuelles Einlegen von Kapseln, Tabletten usw. in PVC-Blister → Befüllte PVC-Blister in die Maschinenform legen → Schalter drücken → Maschine drückt automatisch herunter, um die Versiegelung abzuschließen → Überschüssige Aluminiumfolienränder mit einer Schere abschneiden, um die fertige Verpackung zu erhalten | Halbautomatisches Vertikal, stabiles Gehäuse, kein manueller Druck erforderlich, eingebaute Folienwickel-/Abwickelvorrichtung für Aluminiumfolienrollen | Kleine Werkstätten, kleine Fabriken, konventionelle Kleinserien-Produktverpackung, ausgestattet mit Druckluftkompressor |
-| Vertikal-Upgrade | DP-180 | Vertikal (Standgerät) | Pneumatik + PLC + Schrittmotor + Fotozelle | 140×180mm (5,51×7,09 Zoll) | 5-10 Stk./min | 0,6-0,8 Mpa (Druckluftkompressor erforderlich) | 150KG (330,7 lb) | Manuelles Einlegen von Kapseln, Tabletten usw. in PVC-Blister → Befüllte PVC-Blister in die Maschinenform legen → Schalter drücken → Maschine drückt automatisch herunter, um die Versiegelung abzuschließen → Überschüssige Aluminiumfolienränder mit einer Schere abschneiden, um die fertige Verpackung zu erhalten | Halbautomatisches Vertikal, eingebaute Folienwickel-/Abwickelvorrichtung für Rollen, ausgestattet mit PLC, Schrittmotor und Fotozellenerkennung, präzise Ausrichtung von bedruckten Aluminiumfolienmustern | Kleine Werkstätten, kleine Fabriken, konventionelle Kleinserien-Produktverpackung, kompatibel mit bedruckten Aluminiumfolienrollenprodukten |
-| Vollautomatisch Klein | DPP-80 | Vertikal (Standgerät) | Vollautomatische Pneumatik + PLC-Touchscreen | 105*70mm (4,13*2,76 Zoll) | 10-33 Mal/min | 0,6-0,8 Mpa (Druckluftkompressor erforderlich) | 480/520KG (1058,2/1146,4 lb) | Druckluft und Strom anschließen → PVC- und Aluminiumfolienrollen installieren → Heiztemperatur und Betriebsgeschwindigkeit einstellen → Nach Temperaturstabilisierung im Tippbetrieb testen → Nach bestandenem Testlauf automatische Produktion starten → Nach dem Ausschalten die Anlage kühlen und reinigen | Kompakte Struktur, stabiler Betrieb, präzise PID-Temperaturregelung, unterstützt Alu-Kunststoff, Alu-Alu, Papier-Kunststoff-Verpackung, führt automatisch Formen, Befüllen, Heißsiegeln, Chargennummerndruck, Schneiden durch, geringe Geräuschentwicklung, einfache Wartung | Labore, kleine Werkstätten, Kleinserien-Großverpackung von Pharmazeutika und ähnlichen kleinen Produkten, kontinuierliche automatische Produktion |
-| Vollautomatisch Mittel | DPP-150 | Vertikal (Standgerät) | Vollautomatische Pneumatik + PLC-Touchscreen + Frequenzumrichter | 130*100mm (5,12*3,94 Zoll) | 10-44 Mal/min | 0,6-0,8 Mpa (Druckluftkompressor erforderlich) | 890KG (1962,1 lb) | Druckluft und Strom anschließen → Verpackungsrollen installieren → Temperatur, Geschwindigkeit und andere Parameter einstellen → Nach Temperaturstabilisierung im Tippbetrieb testen → Nach bestandenem Testlauf automatische Produktion starten → Nach dem Abkühlen Reinigung und Wartung abschließen | Flachbett-Design, stabiler und geräuscharmer Parallelwellen-Getriebeantrieb, einstellbarer Stationsabstand, bequemer Formenwechsel, führt automatisch Zuführung, Formen, Befüllen, Heißsiegeln, Chargennummerndruck, Schneiden, Abfallrecycling durch, optionale Fehltabletten-Erkennungs- und Ausschleusfunktion, GMP-konform | Kleine und mittlere Werkstätten, Produktverpackung mit vielen Varianten und kleinen bis mittleren Chargen, geeignet für Pharmazeutika wie Tabletten und Kapseln |
-| Vollautomatisch Groß | DPP-260 | Vertikal (Standgerät) | Vollautomatische Pneumatik + PLC-Touchscreen + Frequenzumrichter | 250*120mm (9,84*4,72 Zoll) | 15-45 Mal/min | 0,6-0,8 Mpa (Druckluftkompressor erforderlich) | 1200KG (2645,54 lb) | Druckluft und Strom anschließen → Verpackungsrollen installieren → Temperatur, Geschwindigkeit und andere Parameter einstellen → Nach Temperaturstabilisierung im Tippbetrieb testen → Nach bestandenem Testlauf automatische Produktion starten → Nach dem Abkühlen Reinigung und Wartung abschließen | Flachbett-Design, stabiler und geräuscharmer Parallelwellen-Getriebeantrieb, einstellbarer Stationsabstand, bequemer Formenwechsel, führt automatisch Zuführung, Formen, Befüllen, Heißsiegeln, Chargennummerndruck, Schneiden, Abfallrecycling durch, optionale Fehltabletten-Erkennungs- und Ausschleusfunktion, GMP-konform | Kleine und mittlere Werkstätten, Produktverpackung mit vielen Varianten und kleinen bis mittleren Chargen, geeignet für Pharmazeutika wie Tabletten und Kapseln |
+### 1.3 Hauptvorteile
+- **Überlegene Versiegelungs-Schutzleistung**: Vollständig versiegelte Alu-Plastik-/Alu-Alu-Struktur isoliert Feuchtigkeit, Licht und Staub, verlängert die Haltbarkeit von Arzneimitteln und Lebensmitteln und verhindert Beschädigung während des Transports.
+- **Hygienisch & praktisch Einzelportionen-Packung**: Individuelle Blisterpackungen vermeiden Kreuzkontamination nach teilweiser Nutzung und entsprechen den grundlegenden GMP-Hygienevorschriften für pharmazeutische Produkte.
+- **Flexible Standortanpassung**: Desktop-Modelle können auf Tischen platziert und per Luftfracht/Briefträger versandt werden; vertikale halbautomatische Maschinen beanspruchen moderaten Platz; vollautomatische Flachmaschinen passen zu standardisierten Produktionswerkstätten.
+- **Niedriger Bedienungsschwelle**: Manuelle Maschinen können innerhalb von 5 Minuten beherrscht werden; halbautomatische Maschinen unterstützen One-Click-Start; vollautomatische Maschinen speichern Parametervorlagen.
+- **Globale Spannungs-Kompatibilität**: Alle Modelle unterstützen 110V / 220V 50/60Hz. Hochleistungs-vollautomatische Maschinen unterstützen 380V-Dreiphasen-Industriestrom.
+- **Hohe Individualisierungsfähigkeit**: Maßgeschneiderte Formen verfügbar. Optionale Serienstempelung, Alu-Alu-Doppelprozess und Mehrkammer-Mehrfachplatten-Designs.
 
-### Kern-Auswahlhinweise
-1. **Auswahl nach Produktionskapazität**: Für Ultra-Kleinserien-Szenarien mit einer Tagesproduktion unter 100 Stück wählen Sie das Tischmodell MTBP-180 manuell; Für Kleinserien-Szenarien mit einer Tagesproduktion von 100-500 Stück wählen Sie die Tischmodelle TBP-180 und ETBP-180; Für konventionelle Chargen-Szenarien mit einer Tagesproduktion von 500-2000 Stück wählen Sie die Vertikalmodelle BP-180, CP-180 und DP-180; Für die Großserienproduktion mit einer Tagesproduktion über 2000 Stück wählen Sie direkt die vollautomatischen Serien DPP-80 und DPP-150.
-2. **Auswahl nach Standort und Infrastruktur**: Für Szenarien ohne feste Werkstatt und nur mit Tischbetrieb bevorzugen Sie die Tischmodelle der 180er Serie; Für Szenarien ohne Druckluftkompressor wählen Sie direkt die einsteckbaren Modelle MTBP-180 und ETBP-180; Für Szenarien mit fester Werkstatt und Druckluftkompressor wählen Sie die vertikalen 180er Serien oder vollautomatische Modelle.
-3. **Auswahl nach Aluminiumfolientyp**: Für diejenigen, die nur Aluminiumfolienblätter ohne Druckanforderungen verwenden, wählen Sie MTBP-180, TBP-180, BP-180; Für diejenigen, die Aluminiumfolienrollen ohne hohe Präzisionsanforderungen verwenden, wählen Sie ETBP-180, CP-180; Für Aluminiumfolie mit bedruckten Mustern, die eine präzise Ausrichtung erfordern, wählen Sie DP-180.
-4. **Auswahl nach Bedienkomfort**: Für diejenigen mit einem extrem niedrigen Budget und akzeptabler manueller Bedienung wählen Sie MTBP-180; Für diejenigen, die Arbeitskräfte sparen und einen halbautomatischen Betrieb anstreben, wählen Sie pneumatische oder elektrische halbautomatische Modelle; Für diejenigen mit hohen Anforderungen an Verpackungsgenauigkeit und Produktionseffizienz, die den manuellen Eingriff reduzieren möchten, wählen Sie die vollautomatische Serie.
+### 1.4 Anwendbare Industrien
+- **Pharmaindustrie**: Tabletten, Hart- und Weichkapseln, Pillen, Zubehör, Einwegmedizinprodukte
+- **Lebensmittelindustrie**: Milchtabletten, Süßigkeiten, gefriergetrocknete Snacks, Gesundheitsprodukte
+- **Elektronik & Hardware**: Mikroschrauben, Kopfhörer-Zubehör, Knopfbatterien, präzise kleine Teile
+- **Tägliche Kosmetik**: Hautpflege-Proben, Kapsel-Essenzen, kleine Pflegepackungen
+- **Szenarien**: Labore Forschung & Entwicklung, Apotheken-Serienfüllung, kleine Verarbeitungswerke, Massenproduktionslinien in der Pharmaindustrie
 
-## 3. Häufige Fragen & Technische Antworten
-### 3.1 Gerätebetrieb
-- **F: Welche Stromversorgungsanforderungen haben alle Modelle? Ist ein separater Hochspannungsanschluss erforderlich?**
-- **A**: Alle Modelle unterstützen 110V/220V 50Hz/60Hz universelle Weitspannung. Die Leistung der Tisch- und Vertikal-180er Serie beträgt 1000W, und die der vollautomatischen DPP-Serie 2,8 kW. Sie können mit herkömmlichem Haushalts- oder Werkstattnetzstrom verwendet werden, ohne separaten Hochspannungsanschluss, und die Verkabelung ist einfach und bequem.
-- **F: Welche Spezifikation des Druckluftkompressors ist für pneumatische Modelle erforderlich?**
-- **A**: Alle pneumatischen Modelle (TBP-180, BP-180, CP-180, DP-180, DPP-Vollserie) sind einheitlich mit 1200W*50L Druckluftkompressoren kompatibel. Eine normale Siegelproduktion ist gewährleistet, solange der Luftdruck stabil bei 0,6-0,8 Mpa gehalten wird.
-- **F: Wie stellt man die Heiztemperatur und die Siegelzeit des Geräts ein?**
-- **A**: Bei manuellen und halbautomatischen Basismodellen der 180er Serie wird die Siegelzeit (konventionell 3-6s) über das digitale Zeitrelais eingestellt; Der ETBP-180 unterstützt eine präzise Temperaturregelung von 80-150℃; Beim DP-180 und der vollautomatischen DPP-Serie werden Temperatur-, Zeit- und Geschwindigkeitsparameter direkt über den PLC-Touchscreen visuell eingestellt, was einfach zu bedienen ist.
-- **F: Ist eine professionelle Schulung für die Bedienung des Geräts erforderlich? Können Anfänger schnell einsteigen?**
-- **A**: Die manuellen und halbautomatischen Modelle der 180er Serie haben extrem einfache Bedienschritte. Der Hersteller stellt grundlegende Bedienungsanleitungen zur Verfügung, keine professionelle Schulung erforderlich, Anfänger können sie in kurzer Zeit erlernen; Vollautomatische Modelle müssen nur die Parameter im Voraus einstellen und laufen nach bestandenem Testlauf automatisch, mit einer sehr niedrigen Betriebsschwelle.
+## 2. Vollständige Modellunterscheidung – Auswahl-Tabelle
 
-### 3.2 Formen & Individualisierung
-- **F: Welche Materialien werden für die Individualisierung einer Form benötigt? Wie lange ist der Individualisierungszyklus?**
-- **A**: Für die Individualisierung einer Form werden 6-8 Stück Produkte oder PVC-Blistermuster benötigt. Der Hersteller öffnet die Form präzise nach Größe, Form und Tiefe der Muster; Der Individualisierungszyklus für konventionelle Formen ist kurz, und die Formen können synchron mit dem Gerät produziert und geliefert werden, ohne den Produktionsplan zu verzögern.
-- **F: Sind die Formen austauschbar? Muss ich beim Produktwechsel eine neue Form öffnen?**
-- **A**: Formen werden exklusiv individualisiert. Ein Satz Formen ist nur für eine Größe und Form des Produkts oder Blisters geeignet. Für spätere Änderungen der Produktspezifikationen müssen neue Formen nach neuen Mustern individualisiert werden. Der Hersteller unterstützt die separate Individualisierung und Beschaffung von Formen.
-- **F: Können Produktionsdatum und Chargennummer auf die Verpackung gedruckt werden?**
-- **A**: Die Druckfunktion ist bei allen Modellen verfügbar. Wenn während der Formenindividualisierung Druckanforderungen angegeben werden, können Druckmodule wie Produktionsdatum, Chargennummer und Markenlogo integriert werden. Siegeln und Drucken werden synchron abgeschlossen; Vollautomatische Modelle sind mit einer unabhängigen Chargennummerndruckvorrichtung ausgestattet, ohne zusätzliche Ausrüstung.
+### 2.1 Desktop-Mini-Blistermaschinen (Tischmodell, Probenahme & ultraniedrige Ausbringung)
+| Modell | Gehäuseart | Antrieb & Steuerung | Luftbedarf | Arbeitsfläche | Produktionsgeschwindigkeit | Netto-Gewicht | Standardbetriebsablauf | Kernmerkmale | Einsatzszenarien |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| MTBP-180 | Desktop-Tischmodell | Manueller Hebel + elektrische Heizung | Kein Kompressor erforderlich | 140×180mm | 5–8 Stück/min | 23KG | Material in Blister laden → Aluminiumfolieblatt abdecken → Manueller Hebeldruck → Kanten abschneiden | Plug & Play, keine Hilfsausrüstung, nur für unbedruckte Aluminiumfolien, geringster Kostenaufwand | Labore, Apotheken, kleine Werkstätten ohne Luftversorgung, täglich < 100 Packungen |
+| TBP-180 | Desktop-Tischmodell | Pneumatisch halbautomatisch | 0,6–0,8 Mpa Kompressor erforderlich | 140×180mm | 5–10 Stück/min | 23KG | Material in Blister laden → Aluminiumfolieblatt abdecken → Automatischer Druck per Taste → Kanten abschneiden | Gleichmäßiger Zylinderdruck, arbeitssparend, passt zu Aluminiumfolienblättern | Kleine Serienprobenahme, Standorte mit Kompressor |
+| ETBP-180 | Desktop-Tischmodell | Voll-elektrisch automatisches Wickeln | Kein Kompressor erforderlich | 140×180mm | 10–15 Stück/min | 52KG | Material in Blister laden → Automatisches Zuführen der Aluminiumfolienrolle → Automatische Wärmeversiegelung → Kanten abschneiden | Integriertes Folienwickelsystem, keine manuelle Blattabschneidung, passt zu bedruckten Aluminiumrollen | Langzeitproduktion in kleinen Serien, Kunden mit Aluminiumrollen ohne Luftversorgung |
 
-### 3.3 Gerätewartung & Verbrauchsmaterialien
-- **F: Was sind die Verschleißteile des Geräts? Können sie separat gekauft werden?**
-- **A**: Das Kernverschleißteil ist die Heizplatte. Alle Heizplatten haben ein standardisiertes Schnellwechseldesign für einen schnellen Austausch. Der Hersteller kann verschiedene Teile wie Heizplatten, Formen, Rollenfolienzubehör und Fotoköpfe separat liefern, mit bequemer After-Sales-Versorgung.
-- **F: Welche Verbrauchsmaterialien sind mit dem Gerät kompatibel? Gibt es besondere Anforderungen?**
-- **A**: Alle Modelle sind mit PVC-Blister und Aluminiumfolienfolien kompatibel, unterteilt in Aluminiumfolienblätter und -rollen. Es gibt keine besonderen Verbrauchsmaterialanforderungen. Konventionelle und konforme PVC-Blister und Aluminiumfolienfolien auf dem Markt können verwendet werden. Der Hersteller kann auch empfohlene kompatible Verbrauchsmaterialien bereitstellen.
-- **F: Was soll ich tun, wenn die Heizplatte beschädigt ist?**
-- **A**: Die Heizplatte hat eine Schnellwechsel- und Schnellmontagestruktur, die vom Benutzer ohne professionelles Werkzeug ausgetauscht werden kann; Der Hersteller bietet vollständige unterstützende Teile und Fernfehlerbehebung während des gesamten Prozesses, um Probleme schnell zu lösen, ohne die normale Produktion zu beeinträchtigen.
+### 2.2 Vertikal-halbautomatische Blistermaschinen (Bodenständer, mittlere & kleine Serien)
+| Modell | Gehäuseart | Antrieb & Steuerung | Luftversorgung | Arbeitsgröße | Geschwindigkeit | Gewicht | Kernmerkmale | Einsatzszenarien |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| BP-180 | Vertikal-Bodenständer | Pneumatisch + Fußschalter | 0,6–0,8 Mpa | 140×180mm | 5–10 Stück/min | 110KG | Stabile vertikale Konstruktion, unterstützt nur Aluminiumblätter ohne automatische Folienzuführung | Kleine feste Fabriken, kostengünstige Serienverpackung |
+| CP-180 | Vertikal-Bodenständer | Pneumatisch + automatische Folienrückwicklung | 0,6–0,8 Mpa | 140×180mm | 5–10 Stück/min | 120KG | Integriertes Aluminiumrollen-Auf- und Abwickelsystem, keine manuelle Blattlage | Regelmäßige kleine Serien, Kunden mit Aluminiumfolienrollen |
+| DP-180 | Vertikal-Bodenständer | PLC + Schrittmotor + Photoelektrische Markenausrichtung | 0,6–0,8 Mpa | 140×180mm | 5–10 Stück/min | 150KG | Farbmarken-Ausrichtung für bedruckte Folien, Unterstützung für Serienstempelung | Verpackung mit farbbedruckter Aluminiumfolie, mittlerer bis hochwertiger kleine Serienauftrag |
 
-### 3.4 Geräteleistung
-- **F: Können die Modelle der 180er Serie kleinere Produkte verpacken?**
-- **A**: Ja. Die Arbeitstischgröße der 180er Serie beträgt 140×180mm (5,51×7,09 Zoll), was die maximale Verpackungsgröße ist. Sie kann abwärtskompatibel mit verschiedenen kleineren Produkten und Blistern sein. Es muss nur die entsprechende individualisierte Form ausgetauscht werden, ohne die gesamte Maschine zu ändern.
-- **F: Unterstützt die vollautomatische DPP-Serie die Verpackung von Sonderform-Blister?**
-- **A**: Ja. Die gesamte DPP-Serie kann exklusive Form- und Siegelformen nach den vom Kunden bereitgestellten Produkten oder Blistermustern individualisieren, geeignet für verschiedene Sonderformen, nicht standardisierte Größen und Blisterverpackungen unterschiedlicher Tiefe. Der Formenwechsel ist bequem und passt sich dem Produktionswechsel mit vielen Varianten an.
-- **F: Wie wird der Siegeleffekt des Geräts sichergestellt?**
-- **A**: Alle Modelle gewährleisten die Siegelqualität durch drei Garantien: Erstens präzise Temperaturregelung, um Schmelzschäden durch hohe Temperaturen oder lockere Versiegelung durch niedrige Temperaturen zu vermeiden; Zweitens gleichmäßige Druckabgabe (manueller Druck bei manuellen Modellen, gleichmäßiger Zylinderdruck bei pneumatischen und elektrischen Modellen) für eine totwinkelfreie Versiegelung; Drittens präzise Zeitsteuerung, um eine ordnungsgemäße Versiegelung zu gewährleisten und Leck- und Falschsiegelungen zu eliminieren.
+### 2.3 DPP-Vollautomatische Flachserie (Massenkontinuierliche Produktion)
 
-## 4. Individualisierungsfähigkeiten dieser Maschinenserie
-### 4.1 Kern-Individualisierung: Formen-Individualisierung
-- **Größen-Individualisierung**: Präzise Individualisierung exklusiver Formen unterschiedlicher Längen, Breiten und Formtiefen nach den Produkt- oder Blistermustern des Kunden. Ein Satz Formen entspricht einer Spezifikation, passt perfekt zu den Produkten und vermeidet Produktwackeln und -verschiebung.
-- **Form-Individualisierung**: Unterstützt die Formenindividualisierung für runde, eckige, Sonderformen und verschiedene unregelmäßige Blister, vollständig anpassbar an die Verpackung kleiner Produkte mit unterschiedlichen Formen.
-- **Druckintegration**: Formen können mit Druckmodulen wie Produktionsdatum, Chargennummer, Verfallsdatum und Markenlogo integriert werden. Siegel- und Druckprozesse werden synchron abgeschlossen, wodurch nachfolgende sekundäre Verarbeitungsschritte entfallen und die Verpackungseffizienz verbessert wird.
+#### 2.3.1 Kleinere Vollautomatik DPP-80
+| Artikel | Spezifikation |
+| ---- | ---- |
+| Steuerungssystem | PLC-Touchscreen-Vollautomatik |
+| Luftbedarf | 0,6–0,8 Mpa Kompressor |
+| Wirksame Formgröße | 105×70mm |
+| Produktionsgeschwindigkeit | 10–33 Zyklen/min |
+| Maschinengewicht | 480–520KG |
+| Kernvorteile | Kompakte Bauweise, integrierte automatische Formung / Zuführung / Versiegelung / Stanzen |
+| Anwendung | Kleine Gesundheitsproduktfabriken, Laborvorbereitungsraum, kleine standardisierte Produktionslinien |
 
-### 4.2 Funktions-Individualisierung: Gerätekonfigurationserweiterung
-- **Installation des Folienzufuhrsystems**: Das vertikale Basismodell BP-180 ist nicht mit einer automatischen Folienzufuhrvorrichtung ausgestattet. Ein Rollenfolienwickel-/Abwickelmodul kann später je nach Produktionsbedarf nachgerüstet werden. Der Hersteller bietet exklusives Zubehör und Installationsanleitungen.
-- **Steuerungsmodus-Upgrade**: Basismanuelle Modelle können auf pneumatische halbautomatische Modelle aufgerüstet werden, und Basispneumatikmodelle können auf PLC-Touchscreen + Fotozellen-Ausrichtungsmodelle aufgerüstet werden, um höhere Präzisionsanforderungen zu erfüllen.
-- **Erkennungsfunktion optional**: Für anspruchsvolle Branchen wie Pharma und Lebensmittel sind optionale Funktionen zur Materialmangel-Erkennung, Siegel-Erkennung und automatischen Ausschleusung fehlerhafter Produkte erhältlich, was die Verpackungsqualitätsrate erheblich verbessert und die Fehlerrate senkt.
+#### 2.3.2 Mittlere Vollautomatik DPP-150
+| Artikel | Spezifikation |
+| ---- | ---- |
+| Steuerungssystem | PLC-Touchscreen + Frequenzumformer-Geschwindigkeitsregulierung |
+| Luftbedarf | 0,6–0,8 Mpa Kompressor |
+| Wirksame Formgröße | 130×100mm |
+| Produktionsgeschwindigkeit | 10–44 Zyklen/min |
+| Maschinengewicht | 890KG |
+| Kernvorteile | Einstellbare Stationen, schneller Formwechsel, optionale Teilchenausschaltung, grundlegende GMP-Konformität |
+| Anwendung | Mittlere & kleine pharmazeutische Fabriken, vielfältige Serienproduktion |
 
-### 4.3 Anpassungs-Individualisierung: Branchenspezifische Optimierung
-- **Pharmaindustrie**: Optimierung der Siegelgenauigkeit und der Hygienestruktur des Geräts, Verwendung von kontaminationsgeschützten Formen, Einhaltung der Verpackungsspezifikationen der Pharmaindustrie, einige Modelle können grundlegende GMP-Anforderungen erfüllen.
-- **Elektronik- & Hardwareindustrie**: Individualisierung von vertieften und verstärkten Blisterformen zur Verbesserung der Produktschutzeigenschaften, effektive Vermeidung von Kollisions- und Kratzschäden an elektronischen Komponenten und Hardwarezubehör in der Verpackung.
-- **Lebensmittelindustrie**: Verwendung von lebensmittelechten Kontaktteilen, Optimierung des Temperaturregelbereichs, um zu verhindern, dass hohe Temperaturen die Lebensmittelqualität und den Geschmack beeinträchtigen, Einhaltung der Hygiene- und Sicherheitsstandards für Lebensmittelverpackungen.
+#### 2.3.3 Große Vollautomatik DPP-260
+| Artikel | Spezifikation |
+| ---- | ---- |
+| Steuerungssystem | PLC-Touchscreen + Frequenzumformer-Geschwindigkeitsregulierung |
+| Luftbedarf | 0,6–0,8 Mpa Kompressor |
+| Wirksame Formgröße | 250×120mm |
+| Produktionsgeschwindigkeit | 15–45 Zyklen/min |
+| Maschinengewicht | 1200KG |
+| Kernvorteile | Breite große Platte, Hochgeschwindigkeitskontinuierlicher Betrieb, automatische Abfallrückgewinnung |
+| Anwendung | Mittlere pharmazeutische Fabriken, Massenproduktionslinien für Lebensmittel |
 
-### 4.4 Individualisierungsprozess
-1. Der Kunde reicht Produkt- oder Blistermuster, genaue Größenparameter ein und klärt die Verpackungsanforderungen (einschließlich Druckanforderungen, Produktionskapazität, Aluminiumfolientyp, Genauigkeitsstandards usw.).
-2. Der Hersteller erstellt einen exklusiven Formenentwurfsplan und einen Gerätekonfigurationsoptimierungsplan nach den Kundenanforderungen und stimmt sich mit dem Kunden ab, um alle Details zu bestätigen.
-3. Nach Bestätigung des Plans durch den Kunden führt der Hersteller die Geräteproduktion, Inbetriebnahme und Formenindividualisierung synchron durch.
-4. Die Geräte und Formen werden synchron geliefert. Der Hersteller bietet einen umfassenden Service aus Fern- oder Vor-Ort-Formenmontage, Geräteeinrichtung und Bedienerschulung, um eine normale Produktion zu gewährleisten.
+#### 2.3.4 Dualfunktion Alu-Alu & Alu-Plastik DPP-140E / DPP-250E
+| Modell | Max. Formgröße | Kernfunktionen | Ausbringung | Zielkunden |
+| ---- | ---- | ---- | ---- | ---- |
+| DPP-140E | 140×120mm | Umstellung zwischen Alu-Alu-Kaltformen und Alu-Plastik-Hot-Formen über Form, 3-Stufen-Teilcheninspektion | Alu-Alu: 15–30 Zyklen/min; Alu-Plastik: 20–45 Zyklen/min | Mittlere & kleine pharmazeutische Fabriken mit begrenztem Raum, Herstellung lichtempfindlicher Medikamente |
+| DPP-250E | 250×120mm | Breite Platte, wassergekühlte Form, visuelle Ausschaltung, optionaler Risslinie | Alu-Alu: 15–30 Zyklen/min; Alu-Plastik: 20–45 Zyklen/min | Große pharmazeutische Hersteller, hochstandardisierte GMP-Werkstätten |
 
-### 4.5 Individualisierungsgarantie
-- Alle individualisierten Formen werden vor Verlassen des Werks mehreren Siegeltests unterzogen, um eine perfekte Anpassung an das Gerät und einen qualifizierten Siegeleffekt zu gewährleisten.
-- Individualisierte Formen und Komplettmaschinen sind im einheitlichen After-Sales-Supportsystem enthalten, und der Hersteller bietet lebenslangen technischen Support.
-- Unterstützt die separate Individualisierung und Ergänzung von Formen in der späteren Phase, um flexibel die Produktionsanforderungen der Kunden mit vielen Varianten, kleinen Chargen und häufigem Produktionswechsel zu erfüllen.
+## 3. Kernauswahl-Empfehlungen
+
+### 3.1 Auswahl nach täglicher Ausbringung
+1. Tägliche Ausbringung < 100 Packungen für Probenahme & Füllung: MTBP-180 manuelles Desktop-Modell  
+2. Tägliche Ausbringung 100–500 kleine Serien: TBP-180 / ETBP-180 Desktop-Modelle  
+3. Tägliche Ausbringung 500–2000 regelmäßige Serien: BP / CP / DP vertikal halbautomatische Modelle  
+4. Tägliche Ausbringung > 2000 kontinuierliche Massenproduktion: Alle DPP-Vollautomatik-Serien
+
+### 3.2 Auswahl nach Kompressor-Zustand
+- Kein Kompressor vorhanden, nur normale Stadtstromversorgung verfügbar: MTBP-180, ETBP-180 allelektrische Modelle (Plug & Play)  
+- Bereits mit 0,6–0,8 Mpa Kompressor ausgestattet: Alle pneumatischen Desktop-, Vertikal- und DPP-Vollautomatik-Maschinen verfügbar
+
+### 3.3 Auswahl nach Aluminiumfolientyp
+1. Unbedruckte Aluminiumblätter für kostengünstige einfache Verpackung: MTBP, TBP, BP-180  
+2. Unbedruckte Aluminiumrollen zur manuellen Blattabschneidung: ETBP, CP-180  
+3. Farbbedruckte Aluminiumfolie mit präziser Musterausrichtung: DP-180, alle DPP-Vollautomatik-Maschinen  
+4. Lichtempfindliche Medikamente erfordern Alu-Alu-Kaltformen: DPP-140E / DPP-250E Dualfunktionsmodelle
+
+### 3.4 Auswahl nach Standort & Automatisierungsbedarf
+1. Tischplatzzugänglichkeit, beweglicher kleiner Raum: Desktop-MTBP / TBP / ETBP  
+2. Fixierte Werkstatt, mittlere Serien, begrenztes Budget: BP / CP vertikal halbautomatisch  
+3. Standardisierte Werkstatt, 24-Stunden-Nicht-Stop-Produktion, Personalreduktion: DPP-Vollautomatik-Flachserie  
+4. Pharmaziebetriebe mit GMP- und Teilcheninspektionsanforderung: DPP-150 / 260 / 140E / 250E
+
+### 3.5 Auswahl nach Verpackungsmaterial
+1. Reguläre PVC + pharmazeutische Aluminiumfolie (Tabletten & Kapseln): Alle Serien kompatibel  
+2. PET-umweltfreundliche Hochbarriere-Blätter: DP & volle DPP-Serie unterstützt  
+3. Alu-Alu-Kaltform-Lichtschutzpackungen: Nur DPP-140E / DPP-250E verfügbar
+
+## 4. Allgemeine technische FAQ
+
+### 4.1 Strom- & Luftanpassung
+**F: Welche Strom- und Spannungsspezifikationen haben die gesamte Serie?**  
+A: Desktop-180-Serie: 500W / 1000W; vertikale halbautomatische: 1000–1500W; DPP-Vollautomatik: 2,8–8,5 kW. Alle Modelle unterstützen 110V / 220V 50/60Hz. Große DPP-Maschinen können auf 380V-Dreiphasen-Industriestrom maßgeschneidert werden, kompatibel mit standardmäßiger Fabrikstromversorgung.
+
+**F: Welche Kompressorspezifikation für pneumatische Modelle?**  
+A: Alle pneumatischen Desktop-, Vertikal- und DPP-Vollautomatik-Maschinen passen zu einem 1200W / 50L leisen Kompressor, stabiler Luftdruck bei 0,6–0,8 Mpa für normale Funktion.
+
+**F: Können pneumatische Maschinen ohne Kompressor funktionieren?**  
+A: Nein, Druckzylinder benötigen Luftdruck zum Pressen. Kunden ohne Luftversorgung sollten MTBP oder ETBP allelektrische Desktop-Maschinen wählen.
+
+### 4.2 Formen-Anpassung
+**F: Sind Formen im Lieferumfang enthalten?**  
+A: Alle Maschinen enthalten keine Formen. Formen werden separat maßgeschneidert basierend auf Produktproben. Kunden müssen 6–8 Stück PVC-Blisterproben zur Formenplanung vor Bestellung bereitstellen.
+
+**F: Sind Formen austauschbar? Brauche ich neue Formen für neue Produkte?**  
+A: Formen können unter Maschinen mit identischer Tischgröße geteilt werden. Neue Formen sind erforderlich, wenn Produktgröße, -form oder Blistertiefe ändern. 1–4-Kammer-Mehrfachformen sind erhältlich, um die Ausbringung pro Zyklus zu erhöhen.
+
+**F: Können Formen Seriennummer und Produktionsdatum stempeln?**  
+A: Stempelmodule können in Formen für Desktop- und vertikale halbautomatische Maschinen integriert werden. Alle DPP-Vollautomatik-Maschinen verfügen über eigenständiges Kodiergerät, das Serien- und Haltbarkeitsdatum während der Wärmeversiegelung druckt.
+
+### 4.3 Verbrauchsmaterialien & Versiegelungsprobleme
+**F: Welche Verpackungsmaterialien sind kompatibel?**  
+- Halbautomatische Desktop- & Vertikalmaschinen: Vorgefertigte PVC-/PET-Blister, pharmazeutische Aluminiumblätter & Rollen  
+- DPP-Vollautomatik: PVC-/PET-Rollen, PTP-Wärmeversiegelungs-Aluminiumfolie, Kaltform-Alu-Alu-Folie  
+
+**F: Wie behebt man unvollständige Versiegelung, Blasen und Folienverschiebung?**  
+1. Unvollständige Versiegelung / Luftblasen: Erhöhung der Heiztemperatur und Haltezeit, stabiler Luftdruck überprüfen  
+2. Falten und verschobene Aluminiumfolie: Wickelspannung anpassen, Führungsräder parallel kalibrieren  
+3. Verschiebung bedruckter Muster: Photoelektrische Kompensation bei DP- und DPP-Maschinen aktivieren, Farbmarkensensor neu kalibrieren
+
+### 4.4 Wartung & Garantie
+**F: Was sind verschleißbare Ersatzteile und kann man sie separat kaufen?**  
+A: Heizplatten, Hochtemperaturklebebänder, Versiegelungs-Dichtungen, Photoelektrik-Sensoren (DP/DPP), Hochfrequenz-Elektronikkomponenten (Vollautomatik) sind separat erhältlich. Wir bieten Fern-Ersatzanleitung.
+
+**F: Was ist die Maschinen-Garantiepolitik?**  
+A: Alle Maschinen genießen 1-Jahres-Ganzmaschinen-Garantie. Verschleißteile (Heizplatte, Dichtung, elektronische Komponenten) sind ausgeschlossen. Wir bieten lebenslange technische Unterstützung, Formenrenovierung und On-Site-Inbetriebnahme-Service.
+
+**F: Wie reinigt man Rückstände von Aluminiumkleber auf der Heizplatte?**  
+A: Strom abschalten und vollständig abkühlen lassen, mit weicher Lappen in anhydrem Alkohol abwischen. Kein Stahlwolle oder harte Klingen verwenden, da dies die Beschichtung beschädigen und ungleichmäßige Versiegelung verursachen würde.
+
+## 5. Vollständige Anpassungskapazität der Maschine
+
+### 5.1 Kernformenanpassung
+1. Größen- & Tiefeanpassung: Maßgeschneiderte Ein- oder Mehrkammerformen entsprechend Produktmaßen und Blistertiefe  
+2. Formanpassung: Exklusive Formen für runde, quadratische, unregelmäßige Kapseln und Suppositorien  
+3. Funktionsintegration: Formen mit Seriennummern-, LOGO- und Haltbarkeitsdatum-Stempelmodul, um Nachbearbeitung zu vermeiden
+
+### 5.2 Optionale Maschinen-Upgrades
+1. Zuführsystem-Upgrade: BP-Basismodell kann mit automatischem Aluminiumfolienwickler nachgerüstet werden  
+2. Steuerung-Upgrade: Basis-pneumatische Maschinen können auf PLC + photoelektrische Markenausrichtung aufgerüstet werden  
+3. Inspektion optional: Pharmazeutische DPP-Maschinen unterstützen Teilchenmangeldetektion und automatische Ausschaltung  
+4. Prozess-Erweiterung: DPP-140E / 250E unterstützen Upgrade auf Alu-Alu-Kaltformprozess  
+5. Spannungs- & Bedienfeldanpassung: Exportbestellungen unterstützen 110V-Spannung und englische Touchscreen-Anpassung
+
+### 5.3 Branchenspezifische Optimierung
+1. **Pharmaindustrie**: Alle Kontaktteile aus Edelstahl 304, kantfreie Formen. DPP-Serie erfüllt grundlegende GMP-Standards für sterile Arzneimittelverpackung  
+2. **Lebensmittelindustrie**: Lebensmittelgerechte Heizkontakte, optimierte Temperaturkurve, um Geschmacksbeeinträchtigung durch hohe Hitze zu vermeiden  
+3. **Elektronik & Hardware**: Vertiefte & verstärkte Formen mit höherem Klemmkraft, um Kratzer und Stoßschäden kleiner Teile zu verhindern  
+4. **Exportanpassung**: Verstärkte Holzkisten-Exportverpackung, zweisprachige Handbücher (Chinesisch & Englisch), Anpassung an ausländische Spannung
+
+### 5.4 Vollständiger Anpassungsprozess
+1. Kunde liefert Produktproben / Blisterzeichnungen, klärt tägliche Ausbringung, Aluminiumfolientyp, Werkstattraumluft- & Strombedingungen  
+2. Lieferant stellt Maschinenkonfiguration & Formenentwurf vor, bestätigt alle Maße & Funktionen mit Kunden  
+3. Maschinenproduktion und Formherstellung laufen gleichzeitig. Mehrfache Versiegelungsprüfungen vor Auslieferung aus der Fabrik  
+4. Maschinenlieferung mit Fernvideo-Inbetriebnahme-Unterstützung; On-Site-Installation & Bedienertraining verfügbar
+
+## 6. Allgemeiner Standardbetriebsablauf (Beispiel vertikal halbautomatisch)
+1. Strom- und Kompressoranschluss, Druck stabilisiert auf 0,6–0,8 Mpa. Gerät einschalten und Heizplatte vorheizen, Temperatur 80–150°C, Versiegelungszeit 3–6 Sekunden  
+2. Maßgeschneiderte Form auf Arbeitstisch fixieren, Tabletten/Kapseln in PVC-Blister laden  
+3. Aluminiumfolienblatt legen oder automatisches Folienrollenzuführsystem aktivieren  
+4. Fußschalter betätigen oder Tasten am Panel drücken für automatischen konstanten Temperatur-Heißpressvorgang  
+5. Heizplatte nach Versiegelung heben, Blisterplatte entnehmen und überschüssige Aluminiumfolie mit Schere abschneiden  
+6. Beladung & Versiegelung wiederholen für kontinuierliche Produktion  
+7. Nach Beendigung Heizung, Luftversorgung und Strom abschalten. Nach vollständiger Abkühlung Formrückstände von Folienkleber reinigen, Gleitbahnen & Zylinder regelmäßig pflegen

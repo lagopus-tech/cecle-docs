@@ -1,104 +1,186 @@
-# Guide de Sélection et Présentation des Produits de Machine de Conditionnement sous Blister
+# Guide de sélection des machines à emballage blister & Aperçu complet du produit
 
-## 1. Qu'est-ce qu'une Machine de Conditionnement sous Blister
-### 1.1 Définition Principale
-Une Machine de Conditionnement sous Blister est un dispositif d'emballage spécialisé qui scelle les produits entre des blisters en PVC et des films en aluminium. Grâce à des processus clés incluant le chauffage, le formage et le scellage, elle réalise un emballage scellé indépendant des produits, combinant les attributs de protection physique, de résistance à l'humidité/poussière et de présentation du produit. Elle est largement adaptée au conditionnement de produits de petite taille dans les secteurs pharmaceutique, alimentaire, électronique, quincaillerie, chimie quotidienne et autres, couvrant tous les scénarios, de la production d'essai en laboratoire à la production à grande échelle.
+## 1. Qu'est-ce qu'une machine à emballage blister ?
+### 1.1 Définition fondamentale
+La machine à emballage blister, également appelée machine d'emballage Alu-Plastique, est un équipement de conditionnement spécialisé qui scelle des comprimés, capsules, petites pièces mécaniques entre des coques en PVC/PET et une feuille d'aluminium pharmaceutique par soudage thermique. Elle utilise des procédés tels que le pressage thermique, le roulement de feuille et la découpe pour former des emballages individuels hermétiques. Les produits finis offrent des performances étanches à l'humidité, à la lumière, à la poussière, résistantes aux chocs et avec affichage visible. L'équipement couvre les échantillonnages en laboratoire, les petits lots en atelier et la production continue de masse dans les usines pharmaceutiques, largement utilisé dans les secteurs pharmaceutique, alimentaire, électronique & matériel, cosmétiques quotidiens et autres industries pour des produits de petite taille.
 
-### 1.2 Principe de Fonctionnement
-Cette série de machines de conditionnement sous blister adopte principalement la technologie de scellage par pression à chaud, divisée en quatre modes d'entraînement et de contrôle (manuel, pneumatique, électrique et entièrement automatique) selon le positionnement du modèle. Le module de contrôle numérique de la température et le relais temporisé contrôlent avec précision la température de chauffage et la durée de scellage, fusionnant le film en aluminium et le blister en PVC sous une pression uniforme pour garantir un scellage ferme et sans fuite. Les modèles de milieu et haut de gamme sont équipés en supplément de dispositifs d'enroulement/déroulement de film, d'écrans tactiles PLC, de moteurs pas à pas et de systèmes d'identification par œil photodélectrique, permettant le convoyage automatique des rouleaux de film en aluminium et l'alignement précis des motifs imprimés. Certains modèles entièrement automatiques peuvent réaliser indépendamment l'ensemble du processus de formage, remplissage, découpe et recyclage des déchets. Tous les modèles prennent en charge des moules personnalisés pour s'adapter aux produits de différentes formes, tailles et profondeurs, répondant ainsi de manière flexible à diverses exigences d'emballage.
+### 1.2 Principe de fonctionnement
+L'ensemble de la série se divise en trois catégories : modèles manuels/semi-automatiques de bureau, semi-automatiques verticaux et machines planes entièrement automatiques DPP, avec deux processus centraux :
+1. **Série manuelle/semi-automatique de bureau et verticale (MTBP / TBP / ETBP / BP / CP / DP)**  
+   Les opérateurs chargent manuellement les matériaux dans des alvéoles PVC préformées, puis posent une feuille ou un rouleau de feuille d’aluminium dessus. Des plaques chauffantes électriques ou des vérins pneumatiques appliquent une température et une pression constantes pour fusionner la feuille d’aluminium et les alvéoles. Les opérateurs coupent ensuite le surplus de feuille pour obtenir les produits finis. Les modèles haut de gamme DP sont équipés d’un capteur de marque de couleur photoélectrique pour une alignement précis des feuilles d’aluminium imprimées.
+   
+2. **Série DPP entièrement automatique (DPP-80 / 150 / 260 / 140E / 250E)**  
+   Production continue en continu : déroulement du PVC → formation thermoformée → alimentation automatique → soudure thermique de la feuille d’aluminium → codage par lot → découpe → réenroulement des chutes. Les modèles haut de gamme supportent à la fois le formage froid Alu-Alu et le formage chaud Alu-Plastique, ainsi que la détection des particules manquantes et le rejet automatique. Le PLC avec écran tactile contrôle tous les paramètres, et les machines peuvent être connectées à des lignes d’assemblage automatiques.
 
-### 1.3 Valeurs Fondamentales
-- Excellente protection : La structure entièrement scellée bloque efficacement l'humidité, la poussière et l'oxydation, prévient les dommages par collision pendant le transport et le stockage, et prolonge considérablement la durée de conservation du produit ;
-- Hygiénique et pratique : L'emballage blister indépendant garantit une utilisation unique sans affecter les produits restants, éliminant la contamination secondaire et répondant aux exigences d'hygiène de base pour les industries alimentaire et pharmaceutique ;
-- Haute adaptabilité au site : Les modèles de paillasse sont compacts et légers, utilisables directement sur un bureau sans nécessiter un grand espace ; Les modèles verticaux ont une structure régulière, et les modèles entièrement automatiques sont compacts, adaptés aux petits ateliers, laboratoires, petits ateliers et autres sites ;
-- Faible seuil d'opération : Les modèles manuels et semi-automatiques sont faciles à utiliser, accessibles aux novices sans formation professionnelle ; Les modèles entièrement automatiques prennent en charge le réglage des paramètres en un clic et le fonctionnement automatique, économisant considérablement les coûts de main-d'œuvre ;
-- Large compatibilité de tension : Tous les modèles prennent en charge la large tension 110V/220V 50Hz/60Hz, alimentés par le secteur conventionnel sans nécessiter de connexion haute tension, s'adaptant aux environnements de réseau électrique nationaux et internationaux.
+### 1.3 Avantages principaux
+- **Protection de scellement supérieure** : structure Alu-Plastique / Alu-Alu entièrement scellée isole l’humidité, la lumière et la poussière, prolonge la durée de conservation des médicaments et aliments, et empêche les casse pendant le transport.
+- **Emballage individuel hygiénique et pratique** : les emballages individuels évitent la contamination croisée après utilisation partielle, conformes aux normes GMP de base pour les produits pharmaceutiques.
+- **Adaptabilité flexible au site** : les modèles de bureau peuvent être posés sur des tables et expédiés par avion/courrier ; les machines semi-automatiques verticales occupent un espace modéré ; les machines planes entièrement automatiques s’intègrent aux ateliers de production standardisés.
+- **Seuil d’opération faible** : les machines manuelles peuvent être maîtrisées en moins de 5 minutes ; les machines semi-automatiques permettent un démarrage en un clic ; les machines entièrement automatiques stockent des paramètres prédéfinis.
+- **Compatibilité mondiale de tension** : toutes les versions supportent 110V / 220V 50/60Hz. Les machines entièrement automatiques à haute puissance supportent l’électricité industrielle triphasée 380V.
+- **Forte flexibilité de personnalisation** : moules personnalisés disponibles. Option de marquage par lot, procédé double Alu-Alu et conception multi-cavités multi-plaques.
 
-### 1.4 Industries Applicables
-- Industrie pharmaceutique : Comprimés, gélules, capsules molles, petits onguents, accessoires médicaux jetables, consommables médicaux, etc. ;
-- Industrie alimentaire : Comprimés de lait, bonbons, noix, aliments lyophilisés, snacks de petite taille, etc. ;
-- Électronique et quincaillerie : Petits composants électroniques, vis, écrous, pièces de précision micro, accessoires de quincaillerie, etc. ;
-- Chimie quotidienne : Échantillons de soins de la peau, cosmétiques d'essai, articles de toilette de petite taille, etc. ;
-- Scénarios spéciaux : Production d'essai et échantillonnage en laboratoire, production dispersée dans les petits ateliers, emballage personnalisé en petits lots pour le commerce électronique, commutation de production multi-variétés.
+### 1.4 Secteurs applicables
+- **Secteur pharmaceutique** : comprimés, gélules dures/mous, pilules, fournitures, dispositifs médicaux jetables
+- **Secteur alimentaire** : tablettes de lait, bonbons, collations déshydratées, produits de santé
+- **Électronique & matériel** : micro-écrous, accessoires pour écouteurs, piles bouton, pièces précises très petites
+- **Cosmétiques quotidiens** : échantillons de soins de peau, essences en capsule, petits emballages pour soins personnels
+- **Scénarios** : échantillonnage R&D en laboratoire, remplissage petit lot en pharmacie, petites usines de transformation, lignes de production pharmaceutique de masse
 
-## 2. Tableau de Sélection de Différenciation des Modèles Principaux
+## 2. Tableau comparatif complet des modèles de série
+### 2.1 Machines à blister mini de bureau (tabletop, échantillonnage & faible production)
+| Modèle | Type de corps | Commande & entraînement | Besoin en air | Taille de table de travail | Vitesse de production | Poids net | Flux opérationnel standard | Fonctionnalités principales | Scénarios d'application |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| MTBP-180 | Bureau tabletop | Levier manuel + chauffage électrique | Pas besoin de compresseur d’air | 140×180 mm | 5-8 pièces/min | 23 kg | Charger les matériaux dans les alvéoles → Couvrir la feuille d’aluminium → Pression manuelle → Découper les bords | Plug & play, aucun équipement auxiliaire, uniquement pour feuilles d’aluminium non imprimées, coût minimal | Laboratoires, pharmacies, petits ateliers sans accès à l’air comprimé, production quotidienne < 100 emballages |
+| TBP-180 | Bureau tabletop | Semi-automatique pneumatique | Compresseur d’air requis (0,6-0,8 MPa) | 140×180 mm | 5-10 pièces/min | 23 kg | Charger les matériaux dans les alvéoles → Couvrir la feuille d’aluminium → Pression automatique par bouton → Découper les bords | Pression uniforme du vérin, économie de main-d’œuvre, compatible avec feuilles d’aluminium | Échantillonnage petit lot, sites disposant d’un compresseur d’air |
+| ETBP-180 | Bureau tabletop | Auto-alimentation électrique complète | Pas besoin de compresseur d’air | 140×180 mm | 10-15 pièces/min | 52 kg | Charger les matériaux dans les alvéoles → Alimentation automatique du rouleau d’aluminium → Soudure thermique automatique → Découper les bords | Système intégré d’enroulement de feuille, pas de découpe manuelle, compatible avec rouleaux d’aluminium imprimés | Production longue durée petit lot, clients utilisant des rouleaux d’aluminium sans compresseur |
 
-| Série de Modèles | Modèle Principal | Type de Corps | Mode d'Entraînement/Contrôle | Taille de la Table de Travail (mm/pouce) | Vitesse de Production | Besoin en Alimentation en Air | Poids Net (KG/lb) | Procédure Opérationnelle Standard | Caractéristiques Principales | Scénarios Applicables |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Paillasse Entrée de Gamme | MTBP-180 | Paillasse | Levier manuel + chauffage électrique | 140×180mm (5.51×7.09 pouces) | 5-8 pcs/min | Aucun (brancher et utiliser) | 23/25KG (50.7/55.1lb) | Mettre manuellement les gélules, comprimés et autres produits dans les blisters PVC → Placer les blisters PVC chargés dans le moule de la machine → Mettre la feuille d'aluminium → Appuyer sur l'interrupteur → Appuyer manuellement pour terminer le scellage → Couper les bords excédentaires de la feuille d'aluminium avec des ciseaux pour obtenir l'emballage fini | Opération manuelle pure sur paillasse, compact et léger, gain de place, placement sur bureau, brancher et utiliser, compatible avec les feuilles d'aluminium | Petits ateliers, laboratoires, emballage de produits à faible rendement, produits sans impression sur aluminium |
-| Paillasse Pneumatique | TBP-180 | Paillasse | Contrôle pneumatique | 140×180mm (5.51×7.09 pouces) | 5-10 pcs/min | 0.6-0.8 Mpa (compresseur d'air requis) | 23/25KG (50.7/55.1lb) | Mettre manuellement les gélules, comprimés et autres produits dans les blisters PVC → Placer les blisters PVC chargés dans le moule de la machine → Mettre la feuille d'aluminium → Appuyer sur l'interrupteur → La machine appuie automatiquement pour terminer le scellage → Couper les bords excédentaires de la feuille d'aluminium avec des ciseaux pour obtenir l'emballage fini | Semi-automatique sur paillasse, compact, placement sur bureau, pas de pression manuelle requise, force de scellage uniforme, compatible avec les feuilles d'aluminium | Petits ateliers, laboratoires, emballage de produits à faible rendement, produits sans impression sur aluminium |
-| Paillasse Électrique | ETBP-180 | Paillasse | Contrôle entièrement électrique | 140×180mm (5.51×7.09 pouces) | 5-10 pcs/min | Aucun (brancher et utiliser) | 52/55KG (114.6/121.3lb) | Mettre manuellement les gélules, comprimés et autres produits dans les blisters PVC → Placer les blisters PVC chargés dans le moule de la machine → Appuyer sur l'interrupteur → La machine appuie automatiquement pour terminer le scellage → Couper les bords excédentaires de la feuille d'aluminium avec des ciseaux pour obtenir l'emballage fini | Semi-automatique sur paillasse, compact, placement sur bureau, brancher et utiliser, dispositif d'enroulement/déroulement de film intégré pour les rouleaux d'aluminium, éliminant les étapes de coupe des feuilles | Petits ateliers, laboratoires, compatible avec les produits en rouleau d'aluminium imprimé |
-| Vertical de Base | BP-180 | Vertical (au sol) | Contrôle pneumatique | 140×180mm (5.51×7.09 pouces) | 5-10 pcs/min | 0.6-0.8 Mpa (compresseur d'air requis) | 110KG (242.5lb) | Mettre manuellement les gélules, comprimés et autres produits dans les blisters PVC → Placer les blisters PVC chargés dans le moule de la machine → Mettre la feuille d'aluminium → Appuyer sur l'interrupteur → Appuyer manuellement pour terminer le scellage → Couper les bords excédentaires de la feuille d'aluminium avec des ciseaux pour obtenir l'emballage fini | Manuel vertical, corps stable, adapté à la production sur site fixe, compatible avec les feuilles d'aluminium | Petits ateliers, petites usines, emballage de produits à faible rendement, équipé d'un compresseur d'air, produits sans impression sur aluminium |
-| Vertical Standard | CP-180 | Vertical (au sol) | Contrôle pneumatique | 140×180mm (5.51×7.09 pouces) | 5-10 pcs/min | 0.6-0.8 Mpa (compresseur d'air requis) | 120KG (264.6lb) | Mettre manuellement les gélules, comprimés et autres produits dans les blisters PVC → Placer les blisters PVC chargés dans le moule de la machine → Appuyer sur l'interrupteur → La machine appuie automatiquement pour terminer le scellage → Couper les bords excédentaires de la feuille d'aluminium avec des ciseaux pour obtenir l'emballage fini | Semi-automatique vertical, corps stable, pas de pression manuelle requise, dispositif d'enroulement/déroulement de film intégré pour les rouleaux d'aluminium | Petits ateliers, petites usines, emballage de produits en petits lots conventionnels, équipé d'un compresseur d'air |
-| Vertical Amélioré | DP-180 | Vertical (au sol) | Pneumatique + PLC + moteur pas à pas + œil photodélectrique | 140×180mm (5.51×7.09 pouces) | 5-10 pcs/min | 0.6-0.8 Mpa (compresseur d'air requis) | 150KG (330.7lb) | Mettre manuellement les gélules, comprimés et autres produits dans les blisters PVC → Placer les blisters PVC chargés dans le moule de la machine → Appuyer sur l'interrupteur → La machine appuie automatiquement pour terminer le scellage → Couper les bords excédentaires de la feuille d'aluminium avec des ciseaux pour obtenir l'emballage fini | Semi-automatique vertical, dispositif d'enroulement/déroulement de film intégré pour les rouleaux, équipé de PLC, moteur pas à pas et identification par œil photodélectrique, alignement précis des motifs imprimés sur l'aluminium | Petits ateliers, petites usines, emballage de produits en petits lots conventionnels, compatible avec les produits en rouleau d'aluminium imprimé |
-| Petite Automatique | DPP-80 | Vertical (au sol) | Entièrement automatique pneumatique + écran tactile PLC | 105*70mm (4.13*2.76 pouces) | 10-33 fois/min | 0.6-0.8 Mpa (compresseur d'air requis) | 480/520KG (1058.2/1146.4lb) | Connecter l'alimentation en air et l'électricité → Installer les rouleaux de PVC et d'aluminium → Régler la température de chauffage et la vitesse de fonctionnement → Test de marche par à-coups après stabilisation de la température → Démarrer la production automatique après un test qualifié → Refroidir et nettoyer l'équipement après l'arrêt | Structure compacte, fonctionnement stable, contrôle PID précis de la température, prend en charge les emballages aluminium-plastique, aluminium-aluminium, papier-plastique, réalise automatiquement le formage, le remplissage, le thermoscellage, l'impression du numéro de lot, la découpe, faible bruit, entretien facile | Laboratoires, petits ateliers, emballage à grande échelle en petits lots de produits pharmaceutiques et similaires, production automatique continue |
-| Automatique Moyenne | DPP-150 | Vertical (au sol) | Entièrement automatique pneumatique + écran tactile PLC + contrôle de vitesse par variateur | 130*100mm (5.12*3.94 pouces) | 10-44 fois/min | 0.6-0.8 Mpa (compresseur d'air requis) | 890KG (1962.1lb) | Connecter l'alimentation en air et l'électricité → Installer les rouleaux d'emballage → Régler la température, la vitesse et autres paramètres → Test de marche par à-coups après stabilisation de la température → Production automatique après un test qualifié → Effectuer le nettoyage et la maintenance après refroidissement et arrêt | Conception à plaque plate, transmission par engrenages à arbre parallèle stable et à faible bruit, espacement des postes réglable, changement de moule pratique, réalise automatiquement l'alimentation, le formage, le remplissage, le thermoscellage, l'impression du numéro de lot, la découpe, le recyclage des déchets, option de détection et de rejet des particules manquantes, conforme aux normes GMP | Petits et moyens ateliers, emballage de produits en lots petits et moyens multi-variétés, adapté aux produits pharmaceutiques tels que les comprimés et les gélules |
-| Automatique Grande | DPP-260 | Vertical (au sol) | Entièrement automatique pneumatique + écran tactile PLC + contrôle de vitesse par variateur | 250*120mm (9.84*4.72 pouces) | 15-45 fois/min | 0.6-0.8 Mpa (compresseur d'air requis) | 1200KG (2645.54lb) | Connecter l'alimentation en air et l'électricité → Installer les rouleaux d'emballage → Régler la température, la vitesse et autres paramètres → Test de marche par à-coups après stabilisation de la température → Production automatique après un test qualifié → Effectuer le nettoyage et la maintenance après refroidissement et arrêt | Conception à plaque plate, transmission par engrenages à arbre parallèle stable et à faible bruit, espacement des postes réglable, changement de moule pratique, réalise automatiquement l'alimentation, le formage, le remplissage, le thermoscellage, l'impression du numéro de lot, la découpe, le recyclage des déchets, option de détection et de rejet des particules manquantes, conforme aux normes GMP | Petits et moyens ateliers, emballage de produits en lots petits et moyens multi-variétés, adapté aux produits pharmaceutiques tels que les comprimés et les gélules |
+### 2.2 Machines à blister semi-automatiques verticales (placées au sol, moyens & petits lots)
+| Modèle | Type de corps | Commande & entraînement | Approvisionnement en air | Taille de travail | Vitesse | Poids | Fonctionnalités principales | Scénarios d'application |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| BP-180 | Vertical au sol | Pneumatique + interrupteur pied | 0,6-0,8 MPa | 140×180 mm | 5-10 pièces/min | 110 kg | Structure verticale stable, ne supporte que feuilles d’aluminium sans alimentation automatique | Petites usines fixes, conditionnement petit lot à faible coût |
+| CP-180 | Vertical au sol | Pneumatique + réenroulement automatique | 0,6-0,8 MPa | 140×180 mm | 5-10 pièces/min | 120 kg | Déroulement et réenroulement intégrés du rouleau d’aluminium, pas de pose manuelle | Petit lot régulier, clients utilisant des rouleaux d’aluminium |
+| DP-180 | Vertical au sol | PLC + moteur pas à pas + alignement photoélectrique | 0,6-0,8 MPa | 140×180 mm | 5-10 pièces/min | 150 kg | Alignement de marque de couleur pour feuilles imprimées, support de marquage par lot | Emballage avec feuilles d’aluminium imprimées, commandes moyennes petit lot |
 
-### Suggestions de Sélection Principales
-1. Sélectionner selon la capacité de production : Pour les scénarios de très petits lots avec une production quotidienne inférieure à 100 pièces, choisir le modèle manuel de paillasse MTBP-180 ; Pour les scénarios de petits lots avec une production quotidienne de 100 à 500 pièces, choisir les modèles de paillasse TBP-180 et ETBP-180 ; Pour les scénarios de lots conventionnels avec une production quotidienne de 500 à 2000 pièces, choisir les modèles verticaux BP-180, CP-180 et DP-180 ; Pour la production à grande échelle avec une production quotidienne supérieure à 2000 pièces, sélectionner directement les séries entièrement automatiques DPP-80 et DPP-150.
-2. Sélectionner selon le site et les installations de soutien : Pour les scénarios sans atelier fixe et uniquement une opération sur bureau, privilégier les modèles de paillasse de la série 180 ; Pour les scénarios sans compresseur d'air, choisir directement les MTBP-180 et ETBP-180 prêts à l'emploi ; Pour les scénarios avec un atelier fixe et équipé d'un compresseur d'air, choisir les modèles verticaux de la série 180 ou les modèles entièrement automatiques.
-3. Sélectionner selon le type de feuille d'aluminium : Pour ceux qui utilisent uniquement des feuilles d'aluminium sans exigence d'impression, choisir MTBP-180, TBP-180, BP-180 ; Pour ceux qui utilisent des rouleaux d'aluminium sans exigence d'alignement de haute précision, choisir ETBP-180, CP-180 ; Pour l'aluminium avec des motifs imprimés nécessitant un alignement précis, choisir DP-180.
-4. Sélectionner selon la commodité d'opération : Pour ceux qui ont un budget extrêmement faible et acceptent une opération purement manuelle, choisir MTBP-180 ; Pour ceux qui veulent économiser de la main-d'œuvre et rechercher une opération semi-automatique, choisir des modèles semi-automatiques pneumatiques ou électriques ; Pour ceux qui ont des exigences élevées en matière de précision d'emballage et d'efficacité de production, souhaitant réduire l'intervention manuelle, choisir la série entièrement automatique.
+### 2.3 Série DPP entièrement automatique plane (production continue de masse)
+#### 2.3.1 Petite machine DPP-80 entièrement automatique
+| Élément | Spécification |
+| ---- | ---- |
+| Système de contrôle | PLC écran tactile entièrement automatique |
+| Besoin en air | Compresseur d’air 0,6-0,8 MPa requis |
+| Taille effective de formage | 105×70 mm |
+| Vitesse de production | 10-33 cycles/min |
+| Poids machine | 480-520 kg |
+| Avantages principaux | Structure compacte, intégration automatisée du formage / alimentation / soudure / découpe |
+| Application | Petites usines de produits de santé, salles de préparation de laboratoire, lignes de production standardisées de petite taille |
 
-## 3. Questions Fréquentes et Réponses Techniques
-### 3.1 Fonctionnement de l'Équipement
-- Q : Quelles sont les exigences d'alimentation électrique de tous les modèles ? Une connexion haute tension séparée est-elle nécessaire ?
-- R : Tous les modèles prennent en charge la large tension universelle 110V/220V 50Hz/60Hz. La puissance des séries de paillasse et verticale 180 est de 1000W, et la série entièrement automatique DPP est de 2.8kw. Ils peuvent être utilisés avec le secteur domestique ou d'atelier conventionnel sans nécessiter de connexion haute tension séparée, et le câblage est simple et pratique.
-- Q : Quelle spécification de compresseur d'air est requise pour les modèles pneumatiques ?
-- R : Tous les modèles pneumatiques (TBP-180, BP-180, CP-180, DP-180, série complète DPP) sont uniformément compatibles avec les compresseurs d'air 1200W*50L. Une production de scellage normale peut être assurée tant que la pression d'air est maintenue stable à 0.6-0.8 Mpa.
-- Q : Comment régler la température de chauffage et le temps de scellage de l'équipement ?
-- R : Pour les modèles manuels et semi-automatiques de base de la série 180, régler le temps de scellage (conventionnel 3-6s) via le relais temporisé numérique ; L'ETBP-180 prend en charge le réglage précis de la température de contrôle de 80 à 150℃ ; Pour le DP-180 et la série entièrement automatique DPP, définir visuellement les paramètres de température, de temps et de vitesse via l'écran tactile PLC, ce qui est facile à utiliser.
-- Q : Une formation professionnelle est-elle nécessaire pour utiliser l'équipement ? Les novices peuvent-ils démarrer rapidement ?
-- R : Les modèles manuels et semi-automatiques de la série 180 ont des étapes d'opération extrêmement simples. Le fabricant fournit des instructions d'utilisation de base, aucune formation professionnelle n'est requise, et les novices peuvent les maîtriser en peu de temps ; Les modèles entièrement automatiques nécessitent uniquement de prérégler les paramètres et de fonctionner automatiquement après un test qualifié, avec un seuil d'opération très bas.
+#### 2.3.2 Machine DPP-150 moyenne entièrement automatique
+| Élément | Spécification |
+| ---- | ---- |
+| Système de contrôle | PLC écran tactile + régulation de vitesse à fréquence variable |
+| Besoin en air | Compresseur d’air 0,6-0,8 MPa requis |
+| Taille effective de formage | 130×100 mm |
+| Vitesse de production | 10-44 cycles/min |
+| Poids machine | 890 kg |
+| Avantages principaux | Stations ajustables, changement rapide de moule, option de rejet de particules, conformité basique GMP |
+| Application | Petites et moyennes usines pharmaceutiques, production par lots multiples |
 
-### 3.2 Moule et Personnalisation
-- Q : Quels matériaux sont nécessaires pour personnaliser un moule ? Quelle est la durée du cycle de personnalisation ?
-- R : Pour personnaliser un moule, 6 à 8 pièces de produits ou d'échantillons de blister PVC sont nécessaires. Le fabricant ouvre le moule avec précision en fonction de la taille, de la forme et de la profondeur des échantillons ; Le cycle de personnalisation des moules conventionnels est court, et les moules peuvent être produits et livrés en même temps que l'équipement sans retarder le calendrier de production.
-- Q : Les moules sont-ils interchangeables ? Dois-je rouvrir un moule lors du changement de produit ?
-- R : Les moules sont exclusivement personnalisés. Un ensemble de moules n'est adapté qu'à une taille et une forme de produit ou de blister. Pour un changement ultérieur de spécifications de produit, de nouveaux moules doivent être personnalisés en fonction des nouveaux échantillons. Le fabricant prend en charge la personnalisation et l'achat séparés des moules.
-- Q : Les dates de production et les numéros de lot peuvent-ils être imprimés sur l'emballage ?
-- R : La fonction d'impression est disponible pour tous les modèles. Si des exigences d'impression sont spécifiées lors de la personnalisation du moule, des modules d'impression tels que la date de production, le numéro de lot et le logo de la marque peuvent être intégrés. Le scellage et l'impression sont effectués de manière synchrone ; Les modèles entièrement automatiques sont équipés d'un dispositif d'impression de numéro de lot indépendant sans équipement supplémentaire.
+#### 2.3.3 Grande machine DPP-260 entièrement automatique
+| Élément | Spécification |
+| ---- | ---- |
+| Système de contrôle | PLC écran tactile + régulation de vitesse à fréquence variable |
+| Besoin en air | Compresseur d’air 0,6-0,8 MPa requis |
+| Taille effective de formage | 250×120 mm |
+| Vitesse de production | 15-45 cycles/min |
+| Poids machine | 1200 kg |
+| Avantages principaux | Grand plateau large, fonctionnement continu à haute vitesse, récupération automatique des déchets |
+| Application | Usines pharmaceutiques moyennes, lignes de production alimentaire de grande taille |
 
-### 3.3 Maintenance de l'Équipement et Consommables
-- Q : Quelles sont les pièces d'usure de l'équipement ? Peuvent-elles être achetées séparément ?
-- R : La pièce d'usure principale est la plaque chauffante. Toutes les plaques chauffantes adoptent une conception standardisée à démontage rapide pour un remplacement rapide. Le fabricant peut fournir séparément diverses pièces telles que les plaques chauffantes, les moules, les accessoires de film en rouleau et les têtes photodélectriques, avec un approvisionnement après-vente pratique.
-- Q : Quels consommables sont compatibles avec l'équipement ? Y a-t-il des exigences particulières ?
-- R : Tous les modèles sont compatibles avec les blisters PVC et les films en aluminium, divisés en feuilles d'aluminium et rouleaux. Il n'y a pas d'exigences particulières en matière de consommables. Les blisters PVC et les films en aluminium conventionnels et conformes disponibles sur le marché peuvent être utilisés. Le fabricant peut également fournir des consommables compatibles recommandés.
-- Q : Que faire si la plaque chauffante est endommagée ?
-- R : La plaque chauffante est dotée d'une structure à démontage et installation rapides, qui peut être remplacée par les utilisateurs sans outils professionnels ; Le fabricant fournit des pièces de rechange complètes et des conseils de dépannage à distance tout au long du processus pour résoudre les problèmes rapidement sans affecter la production normale.
+#### 2.3.4 Modèles doubles Alu-Alu & Alu-Plastique DPP-140E / DPP-250E
+| Modèle | Taille maximale de formage | Fonctions principales | Débit | Clients cibles |
+| ---- | ---- | ---- | ---- | ---- |
+| DPP-140E | 140×120 mm | Commutation entre formage froid Alu-Alu et formage chaud Alu-Plastique par changement de moule, inspection de particules en 3 étapes | Alu-Alu : 15-30 cycles/min ; Alu-Plastique : 20-45 cycles/min | Petites et moyennes usines pharmaceutiques avec espace limité, production de médicaments sensibles à la lumière |
+| DPP-250E | 250×120 mm | Grand plateau, moule refroidi à l’eau, rejet visuel, ligne de déchirement optionnelle | Alu-Alu : 15-30 cycles/min ; Alu-Plastique : 20-45 cycles/min | Grandes entreprises pharmaceutiques, ateliers GMP de haut niveau |
 
-### 3.4 Performance de l'Équipement
-- Q : Les modèles de la série 180 peuvent-ils emballer des produits de plus petite taille ?
-- R : Oui. La taille de la table de travail de la série 180 est de 140×180mm (5.51×7.09 pouces), ce qui est la taille d'emballage maximale. Elle peut être compatible avec divers produits et blisters de plus petite taille vers le bas. Il suffit de remplacer le moule personnalisé de la spécification correspondante sans changer la machine entière.
-- Q : La série entièrement automatique DPP prend-elle en charge l'emballage de blisters de forme spéciale ?
-- R : Oui. Toute la série DPP peut personnaliser des moules de formage et de scellage exclusifs en fonction des produits ou des échantillons de blister fournis par les clients, adaptés à diverses formes spéciales, tailles non standard et emballages blister de différentes profondeurs. Le remplacement du moule est pratique, s'adaptant à la commutation de production multi-variétés.
-- Q : Comment garantir l'effet de scellage de l'équipement ?
-- R : Tous les modèles garantissent la qualité du scellage par trois garanties : premièrement, un contrôle précis de la température pour éviter les dommages par fusion à haute température ou le scellage lâche à basse température ; deuxièmement, une sortie de pression uniforme (pression manuelle pour les modèles manuels, pression de vérin uniforme pour les modèles pneumatiques et électriques) pour un scellage sans angle mort ; troisièmement, un contrôle précis du temps pour garantir un scellage en place et éliminer les fuites et les faux scellages.
+## 3. Recommandations principales de sélection
+### 3.1 Sélection selon la production quotidienne
+1. Production quotidienne < 100 emballages pour échantillonnage & remplissage : modèle MTBP-180 manuel de bureau
+2. Production quotidienne 100-500 petits lots : modèles TBP-180 / ETBP-180 de bureau
+3. Production quotidienne 500-2000 lots réguliers : modèles BP / CP / DP semi-automatiques verticaux
+4. Production quotidienne > 2000 unités en production continue : toute la série DPP entièrement automatique
 
-## 4. Capacités de Personnalisation de Cette Série de Machines
-### 4.1 Personnalisation Principale : Personnalisation du Moule
-- Personnalisation de la taille : Personnaliser avec précision des moules exclusifs de différentes longueurs, largeurs et profondeurs de formage en fonction des échantillons de produits ou de blisters des clients. Un ensemble de moules correspond à une spécification, s'adaptant parfaitement aux produits et évitant les secousses et les déplacements des produits ;
-- Personnalisation de la forme : Prend en charge la personnalisation de moules pour des blisters ronds, carrés, de forme spéciale et divers irréguliers, s'adaptant pleinement à l'emballage de petits produits de différentes formes ;
-- Intégration de l'impression : Les moules peuvent être intégrés avec des modules d'impression tels que la date de production, le numéro de lot, la date d'expiration et le logo de la marque. Les processus de scellage et d'impression sont effectués de manière synchrone, éliminant les étapes de post-traitement ultérieures et améliorant l'efficacité de l'emballage.
+### 3.2 Sélection selon la disponibilité du compresseur d’air
+- Pas de compresseur d’air, seulement courant domestique disponible : modèles MTBP-180, ETBP-180 tout électrique (plug & play)
+- Déjà équipé d’un compresseur d’air 0,6-0,8 MPa : tous les modèles pneumatiques de bureau, verticaux et DPP entièrement automatiques sont disponibles
 
-### 4.2 Personnalisation Fonctionnelle : Extension de la Configuration de l'Équipement
-- Installation du système d'alimentation en feuille : Le modèle de base vertical BP-180 n'est pas équipé d'un dispositif d'alimentation automatique en feuille, et un module d'enroulement/déroulement de film en rouleau peut être installé ultérieurement en fonction des besoins de production. Le fabricant fournit des accessoires exclusifs et des conseils d'installation ;
-- Mise à niveau du mode de contrôle : Les modèles manuels de base peuvent être mis à niveau vers des modèles semi-automatiques pneumatiques, et les modèles pneumatiques de base peuvent être mis à niveau vers des modèles à écran tactile PLC + alignement par œil photodélectrique pour répondre à des exigences d'emballage de plus haute précision ;
-- Option de fonction de détection : Pour les industries exigeantes telles que les produits pharmaceutiques et alimentaires, des fonctions optionnelles de détection de manque de matériau, de détection de scellage et de rejet automatique des produits défectueux sont disponibles, améliorant considérablement le taux de qualification de l'emballage et réduisant le taux de défauts.
+### 3.3 Sélection selon le type de feuille d’aluminium
+1. Feuilles d’aluminium non imprimées pour un emballage simple et économique : MTBP, TBP, BP-180
+2. Rouleaux d’aluminium non imprimés à découper manuellement : ETBP, CP-180
+3. Feuilles d’aluminium imprimées nécessitant un alignement précis du motif : DP-180, toutes les machines DPP entièrement automatiques
+4. Médicaments sensibles à la lumière nécessitant un emballage Alu-Alu formé froidement : modèles DPP-140E / DPP-250E à double fonction
 
-### 4.3 Personnalisation de l'Adaptabilité : Optimisation Spécifique à l'Industrie
-- Industrie pharmaceutique : Optimiser la précision du scellage et la structure hygiénique de l'équipement, adopter une conception anti-pollution pour les moules, se conformer aux spécifications d'emballage de l'industrie pharmaceutique, et certains modèles peuvent répondre aux exigences de base des GMP ;
-- Industrie électronique et quincaillerie : Personnaliser des moules blister approfondis et épaissis pour améliorer les performances de protection du produit, évitant efficacement les dommages par collision et rayure des composants électroniques et des accessoires de quincaillerie dans l'emballage ;
-- Industrie alimentaire : Adopter des pièces de contact de qualité alimentaire, optimiser la plage de contrôle de la température pour empêcher les températures élevées d'affecter la qualité et le goût des aliments, et répondre aux normes d'hygiène et de sécurité de l'emballage alimentaire.
+### 3.4 Sélection selon le site et les exigences d’automatisation
+1. Placement sur table, petit espace mobile : modèles MTBP / TBP / ETBP de bureau
+2. Atelier fixe, petit lot, budget limité : modèles BP / CP semi-automatiques verticaux
+3. Atelier standardisé, production 24h/24, réduction de la main-d’œuvre : série DPP entièrement automatique plane
+4. Usines pharmaceutiques exigeant la conformité GMP et la détection de particules : DPP-150 / 260 / 140E / 250E
 
-### 4.4 Processus de Personnalisation
-1. Les clients soumettent des échantillons de produits ou de blisters, des paramètres de taille précis, et clarifient les exigences d'emballage (y compris les exigences d'impression, la capacité de production, le type de feuille d'aluminium, les normes de précision, etc.) ;
-2. Le fabricant émet un plan de conception de moule exclusif et un plan d'optimisation de la configuration de l'équipement en fonction des besoins du client, et se connecte avec les clients pour confirmer tous les détails ;
-3. Après que le client a confirmé le plan, le fabricant effectue la production de l'équipement, le débogage et la personnalisation du moule de manière synchrone ;
-4. L'équipement et les moules sont livrés de manière synchrone. Le fabricant fournit un service complet d'installation du moule, de débogage de l'équipement et de formation à l'utilisation à distance ou sur site pour garantir une production normale.
+### 3.5 Sélection selon le matériau d’emballage
+1. PVC classique + feuille d’aluminium pharmaceutique (comprimés & capsules) : tous les modèles compatibles
+2. Feuilles écologiques en PET à haute barrière : pris en charge par les séries DP et DPP entièrement automatiques
+3. Emblèmes Alu-Alu formés froidement à barrière lumineuse : uniquement disponibles sur DPP-140E / DPP-250E
 
-### 4.5 Garantie de Personnalisation
-- Tous les moules personnalisés subissent plusieurs tests de scellage avant de quitter l'usine pour garantir une adaptation parfaite à l'équipement et un effet de scellage qualifié ;
-- Les moules personnalisés et les machines complètes sont inclus dans le système de support après-vente unifié, et le fabricant fournit un support technique à vie ;
-- Prend en charge la personnalisation et le complément séparés des moules ultérieurement, répondant de manière flexible aux besoins de production des clients en matière de multi-variétés, de petits lots et de commutation fréquente de production.
+## 4. Questions fréquentes techniques générales
+### 4.1 Correspondance énergie & air
+**Q : Quelles sont les spécifications électriques et de tension de toute la série ?**  
+R : Puissance des modèles de bureau 180 : 500W / 1000W ; modèles semi-automatiques verticaux : 1000-1500W ; machines DPP entièrement automatiques : 2,8-8,5 kW. Tous les modèles supportent 110V / 220V 50/60Hz. Les grandes machines DPP peuvent être personnalisées pour 380V triphasé, compatibles avec l’alimentation électrique standard des usines.
+
+**Q : Quelle spécification de compresseur d’air pour les modèles pneumatiques ?**  
+R : Tous les modèles pneumatiques de bureau, verticaux et DPP entièrement automatiques correspondent à un compresseur silencieux de 1200W / 50L, avec une pression d’air stable de 0,6-0,8 MPa pour un fonctionnement normal.
+
+**Q : Les machines pneumatiques peuvent-elles fonctionner sans compresseur d’air ?**  
+R : Non, les vérins reposent sur la pression d’air pour le pressage. Les clients sans accès à l’air doivent choisir les machines de bureau MTBP ou ETBP tout électrique.
+
+### 4.2 Personnalisation des moules
+**Q : Les moules sont-ils inclus dans le pack standard de la machine ?**  
+R : Non, tous les modèles ne comprennent pas de moules. Les moules sont personnalisés séparément selon les échantillons de produits. Les clients doivent fournir 6-8 pièces d’échantillons de blister PVC avant la commande pour la conception du moule.
+
+**Q : Les moules sont-ils interchangeables ? Dois-je avoir de nouveaux moules pour de nouveaux produits ?**  
+R : Les moules peuvent être partagés entre machines ayant la même taille de table. De nouveaux moules sont nécessaires si la taille, la forme ou la profondeur du blister change. Des moules multi-cavités (1-4 cavités) sont disponibles pour augmenter le rendement par cycle.
+
+**Q : Les moules peuvent-ils imprimer le numéro de lot et la date de fabrication ?**  
+R : Les modules d’impression peuvent être intégrés aux moules pour les machines de bureau et semi-automatiques verticales. Toutes les machines DPP entièrement automatiques disposent d’un dispositif indépendant de codage pour imprimer le numéro de lot et la date d’expiration pendant la soudure thermique.
+
+### 4.3 Consommables & résolution des problèmes de scellement
+**Q : Quels matériaux d’emballage sont compatibles ?**  
+- Modèles semi-automatiques de bureau et verticaux : alvéoles PVC / PET préformées, feuilles d’aluminium pharmaceutiques et rouleaux  
+- Machines DPP entièrement automatiques : rouleaux PVC / PET, feuilles d’aluminium thermo-soudables PTP, film Alu-Alu formé froidement  
+
+**Q : Comment corriger un scellement incomplet, des bulles ou un décalage de feuille ?**  
+1. Scellement incomplet / bulles : augmenter la température de chauffage et le temps de maintien, vérifier la pression d’air stable  
+2. Feuille d’aluminium froissée ou décalée : ajuster la tension d’enroulement, calibrer la parallélisme du guide-rail  
+3. Désalignement des motifs imprimés : activer la compensation photoélectrique sur les machines DP et DPP, recalibrer le capteur de marque de couleur  
+
+### 4.4 Maintenance & garantie
+**Q : Quels sont les pièces usées et peuvent-elles être achetées séparément ?**  
+R : Plaques chauffantes, rubans adhésifs haute température, joints de scellement, capteurs photoélectriques (DP/DPP), composants électriques haute fréquence (modèles entièrement automatiques) sont tous disponibles séparément. Nous fournissons une assistance à distance pour le remplacement.
+
+**Q : Quelle est la politique de garantie de la machine ?**  
+R : Toutes les machines bénéficient d’une garantie globale de 1 an. Les pièces usées (plaques chauffantes, joints de scellement, composants électroniques) sont exclues. Nous fournissons un support technique à vie, une rénovation de moule et un service de mise en service sur site.
+
+**Q : Comment nettoyer la colle d’aluminium résiduelle sur la plaque chauffante ?**  
+R : Couper l’alimentation et attendre le refroidissement complet, essuyer avec un chiffon doux trempé dans de l’alcool anhydre. Ne pas utiliser de papier de verre ou de lame dure pour gratter le revêtement, ce qui provoquerait un scellement inégal.
+
+## 5. Capacité complète de personnalisation de la machine
+### 5.1 Personnalisation principale des moules
+1. Personnalisation de taille & profondeur : moules simples/multi-cavités sur mesure selon les dimensions du produit et la profondeur du blister  
+2. Personnalisation de forme : moules exclusifs pour capsules rondes, carrées, irrégulières et suppositoires  
+3. Intégration de fonctions : moules avec module d’impression de numéro de lot, LOGO et date d’expiration pour éliminer le traitement secondaire  
+
+### 5.2 Mises à jour optionnelles de machine
+1. Mise à jour du système d’alimentation : le modèle de base BP peut être rétrofité avec un dispositif d’alimentation automatique du rouleau d’aluminium  
+2. Mise à jour du système de contrôle : machines pneumatiques de base peuvent être mises à jour vers un système PLC + photoélectrique  
+3. Inspection optionnelle : machines DPP pharmaceutiques supportent la détection de particules manquantes et le rejet automatique  
+4. Extension de processus : DPP-140E / 250E supportent la mise à jour du processus de formage froid Alu-Alu  
+5. Personnalisation de tension & panneau : commandes internationales supportent la tension 110V et la personnalisation de l’écran tactile en anglais  
+
+### 5.3 Optimisation spécifique par secteur
+1. **Secteur pharmaceutique** : toutes les pièces en contact en acier inoxydable 304, moules sans bavures. Les séries DPP répondent aux normes GMP de base pour l’emballage de médicaments stériles  
+2. **Secteur alimentaire** : surfaces de contact chauffantes de qualité alimentaire, courbe de température optimisée pour éviter la détérioration du goût par la chaleur excessive  
+3. **Électronique & matériel** : moules approfondis et renforcés avec force de serrage plus élevée pour prévenir les rayures et chocs des petites pièces  
+4. **Personnalisation export** : emballage en bois renforcé pour export, manuels bilingues chinois/anglais, adaptation de tension à l’étranger  
+
+### 5.4 Processus complet de personnalisation
+1. Le client fournit des échantillons de produits / dessins de blister, précise la production quotidienne, le type d’aluminium, les conditions d’air et d’électricité en atelier  
+2. Fournisseur émet une proposition de configuration machine et de conception de moule, confirme toutes les dimensions et fonctions avec le client  
+3. Production de la machine et fabrication du moule se font simultanément. Tests de scellement multiples avant livraison en usine  
+4. Livraison de la machine avec assistance vidéo à distance pour la mise en service ; installation sur site et formation des opérateurs disponibles  
+
+## 6. Flux opérationnel standard général (exemple machine semi-automatique verticale)
+1. Connecter l’alimentation électrique et le compresseur d’air, stabiliser la pression à 0,6-0,8 MPa. Allumer et préchauffer la plaque chauffante, régler la température à 80-150 °C, le temps de scellement à 3-6 s  
+2. Fixer le moule personnalisé sur la table de travail, charger les comprimés / capsules dans les alvéoles PVC  
+3. Poser la feuille d’aluminium ou activer le système d’alimentation automatique du rouleau d’aluminium  
+4. Appuyer sur le pédalier ou le bouton du panneau pour une pression thermique constante automatique  
+5. Soulever la plaque chauffante après le scellement, retirer le plateau blister et découper le surplus d’aluminium avec des ciseaux  
+6. Répéter le chargement et le scellement pour une production continue  
+7. Arrêter le chauffage, l’alimentation en air et l’alimentation électrique après le travail. Nettoyer la colle résiduelle du moule après refroidissement complet, entretenir régulièrement les rails coulissants et les vérins

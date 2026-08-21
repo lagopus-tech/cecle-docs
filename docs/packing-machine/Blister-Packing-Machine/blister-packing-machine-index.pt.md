@@ -1,104 +1,185 @@
-# Guia de Seleção e Visão Geral do Produto: Máquina de Embalagem Blister
+# Guia de Seleção e Visão Geral Completa de Máquinas de Embalagem em Blister
 
-## 1. O que é uma Máquina de Embalagem Blister
-### 1.1 Definição Principal
-Uma Máquina de Embalagem Blister é um dispositivo de embalagem especializado que sela produtos entre blisters de PVC e filmes de folha de alumínio. Através de processos principais, incluindo aquecimento, formação e selagem, ela alcança a embalagem selada independente dos produtos, combinando atributos duplos de proteção física, resistência à umidade/poeira e exibição do produto. É amplamente adequada para embalar produtos de pequeno porte nas indústrias farmacêutica, alimentícia, eletrônica, de ferragens, química diária e outras, abrangendo todos os cenários, desde produção experimental em laboratório até produção em larga escala.
+## 1. O que é uma Máquina de Embalagem em Blister
+### 1.1 Definição Básica
+A Máquina de Embalagem em Blister, também conhecida como Máquina de Embalagem Alu-Plástico, é um equipamento especializado de embalagem que selar comprimidos, cápsulas e pequenas peças metálicas entre cascas de blister de PVC/PET e folha de alumínio farmacêutico por meio de soldagem térmica. Utiliza processos como prensagem térmica, enrolamento da folha e corte para formar embalagens individuais herméticas. As embalagens finais apresentam propriedades impermeáveis à umidade, à luz, ao pó, anti-colisão e visualização clara do produto. O equipamento abrange amostragem em laboratório, produção em pequena escala em oficinas e produção contínua em larga escala em fábricas farmacêuticas, sendo amplamente aplicado nas indústrias farmacêutica, alimentícia, eletrônica e hardware, cosméticos diários e outras áreas para produtos de pequeno porte.
 
 ### 1.2 Princípio de Funcionamento
-Esta série de máquinas de embalagem blister adota principalmente a tecnologia de selagem por prensagem a quente, dividida em quatro modos de acionamento e controle (manual, pneumático, elétrico e totalmente automático) com base no posicionamento do modelo. O módulo de controle digital de temperatura e o relé de tempo controlam com precisão a temperatura de aquecimento e a duração da selagem, fundindo o filme de folha de alumínio e o blister de PVC sob pressão uniforme para garantir uma selagem firme e sem vazamentos. Modelos de médio a alto padrão são equipados adicionalmente com dispositivos de enrolamento/desenrolamento de filme, telas sensíveis ao toque PLC, motores de passo e sistemas de identificação por olho fotoelétrico, permitindo o transporte automático de rolos de folha de alumínio e o alinhamento preciso de padrões impressos. Alguns modelos totalmente automáticos podem completar de forma independente todo o processo de formação, preenchimento, corte e reciclagem de resíduos. Todos os modelos suportam moldes personalizados para se adequar a produtos de diferentes formas, tamanhos e profundidades, atendendo flexivelmente a vários requisitos de embalagem.
+A série completa é dividida em três categorias: desktop manual/semi-automático, vertical semi-automático e máquinas planas totalmente automáticas DPP, com dois processos centrais:
+1. **Série Desktop e Vertical Semi-Automática (MTBP / TBP / ETBP / BP / CP / DP)**  
+   Os operadores carregam manualmente os materiais em blister pré-fabricados e os colocam nos moldes, depois cobrem com folhas ou rolos de folha de alumínio. Placas elétricas de aquecimento ou cilindros pneumáticos aplicam temperatura constante e pressão para fundir a folha de alumínio com os blister. Os operadores cortam o excesso de folha para obter os produtos acabados. Modelos de alta gama como o DP são equipados com sensor de marca de cor fotoelétrico para registro preciso de folhas de alumínio impressas.
+2. **Série DPP Totalmente Automática (DPP-80 / 150 / 260 / 140E / 250E)**  
+   Produção contínua tipo rolo a rolo: desenrolamento do PVC → formação térmica do blister → alimentação automática → selagem térmica com folha de alumínio → codificação por lote → corte → reenrolamento da folha de desperdício. Modelos de alto nível suportam tanto formação fria Alu-Alu quanto formação quente Alu-Plástico, além de inspeção de partículas ausentes e rejeição automática. O sistema PLC com tela tátil controla todos os parâmetros, e as máquinas podem ser conectadas a linhas de montagem automatizadas.
 
-### 1.3 Valores Principais
-- Proteção excelente: A estrutura totalmente selada bloqueia efetivamente a umidade, poeira e oxidação, previne danos por colisão durante o transporte e armazenamento, e prolonga muito a vida útil do produto;
-- Higiênico e conveniente: A embalagem blister independente garante uso único sem afetar os produtos restantes, eliminando a contaminação secundária e atendendo aos requisitos básicos de higiene para as indústrias alimentícia e farmacêutica;
-- Alta adaptabilidade ao local: Os modelos de bancada são compactos e leves, utilizáveis diretamente em mesas sem ocupar grande espaço; Os modelos verticais possuem estrutura regular, e os modelos totalmente automáticos são compactos, adequados para pequenas oficinas, laboratórios, pequenas instalações de produção e outros locais;
-- Baixo limiar de operação: Modelos manuais e semiautomáticos são fáceis de operar, utilizáveis por novatos sem treinamento profissional; Modelos totalmente automáticos suportam configuração de parâmetros com um clique e operação automática, economizando muito em custos de mão de obra;
-- Ampla compatibilidade de tensão: Todos os modelos suportam tensão ampla de 110V/220V 50Hz/60Hz, acionados por energia elétrica convencional sem necessidade de conexão de alta tensão, adaptando-se a ambientes de rede elétrica nacionais e internacionais.
+### 1.3 Principais Vantagens
+- **Proteção de Selagem Superior:** Estrutura totalmente selada Alu-Plástico / Alu-Alu isola umidade, luz e poeira, prolongando a vida útil de medicamentos e alimentos, e evita danos durante o transporte.
+- **Embalagem Individual Higiênica e Prática:** Embalagens individuais evitam contaminação cruzada após uso parcial, atendendo aos requisitos básicos de higiene GMP para produtos farmacêuticos.
+- **Adaptação Flexível ao Local:** Modelos desktop podem ser colocados em mesas e enviados por avião/correios; máquinas verticais semi-automáticas ocupam espaço moderado; máquinas planas totalmente automáticas se adaptam a oficinas padronizadas.
+- **Baixa Curva de Aprendizado:** Máquinas manuais podem ser dominadas em menos de 5 minutos; máquinas semi-automáticas permitem início com um clique; máquinas totalmente automáticas armazenam configurações pré-definidas.
+- **Compatibilidade Global de Tensão:** Todos os modelos suportam 110V / 220V 50/60Hz. Máquinas totalmente automáticas de alta potência suportam energia industrial trifásica de 380V.
+- **Alta Flexibilidade de Personalização:** Moldes personalizados disponíveis. Opções de estampagem por lote, processo dual Alu-Alu e projetos multi-cavidade multi-placa.
 
 ### 1.4 Indústrias Aplicáveis
-- Indústria farmacêutica: Comprimidos, cápsulas, cápsulas moles, pomadas pequenas, acessórios médicos descartáveis, consumíveis médicos, etc.;
-- Indústria alimentícia: Tabletes de leite, balas, nozes, alimentos liofilizados, lanches de pequeno porte, etc.;
-- Eletrônicos e ferragens: Pequenos componentes eletrônicos, parafusos, porcas, peças de precisão micro, acessórios de ferragens, etc.;
-- Química diária: Amostras de produtos para a pele, cosméticos de teste, artigos de higiene pessoal de pequeno porte, etc.;
-- Cenários especiais: Produção experimental e amostragem em laboratório, produção dispersa em pequenas oficinas, embalagem personalizada de pequenos lotes para e-commerce, troca de produção de múltiplas variedades.
+- **Indústria Farmacêutica:** Comprimidos, cápsulas duras/mole, pílulas, suprimentos, materiais médicos descartáveis
+- **Indústria Alimentícia:** Tabletes de leite, doces, snacks congelados, produtos de saúde
+- **Eletrônicos e Hardware:** Pequenos parafusos, acessórios para fones, baterias de botão, peças pequenas de precisão
+- **Cosméticos Diários:** Amostras de skincare, essências em cápsulas, pequenas embalagens pessoais
+- **Cenários:** Amostragem em R&D laboratorial, enchimento em pequenas quantidades em farmácias, pequenas fábricas de processamento, linhas de produção farmacêutica em massa
 
-## 2. Tabela de Seleção Diferencial de Modelos Principais
+## 2. Tabela Comparativa Completa de Modelos da Série
+### 2.1 Máquinas Mini Desktop de Blister (Desktop, Amostragem e Baixa Produção)
+| Modelo | Tipo de Corpo | Acionamento e Controle | Requisito de Ar | Tamanho da Mesa de Trabalho | Velocidade de Produção | Peso Líquido | Fluxo Operacional Padrão | Principais Características | Cenários de Aplicação |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| MTBP-180 | Desktop em Mesa | Alavanca Manual + Aquecimento Elétrico | Sem compressor de ar necessário | 140×180mm | 5-8 unidades/min | 23KG | Carregar materiais nos blister → Cobrir com folha de alumínio → Pressionar manualmente → Cortar bordas | Plug & play, sem equipamentos auxiliares, apenas para folhas não impressas, custo mais baixo | Laboratórios, farmácias, oficinas pequenas sem fornecimento de ar, produção diária < 100 embalagens |
+| TBP-180 | Desktop em Mesa | Semi-automático Pneumático | Compressor de ar de 0,6-0,8Mpa necessário | 140×180mm | 5-10 unidades/min | 23KG | Carregar materiais nos blister → Cobrir com folha de alumínio → Pressionar automaticamente com botão → Cortar bordas | Pressão uniforme do cilindro, economia de esforço físico, adequado para folhas de alumínio | Amostragem em pequenas quantidades, locais com compressor de ar |
+| ETBP-180 | Desktop em Mesa | Auto-enrolamento Elétrico Total | Sem compressor de ar necessário | 140×180mm | 10-15 unidades/min | 52KG | Carregar materiais nos blister → Alimentação automática de rolo de alumínio → Selagem térmica automática → Cortar bordas | Sistema integrado de enrolamento de folha, sem corte manual de folha, compatível com rolos de alumínio impressos | Produção contínua em pequenas quantidades, clientes usando rolos de alumínio sem ar |
 
-| Série de Modelo | Modelo Principal | Tipo de Corpo | Modo de Acionamento/Controle | Tamanho da Mesa de Trabalho (mm/polegada) | Velocidade de Produção | Requisito de Fornecimento de Ar | Peso Líquido (KG/lb) | Procedimento Operacional Padrão | Características Principais | Cenários Aplicáveis |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Bancada Nível de Entrada | MTBP-180 | Bancada | Alavanca manual + aquecimento elétrico | 140×180mm (5,51×7,09 pol) | 5-8 pçs/min | Nenhum (plug-and-play) | 23/25KG (50,7/55,1lb) | Colocar manualmente cápsulas, comprimidos e outros produtos nos blisters de PVC → Colocar os blisters de PVC preenchidos no molde da máquina → Colocar a folha de alumínio → Pressionar o interruptor → Pressionar manualmente para baixo para completar a selagem → Aparar as bordas excedentes da folha de alumínio com tesoura para obter a embalagem finalizada | Operação de bancada puramente manual, compacta e leve, economiza espaço, colocação em mesa, plug-and-play, compatível com folhas de alumínio | Pequenas oficinas, laboratórios, embalagem de produtos de baixa produção, produtos sem impressão em folha de alumínio |
-| Bancada Pneumática | TBP-180 | Bancada | Controle pneumático | 140×180mm (5,51×7,09 pol) | 5-10 pçs/min | 0,6-0,8Mpa (compressor de ar necessário) | 23/25KG (50,7/55,1lb) | Colocar manualmente cápsulas, comprimidos e outros produtos nos blisters de PVC → Colocar os blisters de PVC preenchidos no molde da máquina → Colocar a folha de alumínio → Pressionar o interruptor → A máquina pressiona automaticamente para baixo para completar a selagem → Aparar as bordas excedentes da folha de alumínio com tesoura para obter a embalagem finalizada | Semiautomática de bancada, compacta, colocação em mesa, sem necessidade de pressão manual, força de selagem uniforme, compatível com folhas de alumínio | Pequenas oficinas, laboratórios, embalagem de produtos de baixa produção, produtos sem impressão em folha de alumínio |
-| Bancada Elétrica | ETBP-180 | Bancada | Controle totalmente elétrico | 140×180mm (5,51×7,09 pol) | 5-10 pçs/min | Nenhum (plug-and-play) | 52/55KG (114,6/121,3lb) | Colocar manualmente cápsulas, comprimidos e outros produtos nos blisters de PVC → Colocar os blisters de PVC preenchidos no molde da máquina → Pressionar o interruptor → A máquina pressiona automaticamente para baixo para completar a selagem → Aparar as bordas excedentes da folha de alumínio com tesoura para obter a embalagem finalizada | Semiautomática de bancada, compacta, colocação em mesa, plug-and-play, dispositivo de enrolamento/desenrolamento de filme embutido para rolos de folha de alumínio, eliminando a etapa de corte de folhas | Pequenas oficinas, laboratórios, compatível com produtos de rolo de folha de alumínio impressa |
-| Vertical Básico | BP-180 | Vertical (de chão) | Controle pneumático | 140×180mm (5,51×7,09 pol) | 5-10 pçs/min | 0,6-0,8Mpa (compressor de ar necessário) | 110KG (242,5lb) | Colocar manualmente cápsulas, comprimidos e outros produtos nos blisters de PVC → Colocar os blisters de PVC preenchidos no molde da máquina → Colocar a folha de alumínio → Pressionar o interruptor → Pressionar manualmente para baixo para completar a selagem → Aparar as bordas excedentes da folha de alumínio com tesoura para obter a embalagem finalizada | Vertical manual, corpo estável, adequado para produção em local fixo, compatível com folhas de alumínio | Pequenas oficinas, pequenas fábricas, embalagem de produtos de baixa produção, equipado com compressor de ar, produtos sem impressão em folha de alumínio |
-| Vertical Padrão | CP-180 | Vertical (de chão) | Controle pneumático | 140×180mm (5,51×7,09 pol) | 5-10 pçs/min | 0,6-0,8Mpa (compressor de ar necessário) | 120KG (264,6lb) | Colocar manualmente cápsulas, comprimidos e outros produtos nos blisters de PVC → Colocar os blisters de PVC preenchidos no molde da máquina → Pressionar o interruptor → A máquina pressiona automaticamente para baixo para completar a selagem → Aparar as bordas excedentes da folha de alumínio com tesoura para obter a embalagem finalizada | Semiautomática vertical, corpo estável, sem necessidade de pressão manual, dispositivo de enrolamento/desenrolamento de filme embutido para rolos de folha de alumínio | Pequenas oficinas, pequenas fábricas, embalagem de produtos de pequenos lotes convencionais, equipado com compressor de ar |
-| Vertical Aprimorado | DP-180 | Vertical (de chão) | Pneumático + PLC + motor de passo + olho fotoelétrico | 140×180mm (5,51×7,09 pol) | 5-10 pçs/min | 0,6-0,8Mpa (compressor de ar necessário) | 150KG (330,7lb) | Colocar manualmente cápsulas, comprimidos e outros produtos nos blisters de PVC → Colocar os blisters de PVC preenchidos no molde da máquina → Pressionar o interruptor → A máquina pressiona automaticamente para baixo para completar a selagem → Aparar as bordas excedentes da folha de alumínio com tesoura para obter a embalagem finalizada | Semiautomática vertical, dispositivo de enrolamento/desenrolamento de filme embutido para rolos, equipado com PLC, motor de passo e identificação por olho fotoelétrico, alinhamento preciso de padrões impressos em folha de alumínio | Pequenas oficinas, pequenas fábricas, embalagem de produtos de pequenos lotes convencionais, compatível com produtos de rolo de folha de alumínio impressa |
-| Totalmente Automático Pequeno | DPP-80 | Vertical (de chão) | Totalmente automático pneumático + tela sensível ao toque PLC | 105*70mm (4,13*2,76 pol) | 10-33 vezes/min | 0,6-0,8Mpa (compressor de ar necessário) | 480/520KG (1058,2/1146,4lb) | Conectar fornecimento de ar e energia → Instalar rolos de PVC e folha de alumínio → Definir temperatura de aquecimento e velocidade de operação → Teste de avanço após estabilização da temperatura → Iniciar produção automática após teste qualificado → Resfriar e limpar o equipamento após desligamento | Estrutura compacta, operação estável, controle preciso de temperatura PID, suporta embalagens alumínio-plástico, alumínio-alumínio, papel-plástico, completa automaticamente formação, preenchimento, selagem a quente, impressão de número de lote, corte, baixo ruído, fácil manutenção | Laboratórios, pequenas oficinas, embalagem de pequenos lotes em larga escala de produtos farmacêuticos e similares, produção automática contínua |
-| Totalmente Automático Médio | DPP-150 | Vertical (de chão) | Totalmente automático pneumático + tela sensível ao toque PLC + controle de velocidade por inversor de frequência | 130*100mm (5,12*3,94 pol) | 10-44 vezes/min | 0,6-0,8Mpa (compressor de ar necessário) | 890KG (1962,1lb) | Conectar fornecimento de ar e energia → Instalar rolos de embalagem → Definir temperatura, velocidade e outros parâmetros → Teste de avanço após estabilização da temperatura → Produção automática após teste qualificado → Completar limpeza e manutenção após desligamento e resfriamento | Design de placa plana, transmissão por engrenagem de eixo paralelo estável e de baixo ruído, espaçamento de estação ajustável, troca de molde conveniente, completa automaticamente alimentação, formação, preenchimento, selagem a quente, impressão de número de lote, corte, reciclagem de resíduos, função opcional de detecção e rejeição de partículas faltantes, em conformidade com os padrões GMP | Oficinas de pequeno e médio porte, embalagem de produtos de múltiplas variedades e lotes pequenos e médios, adequado para produtos farmacêuticos como comprimidos e cápsulas |
-| Totalmente Automático Grande | DPP-260 | Vertical (de chão) | Totalmente automático pneumático + tela sensível ao toque PLC + controle de velocidade por inversor de frequência | 250*120mm (9,84*4,72 pol) | 15-45 vezes/min | 0,6-0,8Mpa (compressor de ar necessário) | 1200KG (2645,54lb) | Conectar fornecimento de ar e energia → Instalar rolos de embalagem → Definir temperatura, velocidade e outros parâmetros → Teste de avanço após estabilização da temperatura → Produção automática após teste qualificado → Completar limpeza e manutenção após desligamento e resfriamento | Design de placa plana, transmissão por engrenagem de eixo paralelo estável e de baixo ruído, espaçamento de estação ajustável, troca de molde conveniente, completa automaticamente alimentação, formação, preenchimento, selagem a quente, impressão de número de lote, corte, reciclagem de resíduos, função opcional de detecção e rejeição de partículas faltantes, em conformidade com os padrões GMP | Oficinas de pequeno e médio porte, embalagem de produtos de múltiplas variedades e lotes pequenos e médios, adequado para produtos farmacêuticos como comprimidos e cápsulas |
+### 2.2 Máquinas Verticais Semi-Automáticas de Blister (Piso, Média e Pequena Produção)
+| Modelo | Tipo de Corpo | Acionamento e Controle | Fornecimento de Ar | Tamanho de Trabalho | Velocidade | Peso | Principais Características | Cenários de Aplicação |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| BP-180 | Vertical em Piso | Pneumático + Interruptor de Pé | 0,6-0,8Mpa | 140×180mm | 5-10 unidades/min | 110KG | Estrutura vertical estável, apenas suporta folhas de alumínio sem alimentação automática de folha | Fábricas fixas pequenas, embalagem em pequenas quantidades com baixo custo |
+| CP-180 | Vertical em Piso | Pneumático + Rebobinamento Automático de Folha | 0,6-0,8Mpa | 140×180mm | 5-10 unidades/min | 120KG | Desenrolamento e rebobinamento integrados de rolo de alumínio, sem necessidade de colocar folha manualmente | Produção regular em pequenas quantidades, clientes usando rolos de folha de alumínio |
+| DP-180 | Vertical em Piso | PLC + Motor Passo + Registro Fotoelétrico | 0,6-0,8Mpa | 140×180mm | 5-10 unidades/min | 150KG | Alinhamento de marca de cor para folha impressa, suporte para estampagem por lote | Embalagem com folha de alumínio colorida impressa, pedidos médios em pequenas quantidades |
 
-### Sugestões Principais de Seleção
-1. Selecione pela capacidade de produção: Para cenários de lote ultra pequeno com produção diária abaixo de 100 peças, escolha o modelo manual de bancada MTBP-180; Para cenários de pequeno lote com produção diária de 100-500 peças, escolha os modelos de bancada TBP-180 e ETBP-180; Para cenários de lote convencional com produção diária de 500-2000 peças, escolha os modelos verticais BP-180, CP-180 e DP-180; Para produção em larga escala com produção diária acima de 2000 peças, selecione diretamente as séries totalmente automáticas DPP-80 e DPP-150.
-2. Selecione pelo local e instalações de suporte: Para cenários sem uma oficina fixa e apenas operação em mesa, dê prioridade aos modelos de bancada da série 180; Para cenários sem compressor de ar, escolha diretamente os modelos plug-and-play MTBP-180 e ETBP-180; Para cenários com uma oficina fixa e equipada com compressor de ar, escolha a série vertical 180 ou modelos totalmente automáticos.
-3. Selecione pelo tipo de folha de alumínio: Para aqueles que usam apenas folhas de alumínio sem requisitos de impressão, escolha MTBP-180, TBP-180, BP-180; Para aqueles que usam rolos de folha de alumínio sem requisitos de alinhamento de alta precisão, escolha ETBP-180, CP-180; Para folha de alumínio com padrões impressos que exigem alinhamento preciso, escolha DP-180.
-4. Selecione pela conveniência de operação: Para aqueles com um orçamento extremamente baixo e que aceitam operação puramente manual, escolha MTBP-180; Para aqueles que desejam economizar mão de obra e buscam operação semiautomática, escolha modelos semiautomáticos pneumáticos ou elétricos; Para aqueles com altos requisitos de precisão de embalagem e eficiência de produção, esperando reduzir a intervenção manual, escolha a série totalmente automática.
+### 2.3 Série DPP Totalmente Automática Plana (Produção em Massa Contínua)
+#### 2.3.1 Pequena Máquina DPP-80 Totalmente Automática
+| Item | Especificação |
+| ---- | ---- |
+| Sistema de Controle | PLC com Tela Tátil Totalmente Automático |
+| Requisito de Ar | Compressor de ar de 0,6-0,8Mpa |
+| Tamanho Efetivo de Formação | 105×70mm |
+| Velocidade de Produção | 10-33 ciclos/min |
+| Peso da Máquina | 480-520KG |
+| Principais Vantagens | Estrutura compacta, integração automática de formação, alimentação, selagem e corte |
+| Aplicação | Pequenas fábricas de produtos de saúde, salas de preparação de laboratório, linhas de produção padronizadas pequenas |
 
-## 3. Perguntas Frequentes e Respostas Técnicas
-### 3.1 Operação do Equipamento
-- P: Quais são os requisitos de fonte de alimentação de todos os modelos? É necessária uma conexão de alta tensão separada?
-- R: Todos os modelos suportam tensão ampla universal de 110V/220V 50Hz/60Hz. A potência das séries de bancada e vertical 180 é de 1000W, e a série totalmente automática DPP é de 2,8kw. Eles podem ser usados com energia elétrica doméstica ou de oficina convencional sem necessidade de conexão de alta tensão separada, e a fiação é simples e conveniente.
-- P: Qual especificação de compressor de ar é necessária para modelos pneumáticos?
-- R: Todos os modelos pneumáticos (TBP-180, BP-180, CP-180, DP-180, série DPP completa) são uniformemente compatíveis com compressores de ar de 1200W*50L. A produção normal de selagem pode ser atendida desde que a pressão do ar seja mantida estável em 0,6-0,8Mpa.
-- P: Como ajustar a temperatura de aquecimento e o tempo de selagem do equipamento?
-- R: Para modelos manuais e semiautomáticos básicos da série 180, ajuste o tempo de selagem (convencional 3-6s) através do relé de tempo digital; O ETBP-180 suporta ajuste preciso de controle de temperatura de 80-150℃; Para o DP-180 e a série totalmente automática DPP, defina diretamente os parâmetros de temperatura, tempo e velocidade visualmente através da tela sensível ao toque PLC, que é fácil de operar.
-- P: É necessário treinamento profissional para operar o equipamento? Os novatos podem aprender rapidamente?
-- R: Os modelos manuais e semiautomáticos da série 180 têm etapas de operação extremamente simples. O fabricante fornece instruções básicas de operação, não sendo necessário treinamento profissional, e os novatos podem dominá-las em pouco tempo; Os modelos totalmente automáticos só precisam definir os parâmetros com antecedência e funcionam automaticamente após um teste qualificado, com um limiar de operação muito baixo.
+#### 2.3.2 Máquina Média DPP-150 Totalmente Automática
+| Item | Especificação |
+| ---- | ---- |
+| Sistema de Controle | PLC com Tela Tátil + Regulação de Frequência Variável |
+| Requisito de Ar | Compressor de ar de 0,6-0,8Mpa |
+| Tamanho Efetivo de Formação | 130×100mm |
+| Velocidade de Produção | 10-44 ciclos/min |
+| Peso da Máquina | 890KG |
+| Principais Vantagens | Estações ajustáveis, troca rápida de moldes, opção de rejeição de partículas, conformidade básica com GMP |
+| Aplicação | Fábricas farmacêuticas médias e pequenas, produção em lotes com múltiplas variedades |
 
-### 3.2 Molde e Personalização
-- P: Quais materiais são necessários para personalizar um molde? Qual é o ciclo de personalização?
-- R: Para personalizar um molde, são necessárias 6-8 peças de produtos ou amostras de blister de PVC. O fabricante abre o molde com precisão de acordo com o tamanho, forma e profundidade das amostras; O ciclo de personalização de moldes convencionais é curto, e os moldes podem ser produzidos e entregues em sincronia com o equipamento sem atrasar o cronograma de produção.
-- P: Os moldes são intercambiáveis? Preciso reabrir o molde ao trocar de produto?
-- R: Os moldes são personalizados exclusivamente. Um conjunto de moldes é adequado apenas para um tamanho e forma de produto ou blister. Para substituição posterior de especificações de produto, novos moldes precisam ser personalizados de acordo com novas amostras. O fabricante suporta personalização e aquisição separada de moldes.
-- P: Datas de produção e números de lote podem ser impressos na embalagem?
-- R: A função de impressão está disponível para todos os modelos. Se os requisitos de impressão forem especificados durante a personalização do molde, módulos de impressão como data de produção, número de lote e logotipo da marca podem ser integrados. A selagem e a impressão são concluídas de forma síncrona; Os modelos totalmente automáticos são equipados com um dispositivo de impressão de número de lote independente, sem necessidade de equipamento adicional.
+#### 2.3.3 Máquina Grande DPP-260 Totalmente Automática
+| Item | Especificação |
+| ---- | ---- |
+| Sistema de Controle | PLC com Tela Tátil + Regulação de Frequência Variável |
+| Requisito de Ar | Compressor de ar de 0,6-0,8Mpa |
+| Tamanho Efetivo de Formação | 250×120mm |
+| Velocidade de Produção | 15-45 ciclos/min |
+| Peso da Máquina | 1200KG |
+| Principais Vantagens | Placa grande e ampla, operação contínua de alta velocidade, recuperação automática de resíduos |
+| Aplicação | Fábricas farmacêuticas médias, linhas de produção em massa de alimentos |
 
-### 3.3 Manutenção do Equipamento e Consumíveis
-- P: Quais são as peças vulneráveis do equipamento? Elas podem ser compradas separadamente?
-- R: A peça vulnerável principal é a placa de aquecimento. Todas as placas de aquecimento adotam um design padronizado de liberação rápida para substituição rápida. O fabricante pode fornecer separadamente várias peças, como placas de aquecimento, moldes, acessórios de filme em rolo e cabeças fotoelétricas, com fornecimento de pós-venda conveniente.
-- P: Quais consumíveis são compatíveis com o equipamento? Existem requisitos especiais?
-- R: Todos os modelos são compatíveis com blisters de PVC e filmes de folha de alumínio, divididos em folhas de alumínio e rolos. Não há requisitos especiais de consumíveis. Blisters de PVC e filmes de folha de alumínio convencionais e em conformidade disponíveis no mercado podem ser usados. O fabricante também pode fornecer consumíveis compatíveis recomendados.
-- P: O que devo fazer se a placa de aquecimento estiver danificada?
-- R: A placa de aquecimento possui uma estrutura de liberação e instalação rápida, que pode ser substituída pelos usuários sem ferramentas profissionais; O fabricante fornece peças de suporte completas e orientação remota de falhas durante todo o processo para resolver problemas rapidamente sem afetar a produção normal.
+#### 2.3.4 Máquinas Duplas Alu-Alu e Alu-Plástico DPP-140E / DPP-250E
+| Modelo | Tamanho Máximo de Formação | Funções Principais | Produção | Clientes-Alvo |
+| ---- | ---- | ---- | ---- | ---- |
+| DPP-140E | 140×120mm | Alternância entre formação fria Alu-Alu e formação quente Alu-Plástico por molde, inspeção de partículas em 3 etapas | Alu-Alu: 15-30 ciclos/min; Alu-Plástico: 20-45 ciclos/min | Fábricas farmacêuticas médias e pequenas com espaço limitado, produção de medicamentos sensíveis à luz |
+| DPP-250E | 250×120mm | Placa larga, molde refrigerado por água, rejeição visual, linha de ruptura opcional | Alu-Alu: 15-30 ciclos/min; Alu-Plástico: 20-45 ciclos/min | Grandes fabricantes farmacêuticos, oficinas GMP de alto padrão |
 
-### 3.4 Desempenho do Equipamento
-- P: Os modelos da série 180 podem embalar produtos de tamanho menor?
-- R: Sim. O tamanho da mesa de trabalho da série 180 é de 140×180mm (5,51×7,09 pol), que é o tamanho máximo de embalagem. Pode ser compatível com vários produtos e blisters de tamanho menor para baixo. Apenas o molde personalizado da especificação correspondente precisa ser substituído sem trocar a máquina inteira.
-- P: A série totalmente automática DPP suporta embalagem blister de formato especial?
-- R: Sim. A série DPP completa pode personalizar moldes de formação e selagem exclusivos de acordo com os produtos ou amostras de blister fornecidos pelos clientes, adequados para vários formatos especiais, tamanhos não padronizados e embalagens blister de diferentes profundidades. A substituição do molde é conveniente, adaptando-se à troca de produção de múltiplas variedades.
-- P: Como garantir o efeito de selagem do equipamento?
-- R: Todos os modelos garantem a qualidade da selagem através de três garantias: primeiro, controle preciso de temperatura para evitar danos por fusão em alta temperatura ou selagem solta em baixa temperatura; segundo, saída de pressão uniforme (pressão manual para modelos manuais, pressão uniforme do cilindro para modelos pneumáticos e elétricos) para selagem sem ângulos mortos; terceiro, controle preciso do tempo para garantir a selagem no local e eliminar selagem com vazamento e falsa.
+## 3. Sugestões Fundamentais de Seleção
+### 3.1 Seleção por Produção Diária
+1. Produção diária < 100 embalagens para amostragem e enchimento: modelo manual desktop MTBP-180  
+2. Produção diária de 100-500 lotes pequenos: modelos desktop TBP-180 / ETBP-180  
+3. Produção diária de 500-2000 lotes regulares: modelos verticais semi-automáticos BP / CP / DP  
+4. Produção diária > 2000 embalagens em produção contínua: todas as séries DPP totalmente automáticas  
 
-## 4. Capacidades de Personalização Desta Série de Máquinas
-### 4.1 Personalização Principal: Personalização de Molde
-- Personalização de tamanho: Personalize com precisão moldes exclusivos de diferentes comprimentos, larguras e profundidades de formação de acordo com as amostras de produto ou blister dos clientes. Um conjunto de moldes corresponde a uma especificação, ajustando-se perfeitamente aos produtos e evitando tremores e deslocamentos do produto;
-- Personalização de forma: Suporta personalização de molde para blisters redondos, quadrados, de formato especial e vários irregulares, adaptando-se totalmente à embalagem de pequenos produtos com diferentes formas;
-- Integração de impressão: Os moldes podem ser integrados com módulos de impressão como data de produção, número de lote, data de validade e logotipo da marca. Os processos de selagem e impressão são concluídos de forma síncrona, eliminando etapas subsequentes de processamento secundário e melhorando a eficiência da embalagem.
+### 3.2 Seleção por Condição de Compressor de Ar
+- Sem compressor de ar, apenas energia elétrica comum disponível: modelos MTBP-180, ETBP-180 totalmente elétricos (plug & play)  
+- Já possui compressor de ar de 0,6-0,8Mpa: todas as máquinas pneumáticas desktop, verticais e DPP totalmente automáticas estão disponíveis  
 
-### 4.2 Personalização de Função: Expansão de Configuração do Equipamento
-- Instalação do sistema de alimentação de folha: O modelo básico vertical BP-180 não é equipado com um dispositivo automático de alimentação de folha, e um módulo de enrolamento/desenrolamento de filme em rolo pode ser instalado posteriormente de acordo com as necessidades de produção. O fabricante fornece acessórios exclusivos e orientação de instalação;
-- Upgrade do modo de controle: Modelos manuais básicos podem ser atualizados para modelos semiautomáticos pneumáticos, e modelos pneumáticos básicos podem ser atualizados para modelos com tela sensível ao toque PLC + alinhamento por olho fotoelétrico para atender a requisitos de embalagem de maior precisão;
-- Função de detecção opcional: Para indústrias de alta demanda, como farmacêutica e alimentícia, funções opcionais de detecção de falta de material, detecção de selagem e rejeição automática de produtos defeituosos estão disponíveis, melhorando muito a taxa de aprovação da embalagem e reduzindo a taxa de defeitos.
+### 3.3 Seleção por Tipo de Folha de Alumínio
+1. Folhas de alumínio não impressas para embalagem simples de baixo custo: MTBP, TBP, BP-180  
+2. Rolos de alumínio não impressos para corte manual de folhas: ETBP, CP-180  
+3. Folha de alumínio colorida impressa exigindo alinhamento preciso de padrão: DP-180, todas as máquinas DPP totalmente automáticas  
+4. Medicamentos sensíveis à luz exigindo embalagem Alu-Alu formada friamente: modelos duplos DPP-140E / DPP-250E  
 
-### 4.3 Personalização de Adaptabilidade: Otimização Específica da Indústria
-- Indústria farmacêutica: Otimize a precisão da selagem e a estrutura de higiene do equipamento, adote design anti-poluição para moldes, cumpra as especificações de embalagem da indústria farmacêutica, e alguns modelos podem atender aos requisitos básicos de GMP;
-- Indústria de eletrônicos e ferragens: Personalize moldes de blister aprofundados e engrossados para melhorar o desempenho de proteção do produto, evitando efetivamente danos por colisão e arranhões de componentes eletrônicos e acessórios de ferragens na embalagem;
-- Indústria alimentícia: Adote peças de contato de grau alimentício, otimize a faixa de controle de temperatura para evitar que altas temperaturas afetem a qualidade e o sabor dos alimentos, e atenda aos padrões de higiene e segurança de embalagem de alimentos.
+### 3.4 Seleção por Local e Requisito de Automação
+1. Posicionamento em mesa, espaço pequeno móvel: modelos desktop MTBP / TBP / ETBP  
+2. Oficina fixa, produção média, orçamento limitado: modelos verticais semi-automáticos BP / CP  
+3. Oficina padronizada, produção ininterrupta 24h, redução de mão de obra: série DPP totalmente automática plana  
+4. Fábricas farmacêuticas com exigência de GMP e inspeção de partículas: DPP-150 / 260 / 140E / 250E  
 
-### 4.4 Processo de Personalização
-1. Os clientes enviam amostras de produto ou blister, parâmetros de tamanho precisos e esclarecem os requisitos de embalagem (incluindo requisitos de impressão, capacidade de produção, tipo de folha de alumínio, padrões de precisão, etc.);
-2. O fabricante emite um plano de design de molde exclusivo e um plano de otimização de configuração do equipamento de acordo com as necessidades do cliente, e entra em contato com os clientes para confirmar todos os detalhes;
-3. Após o cliente confirmar o plano, o fabricante realiza a produção do equipamento, ajuste e personalização do molde de forma síncrona;
-4. O equipamento e os moldes são entregues de forma síncrona. O fabricante fornece um serviço de processo completo de instalação remota ou no local do molde, ajuste do equipamento e treinamento de operação para garantir a produção normal.
+### 3.5 Seleção por Material de Embalagem
+1. PVC regular + folha de alumínio farmacêutico (comprimidos e cápsulas): todos os modelos compatíveis  
+2. Chapas ecológicas PET de alta barreira: suportado pela série DP e DPP total  
+3. Embalagens Alu-Alu formadas friamente com barreira à luz: apenas disponíveis nos modelos DPP-140E / DPP-250E  
 
-### 4.5 Garantia de Personalização
-- Todos os moldes personalizados passam por múltiplos testes de selagem antes de sair da fábrica para garantir adaptação perfeita ao equipamento e efeito de selagem qualificado;
-- Moldes personalizados e máquinas completas são incluídos no sistema de suporte de pós-venda unificado, e o fabricante fornece suporte técnico vitalício;
-- Suporta personalização e suplemento separados de moldes em estágio posterior, atendendo flexivelmente às necessidades de produção dos clientes de múltiplas variedades, pequenos lotes e troca frequente de produção.
+## 4. Perguntas Frequentes Técnicas Gerais
+### 4.1 Correspondência de Energia e Ar
+**Q: Quais são as especificações de energia e tensão da série completa?**  
+A: Potência da série desktop 180: 500W / 1000W; semi-automática vertical: 1000-1500W; DPP totalmente automática: 2,8-8,5kW. Todos os modelos suportam 110V / 220V 50/60Hz. Máquinas DPP grandes podem ser personalizadas para 380V trifásico industrial, compatível com energia padrão de fábrica.
+
+**Q: Qual especificação de compressor de ar para modelos pneumáticos?**  
+A: Todos os modelos pneumáticos desktop, verticais e DPP totalmente automáticas combinam com compressor silencioso de 1200W / 50L, pressão de ar estável de 0,6-0,8Mpa para funcionamento normal.
+
+**Q: As máquinas pneumáticas podem funcionar sem compressor de ar?**  
+A: Não, os cilindros pneumáticos dependem da pressão de ar para pressionar. Clientes sem fornecimento de ar devem escolher máquinas desktop totalmente elétricas MTBP ou ETBP.
+
+### 4.2 Personalização de Moldes
+**Q: Os moldes estão incluídos no pacote padrão da máquina?**  
+A: Todas as máquinas não incluem moldes. Os moldes são personalizados separadamente com base em amostras do produto. Os clientes precisam fornecer 6-8 unidades de amostras de blister de PVC para o projeto do molde antes do pedido.
+
+**Q: Os moldes são intercambiáveis? Preciso de novos moldes para novos produtos?**  
+A: Os moldes podem ser compartilhados entre máquinas com tamanho de mesa idêntico. Novos moldes são necessários se mudar o tamanho, forma ou profundidade do blister. Moldes multi-cavidade de 1-4 cavidades estão disponíveis para aumentar a produção por ciclo.
+
+**Q: Os moldes podem estampar número de lote e data de produção?**  
+A: Módulos de estampagem podem ser integrados aos moldes para máquinas desktop e semi-automáticas verticais. Todas as máquinas DPP totalmente automáticas possuem dispositivo independente de codificação para imprimir número de lote e data de validade durante a selagem térmica.
+
+### 4.3 Consumíveis e Solução de Problemas na Selagem
+**Q: Quais materiais de embalagem são compatíveis?**  
+- Semi-automáticas desktop e verticais: blister pré-fabricados de PVC/PET, folhas e rolos de alumínio farmacêutico  
+- DPP totalmente automáticas: rolos de PVC/PET, folha de alumínio para selagem térmica PTP, filme Alu-Alu formado friamente  
+
+**Q: Como resolver selagem incompleta, bolhas e deslocamento da folha?**  
+1. Selagem incompleta / bolhas: Aumentar temperatura de aquecimento e tempo de pressão, verificar pressão de ar estável  
+2. Folha de alumínio amassada e deslocada: Ajustar tensão do enrolamento, calibrar paralelismo do rolete guia  
+3. Desalinhamento de padrões impressos: Ativar compensação fotoelétrica nas máquinas DP e DPP, recalibrar sensor de marca de cor  
+
+### 4.4 Manutenção e Garantia
+**Q: Quais são as peças de reposição desgastáveis e posso comprá-las separadamente?**  
+A: Placas de aquecimento, fitas adesivas de alta temperatura, juntas de selagem, sensores fotoelétricos (DP/DPP), componentes elétricos de alta frequência (totalmente automáticas) estão disponíveis para compra separada. Oferecemos orientação remota para substituição.
+
+**Q: Qual é a política de garantia da máquina?**  
+A: Todas as máquinas têm garantia de 1 ano para todo o conjunto. Peças desgastáveis (placa de aquecimento, junta de selagem, componentes eletrônicos) estão excluídas. Oferecemos suporte técnico vitalício, renovação de moldes e serviço de instalação e comissionamento in loco.
+
+**Q: Como limpar cola de alumínio residual na placa de aquecimento?**  
+A: Desligue a energia e espere o resfriamento completo, limpe com pano macio imerso em álcool anidro. Não use lã de aço ou lâminas duras para raspar o revestimento, pois isso causará selagem irregular.
+
+## 5. Capacidade Completa de Personalização da Máquina
+### 5.1 Personalização de Moldes Principais
+1. Personalização de Tamanho e Profundidade: Moldes únicos/multi-cavidade conforme dimensões do produto e profundidade do blister  
+2. Personalização de Forma: Moldes exclusivos para cápsulas redondas, quadradas, irregulares e supositórios  
+3. Integração de Funções: Moldes com módulo de estampagem de número de lote, LOGO e data de validade para eliminar processos secundários  
+
+### 5.2 Atualizações Opcionais da Máquina
+1. Atualização do Sistema de Alimentação: Modelo básico BP pode ser retrofittado com dispositivo automático de enrolamento de folha de alumínio  
+2. Atualização do Sistema de Controle: Máquinas pneumáticas básicas podem ser atualizadas para sistema PLC + registro fotoelétrico  
+3. Inspeção Opcional: Máquinas DPP farmacêuticas suportam detecção de partículas ausentes e rejeição automática  
+4. Expansão de Processo: DPP-140E / 250E suportam atualização do processo de formação fria Alu-Alu  
+5. Personalização de Tensão e Painel: Pedidos internacionais suportam tensão de 110V e tela tátil em inglês  
+
+### 5.3 Otimização Exclusiva por Indústria
+1. **Indústria Farmacêutica:** Todas as partes em contato com insumos em aço inoxidável 304, moldes sem rebarbas. Séries DPP atendem aos requisitos básicos de GMP para embalagem de medicamentos estéreis  
+2. **Indústria Alimentícia:** Superfícies de contato de aquecimento de grau alimentício, curva de temperatura otimizada para evitar danos ao sabor por calor elevado  
+3. **Eletrônicos e Hardware:** Moldes aprofundados e reforçados com força de fechamento maior para evitar arranhões e colisões de peças pequenas  
+4. **Personalização para Exportação:** Embalagem de madeira reforçada para exportação, manuais bilingues chinês-inglês, adaptação de tensão internacional  
+
+### 5.4 Processo Completo de Personalização
+1. Cliente fornece amostras do produto / desenhos de blister, define produção diária, tipo de folha de alumínio, condições de ar e energia da oficina  
+2. Fornecedor envia proposta de configuração da máquina e projeto de molde, confirma todos os detalhes de dimensão e função com o cliente  
+3. Produção da máquina e fabricação do molde ocorrem simultaneamente. Vários testes de selagem antes da entrega da fábrica  
+4. Entrega da máquina com suporte remoto de comissionamento por vídeo; instalação in loco e treinamento de operadores disponíveis  
+
+## 6. Fluxo Operacional Padrão Geral (Exemplo de Máquina Vertical Semi-Automática)
+1. Conecte energia e compressor de ar, estabilize a pressão do ar em 0,6-0,8Mpa. Ligue e pré-aqueça a placa de aquecimento, defina temperatura entre 80-150°C, tempo de selagem de 3-6s  
+2. Fixe o molde personalizado na mesa de trabalho, carregue comprimidos/cápsulas nos blister de PVC  
+3. Coloque a folha de alumínio ou ative o sistema automático de alimentação de rolo de alumínio  
+4. Pisque no interruptor de pé ou pressione o botão no painel para pressionamento térmico constante automático  
+5. Levante a placa de aquecimento após a selagem, retire a placa de blister e corte o excesso de folha de alumínio com tesoura  
+6. Repita carga e selagem para produção contínua  
+7. Desligue aquecimento, fornecimento de ar e energia após o trabalho. Limpe cola residual de folha de alumínio do molde após resfriamento completo, mantenha regularmente os trilhos deslizantes e cilindros
