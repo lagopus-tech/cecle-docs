@@ -184,6 +184,8 @@ nav:
           - VC-10A Glass Jar Vacuum Capper: packing-machine/capping-machine/vc-10a-vacuum.md
           - VC-10B Glass Jar Vacuum Capper: packing-machine/capping-machine/vc-10b-vacuum.md
       - Printing Machine: 
+          - Heat Transfer Machine:
+              - Overview: packing-machine/printing-machine/heat-transfer-machine/heat-transfer-machine-index.md
           - Screen Printing Machine:
               - Overview: packing-machine/printing-machine/screen-printing-machine/screen-printing-machine-index.md
               - Automatic Series: packing-machine/printing-machine/screen-printing-machine/automatic-series.md
