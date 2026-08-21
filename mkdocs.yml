@@ -186,6 +186,13 @@ nav:
       - Printing Machine: 
           - Heat Transfer Machine:
               - Overview: packing-machine/printing-machine/heat-transfer-machine/heat-transfer-machine-index.md
+              - 3DHT-6437 3D & Slipper: packing-machine/printing-machine/heat-transfer-machine/3dht-6437-3d-and-slipper.md
+              - HT-B-300 Bucket Film Stretching: packing-machine/printing-machine/heat-transfer-machine/ht-b-300-bucket-film-stretching.md
+              - HT-C-200 Conical: packing-machine/printing-machine/heat-transfer-machine/ht-c-200-conical.md
+              - HT-RB-300 Skateboard: packing-machine/printing-machine/heat-transfer-machine/ht-rb-300-skateboard.md
+              - HT-S-300 Flat & Round: packing-machine/printing-machine/heat-transfer-machine/ht-s-300-flat-and-round.md
+              - SHT-B-300 Bucket Film Rotate: packing-machine/printing-machine/heat-transfer-machine/sht-b-300-bucket-film-rotate.md
+              - THS-210 Slipper Strap: packing-machine/printing-machine/heat-transfer-machine/ths-210-slipper-strap.md
           - Screen Printing Machine:
               - Overview: packing-machine/printing-machine/screen-printing-machine/screen-printing-machine-index.md
               - Automatic Series: packing-machine/printing-machine/screen-printing-machine/automatic-series.md
