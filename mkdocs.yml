@@ -88,6 +88,10 @@ nav:
           - HFQ-04 / HFQ-05 High Frequency: packing-machine/blister-sealing-machine/hfq-04-hfq-05.md
       - Blister Cutting Machine:
           - ETBPC-180 Electric Benchtop: packing-machine/blister-cutting-machine/etbpc-180.md
+      - Blister Forming Machine:
+          - Overview: packing-machine/blister-forming-machine/blister-forming-machine-index.md
+          - TD-5661 Small Size Forming: packing-machine/blister-forming-machine/td-5661-small-size-forming.md
+          - TD-7661 Big Size Forming: packing-machine/blister-forming-machine/td-7661-big-size-forming.md
       - Honey Straw Filling Machine:
           - Overview: packing-machine/filling-machine/honey-straw-filling-machine/honey-straw-filling-machine-index.md
       - Tray Vacuum Skin Packaging (Food):
@@ -235,6 +239,10 @@ nav:
           - Standard Automatic Series: food-machine/bun-making-machine/bun-machine-making-series.md
           - Intelligent CNC Series: food-machine/bun-making-machine/intelligence-bun-making-machine-series.md
           - Small / Desktop Series: food-machine/bun-making-machine/small-bun-making-machine-series.md
+      - Noodle & Dough Pressing Series:
+          - Dough Press Machine Series: food-machine/noodle-making-machine/dough-press-machine-series.md
+          - Noodle Making Machine Series: food-machine/noodle-making-machine/noodle-making-machine-series.md
+          - Small Dumpling Skin Machine Series: food-machine/noodle-making-machine/small-dumpling-sking-machine-series.md
           
   - Pharmaceutical Equipment:
       - Capsule Filling Machine:
