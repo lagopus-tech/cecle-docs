@@ -283,5 +283,9 @@ nav:
           - Manual Oil Drum Stacker: material-handling/stacker/manual-oil-drum-stacker.md
           - Parrot-Beak Drum Lifter: material-handling/stacker/parrot-beak-drum-lifter.md
       - Pallet Jack Series:
+          - Overview: material-handling/pallet-jack/pallet-jack-index.md
+          - Electric Pallet Jack: material-handling/pallet-jack/electric-pallet-jack.md
+          - Semi-Electric Pallet Truck: material-handling/pallet-jack/semi-electric-pallet-trucks.md
+          - Stand-On Electric Pallet Truck: material-handling/pallet-jack/stand-on-electric-pallet-truck.md
           - Standard Manual Pallet Jack: material-handling/pallet-jack/manual-pallet-jack.md
           - Manual Pallet Jack with Scale: material-handling/pallet-jack/electronic-scale-manual-pallet-jack.md
