@@ -250,6 +250,13 @@ nav:
           - BG Series High-Efficiency Coater: pharmaceutical-equipment/film-coating-machine/bg-series-coating-machine.md
           - BYC Series Coating Machine: pharmaceutical-equipment/film-coating-machine/byc-series-coating-machine.md
           - BY Series Sugar Coater: pharmaceutical-equipment/film-coating-machine/by-series-coating-machine.md
+      - Mixing Machine Series:
+          - Overview: pharmaceutical-equipment/mixing-machine/blender-index.md
+          - EYH Series 2D Blender: pharmaceutical-equipment/mixing-machine/eyh-series-2d-blender.md
+          - SYH Series 3D Blender: pharmaceutical-equipment/mixing-machine/syh-series-3d-blender.md
+          - VM Series Single-Arm V-Type: pharmaceutical-equipment/mixing-machine/vm-series-single-arm-v-type-blender.md
+          - V Series Double-Arm V-Type: pharmaceutical-equipment/mixing-machine/v-series-double-arm-v-type-blender.md
+          - WLDH Series Ribbon Blender: pharmaceutical-equipment/mixing-machine/wldh-series-ribbon-blender-powder-mixer.md
   - Material Handling Equipment:
       - Stacker Series:
           - Overview: material-handling/stacker/stacker-index.md
