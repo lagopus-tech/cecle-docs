@@ -257,6 +257,11 @@ nav:
           - VM Series Single-Arm V-Type: pharmaceutical-equipment/mixing-machine/vm-series-single-arm-v-type-blender.md
           - V Series Double-Arm V-Type: pharmaceutical-equipment/mixing-machine/v-series-double-arm-v-type-blender.md
           - WLDH Series Ribbon Blender: pharmaceutical-equipment/mixing-machine/wldh-series-ribbon-blender-powder-mixer.md
+      - Counting Machine Series:
+          - Overview: pharmaceutical-equipment/counting-machine/counting-machine-index.md
+          - JF8 Automatic Capsule Counter: pharmaceutical-equipment/counting-machine/jf8-automatic-capsule-counter.md
+          - SPN-400 Capsule & Tablet Counter: pharmaceutical-equipment/counting-machine/spn-400-capsule-tablet-counter.md
+          - YL Series Capsule & Tablet Counter: pharmaceutical-equipment/counting-machine/yl-serise-capsule-tablet-counter.md
   - Material Handling Equipment:
       - Stacker Series:
           - Overview: material-handling/stacker/stacker-index.md
