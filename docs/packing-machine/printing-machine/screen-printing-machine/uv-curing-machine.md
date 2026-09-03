@@ -1,9 +1,9 @@
 # UV Curing Machine
 
-![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_az2quiaz2quiaz2q.png?v=1782817564)
+![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/UV.jpg?v=1788402559)
 
 > **Core Abstract**
-> The TD-UV400 and TD-UV600 series consist of industrial conveyor-type UV curing machines engineered as high-efficiency post-press drying systems. Perfectly optimized for automated mass production in the electronics, plastics, communications, and optoelectronics industries, they effortlessly cure UV surface coatings and specialized glues on items like mobile casings and membrane switches. The series' core advantages rely on a dual UV light source configuration paired with imported highly-reflective focusing lampshades for instant drying capabilities. Driven by a smooth, noiseless Teflon mesh belt transmission with stepless speed regulation, this series delivers consistent, high-frequency curing speeds alongside an integrated exhaust system to maximize workplace safety and production line factory yield.
+> The TD-UV400 and TD-UV600 are industrial conveyor-type UV curing machines engineered as high-efficiency post-press drying and curing units, typically paired with screen printing machines in automated mass-production assembly lines. Best suited to the electronics, communications, and optoelectronics industries, they are widely used to cure UV surface coatings and adhesives on products such as mobile phone casings, membrane switches, electronic plastic housings, electronic components, and encapsulated terminals. The core advantages of this series lie in the dual UV light source system combined with imported high-reflection focusing lampshades, delivering concentrated energy and instant drying at exceptionally fast curing speeds. Driven by a smooth, noiseless Teflon mesh belt with stepless speed regulation, the machines ensure stable, high-frequency operation, while an integrated exhaust system safely removes heat to protect both the products and the working environment.
 
 ---
 
@@ -16,11 +16,11 @@
 
 ### 2. Applications
 * **Industry Applications**：Widely used for UV surface coating and glue curing in industries such as electronics, plastics, communications, and optoelectronics.
-* **Material Compatibility**：Mobile phone casings, membrane switches, electronic plastic casings, electronic components, liquid crystal displays (LCD), terminal encapsulation, component bonding, etc.
+* **Material Compatibility**：Mobile phone casings, membrane switches, electronic plastic casings, electronic components, terminal encapsulation, component bonding, etc.
 * **Production Scale**：Ideal for automated, high-frequency assembly line mass production in medium to large-scale factories.
 
 ### 3. Core Functions
-* **Dual UV Light Source**：Equipped with 2 UV light source systems as standard. They can be turned on flexibly according to curing requirements, ensuring high efficiency and energy savings.
+* **Dual UV Light Source**：Equipped with 2 sets of UV light source systems as standard. They can be turned on flexibly according to curing requirements, ensuring high efficiency and energy savings.
 * **Teflon Mesh Belt Transmission**：Utilizes imported Teflon conveyor mesh belts with precision craftsmanship, delivering smooth and noiseless operation.
 * **Stepless Speed Regulation**：Equipped with a variable speed motor and speed controller, allowing stepless adjustment of the conveyor belt speed based on production requirements.
 
@@ -28,17 +28,17 @@
 
 ## II. Core Advantages
 
-* **Instant Drying Capability**：Features a focusing design paired with imported highly-reflective lampshades to concentrate energy, achieving instant drying and exceptionally fast curing speeds.
+* **Instant Drying Capability**：Features a focusing design paired with imported high-reflection lampshades to concentrate energy, achieving instant drying and exceptionally fast curing speeds.
 * **Eco-Friendly & Safe Design**：Heat can be discharged outdoors through the exhaust system, effectively protecting the production work environment. The illumination height of the UV lampshade is also adjustable.
 
 ---
 
 ## III. Technical Specifications
 
-| Model | Voltage | Lamp power | Width of belt | Speed | Machine size | Weight | 
+| Model | Voltage | Lamp power | Width of belt | Speed | Packaging dimension | Weight | 
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **TD-UV400** | 380V | 3.6KW × 2 mercury lamps | 40CM/15.7" | 5-25M/Min | 250×75×135CM/98.4×29.5*53.1" | 300KG/661LB |
-| **TD-UV600** | 380V | 3.6KW × 2 mercury lamps | 60CM/23.6" | 5-25M/Min | 250×95×135CM/98.4×37.4×53.1" | 550KG/1213LB |
+| **TD-UV400** | 380V | 3.6KW × 2 mercury lamps | 40CM/15.7" | 5-25M/Min | 206×76×134CM/81.1×29.9×52.8" | 255KG/562LB |
+| **TD-UV600** | 380V | 3.6KW × 2 mercury lamps | 60CM/23.6" | 5-25M/Min | 210×96×166CM/82.7×37.8×65.4" | 300KG/661LB |
 
 ---
 
@@ -92,9 +92,9 @@
 
 ## VI. Media Resources
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mnKWayTkffU?si=AkRrdvUtW9QhG_1m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lDExj_vPXRU?si=KL4WEL89BWdymRwP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-* **📽️ Operation video: ** [https://youtu.be/mnKWayTkffU](https://youtu.be/mnKWayTkffU)
+* **📽️ Operation video: ** [https://youtu.be/lDExj_vPXRU](https://youtu.be/lDExj_vPXRU)
 
 ---
 
@@ -103,7 +103,7 @@
 ### International Trade
 * **MOQ**：1 set 
 * **Payment**：T/T (100% in advance)
-* **Lead time**：Within 20 days
+* **Lead time**：Within 10 days
 * **Packaging Standard**：Wooden case (Export standard)
 * **Place of origin**：Wenzhou, Zhejiang, China
 
