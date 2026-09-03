@@ -151,6 +151,16 @@ nav:
           - HZNF-60B Auto Tube Filler & Sealer: packing-machine/tube-sealing-machine/hznf-60b-auto-tube-filling-sealing.md
           - QDFW-125 Ultrasonic Plastic Tube Sealer: packing-machine/tube-sealing-machine/qdfw-125--ultrasonic-plastic-tube.md
           - TS-80 Aluminum-Plastic Tube Sealer: packing-machine/tube-sealing-machine/ts-80-aluminum-plastic-tube.md
+      - Weighing, Filling & Packing Machine:
+          - Overview: packing-machine/weighing-filling-packing-machine/weighing-filling-machine-index.md
+          - A-25 Granule Bagging Scale Machine: packing-machine/weighing-filling-packing-machine/a-25-granule-bagging-scale-machine.md
+          - FM 1-9999g Weighing & Filling Machine: packing-machine/weighing-filling-packing-machine/fm-1-9999g-weighing-filling-machine.md
+          - FM-50 Weighing & Filling Machine: packing-machine/weighing-filling-packing-machine/fm-50-weighing-filling-machine.md
+          - TD-1C1 Check Weigher Conveyor: packing-machine/weighing-filling-packing-machine/td-1c1-check-weigher-conveyor.md
+          - TD-2M Dual-Head Linear Weigher: packing-machine/weighing-filling-packing-machine/td-2m-dual-head-linear-weigher.md
+          - TD-4M 4-Head Linear Weigher: packing-machine/weighing-filling-packing-machine/td-4m-4-head-linear-weigher.md
+          - TD-10-0.5L 10-Head Combination Scale: packing-machine/weighing-filling-packing-machine/td-10-0.5l-10-head-quantitative-combination-scale.md
+          - TD-14-0.5L 14-Head Combination Scale: packing-machine/weighing-filling-packing-machine/td-14-0.5l-14-head-quantitative-combination-scale.md
       - Shrink Wrapping Machine Series:
           - Overview: packing-machine/shrink-wrapping-machine/shrink-wrapping-machine-index.md
           - FM-5540 2-in-1 Hood Shrink Machine: packing-machine/shrink-wrapping-machine/fm-5540-2-in-1-machine.md
@@ -216,12 +226,12 @@ nav:
               - HP-241B Electric Ribbon Coder: packing-machine/printing-machine/coding-machine/hp-241b-electric-coding-machine.md
               - HP-241C Pneumatic Ribbon Coder: packing-machine/printing-machine/coding-machine/hp-241c-pneumatic-coding-machine.md
               - MY-380F Solid-Ink Coder: packing-machine/printing-machine/coding-machine/my-380f-solid-ink-coding-machine.md
-          - Cup & Tray Sealing Machine:
-              - MS / MSS-220 Cup & Tray Sealer: packing-machine/cup-sealing-machine/ms-mss-220.md
-          - Cup Filling & Sealing Machine:
-              - Overview: packing-machine/cup-filling-and-sealing-machine/cup-filling-and-sealing-machine-index.md
-              - Linear Type: packing-machine/cup-filling-and-sealing-machine/linear-type.md
-              - Rotary Type: packing-machine/cup-filling-and-sealing-machine/rotary-type.md
+      - Cup & Tray Sealing Machine:
+          - MS / MSS-220 Cup & Tray Sealer: packing-machine/cup-sealing-machine/ms-mss-220.md
+      - Cup Filling & Sealing Machine:
+          - Overview: packing-machine/cup-filling-and-sealing-machine/cup-filling-and-sealing-machine-index.md
+          - Linear Type: packing-machine/cup-filling-and-sealing-machine/linear-type.md
+          - Rotary Type: packing-machine/cup-filling-and-sealing-machine/rotary-type.md
   - Food Machinery:
       - Samosa Making Series:
           - Overview: food-machine/samosa-making-machine/samosa-making-machine-index.md
