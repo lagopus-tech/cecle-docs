@@ -21,7 +21,7 @@
 
 ### 3. Core Functions
 * **PLC Intelligent Control System**：Adopts microcomputer PLC control, offering extremely stable performance with simple and intuitive parameter adjustment.
-* **Optional Universal Interface**：If you have plans to upgrade to a fully automated production line in the future, please inform us before placing your order. We can customize a "universal signal interface" for you before leaving the factory (including signals for material readiness, discharging, foot pedal, photoelectric sensor, etc.), making it convenient to connect with other external weighing/filling equipment later.
+* **Optional Universal Signal Interface**：If you plan to upgrade to a fully automatic production line in the future, please inform us before placing your order. We can pre-install a customized "Universal Signal Interface" in the electrical box. This interface supports various signals, including material-ready input, discharge trigger output, foot pedal signal, and photoelectric signals, allowing you to seamlessly connect external weighers, liquid pumps, or other feeding equipment in the future.
 * **Bag Compatibility**: Compatible with multiple bag sizes, easily adjustable to fit bag specifications ranging from 5×7cm to 20×30cm.
 
 ---
@@ -43,7 +43,6 @@
 | **Power** | 0.85KW |
 | **Packing Speed** | 25-30 bags/min |
 | **Applicable Bag Size** | 5×7cm to 20×30cm |
-| **Silo Capacity** | 30KG |
 | **Bag Bin Capacity** | 450 pcs (Bag thickness 0.1mm) |
 | **Working Pressure** | 0.6-0.8MPA |
 | **Machine Weight** | 189KG / 417LB |
