@@ -52,10 +52,10 @@ Combines auto-feeding with specialized folding for higher efficiency.
 | Model | Max Dim. (L×W×H) | Drive | Weight | Key Features |
 | :--- | :--- | :--- | :--- | :--- |
 | **3DP-88** | 310×100×75 mm | Electric | 42 kg | **Manual-push folding; requires molds; pairs with ACW series.** |
-| **A3DP-88** | 250×140×105 mm | Pneumatic | 42 kg | **Pneumatic push-feed; requires air compressor; stable and low effort.** |
-| **A3DP-88D** | 220×140×110 mm | Pneumatic | 42 kg | **Includes Dot Sealing device for perfect, wrinkle-free square box folding.** |
-| **A3DP-88A** | 220×140×H(20-110) | Pneumatic | 42 kg | **Customizable height range; no molds needed; fits height range 20-110mm.** |
-| **A3DP-88H** | >220×140×110 mm | Pneumatic | 42 kg | **Includes top/bottom heating plates for full 6-sided sealing finish.** |
+| **A3DP-88** | 260×140×105 mm | Pneumatic | 42 kg | **Pneumatic push-feed; requires air compressor; stable and low effort.** |
+| **A3DP-88D** | 260×140×110 mm | Pneumatic | 42 kg | **Includes Dot Sealing device for perfect, wrinkle-free square box folding.** |
+| **A3DP-88A** | 260×140×H(20-110) | Pneumatic | 42 kg | **Customizable height range; no molds needed; fits height range 20-110mm.** |
+| **A3DP-88H** | >260×140×110 mm | Pneumatic | 42 kg | **Includes top/bottom heating plates for full 6-sided sealing finish.** |
 
 ### 3. Fully Automatic Industrial Series
 
