@@ -31,7 +31,7 @@
 | :--- | :--- |
 | **Model** | **A3DP-88H** |
 | **Packaging Speed** | 15–20 cycles/min (up to 20 times/min) |
-| **Max Box Size** | **220 * 140 * 110 mm** |
+| **Max Box Size** | **260 * 140 * 110 mm** |
 | **Machine Dimensions** | **620 * 420 * 1210 mm** |
 | **Net Weight** | **63 kg** |
 | **Voltage** | 220V 50~60Hz |

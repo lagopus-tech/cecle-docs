@@ -31,7 +31,7 @@
 | Item | Details |
 | :--- | :--- |
 | **Product Model** | **A3DP-88D** |
-| **Max Packaging Size** | 250 * 140 * 105 mm |
+| **Max Packaging Size** | 260 * 140 * 105 mm |
 | **Dimensions** | **94 * 64 * 29 cm** |
 | **Speed** | Up to 20 times/min |
 | **Net Weight** | 42 kg |

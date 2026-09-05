@@ -30,7 +30,7 @@
 | Item | Details |
 | :--- | :--- |
 | **Model** | **A3DP-88A (Pneumatic Version)** |
-| **Max Packaging Flat Dimensions** | **220 * 140 mm** |
+| **Max Packaging Flat Dimensions** | **260 * 140 mm** |
 | **Supported Box Height Range** | **30 - 100 mm** (or customized 20 - 90 / 40 - 110 mm) |
 | **Height Compatibility Span** | **Difference between max and min height must not exceed 70 mm** |
 | **Speed** | 15 - 20 times/min (up to 20 times/min) |

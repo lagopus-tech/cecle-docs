@@ -24,7 +24,7 @@
 | Parameter | Details / Specifications |
 | :--- | :--- |
 | **Model** | A3DP-88 |
-| **Max Packaging Size** | 220 * 140 * 110 mm (Enlargement customization available) |
+| **Max Packaging Size** | 260 * 140 * 110 mm (Enlargement customization available) |
 | **Machine Dimensions** | **94 * 64 * 29 cm** |
 | **Packaging Speed** | Up to 20 cycles / min |
 | **Net Weight** | 42 kg |
