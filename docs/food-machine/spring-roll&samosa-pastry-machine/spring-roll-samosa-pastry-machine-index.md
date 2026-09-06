@@ -1,5 +1,3 @@
---- START OF FILE pancake-and-samosa-wrapper-series-index.md ---
-
 # Comprehensive Guide to Commercial Pancake, Samosa & Spring Roll Wrapper Machine Series
 
 *Looking to upgrade your commercial pastry production line? Explore our comprehensive selection of automated roast duck pancake makers, samosa pastry sheet machines, and spring roll wrapper production lines designed for central kitchens, food factories, and snack manufacturing plants.*

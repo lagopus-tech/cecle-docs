@@ -179,5 +179,3 @@ Introducing the MI Series Commercial Vertical Stuffing Mixer significantly optim
 ### Get Quote & Purchase
 
 * 🛒 [Click here to view prices and purchase on our official store](https://cecle.net/products/commercial-kitchen-large-capacity-mixing-and-filling-machine?_pos=10&_sid=17ec40682&_ss=r)
-
---- END OF FILE en-mi-stuffing-mixer-series.md ---
