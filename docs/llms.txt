@@ -231,6 +231,9 @@
 - [Linear Type](https://doc.cecle.net/packing-machine/cup-filling-and-sealing-machine/linear-type/): The Fully Automatic Linear Cup / Coffee Capsule Filling & Sealing Machine is an advanced industrial linear packaging system engineered specifically for large-scale food processing enterprises, larg...
 - [Rotary Type](https://doc.cecle.net/packing-machine/cup-filling-and-sealing-machine/rotary-type/): The Fully Automatic Rotary Cup / Coffee Capsule Filling & Sealing Machine is an advanced industrial rotary packaging system specifically engineered for coffee roasteries, dairy processing plants, c...
 
+### Compression Packing Machine
+- [CP-700 Pneumatic Compression Packing Machine](https://doc.cecle.net/packing-machine/compress-vacuum-packaging-machine/cp-700-pneumatic-compression-packing-machine/): The CP-700 Double Position Compression Packing Machine is a powerful pure pneumatic packing equipment specially designed for cross-border e-commerce, foreign trade export enterprises, home textile...
+
 ## Food Machinery
 
 ### Samosa Making Series
@@ -343,6 +346,24 @@
 - [Stand-On Electric Pallet Truck](https://doc.cecle.net/material-handling/pallet-jack/stand-on-electric-pallet-truck/): The Stand-on Electric Pallet Truck is an efficient warehousing solution designed specifically for modern large-scale facilities.
 - [Standard Manual Pallet Jack](https://doc.cecle.net/material-handling/pallet-jack/manual-pallet-jack/): The manual pallet jack (commonly known as a "pallet truck" or "jiffy") is an indispensable cornerstone for material handling in warehouses, logistics centers, workshops, and supermarkets.
 - [Manual Pallet Jack with Scale](https://doc.cecle.net/material-handling/pallet-jack/electronic-scale-manual-pallet-jack/): The electronic scale manual pallet jack perfectly integrates traditional handling functions with high-precision weighing technology.
+
+## Other Equipment
+
+### Pearl Setting Machine
+- [Overview](https://doc.cecle.net/other-equipment/pearl-setting-machine/pearl-setting-machine-index/): The Automatic Nail Pearl Fixing Beading Machine is specialized automated pneumatic processing equipment widely used in the apparel, footwear, leather goods, and home textile industries.
+- [TD-168 Single Head Special Beads Nail Pearl Fixing Beading Machine](https://doc.cecle.net/other-equipment/pearl-setting-machine/td-168-single-head-special-beads/): The TD-168 Single Head Special Beads Setting Machine is a high-precision pneumatic device expertly designed for attaching asymmetrical and special-shaped beads, such as semi-circles, stars, pyramid...
+- [TD-168D Double Head Special Beads Nail Pearl Fixing Beading Machine](https://doc.cecle.net/other-equipment/pearl-setting-machine/td-168d-double-head-special-beads/): The TD-168D Double Head Special Beads Setting Machine is a state-of-the-art high-speed pneumatic nailing system engineered for seamlessly setting multiple patterns of special-shaped and fancy beads.
+- [TD-198 Single Head Nail Round Pearl Fixing Beading Machine](https://doc.cecle.net/other-equipment/pearl-setting-machine/td-198-single-head-round-pearl/): The TD-198 Single Head Round Pearl Setting Machine is an advanced and highly efficient pneumatic beading device specifically designed for precisely attaching standard round pearls to clothing, shoe...
+- [TD-198D Double Head Nail Round Pearl Fixing Beading Machine](https://doc.cecle.net/other-equipment/pearl-setting-machine/td-198d-double-head-round-pearl/): The TD-198D Double Head Round Pearl Setting Machine is a high-yield, dual-station pneumatic beading equipment built to efficiently arrange multi-specification standard round pearls.
+
+### Shoe Sole Pressing Machine
+- [TD-001 Double Barrel Shoe Sole Pressing Machine](https://doc.cecle.net/other-equipment/shoe-sole-pressing-machine/td-001-double-barrel-shoe-sole-pressing-machine/): The TD-001 Double Barrel Shoe Sole Pressing Machine is an efficient pneumatic equipment designed for precise sole and upper bonding across various footwear types, including leather shoes, sports sh...
+
+### Coffee Vending Machine
+- [WF1-303V-A Table Top Coffee Vending Machine](https://doc.cecle.net/other-equipment/coffee-vending-machine/wf1-303v-a-table-top-coffee-vending-machine/): The WF1-303V-A is a compact table top automatic coffee vending machine designed for brewing various instant powder beverages such as coffee and milk tea.
+
+### Paper Machine
+- [TD-1575 Automatic Toilet Paper Rewinding Production Line](https://doc.cecle.net/other-equipment/paper-machine/td-1575-toilet-paper-rewinding-production-line/): The TD-1575 Automatic Toilet Paper Rewinding Production Line is an advanced, high-efficiency system designed for rewinding, perforating, embossing, and glue-sealing jumbo paper rolls into finished...
 
 ## Optional
 - [CECLE Official Website](https://www.cecle.net): Product catalog and company profile

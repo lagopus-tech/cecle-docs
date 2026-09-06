@@ -249,6 +249,8 @@ nav:
           - Overview: packing-machine/cup-filling-and-sealing-machine/cup-filling-and-sealing-machine-index.md
           - Linear Type: packing-machine/cup-filling-and-sealing-machine/linear-type.md
           - Rotary Type: packing-machine/cup-filling-and-sealing-machine/rotary-type.md
+      - Compression Packing Machine:
+          - CP-700 Pneumatic Compression: packing-machine/compress-vacuum-packaging-machine/cp-700-pneumatic-compression-packing-machine.md
   - Food Machinery:
       - Samosa Making Series:
           - Overview: food-machine/samosa-making-machine/samosa-making-machine-index.md
@@ -344,3 +346,16 @@ nav:
           - Stand-On Electric Pallet Truck: material-handling/pallet-jack/stand-on-electric-pallet-truck.md
           - Standard Manual Pallet Jack: material-handling/pallet-jack/manual-pallet-jack.md
           - Manual Pallet Jack with Scale: material-handling/pallet-jack/electronic-scale-manual-pallet-jack.md
+  - Other Equipment:
+      - Pearl Setting Machine:
+          - Overview: other-equipment/pearl-setting-machine/pearl-setting-machine-index.md
+          - TD-168 Single Head Special Beads: other-equipment/pearl-setting-machine/td-168-single-head-special-beads.md
+          - TD-168D Double Head Special Beads: other-equipment/pearl-setting-machine/td-168d-double-head-special-beads.md
+          - TD-198 Single Head Round Pearl: other-equipment/pearl-setting-machine/td-198-single-head-round-pearl.md
+          - TD-198D Double Head Round Pearl: other-equipment/pearl-setting-machine/td-198d-double-head-round-pearl.md
+      - Shoe Sole Pressing Machine:
+          - TD-001 Double Barrel: other-equipment/shoe-sole-pressing-machine/td-001-double-barrel-shoe-sole-pressing-machine.md
+      - Coffee Vending Machine:
+          - WF1-303V-A Table Top: other-equipment/coffee-vending-machine/wf1-303v-a-table-top-coffee-vending-machine.md
+      - Paper Machine:
+          - TD-1575 Toilet Paper Rewinding Line: other-equipment/paper-machine/td-1575-toilet-paper-rewinding-production-line.md
