@@ -89,7 +89,7 @@ Para las fábricas de alimentos en su etapa inicial o las pequeñas tiendas de a
 
 Si desea comprender de manera intuitiva el proceso real de alimentación, la trayectoria de plegado de la envoltura y el proceso de descarga automatizada de este equipo, haga clic en el enlace a continuación para ver el video de demostración en alta definición:
 
-[🎬 **Haga clic para ver: Video de demostración de operación en sitio y alimentación de la Máquina Semiautomática para Doblar Samosas Punjabi SSF-GT-R120-2**](https://youtu.be/ByruE0pnl1w)
+[🎬 **Haga clic para ver: Video de demostración de operación en sitio y alimentación de la Máquina Semiautomática para Doblar Samosas Punjabi SSF-GT-R120-2**](https://youtu.be/phVDc7DGFPc)
 
 ](https://youtu.be/nqPcbgWgH1s?si=V6O8gvKI6ECIX7PS)
 

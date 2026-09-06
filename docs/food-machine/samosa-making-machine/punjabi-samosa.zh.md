@@ -89,7 +89,7 @@
 
 如果您想直观了解本设备的实际进料、面皮折叠轨迹及自动出料过程，请点击下方链接观看高清演示视频：
 
-[🎬 **点击观看：SSF-GT-R120-2 半自动旁遮普萨莫萨折叠机现场操作与进料演示视频**](https://youtu.be/ByruE0pnl1w)
+[🎬 **点击观看：SSF-GT-R120-2 半自动旁遮普萨莫萨折叠机现场操作与进料演示视频**](https://youtu.be/phVDc7DGFPc)
 
 ](https://youtu.be/nqPcbgWgH1s?si=V6O8gvKI6ECIX7PS)
 

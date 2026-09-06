@@ -89,7 +89,7 @@ Başlangıç aşamasındaki gıda fabrikaları veya standartlaşmış dönüşü
 
 Bu ekipmanın gerçek besleme, yufka katlama yörüngesi ve otomatik boşaltma prosesini görsel olarak anlamak istiyorsanız, yüksek çözünürlüklü tanıtım videosunu izlemek için aşağıdaki bağlantıya tıklayın:
 
-[🎬 **İzlemek için tıklayın: SSF-GT-R120-2 Yarı Otomatik Pencap Katlama Makinesi Saha Çalışması & Besleme Gösterim Videosu**](https://youtu.be/ByruE0pnl1w)
+[🎬 **İzlemek için tıklayın: SSF-GT-R120-2 Yarı Otomatik Pencap Katlama Makinesi Saha Çalışması & Besleme Gösterim Videosu**](https://youtu.be/phVDc7DGFPc)
 
 ](https://youtu.be/nqPcbgWgH1s?si=V6O8gvKI6ECIX7PS)
 

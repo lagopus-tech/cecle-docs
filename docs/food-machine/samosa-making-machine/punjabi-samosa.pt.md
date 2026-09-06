@@ -89,7 +89,7 @@ Para fábricas de alimentos em fase inicial ou pequenas lojas de comida que busc
 
 Se você deseja entender intuitivamente o processo real de alimentação, a trajetória de dobra da massa e o processo de descarga automatizada deste equipamento, clique no link abaixo para assistir ao vídeo de demonstração em alta definição:
 
-[🎬 **Clique para assistir: Vídeo de Demonstração de Operação e Alimentação da Máquina Semiautomática de Dobrar Punjabi SSF-GT-R120-2**](https://youtu.be/ByruE0pnl1w)
+[🎬 **Clique para assistir: Vídeo de Demonstração de Operação e Alimentação da Máquina Semiautomática de Dobrar Punjabi SSF-GT-R120-2**](https://youtu.be/phVDc7DGFPc)
 
 ](https://youtu.be/nqPcbgWgH1s?si=V6O8gvKI6ECIX7PS)
 

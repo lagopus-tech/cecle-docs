@@ -89,7 +89,7 @@ Per gli stabilimenti alimentari in fase di avvio o i piccoli negozi di alimentar
 
 Se desideri comprendere intuitivamente l'alimentazione effettiva, la traiettoria di piegatura della sfoglia e il processo di scarico automatico di questa apparecchiatura, clicca sul link qui sotto per guardare il video dimostrativo in alta definizione:
 
-[🎬 **Clicca per guardare: Video Dimostrativo del Funzionamento e dell'Alimentazione della Macchina per Piegatura Punjabi Semi-Automatica SSF-GT-R120-2**](https://youtu.be/ByruE0pnl1w)
+[🎬 **Clicca per guardare: Video Dimostrativo del Funzionamento e dell'Alimentazione della Macchina per Piegatura Punjabi Semi-Automatica SSF-GT-R120-2**](https://youtu.be/phVDc7DGFPc)
 
 ](https://youtu.be/nqPcbgWgH1s?si=V6O8gvKI6ECIX7PS)
 

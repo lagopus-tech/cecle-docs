@@ -122,7 +122,7 @@ If you want to intuitively understand the actual feeding, wrapper folding trajec
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/phVDc7DGFPc?si=bt7kg_dLJQnCTmwD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[🎬 **Click to watch: SSF-GT-R120-2 Semi-Automatic Punjabi Folding Machine On-site Operation & Feeding Demonstration Video**](https://youtu.be/ByruE0pnl1w)
+[🎬 **Click to watch: SSF-GT-R120-2 Semi-Automatic Punjabi Folding Machine On-site Operation & Feeding Demonstration Video**](https://youtu.be/phVDc7DGFPc)
 
 ---
 

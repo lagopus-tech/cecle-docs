@@ -89,7 +89,7 @@ Untuk pabrik makanan pada tahap awal atau toko makanan kecil yang mengejar trans
 
 Jika Anda ingin memahami secara intuitif proses pengumpanan aktual, lintasan pelipatan pembungkus, dan proses pelepasan otomatis peralatan ini, silakan klik tautan di bawah untuk menonton video demonstrasi definisi tinggi:
 
-[🎬 **Klik untuk menonton: Video Demonstrasi Operasi & Pengumpanan di Lokasi Mesin Pelipat Samosa Punjabi Semi-Otomatis SSF-GT-R120-2**](https://youtu.be/ByruE0pnl1w)
+[🎬 **Klik untuk menonton: Video Demonstrasi Operasi & Pengumpanan di Lokasi Mesin Pelipat Samosa Punjabi Semi-Otomatis SSF-GT-R120-2**](https://youtu.be/phVDc7DGFPc)
 
 ](https://youtu.be/nqPcbgWgH1s?si=V6O8gvKI6ECIX7PS)
 

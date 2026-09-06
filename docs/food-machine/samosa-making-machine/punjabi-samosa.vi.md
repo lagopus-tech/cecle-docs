@@ -89,7 +89,7 @@ Sản xuất khối lượng lớn bột nhào/bột nhão chất lượng cao �
 
 Nếu bạn muốn hiểu trực quan về quy trình cấp liệu thực tế, quỹ đạo gấp vỏ bánh và quy trình xả hàng tự động của thiết bị này, vui lòng nhấp vào liên kết bên dưới để xem video minh họa độ phân giải cao:
 
-[🎬 **Nhấp để xem: Video Minh Họa Vận Hành & Cấp Liệu Thực Tế Máy Gấp Punjabi Bán Tự Động SSF-GT-R120-2**](https://youtu.be/ByruE0pnl1w)
+[🎬 **Nhấp để xem: Video Minh Họa Vận Hành & Cấp Liệu Thực Tế Máy Gấp Punjabi Bán Tự Động SSF-GT-R120-2**](https://youtu.be/phVDc7DGFPc)
 
 ](https://youtu.be/nqPcbgWgH1s?si=V6O8gvKI6ECIX7PS)
 

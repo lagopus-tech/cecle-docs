@@ -89,7 +89,7 @@ Für Lebensmittelfabriken in der Anfangsphase oder kleine Lebensmittelgeschäfte
 
 Wenn Sie einen visuellen Eindruck vom tatsächlichen Zuführprozess, der Teigblatt-Faltbahn und dem automatischen Austrag dieses Geräts gewinnen möchten, klicken Sie bitte auf den untenstehenden Link, um das hochauflösende Demonstrationsvideo anzusehen:
 
-[🎬 **Klicken Sie hier, um das Video anzusehen: SSF-GT-R120-2 Halbautomatische Punjabi-Faltmaschine – Betriebs- & Zuführdemonstration**](https://youtu.be/ByruE0pnl1w)
+[🎬 **Klicken Sie hier, um das Video anzusehen: SSF-GT-R120-2 Halbautomatische Punjabi-Faltmaschine – Betriebs- & Zuführdemonstration**](https://youtu.be/phVDc7DGFPc)
 
 ](https://youtu.be/nqPcbgWgH1s?si=V6O8gvKI6ECIX7PS)
 

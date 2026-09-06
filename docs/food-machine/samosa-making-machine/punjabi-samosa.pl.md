@@ -89,7 +89,7 @@ Dla fabryk żywności na początkowym etapie rozwoju lub małych sklepów spoży
 
 Jeśli chcesz w intuicyjny sposób zobaczyć rzeczywisty proces podawania, trajektorię składania ciasta i automatyczne rozładowywanie tego urządzenia, kliknij poniższy link, aby obejrzeć film demonstracyjny w wysokiej rozdzielczości:
 
-[🎬 **Kliknij, aby obejrzeć: Film demonstracyjny obsługi i podawania półautomatycznej maszyny do składania samos pendżabskich SSF-GT-R120-2**](https://youtu.be/ByruE0pnl1w)
+[🎬 **Kliknij, aby obejrzeć: Film demonstracyjny obsługi i podawania półautomatycznej maszyny do składania samos pendżabskich SSF-GT-R120-2**](https://youtu.be/phVDc7DGFPc)
 
 ](https://youtu.be/nqPcbgWgH1s?si=V6O8gvKI6ECIX7PS)
 

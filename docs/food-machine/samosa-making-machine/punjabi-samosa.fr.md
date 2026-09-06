@@ -89,7 +89,7 @@ Pour les usines alimentaires en phase de démarrage ou les petites échoppes che
 
 Si vous souhaitez comprendre visuellement le processus réel d’alimentation, la trajectoire de pliage de la pâte et le déchargement automatisé de cet équipement, veuillez cliquer sur le lien ci-dessous pour regarder la vidéo de démonstration en haute définition :
 
-[🎬 **Cliquez pour regarder : Vidéo de démonstration du fonctionnement sur site et de l’alimentation de la machine de pliage semi-automatique de samossas pendjabis SSF-GT-R120-2**](https://youtu.be/ByruE0pnl1w)
+[🎬 **Cliquez pour regarder : Vidéo de démonstration du fonctionnement sur site et de l’alimentation de la machine de pliage semi-automatique de samossas pendjabis SSF-GT-R120-2**](https://youtu.be/phVDc7DGFPc)
 
 ](https://youtu.be/nqPcbgWgH1s?si=V6O8gvKI6ECIX7PS)
 
