@@ -6,7 +6,7 @@ Welcome to the **Commercial Noodle & Pastry Processing Equipment Index**. This c
 
 ## 📑 Index Directory by Category
 
-### 1. Dumpling & Pastry Wrapper Forming Machines (饺子皮/馄饨皮成型机)
+### 1. Dumpling & Pastry Wrapper Forming Machines
 Machines designed for automatic dough pressing, precision mold-cutting, flour dusting, and scrap recycling for dumpling wrappers, wonton skins, and baozi wrappers.
 
 * **[SK-080 Automatic Dumpling Skin Machine Manual & Specs](./sk-080-automatic-dumpling-skin-machine.md)**[cite: 1]
@@ -20,7 +20,7 @@ Machines designed for automatic dough pressing, precision mold-cutting, flour du
 
 ---
 
-### 2. Extrusion & Self-Cooking Noodle Machines (螺杆挤压自熟米线/面条机)
+### 2. Extrusion & Self-Cooking Noodle Machines
 Equipment utilizing high-pressure screw propulsion and friction self-cooking technology to produce fresh rice noodles, wheat noodles, and pasta without requiring external steam boilers.
 
 * **[Commercial Fully Automatic Self-Cooking Rice Noodle and Pasta Maker Manual & Specs](./commercial-self-cooking-rice-noodle-pasta-maker.md)**[cite: 2]
@@ -30,7 +30,7 @@ Equipment utilizing high-pressure screw propulsion and friction self-cooking tec
 
 ---
 
-### 3. Continuous Steaming & Sheet Noodle Equipment (蒸煮河粉/凉皮/肠粉一体机)
+### 3. Continuous Steaming & Sheet Noodle Equipment
 Integrated slurry paving, steam box cooking, cooling, and automated strip cutting lines for Asian specialty flat noodles.
 
 * **[Multi-functional Commercial Stainless Steel Rice Noodle & Cold Noodle Machine Manual & Specs](./multi-functional-rice-noodle-cold-noodle-machine.md)**[cite: 3]
@@ -40,7 +40,7 @@ Integrated slurry paving, steam box cooking, cooling, and automated strip cuttin
 
 ---
 
-### 4. Commercial Dough Sheeters & Noodle Making Machines (压面机/切面机)
+### 4. Commercial Dough Sheeters & Noodle Making Machines
 Dual-purpose or heavy-duty dough sheeting and cutting equipment for uniform dough preparation and fresh noodle production.
 
 * **[Commercial Canteen Automatic Dual-Adjustment Noodle Machine Manual & Specs](./commercial-canteen-dual-adjustment-noodle-machine.md)**[cite: 4]
