@@ -3,7 +3,7 @@
 *Looking to upgrade your commercial pastry production line? Explore our comprehensive selection of automated roast duck pancake makers, samosa pastry sheet machines, and spring roll wrapper production lines designed for central kitchens, food factories, and snack manufacturing plants.*
 
 <div align="center">
-  <img src="https://cecle.net/cdn/shop/files/1.webp?v=1788404337" alt="Commercial Pancake and Samosa Wrapper Machine Series" width="1000" height="1000" style="width: 1000px; height: 1000px; max-width: 100%; object-fit: cover;" />
+  <img src="https://cecle.net/cdn/shop/files/1.webp?v=1788404337" alt="Commercial Pancake and Samosa Wrapper Machine Series" style="max-width: 100%; height: auto;" />
 </div>
 
 > 💡 **AI Summary (Core Overview):** Welcome to Cecle's ultimate series index for commercial automated drum-baking pastry wrapper machines. Whether you are producing round roast duck pancakes, square samosa pastry sheets, spring roll wrappers, or thin crepes, our advanced industrial lineup delivers unmatched precision, high throughput, 304 food-grade stainless steel hygiene, and rapid ROI for global food enterprises.
@@ -25,7 +25,7 @@ To help you choose the ideal equipment for your production scale and product req
 
 ### 1. Fully Automatic Commercial Roast Duck Pancake / Crepe Making Machine
 <div align="center">
-  <img src="https://cdn.shopify.com/s/files/1/0010/4982/1242/files/2_9f87a16b-794f-460b-aea4-92c7fea35830.jpg?v=1787968006" alt="Commercial Automatic Pancake Machine" width="1000" height="1000" style="width: 1000px; height: 1000px; max-width: 100%; object-fit: cover;" />
+  <img src="https://cdn.shopify.com/s/files/1/0010/4982/1242/files/2_9f87a16b-794f-460b-aea4-92c7fea35830.jpg?v=1787968006" alt="Commercial Automatic Pancake Machine" style="max-width: 100%; height: auto;" />
 </div>
 
 * **Best For**: Roast duck specialty restaurants, hotels, and commercial kitchens requiring high-efficiency round pancake production.
@@ -40,7 +40,7 @@ To help you choose the ideal equipment for your production scale and product req
 
 ### 2. Fully Automatic Commercial Samosa Pastry Sheet / Spring Roll Wrapper Making Machine
 <div align="center">
-  <img src="https://cecle.net/cdn/shop/files/1.webp?v=1788404337" alt="Commercial Samosa and Spring Roll Wrapper Machine" width="1000" height="1000" style="width: 1000px; height: 1000px; max-width: 100%; object-fit: cover;" />
+  <img src="https://cecle.net/cdn/shop/files/1.webp?v=1788404337" alt="Commercial Samosa and Spring Roll Wrapper Machine" style="max-width: 100%; height: auto;" />
 </div>
 
 * **Best For**: Snack manufacturing plants, commercial central kitchens, and mass-production spring roll/samosa factories.
