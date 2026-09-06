@@ -9,7 +9,7 @@ Welcome to the **Commercial Noodle & Pastry Processing Equipment Index**. This c
 ### 1. Dumpling & Pastry Wrapper Forming Machines
 Machines designed for automatic dough pressing, precision mold-cutting, flour dusting, and scrap recycling for dumpling wrappers, wonton skins, and baozi wrappers.
 
-* **[SK-080 Automatic Dumpling Skin Machine Manual & Specs](./small-dumpling-sking-machine-series.md)**
+* **[SK-080 Automatic Dumpling Skin Machine Manual & Specs](../dumpling-making-machine/small-dumpling-skin-machine-series.md)**
   * **Model**: SK-080
   * **Key Features**: Compact tabletop design (60kg), double-sided flour dusting, continuous scrap recycling, up to 3,800 pcs/hour capacity.
   * **Ideal for**: Small-to-medium restaurants, fresh dumpling shops, and noodle stores.
@@ -58,7 +58,7 @@ Dual-purpose or heavy-duty dough sheeting and cutting equipment for uniform doug
 
 | Machine Model / Series               | Equipment Category              | Primary Process Tech                            | Key Capacity / Yield          | Motor Power & Voltage          | Machine Weight            | Core Target Application                           | Document Link                                                |
 | :----------------------------------- | :------------------------------ | :---------------------------------------------- | :---------------------------- | :----------------------------- | :------------------------ | :------------------------------------------------ | :----------------------------------------------------------- |
-| **SK-080**                  | Dumpling Wrapper       | Pressing + Mold Cutting + Scrap Roll   | 0 – 3,800 pcs/h      | 250W (220V)           | 60 kg            | Small restaurants, noodle stores         | [Read Guide](./small-dumpling-sking-machine-series.md) |
+| **SK-080**                  | Dumpling Wrapper       | Pressing + Mold Cutting + Scrap Roll   | 0 – 3,800 pcs/h      | 250W (220V)           | 60 kg            | Small restaurants, noodle stores         | [Read Guide](../dumpling-making-machine/small-dumpling-skin-machine-series.md) |
 | **ADS-220**                 | Industrial Wrapper     | Rotary Die-Cutting + Scrap Spooling    | High Commercial      | 250W (220V)           | 330 kg           | Frozen food plants, central kitchens     | [Read Guide](./../dumpling-making-machine/ads-220-dumpling-wrapper-machine.md) |
 | **MK Series (150–350)**     | Self-Cooking Extrusion | Screw Propulsion Friction Self-Cooking | 150 – 350 kg/h       | 7.5 kW – 19 kW (380V) | 130 kg – 520 kg  | Rice noodle factories, canteens          | [Read Guide](./round-rice-noodles-machine-series.md) |
 | **Multi-functional Series** | Steamed Sheet Noodle   | Continuous Slurry Paving + Steam + Cut | High Commercial      | 220V / 380V Custom    | Commercial Heavy | Ho Fun, Liangpi & Changfen plants        | [Read Guide](./rice-noodle-machine-series.md) |

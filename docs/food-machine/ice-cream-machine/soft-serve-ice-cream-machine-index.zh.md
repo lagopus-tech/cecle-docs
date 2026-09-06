@@ -1,49 +1,49 @@
-# Commercial Ice Cream Machine Selection & Comparison Guide
+# 商业冰淇淋机选机与对比指南
 
-This guide comprehensively covers the core features, specifications, and selection recommendations for countertop and upright soft-serve ice cream machines, providing reference for equipment choices across different application scenarios:
-
----
-
-## I. Machine Classification & Core Features
-
-### 1. Countertop Soft Serve Ice Cream Machines (e.g., TD Series Models)
-*   **Suitable Scenarios**: Small cafes, convenience stores, milk tea shops, dessert stands, restaurant bars, food courts, and mobile food carts.
-*   **Core Advantages**:
-    *   **Space-Saving Design**: Compact size occupies less space than upright models—ideal for bar counters.
-    *   **Flexible & Lightweight**: Easy to move and position, adaptable to various tight commercial environments.
-    *   **High Efficiency & Practicality**: Features dual-tank triple-head design, offering two pure flavors and one mixed double-flavor option. Combines intelligent LED control with one-touch automatic cleaning.
-
-### 2. Upright Soft Serve Ice Cream Machines (e.g., BQL Series Models: BQL-818 / BQL-825B / BQL-830C)
-*   **Suitable Scenarios**: Dedicated ice cream shops, large snack bars, supermarkets, shopping malls, tourist attractions, and school cafeterias with high customer traffic.
-*   **Core Advantages**:
-    *   **Higher Output & Larger Storage Capacity**: Ample internal space equipped with high-power compressors, larger storage tanks, and freezing cylinders—delivers higher hourly output to handle peak periods seamlessly.
-    *   **Superior Heat Dissipation & Stability**: Excellent airflow design prevents overheating during prolonged continuous operation.
-    *   **Mobility & Operational Convenience**: Standard bottom-mounted swivel casters with brakes allow single-person movement; ergonomically designed height enables standing operation without bending.
+这份冰淇淋机选机指南综合了台式机与立式机的核心特点、参数及选型建议，为您在不同应用场景下的设备选择提供参考：
 
 ---
 
-## II. Key Configurations & Optional Recommendations
+## 一、 机型分类与核心特点
 
-*   **Flavor Configuration**: Both machine types support **dual-tank triple-head design (2 single flavors + 1 mixed double flavor)**, meeting diverse customer taste preferences[cite: 5, 6].
-*   **Pre-Cooling System (Optional Upgrade)**:
-    *   **Function Description**: Provides independent refrigeration inside the storage tank, maintaining slurry at a stable 2–8°C temperature[cite: 5, 6].
-    *   **Recommendation**: If your shop experiences **high foot traffic** or operates in **hot environments**, strongly consider adding the pre-cooling system. It prevents bacterial growth and spoilage of ingredients during overnight or standby periods (saving time and materials), while significantly reducing secondary cooling time and greatly enhancing continuous dispensing speed[cite: 5, 6].
+### 1. 台式软冰淇淋机（如 TD 系列型号）
+*   **适用场景**：空间有限的小型咖啡馆、便利店、奶茶店、甜品站、餐厅吧台、美食广场及移动餐车。
+*   **核心优势**：
+    *   **节省空间**：体积小巧，比立式机型占用更少，非常适合吧台摆放。
+    *   **灵活轻便**：搬运和摆放灵活，适应多种紧凑型商业环境。
+    *   **高效实用**：采用双料缸三头结构，可提供两种纯正口味及一种混合双拼口味，兼顾智能化LED控制与一键自动清洗。
+
+### 2. 立式软冰淇淋机（如 BQL 系列型号：BQL-818 / BQL-825B / BQL-830C）
+*   **适用场景**：冰淇淋专卖店、大型小吃吧、超市、购物中心、旅游景区及学校食堂等高客流量场所。
+*   **核心优势**：
+    *   **更高产能与储料**：内部空间大，配备大功率压缩机与更大的储料缸及冷冻缸，每小时产出更高，能轻松应对高峰期。
+    *   **卓越散热与稳定性**：机身空气流通性好，长时间连续工作不易因过热停机。
+    *   **移动与操作便利**：底部标配带刹车的万向轮，单人即可轻松推行；高度符合人体工程学，站立操作无需弯腰。
 
 ---
 
-## III. Technical Specifications Reference
+## 二、 关键配置与选配建议
 
-| Machine Type | Model Example | Hourly Output | Power Consumption | Tank Capacity | Core Features |
+*   **口味配置**：两类机型均支持**双料缸三头设计（2种单口味 + 1种混合双拼口味）**，可满足顾客的多样化口味需求[cite: 5, 6]。
+*   **预冷系统（Pre-cooling System）选配**：
+    *   **功能说明**：可在储料缸内提供独立制冷保鲜，使浆料维持在 2–8℃ 的低温状态[cite: 5, 6]。
+    *   **选配建议**：如果您的店铺**客流量较大**或者**环境温度较高**，强烈建议选配预冷功能。它能防止原料在夜间或待机时滋生细菌变质（省时省料），并能显著缩短二次制冷时间、大幅提升连续出料速度[cite: 5, 6]。
+
+---
+
+## 三、 技术参数参考
+
+| 机型类别 | 代表型号 | 单小时产量 | 功率 | 料缸容量 | 核心特点 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Countertop Machine** | TD-618CTB / TD-25CTB / TD-36CTB | 18L – 40L/H | 1800W – 2800W | 4.5L×2 to 6.5L×2 | Compact, lightweight, space-saving, ideal for counters |
-| **Upright Machine** | BQL-818 / BQL-825B / BQL-830C | 18L – 30L/H | 1800W – 2650W | 5.5L×2 to 10L×2 | High capacity, excellent heat dissipation, swivel casters, ergonomic height |
+| **台式机** | TD-618CTB / TD-25CTB / TD-36CTB | 18L - 40L/H | 1800W - 2800W | 4.5L×2 至 6.5L×2 | 紧凑轻便、节省空间、适合吧台 |
+| **立式机** | BQL-818 / BQL-825B / BQL-830C | 18L - 30L/H | 1800W - 2650W | 5.5L×2 至 10L×2 | 大容量、高散热、带万向轮、人体工学高度 |
 
 ---
 
-## IV. Selection Decision Guide
+## 四、 选机决策指南
 
-1.  **Choose Based on Space Availability**: If counter or operational space is limited, prioritize **countertop ice cream machines**; if you have an independent storefront, mall booth, or ample floor space, opt for **upright machines with swivel casters**[cite: 5, 6].
-2.  **Choose Based on Customer Traffic**: For high daily volume, concentrated peak hours, and need for continuous dispensing, **upright high-capacity models (e.g., BQL-830C)** or units with pre-cooling systems are more reliable choices[cite: 5, 6].
-3.  **Maintenance Considerations**: Both modern commercial models typically feature **one-touch automatic cleaning**. Daily maintenance requires only filling with water and starting the cleaning cycle to flush out residue; perform deep disassembly cleaning once weekly to ensure food hygiene[cite: 5, 6].
+1.  **根据场地空间选择**：如果店铺或吧台操作空间受限，建议优先选择**台式冰淇淋机**；如果属于独立门店、商场档口且地面空间充足，建议选择自带万向轮的**立式冰淇淋机**[cite: 5, 6]。
+2.  **根据客流量选择**：面对日常客流量大、高峰期集中且需要连续出料的场景，**立式大容量机型（如 BQL-830C）**或加配了预冷系统的机型是更稳妥的选择[cite: 5, 6]。
+3.  **日常维护考量**：两类现代化商用机型通常都具备**一键自动清洗**功能，日常只需倒入清水启动清洗模式即可排出残液，每周进行一次深度拆卸清洗即可保障食品卫生[cite: 5, 6]。
 
-If you have further questions regarding specific voltage customization (e.g., 110V US standard, 220V EU/AU standard) or logistics terms, feel free to contact us for additional consultation[cite: 5, 6].
+如果您对具体型号的电压定制（如110V美规、220V欧规/澳规）或物流条款有更多疑问，欢迎进一步咨询[cite: 5, 6]。
