@@ -1,4 +1,4 @@
-﻿# Shrink Packaging Machine Selection Guide & Product Overview
+# Shrink Packaging Machine Selection Guide & Product Overview
 
 To help you choose the ideal sealing and shrinking machine for your business, we have compiled this comprehensive selection and comparison guide covering our 5 core product series. You can select the best match based on your production efficiency, product dimensions, and automation requirements.
 

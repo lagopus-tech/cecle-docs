@@ -1,4 +1,4 @@
-﻿# Máquina de Embalagem a Vácuo Skin para Bancada
+# Máquina de Embalagem a Vácuo Skin para Bancada
 ![Imagem do Produto](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_kgdswkgdswkgdswk.png?v=1782808109)
 
 ### 1. Visão Geral do Produto

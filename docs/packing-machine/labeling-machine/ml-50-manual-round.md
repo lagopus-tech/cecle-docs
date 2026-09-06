@@ -1,4 +1,4 @@
-﻿# ML-50 Manual Round Bottle Labeling Machine
+# ML-50 Manual Round Bottle Labeling Machine
 
 
 ![Manual Round Bottle Labeling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_b9lw8qb9lw8qb9lw.png?v=1785305530)

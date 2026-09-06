@@ -1,4 +1,4 @@
-﻿# Desktop Vacuum Skin Packaging Machine
+# Desktop Vacuum Skin Packaging Machine
 ![Product Image](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_kgdswkgdswkgdswk.png?v=1782808109)
 
 > **Core Abstract**

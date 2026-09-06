@@ -1,4 +1,4 @@
-﻿﻿# Specyfikacja produktu: AMAP-5827 Ciągła maszyna pakująca w zmodyfikowanej atmosferze (MAP)
+# Specyfikacja produktu: AMAP-5827 Ciągła maszyna pakująca w zmodyfikowanej atmosferze (MAP)
 
 ![Automatyczna maszyna MAP](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_ubv1uxubv1uxubv1.png?v=1782370616)
 

@@ -1,4 +1,4 @@
-﻿# FQA & BSE Series Fully Automatic L-Bar Sealer & Shrink Packaging System
+# FQA & BSE Series Fully Automatic L-Bar Sealer & Shrink Packaging System
 
 ![FQA-450/550 Fully Automatic Heat Shrink Packaging System](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_xnbxjpxnbxjpxnbx.png?v=1786088008)
 

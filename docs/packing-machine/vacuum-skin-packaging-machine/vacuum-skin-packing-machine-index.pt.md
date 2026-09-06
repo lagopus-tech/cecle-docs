@@ -1,4 +1,4 @@
-﻿# Guia de Seleção de Máquina de Embalagem a Vácuo Skin
+# Guia de Seleção de Máquina de Embalagem a Vácuo Skin
 
 A Embalagem a Vácuo Skin (VSP) é atualmente reconhecida como a solução de embalagem premium na indústria de alimentos frescos. Ao aderir perfeitamente o filme skin à bandeja, ela mantém a cor natural do produto, retém os sucos e proporciona uma apresentação 3D impressionante, aumentando significativamente a lucratividade no varejo final.
 

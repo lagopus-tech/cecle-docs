@@ -1,4 +1,4 @@
-﻿# FQL-450 L-Sealer & BSE-4525 Shrink Tunnel Combination
+# FQL-450 L-Sealer & BSE-4525 Shrink Tunnel Combination
 
 
 ![FQL-450 + BSE-4525 Shrink Packaging System](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_xnzwxexnzwxexnzw.png?v=1786088006)

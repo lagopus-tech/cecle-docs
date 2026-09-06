@@ -1,4 +1,4 @@
-﻿# Product Specifications: RMAP-4634 Rotary Modified Atmosphere Packaging (MAP) Machine
+# Product Specifications: RMAP-4634 Rotary Modified Atmosphere Packaging (MAP) Machine
 
 ![Automatic MAP Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_3topax3topax3top.png?v=1782369924)
 

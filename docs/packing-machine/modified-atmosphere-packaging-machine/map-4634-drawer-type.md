@@ -1,4 +1,4 @@
-﻿# Product Specifications: MAP Series Automatic Modified Atmosphere Packaging (MAP) Machine
+# Product Specifications: MAP Series Automatic Modified Atmosphere Packaging (MAP) Machine
 
 ![Automatic MAP Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_cujra3cujra3cujr.png?v=1782368804)
 

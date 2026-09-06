@@ -1,4 +1,4 @@
-﻿# Modified Atmosphere Packaging (MAP) Machine Selection Guide & Product Overview
+# Modified Atmosphere Packaging (MAP) Machine Selection Guide & Product Overview
 
 Modified Atmosphere Packaging (MAP) replaces the air inside the packaging with specific preservation gases (such as a mixture of nitrogen, carbon dioxide, and oxygen), effectively inhibiting microbial growth, extending the shelf life of food, and locking in its original color and taste.
 

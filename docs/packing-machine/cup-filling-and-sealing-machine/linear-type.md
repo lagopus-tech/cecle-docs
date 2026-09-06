@@ -1,4 +1,4 @@
-﻿# Product Name: Fully Automatic Linear Cup / Coffee Capsule Filling & Sealing Machine
+# Product Name: Fully Automatic Linear Cup / Coffee Capsule Filling & Sealing Machine
 ## Series Models: CF-4 / CF-6 / CF-8 (and higher capacity custom models)
 
 ![Machine Image](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_t6ldvht6ldvht6ld.jpg?v=1787279837)

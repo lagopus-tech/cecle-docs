@@ -1,4 +1,4 @@
-﻿# Automatic Powder Pre-made Pouch Packaging Machine Specifications
+# Automatic Powder Pre-made Pouch Packaging Machine Specifications
 
 ![Product Image](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/eee315c2b9155ec44c8cfeedaace62ff.png?v=1783582084)
 

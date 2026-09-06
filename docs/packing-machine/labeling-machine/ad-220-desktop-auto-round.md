@@ -1,4 +1,4 @@
-﻿# AD-220 Automatic Tabletop Round Bottle Labeling Machine
+# AD-220 Automatic Tabletop Round Bottle Labeling Machine
 
 ![Automatic Tabletop Round Bottle Labeling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_20oveu20oveu20ov.png?v=1782465154)
 

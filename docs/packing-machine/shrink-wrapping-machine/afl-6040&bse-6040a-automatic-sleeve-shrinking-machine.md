@@ -1,4 +1,4 @@
-﻿# Fully Automatic Sleeve-Type Shrink Wrapping Machine
+# Fully Automatic Sleeve-Type Shrink Wrapping Machine
 ## Model: AFL-6040 (Automatic Wrapper) + BSE-6040A (Shrink Tunnel)
 
 ![Fully Automatic Sleeve-Type Shrink Wrapping Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_fo98ydfo98ydfo98.png?v=1786088022)

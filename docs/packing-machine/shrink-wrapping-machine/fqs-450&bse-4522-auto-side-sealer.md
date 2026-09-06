@@ -1,4 +1,4 @@
-﻿# FQS Series Automatic Side Seal Thermal Shrink Packaging System
+# FQS Series Automatic Side Seal Thermal Shrink Packaging System
 
 ![FQS Series Automatic Side Seal Shrink Packaging System](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_5s3b4l5s3b4l5s3b.png?v=1786088009)
 

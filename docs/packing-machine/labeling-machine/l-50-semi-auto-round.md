@@ -1,4 +1,4 @@
-﻿﻿# L-50 Semi-Automatic Round Bottle Labeling Machine
+# L-50 Semi-Automatic Round Bottle Labeling Machine
 
 ![Semi-Automatic Round Bottle Labeling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_nmwopknmwopknmwo.png?v=1785306795)
 

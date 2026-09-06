@@ -1,4 +1,4 @@
-﻿﻿# Spesifikasi Produk: Mesin Continuous Modified Atmosphere Packaging (MAP) AMAP-5827
+# Spesifikasi Produk: Mesin Continuous Modified Atmosphere Packaging (MAP) AMAP-5827
 
 ![Mesin MAP Otomatis](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_ubv1uxubv1uxubv1.png?v=1782370616)
 

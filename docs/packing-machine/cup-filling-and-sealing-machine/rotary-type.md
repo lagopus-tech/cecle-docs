@@ -1,4 +1,4 @@
-﻿# Product Name: Fully Automatic Rotary Cup / Coffee Capsule Filling & Sealing Machine
+# Product Name: Fully Automatic Rotary Cup / Coffee Capsule Filling & Sealing Machine
 ## Series Models: CF-1 (Single-Cup Station) / CF-2 (Double-Cup Station)
 
 ![Machine Image 1](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_ntdzpantdzpantdz.jpg?v=1787279149)

@@ -1,4 +1,4 @@
-﻿# AL-220 Automatic Vertical Round Bottle Labeling Machine
+# AL-220 Automatic Vertical Round Bottle Labeling Machine
 
 
 ![Automatic Vertical Round Bottle Labeling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_rhcegbrhcegbrhce.png?v=1785294553)

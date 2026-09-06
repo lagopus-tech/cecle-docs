@@ -1,4 +1,4 @@
-﻿﻿# Product Specifications: AMAP-5827 Continuous Modified Atmosphere Packaging (MAP) Machine
+# Product Specifications: AMAP-5827 Continuous Modified Atmosphere Packaging (MAP) Machine
 
 ![Automatic MAP Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_ubv1uxubv1uxubv1.png?v=1782370616)
 

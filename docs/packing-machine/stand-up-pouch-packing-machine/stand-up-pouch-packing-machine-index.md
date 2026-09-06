@@ -1,4 +1,4 @@
-﻿# Selection Guide for Automatic Pouch Packaging Machines (PBP Series)
+# Selection Guide for Automatic Pouch Packaging Machines (PBP Series)
 
 The automatic pouch packaging machine is core equipment for modern automated factories. It replaces traditional manual packaging by automating bag picking, opening, metering, filling, sealing, and product output, significantly improving production efficiency and hygiene standards.
 

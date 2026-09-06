@@ -1,4 +1,4 @@
-﻿# Product Specifications: HSP-200 Automatic Honey Straw Filling and Sealing Machine
+# Product Specifications: HSP-200 Automatic Honey Straw Filling and Sealing Machine
 
 ![HSP-200 Automatic Honey Straw Filling and Sealing Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/97b05d563cd01f32f79084fbf7e23d13.jpg?v=1782367677)
 

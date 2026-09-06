@@ -1,4 +1,4 @@
-﻿# Automatic Liquid Pre-made Pouch Packaging Machine Specifications
+# Automatic Liquid Pre-made Pouch Packaging Machine Specifications
 
 ![Product Image](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/384eac207283254f0443f863d82511ef_6220097a-3678-48cd-bc28-a8e7678a4458.png?v=1783582084)
 

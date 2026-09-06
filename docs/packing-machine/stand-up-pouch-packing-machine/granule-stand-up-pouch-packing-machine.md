@@ -1,4 +1,4 @@
-﻿# Automatic Granule Pre-made Pouch Packaging Machine Specifications
+# Automatic Granule Pre-made Pouch Packaging Machine Specifications
 
 ![Product Image](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/7d88feafd9bb58987996e68eccf097b6_d8b3f9a2-b23c-402b-a263-2c7b5208452b.png?v=1783582084)
 

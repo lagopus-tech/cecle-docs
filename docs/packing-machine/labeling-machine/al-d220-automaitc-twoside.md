@@ -1,4 +1,4 @@
-﻿# AL-D220 Automatic Two-Sided Round & Square Bottle Labeling Machine
+# AL-D220 Automatic Two-Sided Round & Square Bottle Labeling Machine
 
 
 ![AL-D220 Automatic Two-Sided Round & Square Bottle Labeling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_fec8tyfec8tyfec8.png?v=1785295363)

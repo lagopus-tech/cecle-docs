@@ -1,4 +1,4 @@
-﻿# FM-5540 Semi-Automatic 2-in-1 Shrink Packaging Machine
+# FM-5540 Semi-Automatic 2-in-1 Shrink Packaging Machine
 ## Model: FM-5540 Multifunctional 2-in-1 Heat Shrink Packaging Machine
 
 ![FM-5540 Semi-Automatic 2-in-1 Shrink Packaging Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_693b26693b26693b.png?v=1786086339)

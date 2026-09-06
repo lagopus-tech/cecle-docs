@@ -1,4 +1,4 @@
-﻿# Masaüstü Vakumlu Deri Paketleme Makinesi
+# Masaüstü Vakumlu Deri Paketleme Makinesi
 ![Ürün Görseli](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_kgdswkgdswkgdswk.png?v=1782808109)
 
 ### 1. Ürün Genel Bakış

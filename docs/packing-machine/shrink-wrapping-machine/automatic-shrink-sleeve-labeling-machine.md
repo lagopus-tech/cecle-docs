@@ -1,4 +1,4 @@
-﻿﻿# Fully Automatic Shrink Sleeve Labeling Machine & Steam Tunnel
+# Fully Automatic Shrink Sleeve Labeling Machine & Steam Tunnel
 ## Model: SL-150 (Labeling Machine) + ST-18 (Steam Shrink Tunnel)
 
 ![Fully Automatic Shrink Sleeve Labeling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_iwwgtziwwgtziwwg.png?v=1786088034)

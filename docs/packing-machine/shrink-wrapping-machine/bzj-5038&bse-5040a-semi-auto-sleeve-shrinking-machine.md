@@ -1,4 +1,4 @@
-﻿# Semi-Automatic Sleeve-Type Shrink Packaging Machine
+# Semi-Automatic Sleeve-Type Shrink Packaging Machine
 
 ![Semi-Automatic Sleeve-Type Shrink Packaging Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_j7ipw7j7ipw7j7ip.png?v=1786088016)
 

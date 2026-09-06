@@ -1,4 +1,4 @@
-﻿# Fully Automatic Cup Filling & Sealing Machine (CF Series) Selection Guide
+# Fully Automatic Cup Filling & Sealing Machine (CF Series) Selection Guide
 
 The Fully Automatic Cup Filling & Sealing Machine series is specially crafted for high-standard food, beverage, and coffee industries. Whether for liquids, powders, granules, or tea leaves, we can provide you with high-precision volumetric filling and tight sealing solutions. Through highly customizable designs, we ensure that every piece of equipment perfectly adapts to your production and packaging requirements.
 

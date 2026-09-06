@@ -1,4 +1,4 @@
-﻿# Fiche Technique : Machine MAP Rotative RMAP-4634 (Conditionnement sous Atmosphère Modifiée)
+# Fiche Technique : Machine MAP Rotative RMAP-4634 (Conditionnement sous Atmosphère Modifiée)
 
 ![Machine MAP Automatique](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_3topax3topax3top.png?v=1782369924)
 

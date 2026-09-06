@@ -1,4 +1,4 @@
-﻿# Fully Automatic Flow Packing Shrink Machine
+# Fully Automatic Flow Packing Shrink Machine
 
 ![Fully Automatic Flow Packing Shrink Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_xh9ng6xh9ng6xh9n.png?v=1786088027)
 

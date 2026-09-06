@@ -1,4 +1,4 @@
-﻿# AL-H220 Automatic Horizontal Round Bottle & Tube Labeling Machine
+# AL-H220 Automatic Horizontal Round Bottle & Tube Labeling Machine
 
 
 ![Automatic Horizontal Round Bottle Labeling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_90zlw590zlw590zl.png?v=1785303901)

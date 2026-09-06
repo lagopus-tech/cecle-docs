@@ -1,4 +1,4 @@
-﻿# MT-60 Semi-Automatic Flat Surface Labeling Machine
+# MT-60 Semi-Automatic Flat Surface Labeling Machine
 
 ![Semi-Automatic Flat Surface Labeling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_e39buye39buye39b.png?v=1785307339)
 
