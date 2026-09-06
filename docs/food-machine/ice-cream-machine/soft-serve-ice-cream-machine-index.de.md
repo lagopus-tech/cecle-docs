@@ -7,18 +7,18 @@ Dieser Leitfaden zur Auswahl von Eismaschinen kombiniert die zentralen Merkmale,
 ## 1. Gerätetypen und zentrale Eigenschaften
 
 ### 1. Tisch-Eiscrememaschine (z. B. TD-Serie)
-*   **Einsatzgebiete**: Kleine Cafés, Convenience Stores, Tee-Shops, Dessert-Stände, Restaurant-Theken, Food Courts sowie mobile Food Trucks[cite: 5].
+*   **Einsatzgebiete**: Kleine Cafés, Convenience Stores, Tee-Shops, Dessert-Stände, Restaurant-Theken, Food Courts sowie mobile Food Trucks.
 *   **Hauptvorteile**:
-    *   **Platzsparend**: Geringe Abmessungen, verbraucht weniger Platz als Standgeräte – ideal für Thekenmontage[cite: 5].
-    *   **Flexibel und leicht**: Einfach zu transportieren und aufzustellen, passt sich an verschiedene eng begrenzte Geschäftslokationen an[cite: 5].
-    *   **Effizient und praktisch**: Doppelkammer-Dreikopf-Ausführung ermöglicht zwei reine Geschmacksrichtungen sowie eine gemischte Doppelform, kombiniert mit intelligenter LED-Steuerung und einer ein-Tasten-Automatikreinigung[cite: 5].
+    *   **Platzsparend**: Geringe Abmessungen, verbraucht weniger Platz als Standgeräte – ideal für Thekenmontage.
+    *   **Flexibel und leicht**: Einfach zu transportieren und aufzustellen, passt sich an verschiedene eng begrenzte Geschäftslokationen an.
+    *   **Effizient und praktisch**: Doppelkammer-Dreikopf-Ausführung ermöglicht zwei reine Geschmacksrichtungen sowie eine gemischte Doppelform, kombiniert mit intelligenter LED-Steuerung und einer ein-Tasten-Automatikreinigung.
 
 ### 2. Steh-Eiscremamaschine (z. B. BQL-Serie: BQL-818 / BQL-825B / BQL-830C)
-*   **Einsatzgebiete**: Eisdiele, große Snack-Bars, Supermärkte, Einkaufszentren, touristische Attraktionen sowie Schulmensa mit hohem Kundenfluss[cite: 6].
+*   **Einsatzgebiete**: Eisdiele, große Snack-Bars, Supermärkte, Einkaufszentren, touristische Attraktionen sowie Schulmensa mit hohem Kundenfluss.
 *   **Hauptvorteile**:
-    *   **Höhere Produktivität & größere Vorratskapazität**: Großes Innenraumvolumen, leistungsstarker Kompressor sowie größere Speicher- und Gefrierkammern ermöglichen eine höhere Stundenausbringung und bewältigen problemlos Spitzenzeiten[cite: 6].
-    *   **Überlegene Kühlung & Stabilität**: Optimierter Luftstrom im Gehäuse sorgt dafür, dass das Gerät bei längerer Nutzung nicht durch Überhitzung ausfällt[cite: 6].
-    *   **Mobilität & Bedienkomfort**: Boden mit feststellbaren Universalrollen ausgestattet, einfach von einer Person zu bewegen; optimierte Arbeitshöhe erlaubt bequemes Arbeiten ohne Hocken[cite: 6].
+    *   **Höhere Produktivität & größere Vorratskapazität**: Großes Innenraumvolumen, leistungsstarker Kompressor sowie größere Speicher- und Gefrierkammern ermöglichen eine höhere Stundenausbringung und bewältigen problemlos Spitzenzeiten.
+    *   **Überlegene Kühlung & Stabilität**: Optimierter Luftstrom im Gehäuse sorgt dafür, dass das Gerät bei längerer Nutzung nicht durch Überhitzung ausfällt.
+    *   **Mobilität & Bedienkomfort**: Boden mit feststellbaren Universalrollen ausgestattet, einfach von einer Person zu bewegen; optimierte Arbeitshöhe erlaubt bequemes Arbeiten ohne Hocken.
 
 ---
 
@@ -35,8 +35,8 @@ Dieser Leitfaden zur Auswahl von Eismaschinen kombiniert die zentralen Merkmale,
 
 | Gerätetyp | Modellbeispiel | Stündliche Ausbringung | Leistung | Kammervolumen | Kernmerkmale |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Tischgerät** | TD-618CTB / TD-25CTB / TD-36CTB | 18L – 40L/h[cite: 5] | 1800W – 2800W[cite: 5] | 4,5L×2 bis 6,5L×2[cite: 5] | Kompakt, leicht, platzsparend, ideal für Theken[cite: 5] |
-| **Stehgerät** | BQL-818 / BQL-825B / BQL-830C | 18L – 30L/h[cite: 6] | 1800W – 2650W[cite: 6] | 5,5L×2 bis 10L×2[cite: 6] | Großvolumig, hochwertige Kühlung, Universalrollen, ergonomische Höhe[cite: 6] |
+| **Tischgerät** | TD-618CTB / TD-25CTB / TD-36CTB | 18L – 40L/h | 1800W – 2800W | 4,5L×2 bis 6,5L×2 | Kompakt, leicht, platzsparend, ideal für Theken |
+| **Stehgerät** | BQL-818 / BQL-825B / BQL-830C | 18L – 30L/h | 1800W – 2650W | 5,5L×2 bis 10L×2 | Großvolumig, hochwertige Kühlung, Universalrollen, ergonomische Höhe |
 
 ---
 

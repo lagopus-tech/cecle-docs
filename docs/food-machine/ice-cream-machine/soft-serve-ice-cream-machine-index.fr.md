@@ -7,18 +7,18 @@ Ce guide de sélection des machines à glace combine les caractéristiques essen
 ## I. Classification des modèles et caractéristiques principales
 
 ### 1. Machine à glace molle de comptoir (ex. séries TD)
-*   **Scénarios d'utilisation** : Petites cafés, épiceries, boutiques de thé, stands de pâtisseries, barres de restaurant, marchés alimentaires et camions de restauration mobiles[cite: 5].
+*   **Scénarios d'utilisation** : Petites cafés, épiceries, boutiques de thé, stands de pâtisseries, barres de restaurant, marchés alimentaires et camions de restauration mobiles.
 *   **Avantages principaux** :
-    *   **Économie d'espace** : Dimensions compactes, occupant moins d'espace que les modèles verticaux, idéal pour les installations en comptoir[cite: 5].
-    *   **Mobilité et légèreté** : Facile à déplacer et à installer, parfait pour les environnements commerciaux exigus[cite: 5].
-    *   **Performance et praticité** : Structure double réservoir à trois têtes permettant deux saveurs pures et une combinaison mixte, associée à un contrôle intelligent par LED et un nettoyage automatique en une touche[cite: 5].
+    *   **Économie d'espace** : Dimensions compactes, occupant moins d'espace que les modèles verticaux, idéal pour les installations en comptoir.
+    *   **Mobilité et légèreté** : Facile à déplacer et à installer, parfait pour les environnements commerciaux exigus.
+    *   **Performance et praticité** : Structure double réservoir à trois têtes permettant deux saveurs pures et une combinaison mixte, associée à un contrôle intelligent par LED et un nettoyage automatique en une touche.
 
 ### 2. Machine à glace molle verticale (ex. séries BQL : BQL-818 / BQL-825B / BQL-830C)
-*   **Scénarios d'utilisation** : Magasins spécialisés en glaces, grandes salles de snacks, supermarchés, centres commerciaux, sites touristiques et cantines scolaires à fort trafic[cite: 6].
+*   **Scénarios d'utilisation** : Magasins spécialisés en glaces, grandes salles de snacks, supermarchés, centres commerciaux, sites touristiques et cantines scolaires à fort trafic.
 *   **Avantages principaux** :
-    *   **Capacité de production élevée et grande capacité de stockage** : Grand volume interne, compresseur puissant, réservoirs et cuves de congélation plus volumineux, offrant une production horaire supérieure, capable de gérer facilement les pics d'affluence[cite: 6].
-    *   **Refroidissement optimal et stabilité** : Meilleure circulation d’air dans le châssis, évitant les arrêts dus à la surchauffe même lors d’un fonctionnement prolongé[cite: 6].
-    *   **Maniabilité et ergonomie** : Roulettes orientables avec frein intégré en bas du châssis, permettant un déplacement aisé par une seule personne ; hauteur ergonomique, opération debout sans courber le dos[cite: 6].
+    *   **Capacité de production élevée et grande capacité de stockage** : Grand volume interne, compresseur puissant, réservoirs et cuves de congélation plus volumineux, offrant une production horaire supérieure, capable de gérer facilement les pics d'affluence.
+    *   **Refroidissement optimal et stabilité** : Meilleure circulation d’air dans le châssis, évitant les arrêts dus à la surchauffe même lors d’un fonctionnement prolongé.
+    *   **Maniabilité et ergonomie** : Roulettes orientables avec frein intégré en bas du châssis, permettant un déplacement aisé par une seule personne ; hauteur ergonomique, opération debout sans courber le dos.
 
 ---
 
@@ -35,8 +35,8 @@ Ce guide de sélection des machines à glace combine les caractéristiques essen
 
 | Type de machine | Modèle représentatif | Production horaire | Puissance | Capacité des réservoirs | Caractéristiques principales |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Machine de comptoir** | TD-618CTB / TD-25CTB / TD-36CTB | 18L - 40L/H[cite: 5] | 1800W - 2800W[cite: 5] | 4,5L×2 à 6,5L×2[cite: 5] | Compacte, légère, économise l’espace, adaptée au comptoir[cite: 5] |
-| **Machine verticale** | BQL-818 / BQL-825B / BQL-830C | 18L - 30L/H[cite: 6] | 1800W - 2650W[cite: 6] | 5,5L×2 à 10L×2[cite: 6] | Grande capacité, excellent refroidissement, roulettes orientables, hauteur ergonomique[cite: 6] |
+| **Machine de comptoir** | TD-618CTB / TD-25CTB / TD-36CTB | 18L - 40L/H | 1800W - 2800W | 4,5L×2 à 6,5L×2 | Compacte, légère, économise l’espace, adaptée au comptoir |
+| **Machine verticale** | BQL-818 / BQL-825B / BQL-830C | 18L - 30L/H | 1800W - 2650W | 5,5L×2 à 10L×2 | Grande capacité, excellent refroidissement, roulettes orientables, hauteur ergonomique |
 
 ---
 

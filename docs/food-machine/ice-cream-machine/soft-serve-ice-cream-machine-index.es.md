@@ -7,18 +7,18 @@ Esta guía de selección de máquinas para helados combina las características 
 ## I. Clasificación de modelos y características principales
 
 ### 1. Máquina de helado suave de escritorio (por ejemplo, series TD)
-*   **Escenarios de uso**: Pequeños cafés, tiendas de conveniencia, tiendas de té, puestos de postres, barra de restaurantes, mercados gastronómicos y carros móviles[cite: 5].
+*   **Escenarios de uso**: Pequeños cafés, tiendas de conveniencia, tiendas de té, puestos de postres, barra de restaurantes, mercados gastronómicos y carros móviles.
 *   **Ventajas clave**:
-    *   **Ahorro de espacio**: Tamaño compacto, ocupa menos espacio que los modelos verticales, ideal para instalación en barras[cite: 5].
-    *   **Movilidad y ligereza**: Fácil de mover y colocar, adaptable a entornos comerciales con espacio reducido[cite: 5].
-    *   **Eficiencia y funcionalidad**: Diseño de doble tanque y tres cabezales permite ofrecer dos sabores puros y un sabor combinado, integrando control inteligente con LED y limpieza automática con un solo botón[cite: 5].
+    *   **Ahorro de espacio**: Tamaño compacto, ocupa menos espacio que los modelos verticales, ideal para instalación en barras.
+    *   **Movilidad y ligereza**: Fácil de mover y colocar, adaptable a entornos comerciales con espacio reducido.
+    *   **Eficiencia y funcionalidad**: Diseño de doble tanque y tres cabezales permite ofrecer dos sabores puros y un sabor combinado, integrando control inteligente con LED y limpieza automática con un solo botón.
 
 ### 2. Máquina de helado suave vertical (por ejemplo, series BQL: BQL-818 / BQL-825B / BQL-830C)
-*   **Escenarios de uso**: Tiendas especializadas en helados, bares de comida rápida grandes, supermercados, centros comerciales, zonas turísticas y comedores escolares con alto flujo de clientes[cite: 6].
+*   **Escenarios de uso**: Tiendas especializadas en helados, bares de comida rápida grandes, supermercados, centros comerciales, zonas turísticas y comedores escolares con alto flujo de clientes.
 *   **Ventajas clave**:
-    *   **Mayor capacidad y almacenamiento**: Gran espacio interno, con compresor de alta potencia y tanques de almacenamiento y congelación más grandes, permitiendo una producción por hora superior, capaz de soportar picos de demanda[cite: 6].
-    *   **Mejor disipación de calor y estabilidad**: Excelente circulación de aire en el cuerpo, evita el sobrecalentamiento y detención durante operaciones prolongadas[cite: 6].
-    *   **Facilidad de movilidad y manejo**: Ruedas universales con freno incluidas en la base, fáciles de desplazar incluso por una sola persona; altura ergonómica, operación de pie sin necesidad de agacharse[cite: 6].
+    *   **Mayor capacidad y almacenamiento**: Gran espacio interno, con compresor de alta potencia y tanques de almacenamiento y congelación más grandes, permitiendo una producción por hora superior, capaz de soportar picos de demanda.
+    *   **Mejor disipación de calor y estabilidad**: Excelente circulación de aire en el cuerpo, evita el sobrecalentamiento y detención durante operaciones prolongadas.
+    *   **Facilidad de movilidad y manejo**: Ruedas universales con freno incluidas en la base, fáciles de desplazar incluso por una sola persona; altura ergonómica, operación de pie sin necesidad de agacharse.
 
 ---
 
@@ -35,8 +35,8 @@ Esta guía de selección de máquinas para helados combina las características 
 
 | Tipo de máquina | Modelo representativo | Producción horaria | Potencia | Capacidad del tanque | Características principales |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Máquina de escritorio** | TD-618CTB / TD-25CTB / TD-36CTB | 18L - 40L/H[cite: 5] | 1800W - 2800W[cite: 5] | 4,5L×2 hasta 6,5L×2[cite: 5] | Compacta, ligera, ahorra espacio, ideal para barras[cite: 5] |
-| **Máquina vertical** | BQL-818 / BQL-825B / BQL-830C | 18L - 30L/H[cite: 6] | 1800W - 2650W[cite: 6] | 5,5L×2 hasta 10L×2[cite: 6] | Gran capacidad, excelente disipación de calor, ruedas universales, altura ergonómica[cite: 6] |
+| **Máquina de escritorio** | TD-618CTB / TD-25CTB / TD-36CTB | 18L - 40L/H | 1800W - 2800W | 4,5L×2 hasta 6,5L×2 | Compacta, ligera, ahorra espacio, ideal para barras |
+| **Máquina vertical** | BQL-818 / BQL-825B / BQL-830C | 18L - 30L/H | 1800W - 2650W | 5,5L×2 hasta 10L×2 | Gran capacidad, excelente disipación de calor, ruedas universales, altura ergonómica |
 
 ---
 

@@ -7,18 +7,18 @@ Panduan pemilihan mesin es krim ini menggabungkan ciri utama, parameter, dan rek
 ## I. Klasifikasi Model dan Ciri Utama
 
 ### 1. Mesin Es Krim Lunak Meja (seperti seri TD)
-*   **Aplikasi**: Kafe kecil dengan ruang terbatas, toko serba ada, kedai teh susu, tempat penjualan makanan manis, meja bar restoran, pasar makanan, serta truk makanan mobile [cite: 5].
+*   **Aplikasi**: Kafe kecil dengan ruang terbatas, toko serba ada, kedai teh susu, tempat penjualan makanan manis, meja bar restoran, pasar makanan, serta truk makanan mobile .
 *   **Keunggulan Utama**:
-    *   **Hemat Ruang**: Ukuran kecil, lebih hemat ruang dibandingkan mesin tegak, sangat cocok untuk penempatan di meja bar [cite: 5].
-    *   **Ringan dan Fleksibel**: Mudah dipindahkan dan ditempatkan, mendukung berbagai lingkungan komersial yang sempit [cite: 5].
-    *   **Efisien dan Praktis**: Menggunakan struktur dua tangki bahan tiga nozzle, dapat menyediakan dua rasa murni dan satu rasa campuran ganda, sekaligus dilengkapi kontrol LED cerdas dan pembersihan otomatis satu tombol [cite: 5].
+    *   **Hemat Ruang**: Ukuran kecil, lebih hemat ruang dibandingkan mesin tegak, sangat cocok untuk penempatan di meja bar .
+    *   **Ringan dan Fleksibel**: Mudah dipindahkan dan ditempatkan, mendukung berbagai lingkungan komersial yang sempit .
+    *   **Efisien dan Praktis**: Menggunakan struktur dua tangki bahan tiga nozzle, dapat menyediakan dua rasa murni dan satu rasa campuran ganda, sekaligus dilengkapi kontrol LED cerdas dan pembersihan otomatis satu tombol .
 
 ### 2. Mesin Es Krim Lunak Tegak (seperti seri BQL: BQL-818 / BQL-825B / BQL-830C)
-*   **Aplikasi**: Toko es krim khusus, bar makanan besar, supermarket, pusat perbelanjaan, objek wisata, serta dapur sekolah dengan volume pengunjung tinggi [cite: 6].
+*   **Aplikasi**: Toko es krim khusus, bar makanan besar, supermarket, pusat perbelanjaan, objek wisata, serta dapur sekolah dengan volume pengunjung tinggi .
 *   **Keunggulan Utama**:
-    *   **Produktivitas dan Kapasitas Tinggi**: Ruang internal luas, dilengkapi kompresor berdaya tinggi serta tangki penyimpanan dan tangki pembeku yang lebih besar, menghasilkan volume lebih tinggi per jam, mampu menangani puncak permintaan dengan mudah [cite: 6].
-    *   **Sirkulasi Udara Baik & Stabil**: Sirkulasi udara pada bodi mesin baik, bekerja terus-menerus tanpa mudah mati karena panas berlebih [cite: 6].
-    *   **Mudah Bergerak dan Digunakan**: Dilengkapi roda putar dengan rem standar di bagian bawah, dapat digerakkan oleh satu orang saja; tinggi mesin sesuai ergonomi manusia, operasi berdiri tidak perlu membungkuk [cite: 6].
+    *   **Produktivitas dan Kapasitas Tinggi**: Ruang internal luas, dilengkapi kompresor berdaya tinggi serta tangki penyimpanan dan tangki pembeku yang lebih besar, menghasilkan volume lebih tinggi per jam, mampu menangani puncak permintaan dengan mudah .
+    *   **Sirkulasi Udara Baik & Stabil**: Sirkulasi udara pada bodi mesin baik, bekerja terus-menerus tanpa mudah mati karena panas berlebih .
+    *   **Mudah Bergerak dan Digunakan**: Dilengkapi roda putar dengan rem standar di bagian bawah, dapat digerakkan oleh satu orang saja; tinggi mesin sesuai ergonomi manusia, operasi berdiri tidak perlu membungkuk .
 
 ---
 
@@ -35,8 +35,8 @@ Panduan pemilihan mesin es krim ini menggabungkan ciri utama, parameter, dan rek
 
 | Kategori Mesin | Model Contoh | Produksi Per Jam | Daya Listrik | Kapasitas Tangki Bahan | Ciri Utama |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mesin Meja** | TD-618CTB / TD-25CTB / TD-36CTB | 18L - 40L/Jam [cite: 5] | 1800W - 2800W [cite: 5] | 4,5L×2 hingga 6,5L×2 [cite: 5] | Ringkas, ringan, hemat ruang, cocok untuk meja bar [cite: 5] |
-| **Mesin Tegak** | BQL-818 / BQL-825B / BQL-830C | 18L - 30L/Jam [cite: 6] | 1800W - 2650W [cite: 6] | 5,5L×2 hingga 10L×2 [cite: 6] | Kapasitas besar, pendingin efisien, dilengkapi roda putar, tinggi ergonomis [cite: 6] |
+| **Mesin Meja** | TD-618CTB / TD-25CTB / TD-36CTB | 18L - 40L/Jam  | 1800W - 2800W  | 4,5L×2 hingga 6,5L×2  | Ringkas, ringan, hemat ruang, cocok untuk meja bar  |
+| **Mesin Tegak** | BQL-818 / BQL-825B / BQL-830C | 18L - 30L/Jam  | 1800W - 2650W  | 5,5L×2 hingga 10L×2  | Kapasitas besar, pendingin efisien, dilengkapi roda putar, tinggi ergonomis  |
 
 ---
 

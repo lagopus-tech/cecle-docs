@@ -78,7 +78,7 @@
 * **Q: What are the benefits of 250% pre-stretch?**
   * **A**: It greatly reduces packaging costs while providing stronger shrinkage force, making the goods more stable during transportation.
 * **Q: What if my pallet height exceeds 2 meters, or the pallet is extra wide?**
-  * **A**: We can provide customized services.[cite: 1] Both the column height and turntable diameter can be customized according to your pallet size.[cite: 1] Please inform us of your maximum pallet size before placing an order.
+  * **A**: We can provide customized services. Both the column height and turntable diameter can be customized according to your pallet size. Please inform us of your maximum pallet size before placing an order.
 * **Q: What about warranty and after-sales services?**
   * **A**: We provide a 1-year warranty service. During the warranty period, if damage occurs under normal use according to the manual, we provide free replacement parts (the buyer is responsible for the international shipping costs from China to their local area).
 

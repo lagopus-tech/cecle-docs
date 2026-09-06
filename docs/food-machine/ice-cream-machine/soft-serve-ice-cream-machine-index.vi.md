@@ -7,18 +7,18 @@ Tài liệu hướng dẫn này tổng hợp các đặc điểm cốt lõi, th�
 ## I. Phân loại máy và đặc điểm chính
 
 ### 1. Máy làm kem mềm dạng bàn (ví dụ: dòng TD)
-*   **Phạm vi ứng dụng**: Quán cà phê nhỏ, cửa hàng tiện lợi, quán trà sữa, quầy bánh ngọt, quầy bar nhà hàng, khu ẩm thực và xe bán hàng di động [cite: 5].
+*   **Phạm vi ứng dụng**: Quán cà phê nhỏ, cửa hàng tiện lợi, quán trà sữa, quầy bánh ngọt, quầy bar nhà hàng, khu ẩm thực và xe bán hàng di động .
 *   **Ưu điểm nổi bật**:
-    *   **Tiết kiệm không gian**: Kích thước nhỏ gọn, chiếm ít diện tích hơn so với máy đứng, rất phù hợp để đặt tại quầy bar [cite: 5].
-    *   **Di chuyển linh hoạt, nhẹ nhàng**: Dễ dàng di chuyển và bố trí, thích hợp với nhiều môi trường kinh doanh chật hẹp [cite: 5].
-    *   **Hiệu quả và tiện dụng**: Thiết kế hai bình chứa nguyên liệu ba vòi, có thể cung cấp hai hương vị thuần túy và một hương vị pha trộn, kết hợp điều khiển thông minh bằng LED cùng chức năng rửa tự động một nút [cite: 5].
+    *   **Tiết kiệm không gian**: Kích thước nhỏ gọn, chiếm ít diện tích hơn so với máy đứng, rất phù hợp để đặt tại quầy bar .
+    *   **Di chuyển linh hoạt, nhẹ nhàng**: Dễ dàng di chuyển và bố trí, thích hợp với nhiều môi trường kinh doanh chật hẹp .
+    *   **Hiệu quả và tiện dụng**: Thiết kế hai bình chứa nguyên liệu ba vòi, có thể cung cấp hai hương vị thuần túy và một hương vị pha trộn, kết hợp điều khiển thông minh bằng LED cùng chức năng rửa tự động một nút .
 
 ### 2. Máy làm kem mềm dạng đứng (ví dụ: dòng BQL: BQL-818 / BQL-825B / BQL-830C)
-*   **Phạm vi ứng dụng**: Cửa hàng chuyên kem, quầy ăn vặt lớn, siêu thị, trung tâm thương mại, điểm du lịch và căng-tin trường học – những nơi có lưu lượng khách cao [cite: 6].
+*   **Phạm vi ứng dụng**: Cửa hàng chuyên kem, quầy ăn vặt lớn, siêu thị, trung tâm thương mại, điểm du lịch và căng-tin trường học – những nơi có lưu lượng khách cao .
 *   **Ưu điểm nổi bật**:
-    *   **Năng suất và dung tích lớn hơn**: Không gian bên trong rộng rãi, trang bị máy nén công suất lớn, bình chứa và bình làm lạnh lớn hơn, cho sản lượng mỗi giờ cao hơn, dễ dàng đáp ứng nhu cầu trong giờ cao điểm [cite: 6].
-    *   **Tản nhiệt tốt và ổn định**: Hệ thống thông gió trên thân máy hiệu quả, vận hành liên tục lâu dài mà không bị quá nhiệt dẫn đến dừng máy [cite: 6].
-    *   **Dễ di chuyển và thao tác**: Đế máy đi kèm bánh xe xoay có khóa phanh, chỉ cần một người cũng có thể di chuyển dễ dàng; chiều cao thiết kế theo tiêu chuẩn ergonomics, thao tác đứng không cần cúi lưng [cite: 6].
+    *   **Năng suất và dung tích lớn hơn**: Không gian bên trong rộng rãi, trang bị máy nén công suất lớn, bình chứa và bình làm lạnh lớn hơn, cho sản lượng mỗi giờ cao hơn, dễ dàng đáp ứng nhu cầu trong giờ cao điểm .
+    *   **Tản nhiệt tốt và ổn định**: Hệ thống thông gió trên thân máy hiệu quả, vận hành liên tục lâu dài mà không bị quá nhiệt dẫn đến dừng máy .
+    *   **Dễ di chuyển và thao tác**: Đế máy đi kèm bánh xe xoay có khóa phanh, chỉ cần một người cũng có thể di chuyển dễ dàng; chiều cao thiết kế theo tiêu chuẩn ergonomics, thao tác đứng không cần cúi lưng .
 
 ---
 
@@ -35,8 +35,8 @@ Tài liệu hướng dẫn này tổng hợp các đặc điểm cốt lõi, th�
 
 | Loại máy | Mẫu mã đại diện | Sản lượng/giờ | Công suất | Dung tích bình chứa | Đặc điểm chính |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Máy bàn** | TD-618CTB / TD-25CTB / TD-36CTB | 18L - 40L/H [cite: 5] | 1800W - 2800W [cite: 5] | 4,5L×2 đến 6,5L×2 [cite: 5] | Gọn nhẹ, tiết kiệm không gian, phù hợp đặt quầy bar [cite: 5] |
-| **Máy đứng** | BQL-818 / BQL-825B / BQL-830C | 18L - 30L/H [cite: 6] | 1800W - 2650W [cite: 6] | 5,5L×2 đến 10L×2 [cite: 6] | Dung tích lớn, tản nhiệt tốt, có bánh xe xoay, chiều cao ergonomics [cite: 6] |
+| **Máy bàn** | TD-618CTB / TD-25CTB / TD-36CTB | 18L - 40L/H  | 1800W - 2800W  | 4,5L×2 đến 6,5L×2  | Gọn nhẹ, tiết kiệm không gian, phù hợp đặt quầy bar  |
+| **Máy đứng** | BQL-818 / BQL-825B / BQL-830C | 18L - 30L/H  | 1800W - 2650W  | 5,5L×2 đến 10L×2  | Dung tích lớn, tản nhiệt tốt, có bánh xe xoay, chiều cao ergonomics  |
 
 ---
 

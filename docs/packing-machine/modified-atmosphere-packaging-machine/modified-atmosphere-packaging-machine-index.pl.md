@@ -1,8 +1,8 @@
 # Przewodnik wyboru i przegląd produktów maszyn pakujących w modyfikowanej atmosferze (MAP)
 
-Pakowanie w modyfikowanej atmosferze (MAP) zastępuje powietrze wewnątrz opakowania specyficznymi gazami konserwującymi (takimi jak mieszanina azotu, dwutlenku węgla i tlenu), skutecznie hamując rozwój drobnoustrojów, przedłużając okres przydatności do spożycia żywności oraz zachowując jej pierwotny kolor i smak[cite: 1].
+Pakowanie w modyfikowanej atmosferze (MAP) zastępuje powietrze wewnątrz opakowania specyficznymi gazami konserwującymi (takimi jak mieszanina azotu, dwutlenku węgla i tlenu), skutecznie hamując rozwój drobnoustrojów, przedłużając okres przydatności do spożycia żywności oraz zachowując jej pierwotny kolor i smak.
 
-Aby sprostać potrzebom przedsiębiorstw o różnej skali, oferujemy trzy podstawowe modele maszyn: **szufladowy**, **obrotowy** i **ciągły**[cite: 1].
+Aby sprostać potrzebom przedsiębiorstw o różnej skali, oferujemy trzy podstawowe modele maszyn: **szufladowy**, **obrotowy** i **ciągły**.
 
 ---
 
@@ -22,54 +22,54 @@ Aby sprostać potrzebom przedsiębiorstw o różnej skali, oferujemy trzy podsta
 ## II. Szczegółowe różnice między typami
 
 ### 1. Typ szufladowy - wybór dla elastyczności
-* **Tryb pracy**: Posiada konstrukcję szufladową, w której operator ręcznie wsuwa tackę z produktem do komory zgrzewania i wyjmuje ją po zapakowaniu[cite: 1].
+* **Tryb pracy**: Posiada konstrukcję szufladową, w której operator ręcznie wsuwa tackę z produktem do komory zgrzewania i wyjmuje ją po zapakowaniu.
 * **Zalety**:
-    * **Opłacalność**: Preferowany wybór dla inwestycji podstawowych[cite: 1].
-    * **Oszczędność miejsca**: Niezwykle mała powierzchnia, odpowiednia dla sklepów detalicznych lub zapleczy kuchennych o ograniczonej przestrzeni[cite: 1].
-    * **Szybka zmiana formy**: Odpowiednia do produkcji wieloasortymentowej, małoseryjnej; zmiana formy zajmuje tylko kilka minut[cite: 1].
-* **Scenariusze zastosowania**: Sieci sklepów z daniami gotowymi, badania laboratoryjne, start-upy e-commerce z żywnością świeżą[cite: 1].
+    * **Opłacalność**: Preferowany wybór dla inwestycji podstawowych.
+    * **Oszczędność miejsca**: Niezwykle mała powierzchnia, odpowiednia dla sklepów detalicznych lub zapleczy kuchennych o ograniczonej przestrzeni.
+    * **Szybka zmiana formy**: Odpowiednia do produkcji wieloasortymentowej, małoseryjnej; zmiana formy zajmuje tylko kilka minut.
+* **Scenariusze zastosowania**: Sieci sklepów z daniami gotowymi, badania laboratoryjne, start-upy e-commerce z żywnością świeżą.
 
 ### 2. Typ obrotowy - równowaga między wydajnością a przestrzenią
-* **Tryb pracy**: Wykorzystuje obrotnicę do realizacji synchronicznej pracy na dwóch stanowiskach[cite: 1]. Podczas gdy maszyna zgrzewa z jednej strony, operator może umieścić kolejną partię tacek z drugiej, eliminując czas oczekiwania[cite: 1].
+* **Tryb pracy**: Wykorzystuje obrotnicę do realizacji synchronicznej pracy na dwóch stanowiskach. Podczas gdy maszyna zgrzewa z jednej strony, operator może umieścić kolejną partię tacek z drugiej, eliminując czas oczekiwania.
 * **Zalety**:
-    * **Nieprzerwana praca**: Zgrzewanie i załadunek odbywają się jednocześnie, podwajając wydajność w porównaniu z typem szuflowym[cite: 1].
-    * **Bezpieczeństwo operacyjne**: Strefa załadunku jest fizycznie oddzielona od wewnętrznej strefy zgrzewania, zapewniając bezpieczeństwo operatora[cite: 1].
-    * **Wysoka stabilność**: Odpowiednia dla średnich zakładów o określonych wymaganiach dotyczących szybkości produkcji[cite: 1].
-* **Scenariusze zastosowania**: Średniej wielkości centra przetwórstwa dań gotowych, dostawcy świeżo krojonych warzyw w łańcuchu chłodniczym, centra dystrybucji posiłków sieciowych[cite: 1].
+    * **Nieprzerwana praca**: Zgrzewanie i załadunek odbywają się jednocześnie, podwajając wydajność w porównaniu z typem szuflowym.
+    * **Bezpieczeństwo operacyjne**: Strefa załadunku jest fizycznie oddzielona od wewnętrznej strefy zgrzewania, zapewniając bezpieczeństwo operatora.
+    * **Wysoka stabilność**: Odpowiednia dla średnich zakładów o określonych wymaganiach dotyczących szybkości produkcji.
+* **Scenariusze zastosowania**: Średniej wielkości centra przetwórstwa dań gotowych, dostawcy świeżo krojonych warzyw w łańcuchu chłodniczym, centra dystrybucji posiłków sieciowych.
 
 ### 3. Typ ciągły - przemysłowy benchmark wydajności
-* **Tryb pracy**: W pełni automatyczna praca linii montażowej[cite: 1]. Tacki wchodzą do komory zgrzewania za pomocą przenośnika taśmowego/łańcuchowego, a po odpowietrzeniu, przepłukaniu gazem i zgrzaniu są automatycznie usuwane[cite: 1].
+* **Tryb pracy**: W pełni automatyczna praca linii montażowej. Tacki wchodzą do komory zgrzewania za pomocą przenośnika taśmowego/łańcuchowego, a po odpowietrzeniu, przepłukaniu gazem i zgrzaniu są automatycznie usuwane.
 * **Zalety**:
-    * **Bardzo wysoka wydajność**: Wielogniazdowe formy w połączeniu z ciągłym podawaniem umożliwiają wielkoskalową produkcję masową[cite: 1].
-    * **Oszczędność pracy**: Może być bezpośrednio zintegrowana z upstreamowymi liniami automatycznego ważenia/napełniania i downstreamowymi liniami etykietowania/kodowania, znacznie obniżając koszty pracy[cite: 1].
-    * **Napęd serwo**: Niezwykle precyzyjne pozycjonowanie z równomiernym naciskiem zgrzewania, co skutkuje wysoką jakością estetyczną[cite: 1].
-* **Scenariusze zastosowania**: Duże bazy produkcyjne dań gotowych, duże zakłady przetwórstwa mięsa, przedsiębiorstwa eksportujące żywność[cite: 1].
+    * **Bardzo wysoka wydajność**: Wielogniazdowe formy w połączeniu z ciągłym podawaniem umożliwiają wielkoskalową produkcję masową.
+    * **Oszczędność pracy**: Może być bezpośrednio zintegrowana z upstreamowymi liniami automatycznego ważenia/napełniania i downstreamowymi liniami etykietowania/kodowania, znacznie obniżając koszty pracy.
+    * **Napęd serwo**: Niezwykle precyzyjne pozycjonowanie z równomiernym naciskiem zgrzewania, co skutkuje wysoką jakością estetyczną.
+* **Scenariusze zastosowania**: Duże bazy produkcyjne dań gotowych, duże zakłady przetwórstwa mięsa, przedsiębiorstwa eksportujące żywność.
 
 ---
 
 ## III. Decyzja o wyborze: Który model jest dla Ciebie najlepszy?
 
-Wybierz zgodnie z podstawowymi potrzebami biznesowymi[cite: 1]:
+Wybierz zgodnie z podstawowymi potrzebami biznesowymi:
 
 1. **W oparciu o budżet produkcyjny (skupienie na wydajności)**:
-    * **Dzienna produkcja < 2 000 tacek**: Wybierz **typ szufladowy (MAP-2)**[cite: 1].
-    * **Dzienna produkcja 2 000 - 6 000 tacek**: Wybierz **typ obrotowy (RMAP-4634)**[cite: 1].
-    * **Dzienna produkcja > 6 000 tacek**: Wybierz **typ ciągły (AMAP-5827)**[cite: 1].
+    * **Dzienna produkcja < 2 000 tacek**: Wybierz **typ szufladowy (MAP-2)**.
+    * **Dzienna produkcja 2 000 - 6 000 tacek**: Wybierz **typ obrotowy (RMAP-4634)**.
+    * **Dzienna produkcja > 6 000 tacek**: Wybierz **typ ciągły (AMAP-5827)**.
 
 2. **W oparciu o warunki lokalowe (ograniczenia przestrzenne)**:
-    * Bardzo wąska przestrzeń lub użytek w sklepie detalicznym: **Typ szufladowy** jest jedynym wyborem[cite: 1].
-    * Posiadanie formalnej hali produkcyjnej i dążenie do automatyzacji: Preferuj **typ ciągły**[cite: 1].
+    * Bardzo wąska przestrzeń lub użytek w sklepie detalicznym: **Typ szufladowy** jest jedynym wyborem.
+    * Posiadanie formalnej hali produkcyjnej i dążenie do automatyzacji: Preferuj **typ ciągły**.
 
 3. **W oparciu o różnorodność produktów**:
-    * Jeśli kształty tacek są skomplikowane i często się zmieniają, **typ szufladowy** lub **obrotowy** oferują wygodniejszą zmianę form[cite: 1].
+    * Jeśli kształty tacek są skomplikowane i często się zmieniają, **typ szufladowy** lub **obrotowy** oferują wygodniejszą zmianę form.
 
 ---
 
 ## IV. Kluczowe aspekty techniczne (standardowe dla wszystkich modeli)
-* **Sterowanie klasy przemysłowej**: Wszystkie modele wykorzystują systemy sterowania **z panelem dotykowym i sterownikiem PLC Inovance** dla stabilnej pracy[cite: 1].
-* **Precyzyjna regulacja gazu**: Technologia wymiany gazu w wysokiej próżni zapewnia, że poziom tlenu resztkowego w opakowaniu zostaje zredukowany do poniżej **1%**, znacznie przedłużając okres przydatności do spożycia[cite: 1].
-* **Solidna trwałość**: Maszyny są wykonane z wysokiej jakości stali węglowej i stali nierdzewnej, spełniając normy higieny i bezpieczeństwa żywności[cite: 1].
-* **Korekcja fotoelektryczna**: Wyposażone w czujniki fotoelektryczne o wysokiej czułości, aby zapewnić wyrównanie wzorów zadrukowanej folii, poprawiając prezentację produktu[cite: 1].
+* **Sterowanie klasy przemysłowej**: Wszystkie modele wykorzystują systemy sterowania **z panelem dotykowym i sterownikiem PLC Inovance** dla stabilnej pracy.
+* **Precyzyjna regulacja gazu**: Technologia wymiany gazu w wysokiej próżni zapewnia, że poziom tlenu resztkowego w opakowaniu zostaje zredukowany do poniżej **1%**, znacznie przedłużając okres przydatności do spożycia.
+* **Solidna trwałość**: Maszyny są wykonane z wysokiej jakości stali węglowej i stali nierdzewnej, spełniając normy higieny i bezpieczeństwa żywności.
+* **Korekcja fotoelektryczna**: Wyposażone w czujniki fotoelektryczne o wysokiej czułości, aby zapewnić wyrównanie wzorów zadrukowanej folii, poprawiając prezentację produktu.
 
 ---
 
@@ -77,4 +77,4 @@ Wybierz zgodnie z podstawowymi potrzebami biznesowymi[cite: 1]:
 Jeśli masz specjalne rozmiary tacek lub potrzebujesz zaleceń dotyczących niestandardowych mieszanek gazów, skontaktuj się z naszymi inżynierami.
 
 **Oficjalna strona internetowa:** [cecle.net](https://cecle.net)
-**Spraw, aby świeżość trwała dłużej, a Twoja marka stała się silniejsza.**[cite: 1]
+**Spraw, aby świeżość trwała dłużej, a Twoja marka stała się silniejsza.**

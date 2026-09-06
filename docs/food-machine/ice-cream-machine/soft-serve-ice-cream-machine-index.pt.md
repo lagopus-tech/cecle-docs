@@ -7,18 +7,18 @@ Este guia de seleção de máquinas de sorvete combina os principais recursos, p
 ## 1. Classificação de Modelos e Características Principais
 
 ### 1. Máquina de Sorvete Macio de Mesa (ex: modelos da série TD)
-*   **Cenários de Aplicação**: Cafés pequenos, lojas de conveniência, milkshakes, estações de sobremesas, balcões de restaurantes, centros gastronômicos e food trucks com espaço limitado [cite: 5].
+*   **Cenários de Aplicação**: Cafés pequenos, lojas de conveniência, milkshakes, estações de sobremesas, balcões de restaurantes, centros gastronômicos e food trucks com espaço limitado .
 *   **Vantagens Principais**:
-    *   **Economia de Espaço**: Dimensões compactas, ocupam menos espaço do que as máquinas verticais, sendo ideais para instalação em balcões [cite: 5].
-    *   **Leveza e Flexibilidade**: Fácil de mover e posicionar, adaptando-se a diversos ambientes comerciais com espaço reduzido [cite: 5].
-    *   **Eficiência e Praticidade**: Estrutura de dois tanques e três bicos, oferecendo duas opções de sabores puros e uma mistura dupla; integra controle inteligente por LED e limpeza automática com um único toque [cite: 5].
+    *   **Economia de Espaço**: Dimensões compactas, ocupam menos espaço do que as máquinas verticais, sendo ideais para instalação em balcões .
+    *   **Leveza e Flexibilidade**: Fácil de mover e posicionar, adaptando-se a diversos ambientes comerciais com espaço reduzido .
+    *   **Eficiência e Praticidade**: Estrutura de dois tanques e três bicos, oferecendo duas opções de sabores puros e uma mistura dupla; integra controle inteligente por LED e limpeza automática com um único toque .
 
 ### 2. Máquina de Sorvete Macio Vertical (ex: modelos da série BQL: BQL-818 / BQL-825B / BQL-830C)
-*   **Cenários de Aplicação**: Lojas especializadas em sorvetes, bares de lanches grandes, supermercados, shoppings, atrações turísticas e refeitórios escolares com alto fluxo de clientes [cite: 6].
+*   **Cenários de Aplicação**: Lojas especializadas em sorvetes, bares de lanches grandes, supermercados, shoppings, atrações turísticas e refeitórios escolares com alto fluxo de clientes .
 *   **Vantagens Principais**:
-    *   **Capacidade e Armazenamento Superiores**: Espaço interno amplo, com compressor de alta potência e tanques de armazenamento e congelamento maiores, permitindo produção horária mais elevada e atendimento eficiente durante picos [cite: 6].
-    *   **Refrigeração Eficiente e Estabilidade**: Melhor circulação de ar no corpo da máquina, evitando paradas por superaquecimento mesmo em operações contínuas prolongadas [cite: 6].
-    *   **Facilidade de Movimentação e Operação**: Rodas omnidirecionais com freios padrão na base, permitindo deslocamento fácil por uma pessoa; altura ergonômica, eliminando a necessidade de curvar-se durante o uso [cite: 6].
+    *   **Capacidade e Armazenamento Superiores**: Espaço interno amplo, com compressor de alta potência e tanques de armazenamento e congelamento maiores, permitindo produção horária mais elevada e atendimento eficiente durante picos .
+    *   **Refrigeração Eficiente e Estabilidade**: Melhor circulação de ar no corpo da máquina, evitando paradas por superaquecimento mesmo em operações contínuas prolongadas .
+    *   **Facilidade de Movimentação e Operação**: Rodas omnidirecionais com freios padrão na base, permitindo deslocamento fácil por uma pessoa; altura ergonômica, eliminando a necessidade de curvar-se durante o uso .
 
 ---
 
@@ -35,8 +35,8 @@ Este guia de seleção de máquinas de sorvete combina os principais recursos, p
 
 | Tipo de Máquina | Modelo Representativo | Produção Horária | Potência | Capacidade dos Tanques | Características Principais |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Máquina de Mesa** | TD-618CTB / TD-25CTB / TD-36CTB | 18L - 40L/H [cite: 5] | 1800W - 2800W [cite: 5] | 4,5L×2 até 6,5L×2 [cite: 5] | Compacta, leve, economiza espaço, ideal para balcões [cite: 5] |
-| **Máquina Vertical** | BQL-818 / BQL-825B / BQL-830C | 18L - 30L/H [cite: 6] | 1800W - 2650W [cite: 6] | 5,5L×2 até 10L×2 [cite: 6] | Grande capacidade, excelente dissipação térmica, rodas omnidirecionais, altura ergonômica [cite: 6] |
+| **Máquina de Mesa** | TD-618CTB / TD-25CTB / TD-36CTB | 18L - 40L/H  | 1800W - 2800W  | 4,5L×2 até 6,5L×2  | Compacta, leve, economiza espaço, ideal para balcões  |
+| **Máquina Vertical** | BQL-818 / BQL-825B / BQL-830C | 18L - 30L/H  | 1800W - 2650W  | 5,5L×2 até 10L×2  | Grande capacidade, excelente dissipação térmica, rodas omnidirecionais, altura ergonômica  |
 
 ---
 

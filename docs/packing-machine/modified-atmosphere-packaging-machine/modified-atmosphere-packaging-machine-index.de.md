@@ -1,8 +1,8 @@
 # Leitfaden zur Auswahl von Verpackungsmaschinen mit modifizierter Atmosphäre (MAP) und Produktübersicht
 
-Bei der Verpackung mit modifizierter Atmosphäre (MAP) wird die Luft im Inneren der Verpackung durch spezifische Konservierungsgase (wie eine Mischung aus Stickstoff, Kohlendioxid und Sauerstoff) ersetzt. Dies hemmt effektiv das mikrobielle Wachstum, verlängert die Haltbarkeit von Lebensmitteln und bewahrt deren ursprüngliche Farbe und Geschmack[cite: 1].
+Bei der Verpackung mit modifizierter Atmosphäre (MAP) wird die Luft im Inneren der Verpackung durch spezifische Konservierungsgase (wie eine Mischung aus Stickstoff, Kohlendioxid und Sauerstoff) ersetzt. Dies hemmt effektiv das mikrobielle Wachstum, verlängert die Haltbarkeit von Lebensmitteln und bewahrt deren ursprüngliche Farbe und Geschmack.
 
-Um den Anforderungen von Unternehmen unterschiedlicher Größenordnung gerecht zu werden, bieten wir drei Kernmaschinenmodelle an: **Schubladentyp**, **Rotationstyp** und **Durchlauftyp**[cite: 1].
+Um den Anforderungen von Unternehmen unterschiedlicher Größenordnung gerecht zu werden, bieten wir drei Kernmaschinenmodelle an: **Schubladentyp**, **Rotationstyp** und **Durchlauftyp**.
 
 ---
 
@@ -22,54 +22,54 @@ Um den Anforderungen von Unternehmen unterschiedlicher Größenordnung gerecht z
 ## II. Detaillierte Unterschiede zwischen den Bauarten
 
 ### 1. Schubladentyp – Die Wahl für Flexibilität
-* **Funktionsweise**: Verfügt über ein schubladenartiges Design, bei dem der Bediener die Schale mit dem Material manuell in die Siegelkammer schiebt und nach dem Verpacken wieder herauszieht[cite: 1].
+* **Funktionsweise**: Verfügt über ein schubladenartiges Design, bei dem der Bediener die Schale mit dem Material manuell in die Siegelkammer schiebt und nach dem Verpacken wieder herauszieht.
 * **Vorteile**:
-    * **Kosteneffizient**: Die bevorzugte Wahl für Einstiegsinvestitionen[cite: 1].
-    * **Platzsparend**: Äußerst kleine Stellfläche, geeignet für Einzelhandelsgeschäfte oder Küchenbereiche mit begrenztem Platz[cite: 1].
-    * **Schneller Formenwechsel**: Geeignet für die Produktion mehrerer Spezifikationen in kleinen Chargen; Formenwechsel dauern nur wenige Minuten[cite: 1].
-* **Anwendungsszenarien**: Filialen für Schmorgerichte, Laborforschung, Start-ups im Bereich Frischwaren-E-Commerce[cite: 1].
+    * **Kosteneffizient**: Die bevorzugte Wahl für Einstiegsinvestitionen.
+    * **Platzsparend**: Äußerst kleine Stellfläche, geeignet für Einzelhandelsgeschäfte oder Küchenbereiche mit begrenztem Platz.
+    * **Schneller Formenwechsel**: Geeignet für die Produktion mehrerer Spezifikationen in kleinen Chargen; Formenwechsel dauern nur wenige Minuten.
+* **Anwendungsszenarien**: Filialen für Schmorgerichte, Laborforschung, Start-ups im Bereich Frischwaren-E-Commerce.
 
 ### 2. Rotationstyp – Gleichgewicht zwischen Effizienz und Platz
-* **Funktionsweise**: Nutzt einen Drehteller für den synchronen Betrieb von zwei Stationen[cite: 1]. Während die Maschine auf einer Seite siegelt, kann der Bediener die nächste Charge Schalen auf der anderen Seite platzieren, wodurch Wartezeiten entfallen[cite: 1].
+* **Funktionsweise**: Nutzt einen Drehteller für den synchronen Betrieb von zwei Stationen. Während die Maschine auf einer Seite siegelt, kann der Bediener die nächste Charge Schalen auf der anderen Seite platzieren, wodurch Wartezeiten entfallen.
 * **Vorteile**:
-    * **Ununterbrochener Betrieb**: Siegeln und Beschicken erfolgen gleichzeitig, was die Ausbringung im Vergleich zum Schubladentyp verdoppelt[cite: 1].
-    * **Betriebssicherheit**: Der Beschickungsbereich ist physisch vom inneren Siegelbereich getrennt, was die Sicherheit des Bedieners gewährleistet[cite: 1].
-    * **Hohe Stabilität**: Geeignet für mittelgroße Fabriken mit spezifischen Produktionsgeschwindigkeitsanforderungen[cite: 1].
-* **Anwendungsszenarien**: Mittelgroße Verarbeitungszentren für Fertiggerichte, Kühlkettenlieferanten für frisch geschnittenes Gemüse, Verteilzentren für Kettenmahlzeiten[cite: 1].
+    * **Ununterbrochener Betrieb**: Siegeln und Beschicken erfolgen gleichzeitig, was die Ausbringung im Vergleich zum Schubladentyp verdoppelt.
+    * **Betriebssicherheit**: Der Beschickungsbereich ist physisch vom inneren Siegelbereich getrennt, was die Sicherheit des Bedieners gewährleistet.
+    * **Hohe Stabilität**: Geeignet für mittelgroße Fabriken mit spezifischen Produktionsgeschwindigkeitsanforderungen.
+* **Anwendungsszenarien**: Mittelgroße Verarbeitungszentren für Fertiggerichte, Kühlkettenlieferanten für frisch geschnittenes Gemüse, Verteilzentren für Kettenmahlzeiten.
 
 ### 3. Durchlauftyp – Der industrielle Maßstab für Effizienz
-* **Funktionsweise**: Vollautomatischer Fließbandbetrieb[cite: 1]. Schalen gelangen über ein Förderband/eine Kette in die Siegelkammer und werden nach dem Evakuieren, Gasspülen und Siegeln automatisch ausgestoßen[cite: 1].
+* **Funktionsweise**: Vollautomatischer Fließbandbetrieb. Schalen gelangen über ein Förderband/eine Kette in die Siegelkammer und werden nach dem Evakuieren, Gasspülen und Siegeln automatisch ausgestoßen.
 * **Vorteile**:
-    * **Extrem hohe Ausbringung**: Mehrfachkavitätenformen in Kombination mit kontinuierlicher Zuführung ermöglichen eine großvolumige Massenproduktion[cite: 1].
-    * **Arbeitskosteneinsparung**: Kann direkt mit vorgelagerten automatischen Wiege-/Befüllsystemen und nachgelagerten Etikettier-/Codierlinien integriert werden, wodurch die Arbeitskosten erheblich gesenkt werden[cite: 1].
-    * **Servoangetrieben**: Extrem präzise Positionierung mit gleichmäßigem Siegeldruck, was zu einer hohen ästhetischen Qualität führt[cite: 1].
-* **Anwendungsszenarien**: Große Produktionsbasen für Fertiggerichte, großflächige Fleischverarbeitungsbetriebe, Lebensmittelexportunternehmen[cite: 1].
+    * **Extrem hohe Ausbringung**: Mehrfachkavitätenformen in Kombination mit kontinuierlicher Zuführung ermöglichen eine großvolumige Massenproduktion.
+    * **Arbeitskosteneinsparung**: Kann direkt mit vorgelagerten automatischen Wiege-/Befüllsystemen und nachgelagerten Etikettier-/Codierlinien integriert werden, wodurch die Arbeitskosten erheblich gesenkt werden.
+    * **Servoangetrieben**: Extrem präzise Positionierung mit gleichmäßigem Siegeldruck, was zu einer hohen ästhetischen Qualität führt.
+* **Anwendungsszenarien**: Große Produktionsbasen für Fertiggerichte, großflächige Fleischverarbeitungsbetriebe, Lebensmittelexportunternehmen.
 
 ---
 
 ## III. Auswahlentscheidung: Welches Modell ist das Richtige für Sie?
 
-Wählen Sie entsprechend Ihren geschäftlichen Kernanforderungen[cite: 1]:
+Wählen Sie entsprechend Ihren geschäftlichen Kernanforderungen:
 
 1. **Basierend auf dem Produktionsbudget (Fokus auf Ausbringung)**:
-    * **Tägliche Ausbringung < 2.000 Schalen**: Wählen Sie **Schubladentyp (MAP-2)**[cite: 1].
-    * **Tägliche Ausbringung 2.000 - 6.000 Schalen**: Wählen Sie **Rotationstyp (RMAP-4634)**[cite: 1].
-    * **Tägliche Ausbringung > 6.000 Schalen**: Wählen Sie **Durchlauftyp (AMAP-5827)**[cite: 1].
+    * **Tägliche Ausbringung < 2.000 Schalen**: Wählen Sie **Schubladentyp (MAP-2)**.
+    * **Tägliche Ausbringung 2.000 - 6.000 Schalen**: Wählen Sie **Rotationstyp (RMAP-4634)**.
+    * **Tägliche Ausbringung > 6.000 Schalen**: Wählen Sie **Durchlauftyp (AMAP-5827)**.
 
 2. **Basierend auf den örtlichen Gegebenheiten (Platzbeschränkungen)**:
-    * Extrem enger Raum oder Nutzung im Einzelhandel: **Schubladentyp** ist die einzige Wahl[cite: 1].
-    * Vorhandensein einer formellen Produktionswerkstatt und Streben nach Automatisierung: Bevorzugen Sie **Durchlauftyp**[cite: 1].
+    * Extrem enger Raum oder Nutzung im Einzelhandel: **Schubladentyp** ist die einzige Wahl.
+    * Vorhandensein einer formellen Produktionswerkstatt und Streben nach Automatisierung: Bevorzugen Sie **Durchlauftyp**.
 
 3. **Basierend auf der Produktvielfalt**:
-    * Wenn Schalenformen komplex sind und häufig wechseln, bieten **Schubladentyp** oder **Rotationstyp** bequemere Formenwechsel[cite: 1].
+    * Wenn Schalenformen komplex sind und häufig wechseln, bieten **Schubladentyp** oder **Rotationstyp** bequemere Formenwechsel.
 
 ---
 
 ## IV. Technische Kernmerkmale (Standard bei allen Modellen)
-* **Industrielle Steuerung**: Alle Modelle verwenden **Inovance-Touchscreen- und SPS**-Steuerungssysteme für einen stabilen Betrieb[cite: 1].
-* **Präzise Gasregulierung**: Hochvakuum-Austauschtechnologie stellt sicher, dass der Restsauerstoffgehalt in der Verpackung auf unter **1 %** reduziert wird, was die Haltbarkeit erheblich verlängert[cite: 1].
-* **Robuste Haltbarkeit**: Die Maschinen sind aus hochwertigem Kohlenstoffstahl und Edelstahl gefertigt und erfüllen die Lebensmittelhygiene- und Sicherheitsstandards[cite: 1].
-* **Fotoelektrische Korrektur**: Ausgestattet mit hochempfindlichen Fotozellen, um sicherzustellen, dass die bedruckten Folienmuster ausgerichtet sind, was die Produktpräsentation verbessert[cite: 1].
+* **Industrielle Steuerung**: Alle Modelle verwenden **Inovance-Touchscreen- und SPS**-Steuerungssysteme für einen stabilen Betrieb.
+* **Präzise Gasregulierung**: Hochvakuum-Austauschtechnologie stellt sicher, dass der Restsauerstoffgehalt in der Verpackung auf unter **1 %** reduziert wird, was die Haltbarkeit erheblich verlängert.
+* **Robuste Haltbarkeit**: Die Maschinen sind aus hochwertigem Kohlenstoffstahl und Edelstahl gefertigt und erfüllen die Lebensmittelhygiene- und Sicherheitsstandards.
+* **Fotoelektrische Korrektur**: Ausgestattet mit hochempfindlichen Fotozellen, um sicherzustellen, dass die bedruckten Folienmuster ausgerichtet sind, was die Produktpräsentation verbessert.
 
 ---
 
@@ -77,4 +77,4 @@ Wählen Sie entsprechend Ihren geschäftlichen Kernanforderungen[cite: 1]:
 Wenn Sie spezielle Schalengrößen haben oder maßgeschneiderte Gasmischungsempfehlungen benötigen, wenden Sie sich bitte an unsere Ingenieure.
 
 **Offizielle Website:** [cecle.net](https://cecle.net)
-**Machen Sie Frische länger haltbar und machen Sie Ihre Marke stärker.**[cite: 1]
+**Machen Sie Frische länger haltbar und machen Sie Ihre Marke stärker.**

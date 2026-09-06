@@ -7,18 +7,18 @@ This guide comprehensively covers the core features, specifications, and selecti
 ## I. Machine Classification & Core Features
 
 ### 1. Countertop Soft Serve Ice Cream Machines (e.g., TD Series Models)
-*   **Suitable Scenarios**: Small cafes, convenience stores, milk tea shops, dessert stands, restaurant bars, food courts, and mobile food carts[cite: 5].
+*   **Suitable Scenarios**: Small cafes, convenience stores, milk tea shops, dessert stands, restaurant bars, food courts, and mobile food carts.
 *   **Core Advantages**:
-    *   **Space-Saving Design**: Compact size occupies less space than upright models—ideal for bar counters[cite: 5].
-    *   **Flexible & Lightweight**: Easy to move and position, adaptable to various tight commercial environments[cite: 5].
-    *   **High Efficiency & Practicality**: Features dual-tank triple-head design, offering two pure flavors and one mixed double-flavor option. Combines intelligent LED control with one-touch automatic cleaning[cite: 5].
+    *   **Space-Saving Design**: Compact size occupies less space than upright models—ideal for bar counters.
+    *   **Flexible & Lightweight**: Easy to move and position, adaptable to various tight commercial environments.
+    *   **High Efficiency & Practicality**: Features dual-tank triple-head design, offering two pure flavors and one mixed double-flavor option. Combines intelligent LED control with one-touch automatic cleaning.
 
 ### 2. Upright Soft Serve Ice Cream Machines (e.g., BQL Series Models: BQL-818 / BQL-825B / BQL-830C)
-*   **Suitable Scenarios**: Dedicated ice cream shops, large snack bars, supermarkets, shopping malls, tourist attractions, and school cafeterias with high customer traffic[cite: 6].
+*   **Suitable Scenarios**: Dedicated ice cream shops, large snack bars, supermarkets, shopping malls, tourist attractions, and school cafeterias with high customer traffic.
 *   **Core Advantages**:
-    *   **Higher Output & Larger Storage Capacity**: Ample internal space equipped with high-power compressors, larger storage tanks, and freezing cylinders—delivers higher hourly output to handle peak periods seamlessly[cite: 6].
-    *   **Superior Heat Dissipation & Stability**: Excellent airflow design prevents overheating during prolonged continuous operation[cite: 6].
-    *   **Mobility & Operational Convenience**: Standard bottom-mounted swivel casters with brakes allow single-person movement; ergonomically designed height enables standing operation without bending[cite: 6].
+    *   **Higher Output & Larger Storage Capacity**: Ample internal space equipped with high-power compressors, larger storage tanks, and freezing cylinders—delivers higher hourly output to handle peak periods seamlessly.
+    *   **Superior Heat Dissipation & Stability**: Excellent airflow design prevents overheating during prolonged continuous operation.
+    *   **Mobility & Operational Convenience**: Standard bottom-mounted swivel casters with brakes allow single-person movement; ergonomically designed height enables standing operation without bending.
 
 ---
 
@@ -35,8 +35,8 @@ This guide comprehensively covers the core features, specifications, and selecti
 
 | Machine Type | Model Example | Hourly Output | Power Consumption | Tank Capacity | Core Features |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Countertop Machine** | TD-618CTB / TD-25CTB / TD-36CTB | 18L – 40L/H[cite: 5] | 1800W – 2800W[cite: 5] | 4.5L×2 to 6.5L×2[cite: 5] | Compact, lightweight, space-saving, ideal for counters[cite: 5] |
-| **Upright Machine** | BQL-818 / BQL-825B / BQL-830C | 18L – 30L/H[cite: 6] | 1800W – 2650W[cite: 6] | 5.5L×2 to 10L×2[cite: 6] | High capacity, excellent heat dissipation, swivel casters, ergonomic height[cite: 6] |
+| **Countertop Machine** | TD-618CTB / TD-25CTB / TD-36CTB | 18L – 40L/H | 1800W – 2800W | 4.5L×2 to 6.5L×2 | Compact, lightweight, space-saving, ideal for counters |
+| **Upright Machine** | BQL-818 / BQL-825B / BQL-830C | 18L – 30L/H | 1800W – 2650W | 5.5L×2 to 10L×2 | High capacity, excellent heat dissipation, swivel casters, ergonomic height |
 
 ---
 

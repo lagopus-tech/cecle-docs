@@ -7,18 +7,18 @@ Ten poradnik doboru maszyn do lodów łączy kluczowe cechy, parametry oraz wska
 ## I. Kategorie maszyn i ich podstawowe cechy
 
 ### 1. Maszyna do lodów miękkich typu stojąca (np. seria TD)
-*   **Zakres zastosowań**: małe kawiarnie, sklepy spożywcze, sklepy z napojami, punkty słodkości, bar na kuchni, centra gastronomiczne oraz mobilne pojazdy gastronomiczne[cite: 5].
+*   **Zakres zastosowań**: małe kawiarnie, sklepy spożywcze, sklepy z napojami, punkty słodkości, bar na kuchni, centra gastronomiczne oraz mobilne pojazdy gastronomiczne.
 *   **Główne zalety**:
     *   **Oszczędność miejsca**: mały rozmiar, zużywa mniej miejsca niż modele pionowe – idealny do ustawienia przy ladzie[kite: 5].
-    *   **Wysoka elastyczność i lekkość**: łatwe przenoszenie i ustawianie, pasuje do różnych ograniczonych przestrzeni komercyjnych[cite: 5].
-    *   **Wysoka efektywność i funkcjonalność**: dwukamierowy system trzygłowy umożliwia dwa czyste smaki oraz jeden smak mieszany; wspiera inteligentne sterowanie LED oraz jednokrotną automatyczną czyszczenie[cite: 5].
+    *   **Wysoka elastyczność i lekkość**: łatwe przenoszenie i ustawianie, pasuje do różnych ograniczonych przestrzeni komercyjnych.
+    *   **Wysoka efektywność i funkcjonalność**: dwukamierowy system trzygłowy umożliwia dwa czyste smaki oraz jeden smak mieszany; wspiera inteligentne sterowanie LED oraz jednokrotną automatyczną czyszczenie.
 
 ### 2. Maszyna do lodów miękkich typu pionowego (np. seria BQL: BQL-818 / BQL-825B / BQL-830C)
-*   **Zakres zastosowań**: sklepy z lodami, duże punkty gastronomiczne, supermarkety, centra handlowe, atrakcje turystyczne oraz stołowe szkolne[cite: 6].
+*   **Zakres zastosowań**: sklepy z lodami, duże punkty gastronomiczne, supermarkety, centra handlowe, atrakcje turystyczne oraz stołowe szkolne.
 *   **Główne zalety**:
-    *   **Wyższa wydajność i pojemność magazynowania**: duża przestrzeń wewnętrzna, mocny kompresor oraz większe zbiorniki chłodzące i zbiorniki surowców — większa produkcja godzinna, świetnie radzi sobie z piczonymi godzinami[cite: 6].
-    *   **Doskonała wentylacja i stabilność pracy**: doskonała cyrkulacja powietrza w obudowie, nie przegrzewa się nawet przy ciągłym użytkowaniu[cite: 6].
-    *   **Łatwość przemieszczania i obsługi**: standardowo wyposażona w koła swobodne z hamulcem, można łatwo przesunąć jednym człowiekiem; optymalna wysokość ergonomiczna – obsługa bez zginania się[cite: 6].
+    *   **Wyższa wydajność i pojemność magazynowania**: duża przestrzeń wewnętrzna, mocny kompresor oraz większe zbiorniki chłodzące i zbiorniki surowców — większa produkcja godzinna, świetnie radzi sobie z piczonymi godzinami.
+    *   **Doskonała wentylacja i stabilność pracy**: doskonała cyrkulacja powietrza w obudowie, nie przegrzewa się nawet przy ciągłym użytkowaniu.
+    *   **Łatwość przemieszczania i obsługi**: standardowo wyposażona w koła swobodne z hamulcem, można łatwo przesunąć jednym człowiekiem; optymalna wysokość ergonomiczna – obsługa bez zginania się.
 
 ---
 
@@ -35,8 +35,8 @@ Ten poradnik doboru maszyn do lodów łączy kluczowe cechy, parametry oraz wska
 
 | Kategoria maszyny | Przykładowy model | Wydajność godzinowa | Moc | Pojemność zbiorników | Kluczowe cechy |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Maszyna stojąca** | TD-618CTB / TD-25CTB / TD-36CTB | 18L - 40L/H[cite: 5] | 1800W - 2800W[cite: 5] | 4,5L×2 do 6,5L×2[cite: 5] | Kompletna, lekka, oszczędza miejsce, idealna do ladu[cite: 5] |
-| **Maszyna pionowa** | BQL-818 / BQL-825B / BQL-830C | 18L - 30L/H[cite: 6] | 1800W - 2650W[cite: 6] | 5,5L×2 do 10L×2[cite: 6] | Duża pojemność, świetna wentylacja, koła swobodne, optymalna wysokość ergonomiczna[cite: 6] |
+| **Maszyna stojąca** | TD-618CTB / TD-25CTB / TD-36CTB | 18L - 40L/H | 1800W - 2800W | 4,5L×2 do 6,5L×2 | Kompletna, lekka, oszczędza miejsce, idealna do ladu |
+| **Maszyna pionowa** | BQL-818 / BQL-825B / BQL-830C | 18L - 30L/H | 1800W - 2650W | 5,5L×2 do 10L×2 | Duża pojemność, świetna wentylacja, koła swobodne, optymalna wysokość ergonomiczna |
 
 ---
 

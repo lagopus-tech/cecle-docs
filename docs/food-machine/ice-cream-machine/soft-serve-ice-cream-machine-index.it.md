@@ -7,18 +7,18 @@ Questa guida alla selezione delle gelaterie combina i principali caratteristiche
 ## I. Classificazione dei Modelli e Caratteristiche Principali
 
 ### 1. Gelateria a Banco (es. modelli della serie TD)
-*   **Scenari d'uso**: Piccoli caffè, negozi di alimentari, barà, stazioni di dolci, banconi da ristorante, mercati gastronomici e furgoni mobili[cite: 5].
+*   **Scenari d'uso**: Piccoli caffè, negozi di alimentari, barà, stazioni di dolci, banconi da ristorante, mercati gastronomici e furgoni mobili.
 *   **Vantaggi principali**:
-    *   **Risparmio di spazio**: Dimensioni compatte, occupano meno spazio rispetto ai modelli verticali, ideali per posizionamento su banconi[cite: 5].
-    *   **Mobilità e leggerezza**: Facili da trasportare e posizionare, adatti a ambienti commerciali stretti[cite: 5].
-    *   **Efficienza e praticità**: Struttura a due serbatoi e tre testate, offre due gusti puri e un gusto misto combinato; integra controllo intelligente con LED e pulizia automatica con un solo tasto[cite: 5].
+    *   **Risparmio di spazio**: Dimensioni compatte, occupano meno spazio rispetto ai modelli verticali, ideali per posizionamento su banconi.
+    *   **Mobilità e leggerezza**: Facili da trasportare e posizionare, adatti a ambienti commerciali stretti.
+    *   **Efficienza e praticità**: Struttura a due serbatoi e tre testate, offre due gusti puri e un gusto misto combinato; integra controllo intelligente con LED e pulizia automatica con un solo tasto.
 
 ### 2. Gelateria Verticale (es. modelli della serie BQL: BQL-818 / BQL-825B / BQL-830C)
-*   **Scenari d'uso**: Negozio specializzato in gelati, grandi bar, supermercati, centri commerciali, aree turistiche e mense scolastiche con alto flusso di clienti[cite: 6].
+*   **Scenari d'uso**: Negozio specializzato in gelati, grandi bar, supermercati, centri commerciali, aree turistiche e mense scolastiche con alto flusso di clienti.
 *   **Vantaggi principali**:
-    *   **Capacità produttiva e capacità di immagazzinamento superiori**: Ampio spazio interno, dotato di compressore ad alta potenza, grandi serbatoi per ingredienti e serbatoi refrigerati, produzione oraria elevata, in grado di gestire picchi di richiesta[cite: 6].
-    *   **Eccellente dissipazione del calore e stabilità**: Ottima circolazione d’aria nel corpo macchina, funzionamento continuo senza sovrapposizioni termiche[cite: 6].
-    *   **Mobilità e facilità d’uso**: Ruote universali con freno di serie, spostabile facilmente anche da una sola persona; altezza ergonomicamente studiata, operazione in piedi senza dover piegarsi[cite: 6].
+    *   **Capacità produttiva e capacità di immagazzinamento superiori**: Ampio spazio interno, dotato di compressore ad alta potenza, grandi serbatoi per ingredienti e serbatoi refrigerati, produzione oraria elevata, in grado di gestire picchi di richiesta.
+    *   **Eccellente dissipazione del calore e stabilità**: Ottima circolazione d’aria nel corpo macchina, funzionamento continuo senza sovrapposizioni termiche.
+    *   **Mobilità e facilità d’uso**: Ruote universali con freno di serie, spostabile facilmente anche da una sola persona; altezza ergonomicamente studiata, operazione in piedi senza dover piegarsi.
 
 ---
 
@@ -35,8 +35,8 @@ Questa guida alla selezione delle gelaterie combina i principali caratteristiche
 
 | Categoria Modello | Modello di Riferimento | Produzione Ora | Potenza | Capacità Serbatoi | Caratteristiche Principali |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Modello da Banco** | TD-618CTB / TD-25CTB / TD-36CTB | 18L - 40L/h[cite: 5] | 1800W - 2800W[cite: 5] | 4,5L×2 fino a 6,5L×2[cite: 5] | Compacta, leggera, risparmia spazio, ideale per bancone[cite: 5] |
-| **Modello Verticale** | BQL-818 / BQL-825B / BQL-830C | 18L - 30L/h[cite: 6] | 1800W - 2650W[cite: 6] | 5,5L×2 fino a 10L×2[cite: 6] | Grande capacità, ottimo dissipatore di calore, ruote universali, altezza ergonomica[cite: 6] |
+| **Modello da Banco** | TD-618CTB / TD-25CTB / TD-36CTB | 18L - 40L/h | 1800W - 2800W | 4,5L×2 fino a 6,5L×2 | Compacta, leggera, risparmia spazio, ideale per bancone |
+| **Modello Verticale** | BQL-818 / BQL-825B / BQL-830C | 18L - 30L/h | 1800W - 2650W | 5,5L×2 fino a 10L×2 | Grande capacità, ottimo dissipatore di calore, ruote universali, altezza ergonomica |
 
 ---
 
