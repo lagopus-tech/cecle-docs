@@ -50,6 +50,7 @@ nav:
       - Cellophane Wrapping Machine:
           - Overview: packing-machine/cellophane-wrapping-machine/cellophane-wrapping-machine-index.md
           - ACW-88 Automatic: packing-machine/cellophane-wrapping-machine/acw-88.md
+          - ACW-88A 3D Transparent Film: packing-machine/cellophane-wrapping-machine/acw-88a.md
           - ACW-88D Dot Heat: packing-machine/cellophane-wrapping-machine/acw-88d.md
           - ACW-88F Film Rewind : packing-machine/cellophane-wrapping-machine/acw-88f.md
           - ACW-88T Tear Tape: packing-machine/cellophane-wrapping-machine/acw-88t.md
@@ -129,11 +130,11 @@ nav:
           - Overview: packing-machine/small-stand-up-pouch-packing-machine/stand-up-pouch-packing-machine-index.md
           - DGD-W30TD Powder Pouch Machine: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-f500-powder.md
           - DGD-W30TD Bucket Conveyor Type: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-w-fd-bucket-conveyor.md
-          - DGD-W30TD Paste Pneumatic Plunger: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-w-g300-paste-pneumatic-plunger.md
-          - DGD-W30TD Sauce Pneumatic Plunger: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-w-j500-sauce-pneumatic-plunger.md
-          - DGD-W30TD Regular-Shaped Granule: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-w-k500-regular-shaped-granule.md
+          - DGD-W30TD Paste Pneumatic Plunger: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-w-g300-paste-pneumatic-plunger-pump.md
+          - DGD-W30TD Sauce Pneumatic Plunger: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-w-j500-sauce-pneumatic-plunger-pump.md
+          - DGD-W30TD Regular-Shaped Granule: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-w-k500-regular-shaped-granules.md
           - DGD-W30TD Manual Feeding: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-w-manual-feeding.md
-          - DGD-W30TD Liquid Digital Control: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-w-ysk280-liquid-digital-control.md
+          - DGD-W30TD Liquid Digital Control: packing-machine/small-stand-up-pouch-packing-machine/dgd-w30td-w-ysk280-liquid-digital-control-pump.md
       - Labeling Machine Series:
           - Overview: packing-machine/labeling-machine/round-bottle-labeling-machine-index.md
           - ML-50 Manual Round Bottle: packing-machine/labeling-machine/ml-50-manual-round.md
@@ -168,8 +169,8 @@ nav:
           - FQA-450 & BSE-4522 Auto L-Bar Sealer: packing-machine/shrink-wrapping-machine/fqa-450&bse-4522-auto-l-bar-sealer.md
           - FQS-450 & BSE-4522 Auto Side Sealer: packing-machine/shrink-wrapping-machine/fqs-450&bse-4522-auto-side-sealer.md
           - Automatic Flow Packing Shrink Machine: packing-machine/shrink-wrapping-machine/automatic-flow-packing-shrinking-machine.md
-          - BZJ-5038 & BSE-5040A Semi-Auto Sleeve Wrapper: packing-machine/shrink-wrapping-machine/bzj-5038&bse-5040a-semi-auto-sleeve-shrink-wrapping-machine.md
-          - AFL-6040 & BSE-6040A Auto Sleeve Wrapper: packing-machine/shrink-wrapping-machine/afl-6040&bse-6040a-automatic-sleeve-shrink-wrapping-machine.md
+          - BZJ-5038 & BSE-5040A Semi-Auto Sleeve Wrapper: packing-machine/shrink-wrapping-machine/bzj-5038&bse-5040a-semi-auto-sleeve-shrinking-machine.md
+          - AFL-6040 & BSE-6040A Auto Sleeve Wrapper: packing-machine/shrink-wrapping-machine/afl-6040&bse-6040a-automatic-sleeve-shrinking-machine.md
           - Automatic Shrink Sleeve Labeler: packing-machine/shrink-wrapping-machine/automatic-shrink-sleeve-labeling-machine.md
       - Stretch Wrapping Machine:
           - Overview: packing-machine/stretch-wrapping-machine/stretch-wrapping-machine-index.md
@@ -216,6 +217,7 @@ nav:
               - Flat TD-1518: packing-machine/printing-machine/screen-printing-machine/flat-td-1518.md
               - Flat TD-1525: packing-machine/printing-machine/screen-printing-machine/flat-td-1525.md
               - Flat TD-2030SF: packing-machine/printing-machine/screen-printing-machine/flat-td-2030sf.md
+              - TD-2030SF / TD-3050SF Dual Servo: packing-machine/printing-machine/screen-printing-machine/flat-td-2030sf-td-3050sf.md
               - Flat TD-2533: packing-machine/printing-machine/screen-printing-machine/flat-td-2533.md
               - UV Curing Machine: packing-machine/printing-machine/screen-printing-machine/uv-curing-machine.md
               - Flat Series: packing-machine/printing-machine/screen-printing-machine/flat-series.md
@@ -232,7 +234,7 @@ nav:
               - HP-1015 Pen Heat Press: packing-machine/printing-machine/heat-press-machine/hp-1015-pen.md
               - HP-2330 Manual Flat Swing-Away: packing-machine/printing-machine/heat-press-machine/hp-2330-manual-flat-swing-Away.md
               - HP-2938 14-in-1 Multifunction Swing-Away: packing-machine/printing-machine/heat-press-machine/hp-2938-14-in-1-multifunction-swing-Away.md
-              - HP-3042 Multifunctional 3D Vacuum: packing-machine/printing-machine/heat-press-machine/hp-3042-multifunctional-3d-vacuum.md
+              - HP-3042 Multifunctional 3D Vacuum: packing-machine/printing-machine/heat-press-machine/hp-3042-multifunctional-3D-vacuum.md
               - HP-3838 & HP-4060 Flat Heat Press: packing-machine/printing-machine/heat-press-machine/hp-3838-hp-4060-flat.md
               - HP-4050 Slide-Out Swing-Away: packing-machine/printing-machine/heat-press-machine/hp-4050-slide-out-swing-away.md
               - HP-6080 Manual Flat Heat Press: packing-machine/printing-machine/heat-press-machine/hp-6080-manual-flat.md
@@ -286,6 +288,12 @@ nav:
       - Tablet Press Machine:
           - Overview: pharmaceutical-equipment/tablet-press-machine/tablet-press-machine-index.md
           - Manual Tablet Press: pharmaceutical-equipment/tablet-press-machine/manual-tablet-press-machine.md
+          - TDP Series Single Punch: pharmaceutical-equipment/tablet-press-machine/tdp-series-tablet-press-machine.md
+          - ZP-9 Rotary Tablet Press: pharmaceutical-equipment/tablet-press-machine/zp-9-rotary-tablet-press-machine.md
+          - ZP15B Rotary Tablet Press: pharmaceutical-equipment/tablet-press-machine/zp15b-rotary-tablet-press-machine.md
+          - ZP15D Rotary Tablet Press: pharmaceutical-equipment/tablet-press-machine/zp15d-rotary-tablet-press-machine.md
+          - ZP17 Old Model Rotary: pharmaceutical-equipment/tablet-press-machine/zp17-old-rotary-tablet-press-machine.md
+          - ZP27 High-Speed Rotary: pharmaceutical-equipment/tablet-press-machine/zp27-rotary-tablet-press-machine.md
       - Film Coating Machine:
           - Overview: pharmaceutical-equipment/film-coating-machine/coating-machine-index.md
           - BG Series High-Efficiency Coater: pharmaceutical-equipment/film-coating-machine/bg-series-coating-machine.md
@@ -303,6 +311,9 @@ nav:
           - JF8 Automatic Capsule Counter: pharmaceutical-equipment/counting-machine/jf8-automatic-capsule-counter.md
           - SPN-400 Capsule & Tablet Counter: pharmaceutical-equipment/counting-machine/spn-400-capsule-tablet-counter.md
           - YL Series Capsule & Tablet Counter: pharmaceutical-equipment/counting-machine/yl-serise-capsule-tablet-counter.md
+      - Vacuum Feeder:
+          - Overview: pharmaceutical-equipment/vacuum-feeder/qvc-series-vacuum-feeder-index.md
+          - QVC Series Pneumatic Feeder: pharmaceutical-equipment/vacuum-feeder/qvc-series-vacuum-feeder.md
   - Material Handling Equipment:
       - Stacker Series:
           - Overview: material-handling/stacker/stacker-index.md
