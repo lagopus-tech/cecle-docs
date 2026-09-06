@@ -324,6 +324,11 @@
 ### Vacuum Feeder
 - [Overview](https://doc.cecle.net/pharmaceutical-equipment/vacuum-feeder/qvc-series-vacuum-feeder-index/): The QVC Series Pneumatic Vacuum Feeder effectively addresses the pain points of dust dispersion, material damage, and low manual labor efficiency in solid dosage production lines through its enclos...
 - [QVC Series Pneumatic Feeder](https://doc.cecle.net/pharmaceutical-equipment/vacuum-feeder/qvc-series-vacuum-feeder/): The QVC Series Pneumatic Vacuum Feeder is a high-efficiency automated vacuum conveying device specifically designed for powder and granular materials.
+- [ZKS Series Electric Vacuum Feeder](https://doc.cecle.net/pharmaceutical-equipment/vacuum-feeder/zks-series-vacuum-feeder/): The ZKS Series Electric Vacuum Feeder is a high-efficiency automated powder and granule conveying equipment powered by a high-quality vortex air pump (electric motor) as its vacuum source.
+
+### Extract & Distillation Equipment
+- [CTM Chinese Medicine Extraction & Concentration](https://doc.cecle.net/pharmaceutical-equipment/extract-equipment/ctm-chinese-medicine-extraction-concentration-equipment/): The CTM-50 Traditional Chinese Medicine Extraction & Concentration Equipment is a multi-purpose, fully sealed thermodynamic system engineered for boiling, extracting, and recovering solvents from b...
+- [QYMD Glass Short Path Molecular Distillation](https://doc.cecle.net/pharmaceutical-equipment/extract-equipment/qymd-series-distillation-equipment/): The Glass Short Path Molecular Distillation Equipment (QYMD Series) is a highly precise thermodynamic separation system operating under deep vacuum conditions (up to 0.1Pa).
 
 ## Material Handling Equipment
 

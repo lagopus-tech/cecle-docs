@@ -327,6 +327,10 @@ nav:
       - Vacuum Feeder:
           - Overview: pharmaceutical-equipment/vacuum-feeder/qvc-series-vacuum-feeder-index.md
           - QVC Series Pneumatic Feeder: pharmaceutical-equipment/vacuum-feeder/qvc-series-vacuum-feeder.md
+          - ZKS Series Electric Vacuum Feeder: pharmaceutical-equipment/vacuum-feeder/zks-series-vacuum-feeder.md
+      - Extract & Distillation Equipment:
+          - CTM Chinese Medicine Extraction & Concentration: pharmaceutical-equipment/extract-equipment/ctm-chinese-medicine-extraction-concentration-equipment.md
+          - QYMD Glass Short Path Molecular Distillation: pharmaceutical-equipment/extract-equipment/qymd-series-distillation-equipment.md
   - Material Handling Equipment:
       - Stacker Series:
           - Overview: material-handling/stacker/stacker-index.md
