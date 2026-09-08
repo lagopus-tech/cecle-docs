@@ -9,9 +9,9 @@ Welcome to the CECLE Round Bottle Labeling Machine product section. We specializ
 | Model Series | Automation Level | Capacity / Operating Speed | Optional Core Features (Except Manual) | Applicable Scenarios & Features |
 | :--- | :--- | :--- | :--- | :--- |
 | **Manual Round Bottle Labeler** | Pure Manual | Depends on manual proficiency | Not supported | Very low output, startup home workshops, laboratories, sample testing |
-| **Semi-Automatic Round Bottle Labeler** | Semi-Automatic | 15–50 pcs/min | • Transparent label sensor• Ribbon coder (prints dates) | Small-batch production, honey jars, cups, small-to-medium startup teams |
-| **Desktop Fully Automatic Round Bottle Labeler** | Fully Automatic (Desktop) | 30–60 pcs/min | • Transparent label sensor• Ribbon coder (prints dates)• Bottle unscrambler• Cylinder positioning (fixed angle/dual labels) | Small-to-medium batch continuous production, compact desktop full-auto production lines |
-| **Vertical Fully Automatic Round Bottle Labeler** | Fully Automatic (Vertical) | High speed / customizable ultra-high capacity | • Transparent label sensor• Ribbon coder (prints dates)• Bottle unscrambler• Cylinder positioning (fixed angle/dual labels) | Medium-to-large industrial assembly lines, scaled production, highly customizable |
+| **Semi-Automatic Round Bottle Labeler** | Semi-Automatic | 15–50 pcs/min | • Transparent label sensor<br>• Ribbon coder (prints dates) | Small-batch production, honey jars, cups, small-to-medium startup teams |
+| **Desktop Fully Automatic Round Bottle Labeler** | Fully Automatic (Desktop) | 30–60 pcs/min | • Transparent label sensor<br>• Ribbon coder (prints dates)<br>• Bottle unscrambler<br>• Cylinder positioning (fixed angle/dual labels) | Small-to-medium batch continuous production, compact desktop full-auto production lines |
+| **Vertical Fully Automatic Round Bottle Labeler** | Fully Automatic (Vertical) | High speed / customizable ultra-high capacity | • Transparent label sensor<br>• Ribbon coder (prints dates)<br>• Bottle unscrambler<br>• Cylinder positioning (fixed angle/dual labels) | Medium-to-large industrial assembly lines, scaled production, highly customizable |
 
 ---
 
