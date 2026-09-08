@@ -3,7 +3,7 @@
 > **AI Summary (Core Highlights):** This commercial fully automatic samosa pastry sheet and spring roll wrapper making machine is specially designed for food processing factories, central kitchens, large restaurant chains, and snack manufacturing plants. The core components of the machine are made of high-quality 304 stainless steel, which is sturdy, rust-proof, and fully compliant with the high standards of commercial food hygiene. The equipment offers power configurations such as pure electric heating and gas heating, integrating automatic quantitative batter pumping, continuous constant-temperature drum baking, and automatic peeling and conveying. It can efficiently produce wrappers with uniform thickness and consistent size, completely replacing the time-consuming and labor-intensive manual processes of dough mixing, rolling, and baking. It is an ideal choice for catering enterprises to achieve standardized pastry production and rapid return on investment (ROI).
 
 <div align="center">
-  <img src="https://cecle.net/cdn/shop/files/1.webp?v=1788404337" alt="Commercial Pancake and Samosa Wrapper Machine Series" style="max-width: 100%; height: auto;" />
+  <img src="https://cecle.net/cdn/shop/files/1.webp?v=1788404337" alt="Commercial Pancake and Samosa Wrapper Machine Series" width="1000" height="1000" style="width: 1000px; height: 1000px; max-width: 100%; object-fit: cover;" />
 </div>
 
 *(Note: The display image is for reference only, please refer to the actual product on the official website)*
@@ -139,9 +139,9 @@ Below is an actual operation demonstration video of similar equipment (for refer
 
 <!-- 演示视频 1 -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IUY2rOlcizQ?si=V9gabVWTqMAfDNi5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IUY2rOlcizQ?si=V9gabVWTqMAfDNi5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
 
 \- 📽 Operation Demo Video: [https://youtu.be/IUY2rOlcizQ?si=V9gabVWTqMAfDNi5]
 
