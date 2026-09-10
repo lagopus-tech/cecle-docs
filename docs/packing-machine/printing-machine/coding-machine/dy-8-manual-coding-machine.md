@@ -1,7 +1,7 @@
 # DY-8 Manual Date Coding Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/DY-8_55afe424-7112-48fa-99c1-a13035f09312.png?v=1785396213)
 
-> **Core Abstract:** The DY-8 is an entry-level manual ribbon date coding machine designed for small-scale processing plants, retail shops, and low-volume production. It utilizes thermal ribbon technology to print production dates, batch numbers, and expiry dates on plastic bags, paper boxes, and labels. Its primary advantages include its extreme portability (4.5kg), ease of use without the need for an air compressor, and low cost. It is most suitable for industries like food, pharmaceuticals, and agricultural products where simple, clean, and smudge-resistant coding is required on flat, flexible packaging materials.
+> The DY-8 is an entry-level manual ribbon date coding machine designed for small-scale processing plants, retail shops, and low-volume production. It utilizes thermal ribbon technology to print production dates, batch numbers, and expiry dates on plastic bags, paper boxes, and labels. Its primary advantages include its extreme portability (4.5kg), ease of use without the need for an air compressor, and low cost. It is most suitable for industries like food, pharmaceuticals, and agricultural products where simple, clean, and smudge-resistant coding is required on flat, flexible packaging materials.
 
 ## 1. Product Overview
 | Item | Details |

@@ -2,7 +2,7 @@
 
 ![ASGJ Capping Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17861781873056.png?v=1786178222)
 
-> **core Abstract**: The ASGJ Automatic Inline Capping Machine is a high-efficiency packaging solution designed for daily chemical, pharmaceutical, food, and beverage production lines. Featuring a durable 201 stainless steel frame, intelligent PLC touchscreen control, and high-precision German SICK photoelectric sensors, it handles bottle heights from 80–400mm and capping speeds of 30–45 bottles/minute. Specifically optimized for complex closures such as pump heads, duckbill caps, and spray nozzles without cap damage.
+> The ASGJ Automatic Inline Capping Machine is a high-efficiency packaging solution designed for daily chemical, pharmaceutical, food, and beverage production lines. Featuring a durable 201 stainless steel frame, intelligent PLC touchscreen control, and high-precision German SICK photoelectric sensors, it handles bottle heights from 80–400mm and capping speeds of 30–45 bottles/minute. Specifically optimized for complex closures such as pump heads, duckbill caps, and spray nozzles without cap damage.
 
 ## I. Product Overview
 *   **Category**: Automatic Inline Capping Machine

@@ -2,8 +2,7 @@
 
 ![TS-80 Tube Sealing Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17834930212181.png?v=1783493300)
 
-> **Core Abstract:**  
-> The **TS-80** is a semi-automatic pneumatic tube sealing machine specifically engineered for aluminum tube cold-folding and tail-crimping in the cosmetic, pharmaceutical, food, and chemical industries. Ideal for processing pastes, ointments, toothpastes, and creams, it features an efficient dual-station setup (left for crimping/folding, right for date/batch code embossing) operated via a convenient pneumatic foot pedal. With a production capacity of 10-20 pcs/min and customizable horizontal or vertical sealing, it delivers durable, professional packaging for small-to-medium factories and laboratories.
+> > The **TS-80** is a semi-automatic pneumatic tube sealing machine specifically engineered for aluminum tube cold-folding and tail-crimping in the cosmetic, pharmaceutical, food, and chemical industries. Ideal for processing pastes, ointments, toothpastes, and creams, it features an efficient dual-station setup (left for crimping/folding, right for date/batch code embossing) operated via a convenient pneumatic foot pedal. With a production capacity of 10-20 pcs/min and customizable horizontal or vertical sealing, it delivers durable, professional packaging for small-to-medium factories and laboratories.
 
 ---
 

@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_y0xwgxy0xwgxy0xw.png?v=1786173330)
 
-> **Core Abstract**
-> The DGD-W30TD-W-K500 500g Granule Stand Up Pouch Packing Machine is a highly efficient automated packaging solution engineered for uniform granular materials. It is exceptionally suited for the food, dry goods, and condiment industries. Its core advantage lies in the integration of a **three-head electronic linear weigher**, achieving an impressive packing accuracy of ±0.1g. This machine uniquely supports both single-material dispensing and precise multi-material proportioned mixing , offering unparalleled flexibility. Combined with a split-type modular structure and high-quality mesh sealing technology, it delivers stable, aesthetic, and cost-effective packaging for high-value agricultural products and premium snacks.
+> > The DGD-W30TD-W-K500 500g Granule Stand Up Pouch Packing Machine is a highly efficient automated packaging solution engineered for uniform granular materials. It is exceptionally suited for the food, dry goods, and condiment industries. Its core advantage lies in the integration of a **three-head electronic linear weigher**, achieving an impressive packing accuracy of ±0.1g. This machine uniquely supports both single-material dispensing and precise multi-material proportioned mixing , offering unparalleled flexibility. Combined with a split-type modular structure and high-quality mesh sealing technology, it delivers stable, aesthetic, and cost-effective packaging for high-value agricultural products and premium snacks.
 
 ---
 

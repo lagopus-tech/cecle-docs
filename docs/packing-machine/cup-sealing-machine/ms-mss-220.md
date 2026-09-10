@@ -2,8 +2,7 @@
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/MS-220.png?v=1785911745)
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/MSS-220.png?v=1785911753)
 
-> **Core Abstract:**
-> The MS-220 / MSS-220 Cup Sealing Machine is a high-efficiency automatic cup-sensing and sealing equipment designed for fast, precise packaging of bubble tea, coffee, juice, and other beverages. Perfectly suited for busy bubble tea shops, cafes, fast food restaurants, and catering chains, this machine stands out with its advanced electronic eye sensing system that ensures flawless design alignment. Offered in two distinct casing materials—a stylish, lightweight black plastic (MS-220) and a heavy-duty, corrosion-resistant stainless steel (MSS-220)—it adapts easily to varying budgets and aesthetics. With a fast production speed of 400 to 600 cups per hour and support for customizable sizes, it is a highly reliable solution for demanding commercial environments.
+> > The MS-220 / MSS-220 Cup Sealing Machine is a high-efficiency automatic cup-sensing and sealing equipment designed for fast, precise packaging of bubble tea, coffee, juice, and other beverages. Perfectly suited for busy bubble tea shops, cafes, fast food restaurants, and catering chains, this machine stands out with its advanced electronic eye sensing system that ensures flawless design alignment. Offered in two distinct casing materials—a stylish, lightweight black plastic (MS-220) and a heavy-duty, corrosion-resistant stainless steel (MSS-220)—it adapts easily to varying budgets and aesthetics. With a fast production speed of 400 to 600 cups per hour and support for customizable sizes, it is a highly reliable solution for demanding commercial environments.
 
 ## 1. Product Overview
 | Item | Details |

@@ -4,8 +4,7 @@
 
 ---
 
-> **Core Abstract**
-> The TD-034A is a double-station pneumatic logo heat press machine designed for precise pressing of garment labels, chest badges, sleeve tags, cap fronts, and small-size heat-transfer prints. It is best suited to apparel accessory factories, streetwear customization studios, cross-border e-commerce sellers, sports-team numbering, and workwear branding. Its core advantages include a dual-station alternating design—while one side is pressed, the other is loaded, greatly boosting daily output—plus an air-driven vertical press system that delivers stable, even pressure for crisp, complete small-pattern transfers. A 600W aluminum heating platen covers 0–399°C, and safety features such as an emergency stop and micro-switch ensure fatigue-free, high-consistency batch production. With 110V/220V dual-voltage support, it adapts to most markets worldwide.
+> > The TD-034A is a double-station pneumatic logo heat press machine designed for precise pressing of garment labels, chest badges, sleeve tags, cap fronts, and small-size heat-transfer prints. It is best suited to apparel accessory factories, streetwear customization studios, cross-border e-commerce sellers, sports-team numbering, and workwear branding. Its core advantages include a dual-station alternating design—while one side is pressed, the other is loaded, greatly boosting daily output—plus an air-driven vertical press system that delivers stable, even pressure for crisp, complete small-pattern transfers. A 600W aluminum heating platen covers 0–399°C, and safety features such as an emergency stop and micro-switch ensure fatigue-free, high-consistency batch production. With 110V/220V dual-voltage support, it adapts to most markets worldwide.
 
 ---
 

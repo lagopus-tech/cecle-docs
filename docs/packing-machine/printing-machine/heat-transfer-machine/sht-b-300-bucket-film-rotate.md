@@ -1,8 +1,7 @@
 # Rocking Heat Transfer Printing Machine for Paint Bucket
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17830888562617.png?v=1783088886)
 
-> **core Abstract**  
-> The SHT-B-300 is an industrial-grade, semi-automatic heat transfer printing machine specifically engineered for 5L to 25L plastic paint, lubricant, and chemical buckets (PP/PE). Featuring a heavy-duty 600kg frame and a 1:1 precision customized mold design, it utilizes a rocking contour-following mechanism to achieve flawless, high-resolution design transfers on tapered and cylindrical surfaces without ghosting or wrinkling. Ideal for industrial packaging manufacturers looking for high-end visual branding and durable chemical resistance.
+> > The SHT-B-300 is an industrial-grade, semi-automatic heat transfer printing machine specifically engineered for 5L to 25L plastic paint, lubricant, and chemical buckets (PP/PE). Featuring a heavy-duty 600kg frame and a 1:1 precision customized mold design, it utilizes a rocking contour-following mechanism to achieve flawless, high-resolution design transfers on tapered and cylindrical surfaces without ghosting or wrinkling. Ideal for industrial packaging manufacturers looking for high-end visual branding and durable chemical resistance.
 
 **Model: SHT-B-300**
 

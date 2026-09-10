@@ -1,8 +1,7 @@
 # WF1-303V-A Table Top Coffee Vending Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/WF1-303V-A.png?v=1788504214)
 
-> **Core Abstract:** 
-> The WF1-303V-A is a compact table top automatic coffee vending machine designed for brewing various instant powder beverages such as coffee and milk tea. Ideal for offices, convenience stores, internet cafes, and small public spaces, it features flexible water supply options, an intelligent coin-operated drop-cup system holding up to 60 cups, and a high-capacity 8L water tank with a 1.6L hot water reservoir. Operating effortlessly with coin or button controls, this 1000W machine delivers a reliable, user-friendly, and efficient self-service hot drink solution.
+> > The WF1-303V-A is a compact table top automatic coffee vending machine designed for brewing various instant powder beverages such as coffee and milk tea. Ideal for offices, convenience stores, internet cafes, and small public spaces, it features flexible water supply options, an intelligent coin-operated drop-cup system holding up to 60 cups, and a high-capacity 8L water tank with a 1.6L hot water reservoir. Operating effortlessly with coin or button controls, this 1000W machine delivers a reliable, user-friendly, and efficient self-service hot drink solution.
 
 ## 1. Product Overview
 | Item | Detail |

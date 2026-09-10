@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/b243f61f8600cca3b7ceae4237480acb.jpg?v=1786172752)
 
-> **Core Abstract**
-> The DGD-W30TD-W-J500 Sauce Pneumatic Plunger Pump Stand Up Pouch Packing Machine is an elite automated packaging solution custom-engineered for mixed particle, paste, and liquid sauces across the food and condiment industries. Featuring an 80-liter U-shaped stirring hopper with a mixing mechanism, it completely eliminates oil-water separation and particle settling. Standardized with an blow-filling head and mesh sealing dies, this durable stainless steel system delivers a precision of ±0.5g to ensure uniform, leak-free commercial sauce packaging.
+> > The DGD-W30TD-W-J500 Sauce Pneumatic Plunger Pump Stand Up Pouch Packing Machine is an elite automated packaging solution custom-engineered for mixed particle, paste, and liquid sauces across the food and condiment industries. Featuring an 80-liter U-shaped stirring hopper with a mixing mechanism, it completely eliminates oil-water separation and particle settling. Standardized with an blow-filling head and mesh sealing dies, this durable stainless steel system delivers a precision of ±0.5g to ensure uniform, leak-free commercial sauce packaging.
 
 ---
 

@@ -3,8 +3,7 @@
 
 ![CW-320 Product Image](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17847048442118.png?v=1784704938)
 
-> **Core Abstract (Core Overview):**
-> The **CW-320** is a fully automatic flat-push 3D cellophane overwrapping machine designed for high-speed, skin-tight BOPP film packaging of boxed items. Ideal for pharmaceuticals, cosmetics, food, healthcare, and stationery industries, it delivers elegant, bubble-free seals with optional anti-counterfeiting tear tape. Featuring robust heavy-duty cam transmissions and quick 20-30 minute mold changeovers, the CW-320 offers superior stability, high production output, and versatile multi-specification packaging for growing enterprises.
+> > The **CW-320** is a fully automatic flat-push 3D cellophane overwrapping machine designed for high-speed, skin-tight BOPP film packaging of boxed items. Ideal for pharmaceuticals, cosmetics, food, healthcare, and stationery industries, it delivers elegant, bubble-free seals with optional anti-counterfeiting tear tape. Featuring robust heavy-duty cam transmissions and quick 20-30 minute mold changeovers, the CW-320 offers superior stability, high production output, and versatile multi-specification packaging for growing enterprises.
 
 ---
 

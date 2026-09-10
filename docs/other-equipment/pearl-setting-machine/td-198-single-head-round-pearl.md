@@ -1,8 +1,7 @@
 # TD-198 Single Head Nail Round Pearl Fixing Beading Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/TD-198.png?v=1786001355)
 
-> **Core Abstract:** 
-> The TD-198 Single Head Round Pearl Setting Machine is an advanced and highly efficient pneumatic beading device specifically designed for precisely attaching standard round pearls to clothing, shoes, hats, and leather goods. It serves as the ideal choice for garment manufacturers, bag processing workshops, and custom clothing studios looking to upgrade their production. Featuring a robust dual-cylinder pneumatic pressing system, it ensures strong nail penetration and secure fastening without damaging delicate fabrics. The machine boasts a fully automatic feeding mechanism capable of impressive speeds up to 150-180 pieces per minute, which drastically reduces manual labor costs. Combined with smart touch screen controls and a dual foot pedal system, it offers a highly adaptable, user-friendly operation for effortlessly processing 4mm to 12mm round pearls.
+> > The TD-198 Single Head Round Pearl Setting Machine is an advanced and highly efficient pneumatic beading device specifically designed for precisely attaching standard round pearls to clothing, shoes, hats, and leather goods. It serves as the ideal choice for garment manufacturers, bag processing workshops, and custom clothing studios looking to upgrade their production. Featuring a robust dual-cylinder pneumatic pressing system, it ensures strong nail penetration and secure fastening without damaging delicate fabrics. The machine boasts a fully automatic feeding mechanism capable of impressive speeds up to 150-180 pieces per minute, which drastically reduces manual labor costs. Combined with smart touch screen controls and a dual foot pedal system, it offers a highly adaptable, user-friendly operation for effortlessly processing 4mm to 12mm round pearls.
 
 ## 1. Product Overview
 | Item | Details |

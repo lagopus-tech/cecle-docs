@@ -1,8 +1,7 @@
 # FM 1-9999g Weighing Filling Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/6275e99a519edc9c7d42bc693f75d227_3aa57ade-13f2-4a1a-879f-fce36e7767fd.png?v=1787282749)
 
-> **Core Abstract:**
-> The FM 1-9999g Weighing Filling Machine series is an intelligent, fully automatic quantitative weighing and dispensing equipment, ideal for the food, agriculture, hardware, and chemical industries. Ranging from 50g micro-dosing to 10kg bulk filling, it seamlessly handles dry materials like tea, nuts, beans, powders, and screws. Built with food-grade stainless steel, it features an upgraded smart control panel for precise weight setting (accuracy ±0.2~2g) and a convenient foot pedal for semi-automatic dispensing. Its diverse model options ensure a perfect fit for both startup brands and large-scale manufacturing facilities requiring reliable, high-precision packaging solutions.
+> > The FM 1-9999g Weighing Filling Machine series is an intelligent, fully automatic quantitative weighing and dispensing equipment, ideal for the food, agriculture, hardware, and chemical industries. Ranging from 50g micro-dosing to 10kg bulk filling, it seamlessly handles dry materials like tea, nuts, beans, powders, and screws. Built with food-grade stainless steel, it features an upgraded smart control panel for precise weight setting (accuracy ±0.2~2g) and a convenient foot pedal for semi-automatic dispensing. Its diverse model options ensure a perfect fit for both startup brands and large-scale manufacturing facilities requiring reliable, high-precision packaging solutions.
 
 ## 1. Product Overview
 | Item | Details |

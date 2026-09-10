@@ -1,4 +1,4 @@
-## Stacker Selection Guide
+# Stacker Selection Guide
 
 To help you accurately choose the most suitable stacker equipment based on different working conditions, pallet types, and budgets, this selection guide has been compiled. The following covers the core features and application scenarios of fully electric, semi-electric, manual, and special-purpose stackers:
 

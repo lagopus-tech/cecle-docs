@@ -3,8 +3,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17829196846763.png?v=1783046343)
 
-> **core Abstract**  
-> The HT-B-300 is a semi-automatic heat transfer printing machine specifically engineered for high-precision multi-color graphic transfers on plastic buckets and pails (such as paint, chemical, food, and lubricant containers). Driven by a powerful pneumatic system and equipped with a photoelectric sensor for exact film positioning, it delivers vibrant, scratch-resistant pattern adhesion at 5 cycles/min. Its durable chromate-treated structure and cost-effective operation make it ideal for small-to-medium plastic packaging manufacturers.
+> > The HT-B-300 is a semi-automatic heat transfer printing machine specifically engineered for high-precision multi-color graphic transfers on plastic buckets and pails (such as paint, chemical, food, and lubricant containers). Driven by a powerful pneumatic system and equipped with a photoelectric sensor for exact film positioning, it delivers vibrant, scratch-resistant pattern adhesion at 5 cycles/min. Its durable chromate-treated structure and cost-effective operation make it ideal for small-to-medium plastic packaging manufacturers.
 
 ---
 

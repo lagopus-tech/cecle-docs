@@ -2,7 +2,7 @@
 
 ![VC-10A Capping Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17861716985709.png?v=1786171731)
 
-> **core Abstract**: The VC-10A is a tabletop semi-automatic vacuum capping machine designed for glass bottles with tinplate caps. Featuring a dual-workstation design for enhanced production efficiency (0–600 bottles/hour) and 1:1 custom-fit molds, it integrates pneumatic and electrical operation to deliver reliable vacuum sealing for food processing and condiment industries like jams, sauces, honey, and pickles.
+> The VC-10A is a tabletop semi-automatic vacuum capping machine designed for glass bottles with tinplate caps. Featuring a dual-workstation design for enhanced production efficiency (0–600 bottles/hour) and 1:1 custom-fit molds, it integrates pneumatic and electrical operation to deliver reliable vacuum sealing for food processing and condiment industries like jams, sauces, honey, and pickles.
 
 ## 1. Product Overview
 *   **Category**: Tabletop Semi-automatic Vacuum Capping Machine

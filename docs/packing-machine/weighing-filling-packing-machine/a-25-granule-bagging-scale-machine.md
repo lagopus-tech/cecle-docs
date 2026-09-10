@@ -1,8 +1,7 @@
 # A-25 Granule Semi-auto Bagging Scale Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/A-25.png?v=1787809559)
 
-> **Core Abstract:**
-> The A-25 Granule Semi-auto Bagging Scale is a heavy-duty packaging solution designed for bulk granular materials like rice, seeds, beans, sugar, fertilizer, and feed. Perfectly suited for agricultural and chemical processing plants, it offers a massive single-weighing capacity of up to 25KG (55.1 lbs). It features a grand new modular control system and a stepless vibrating feeding mechanism for smooth, damage-free dispensing at a speed of 5-7 bags per minute. Paired with an adjustable sealing height and an integrated conveyor belt, it significantly reduces manual labor and streamlines large-scale heavy bag packaging operations.
+> > The A-25 Granule Semi-auto Bagging Scale is a heavy-duty packaging solution designed for bulk granular materials like rice, seeds, beans, sugar, fertilizer, and feed. Perfectly suited for agricultural and chemical processing plants, it offers a massive single-weighing capacity of up to 25KG (55.1 lbs). It features a grand new modular control system and a stepless vibrating feeding mechanism for smooth, damage-free dispensing at a speed of 5-7 bags per minute. Paired with an adjustable sealing height and an integrated conveyor belt, it significantly reduces manual labor and streamlines large-scale heavy bag packaging operations.
 
 ## 1. Product Overview
 | Item | Details |

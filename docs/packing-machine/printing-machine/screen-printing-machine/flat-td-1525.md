@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/MD.jpg?v=1782292363)
 
-> **Core Abstract**
-> The TD-1525 is a pneumatically driven, desktop flat screen printing machine specially designed for printing on small flat objects. It is perfectly suited for industries such as electronics, instruments, and advertising, handling items like acrylic nameplates, and electronic component shells up to 120mm in thickness. Its core advantages include a 0.01mm precision adjustable worktable and a guide rail lifting system that ensure exceptional positioning accuracy and consistency. Furthermore, it operates efficiently with an extremely low air source consumption of just 4BAR, delivering an ultra-high production speed of up to 1500 pcs/hr to significantly boost daily capacity for small-to-medium batch processing.
+> > The TD-1525 is a pneumatically driven, desktop flat screen printing machine specially designed for printing on small flat objects. It is perfectly suited for industries such as electronics, instruments, and advertising, handling items like acrylic nameplates, and electronic component shells up to 120mm in thickness. Its core advantages include a 0.01mm precision adjustable worktable and a guide rail lifting system that ensure exceptional positioning accuracy and consistency. Furthermore, it operates efficiently with an extremely low air source consumption of just 4BAR, delivering an ultra-high production speed of up to 1500 pcs/hr to significantly boost daily capacity for small-to-medium batch processing.
 
 ---
 

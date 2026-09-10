@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/jimeng-2026-07-04-7841.png?v=1783143013)
 
-> **Core Abstract**
-> The TDP series single punch tablet press is a compact, highly efficient mechanical device engineered for pressing granular and powdered materials into precise tablets. It is perfectly suited for pharmaceutical R&D, dietary supplement manufacturing, chemical testing laboratories, and start-up health clinics requiring flexible, small-batch production. Featuring a robust construction, this series offers adjustable pressure ranging from 15kN to 60kN, allowing for the creation of customized tablet sizes up to 25mm in diameter. With a stable production capacity of up to 6,000 pieces per hour and high-quality durable components, it delivers industrial-grade reliability in a desktop-sized footprint, ensuring seamless transitions from prototyping to commercial manufacturing.
+> > The TDP series single punch tablet press is a compact, highly efficient mechanical device engineered for pressing granular and powdered materials into precise tablets. It is perfectly suited for pharmaceutical R&D, dietary supplement manufacturing, chemical testing laboratories, and start-up health clinics requiring flexible, small-batch production. Featuring a robust construction, this series offers adjustable pressure ranging from 15kN to 60kN, allowing for the creation of customized tablet sizes up to 25mm in diameter. With a stable production capacity of up to 6,000 pieces per hour and high-quality durable components, it delivers industrial-grade reliability in a desktop-sized footprint, ensuring seamless transitions from prototyping to commercial manufacturing.
 
 ## I. Product Overview
 

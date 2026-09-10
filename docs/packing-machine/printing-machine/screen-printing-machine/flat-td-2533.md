@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_rpyipfrpyipfrpyi.png?v=1782287961)
 
-> **Core Abstract**
-> The TD-2533 is a pneumatically driven, medium-sized desktop flatbed screen printing machine designed for printing flat products across various industries, such as packaging, electronics, and advertising. Supporting a maximum substrate thickness of up to 12cm and a printing area of 250×330mm, it is highly adaptable to materials like glass, metal plates, and non-woven bags. Its core advantages include a microsecond-response control board and a precision-milled machine body, ensuring high industrial durability and low friction resistance. Delivering an efficiency of up to 1200 pcs/hr, it serves as an ideal solution for continuous production and commercial customized batch printing.
+> > The TD-2533 is a pneumatically driven, medium-sized desktop flatbed screen printing machine designed for printing flat products across various industries, such as packaging, electronics, and advertising. Supporting a maximum substrate thickness of up to 12cm and a printing area of 250×330mm, it is highly adaptable to materials like glass, metal plates, and non-woven bags. Its core advantages include a microsecond-response control board and a precision-milled machine body, ensuring high industrial durability and low friction resistance. Delivering an efficiency of up to 1200 pcs/hr, it serves as an ideal solution for continuous production and commercial customized batch printing.
 
 ---
 

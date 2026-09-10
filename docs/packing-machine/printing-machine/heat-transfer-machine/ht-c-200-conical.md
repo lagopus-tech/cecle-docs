@@ -3,7 +3,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17830617572787.png?v=1783061788)
 
-> ### core Abstract
+> **Overview**
 > The **HT-C-200 Cone Heat Transfer Machine** is a semi-automatic, high-precision surface decoration printer specially engineered for tapered and truncated cone-shaped containers, such as milk tea cups, chemical buckets, cosmetic caps, and pen barrels. Featuring a 200mm transfer width, high-precision foil feeding system, and full pneumatic drive (0.6–0.8 MPa), it eliminates wrinkling and missed printing on irregular surfaces. With durable chromate-treated components and an intuitive digital control interface, it delivers vibrant, high-adhesion color transfers for customized packaging production.
 
 ---

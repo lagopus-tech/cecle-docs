@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_5zhd0g5zhd0g5zhd.png?v=1782350144)
 
-> **Core Abstract**
-The TD-3050 through TD-60100 series represents high-performance, semi-automatic vertical flatbed screen printing machines engineered specifically for heavy-duty industrial tasks. Utilizing a robust vertical lifting design where the frame raises vertically and the print head runs horizontally, it is perfectly suited for medium-to-large scale factories printing on glass panels, metal plates, electronic nameplates, paper, and ceramic decals. The series' core advantages rest on its vertically guided structure that prevents ink running or ghosting, paired with a powerful variable-frequency drive motor for highly constant squeegee pressure. Featuring a vacuum suction worktable for precise registration and support for substrates up to 30mm thick, this durable line delivers excellent print uniformity at a swift production capacity of up to 800-1000 times per hour.
+> The TD-3050 through TD-60100 series represents high-performance, semi-automatic vertical flatbed screen printing machines engineered specifically for heavy-duty industrial tasks. Utilizing a robust vertical lifting design where the frame raises vertically and the print head runs horizontally, it is perfectly suited for medium-to-large scale factories printing on glass panels, metal plates, electronic nameplates, paper, and ceramic decals. The series' core advantages rest on its vertically guided structure that prevents ink running or ghosting, paired with a powerful variable-frequency drive motor for highly constant squeegee pressure. Featuring a vacuum suction worktable for precise registration and support for substrates up to 30mm thick, this durable line delivers excellent print uniformity at a swift production capacity of up to 800-1000 times per hour.
 
 ---
 

@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_4k6ec4k6ec4k6ec4.png?v=1782349738)
 
-> **Core Abstract**
-> The TD-2030SF is an industrial-grade, floor-standing vertical flat screen printing machine driven by an advanced dual-servo system and regulated by PLC program control. Specifically engineered for the high-tech electronics industry, it is ideal for printing precision components like PCB boards, conductive film circuits, and instrument panels. The machine's core advantages stem from its heavy-duty vertical horizontal-lift structure and micro-adjustable vacuum table, which guarantee an exceptional printing accuracy of ±0.02mm. Delivering an ultra-smooth squeegee stroke that eliminates pneumatic vibrations, it achieves a stable capacity of up to 960 pcs/hr, offering an elite production solution for high-yield lines.
+> > The TD-2030SF is an industrial-grade, floor-standing vertical flat screen printing machine driven by an advanced dual-servo system and regulated by PLC program control. Specifically engineered for the high-tech electronics industry, it is ideal for printing precision components like PCB boards, conductive film circuits, and instrument panels. The machine's core advantages stem from its heavy-duty vertical horizontal-lift structure and micro-adjustable vacuum table, which guarantee an exceptional printing accuracy of ±0.02mm. Delivering an ultra-smooth squeegee stroke that eliminates pneumatic vibrations, it achieves a stable capacity of up to 960 pcs/hr, offering an elite production solution for high-yield lines.
 
 ---
 

@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/b243f61f8600cca3b7ceae4237480acb_fbd4f031-e280-41e0-be81-227ae3965b43.jpg?v=1786172880)
 
-> **Core Abstract**
-> The DGD-W30TD-W-YSK280 Liquid Digital Control Pump Stand Up Pouch Packing Machine is an elite automated solution custom-engineered for pure liquids across the agricultural, food, and daily chemical industries. Featuring a direct-suction feed system that draws material straight from ground-level buckets without overhead hoppers, it delivers an packaging precision of ±0.1g. Built with durable stainless steel, this machine features zero-cleaning burden maintenance and precise digital controls to maximize operational efficiency.
+> > The DGD-W30TD-W-YSK280 Liquid Digital Control Pump Stand Up Pouch Packing Machine is an elite automated solution custom-engineered for pure liquids across the agricultural, food, and daily chemical industries. Featuring a direct-suction feed system that draws material straight from ground-level buckets without overhead hoppers, it delivers an packaging precision of ±0.1g. Built with durable stainless steel, this machine features zero-cleaning burden maintenance and precise digital controls to maximize operational efficiency.
 
 ---
 

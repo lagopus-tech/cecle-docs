@@ -2,8 +2,7 @@
 
 ![Countertop Soft Serve Ice Cream Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/ice_cream_machine_169f6503-800d-496f-b55f-fd8e92ee9c71.png?v=1787800584)
 
-> **Core Abstract**: 
-> The Countertop Soft Serve Ice Cream Machine (Models: TD-618CTB / TD-25CTB / TD-36CTB) is a high-efficiency dessert-making solution designed for commercial catering and leisure bars. Featuring a compact countertop footprint and a twin-hopper, three-dispensing-head design, this machine can simultaneously serve two individual flavors and one mixed twist flavor. Equipped with an intelligent LED digital control panel and a high-performance compressor, it offers rapid refrigeration, real-time hardness display, and a one-touch auto-clean function. Built with a durable full stainless steel body that complies with food hygiene standards, it is the ideal choice for cafes, convenience stores, bubble tea shops, and restaurants looking to expand product variety and profitability.
+> > The Countertop Soft Serve Ice Cream Machine (Models: TD-618CTB / TD-25CTB / TD-36CTB) is a high-efficiency dessert-making solution designed for commercial catering and leisure bars. Featuring a compact countertop footprint and a twin-hopper, three-dispensing-head design, this machine can simultaneously serve two individual flavors and one mixed twist flavor. Equipped with an intelligent LED digital control panel and a high-performance compressor, it offers rapid refrigeration, real-time hardness display, and a one-touch auto-clean function. Built with a durable full stainless steel body that complies with food hygiene standards, it is the ideal choice for cafes, convenience stores, bubble tea shops, and restaurants looking to expand product variety and profitability.
 
 ---
 

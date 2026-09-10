@@ -4,8 +4,7 @@
 
 ---
 
-> **Core Abstract**
-> The HP-6080 is a manual flat heat press machine with a clamshell design, built for batch pressing of large-format items such as T-shirts, sports jerseys, yoga mats, and big-size rhinestone transfers. It is best suited to garment printing factories, personalization studios, cross-border e-commerce sellers, rhinestone workshops, and yoga-mat embossing operations. Its core advantages include a 60×80 cm (23.6×31.5") large aluminum heating plate that covers a full jersey front/back in one press—cutting splicing—plus dual pressure handles for balanced, even force and an adjustable pressure knob for material-specific pressure. Simple manual operation, Celsius/Fahrenheit switchable, and 3600W power make it easy to run for small-to-medium batch production.
+> > The HP-6080 is a manual flat heat press machine with a clamshell design, built for batch pressing of large-format items such as T-shirts, sports jerseys, yoga mats, and big-size rhinestone transfers. It is best suited to garment printing factories, personalization studios, cross-border e-commerce sellers, rhinestone workshops, and yoga-mat embossing operations. Its core advantages include a 60×80 cm (23.6×31.5") large aluminum heating plate that covers a full jersey front/back in one press—cutting splicing—plus dual pressure handles for balanced, even force and an adjustable pressure knob for material-specific pressure. Simple manual operation, Celsius/Fahrenheit switchable, and 3600W power make it easy to run for small-to-medium batch production.
 
 ---
 

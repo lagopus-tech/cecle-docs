@@ -1,8 +1,7 @@
 # TD-1C1 Check Weigher Conveyor
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/TD-1C1.png?v=1787812827)
 
-> **Core Abstract:**
-> The TD-1C1 Dynamic Check Weigher Conveyor is an essential online quality control equipment designed to ensure final package weight accuracy. Widely applied in the pharmaceutical, food, electronics, and health supplement industries, it acts as the last gatekeeper to detect missing components like pills, manuals, or desiccants. With a high-speed dynamic weighing capability of 10-60 bags per minute and a strict accuracy of 0.5~1.5g, it seamlessly integrates into existing automated packaging lines. Featuring 50 preset program memories, it allows for rapid product changeovers, ensuring 100% outgoing product compliance and eliminating customer complaints.
+> > The TD-1C1 Dynamic Check Weigher Conveyor is an essential online quality control equipment designed to ensure final package weight accuracy. Widely applied in the pharmaceutical, food, electronics, and health supplement industries, it acts as the last gatekeeper to detect missing components like pills, manuals, or desiccants. With a high-speed dynamic weighing capability of 10-60 bags per minute and a strict accuracy of 0.5~1.5g, it seamlessly integrates into existing automated packaging lines. Featuring 50 preset program memories, it allows for rapid product changeovers, ensuring 100% outgoing product compliance and eliminating customer complaints.
 
 ## 1. Product Overview
 The TD-1C1 Dynamic Check Weigher is used to test online whether finished packages meet preset qualified weights.

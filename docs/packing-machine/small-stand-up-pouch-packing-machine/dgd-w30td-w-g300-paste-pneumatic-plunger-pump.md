@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_598ywd598ywd598y.png?v=1786172740)
 
-> **Core Abstract**
-> The DGD-W30TD-W-G300 Paste Pneumatic Plunger Pump Stand Up Pouch Packing Machine is an elite automated packaging solution engineered specifically for paste and liquid products across the food, condiment, and daily chemical industries. Equipped with an advanced pneumatic plunger pump and a 30-liter stainless steel hopper, it delivers an ultra-high packaging accuracy of ±0.2g with a speed of 20-30 bags per minute. Designed for split-use flexibility and rapid 5-minute size changeovers, this durable stainless steel system ensures leak-free, clean-cut operations for materials like tomato paste.
+> > The DGD-W30TD-W-G300 Paste Pneumatic Plunger Pump Stand Up Pouch Packing Machine is an elite automated packaging solution engineered specifically for paste and liquid products across the food, condiment, and daily chemical industries. Equipped with an advanced pneumatic plunger pump and a 30-liter stainless steel hopper, it delivers an ultra-high packaging accuracy of ±0.2g with a speed of 20-30 bags per minute. Designed for split-use flexibility and rapid 5-minute size changeovers, this durable stainless steel system ensures leak-free, clean-cut operations for materials like tomato paste.
 ---
 
 ## I. Product Overview

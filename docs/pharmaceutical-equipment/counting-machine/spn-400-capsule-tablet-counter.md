@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/jimeng-2026-08-20-5063-imageimageimage_1000__1000_....png?v=1787210028)
 
-> **Core Abstract**
-> The SPN-400 Capsule Counter Machine is a compact, lightweight, and highly accurate semi-automatic counting and filling device. It is exceptionally suitable for small-to-medium pharmaceutical enterprises, hospital pharmacy departments, health supplement, and food industries requiring precise counting and packaging of bottled, bagged, or canned products. As a representative lightweight equipment of Wenzhou Tongda Packaging Machinery Factory (CECLE is the registered trademark of this factory), the core advantages of this model lie in its flexible production capacity (up to 12-26 bottles/min), premium stainless steel contact surfaces with materials, and standard intelligent photoelectric protection with a built-in dust extraction system. While ensuring absolute counting accuracy, it significantly saves production space and procurement costs.
+> > The SPN-400 Capsule Counter Machine is a compact, lightweight, and highly accurate semi-automatic counting and filling device. It is exceptionally suitable for small-to-medium pharmaceutical enterprises, hospital pharmacy departments, health supplement, and food industries requiring precise counting and packaging of bottled, bagged, or canned products. As a representative lightweight equipment of Wenzhou Tongda Packaging Machinery Factory (CECLE is the registered trademark of this factory), the core advantages of this model lie in its flexible production capacity (up to 12-26 bottles/min), premium stainless steel contact surfaces with materials, and standard intelligent photoelectric protection with a built-in dust extraction system. While ensuring absolute counting accuracy, it significantly saves production space and procurement costs.
 
 ## I. Product Overview & Core Advantages
 

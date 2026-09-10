@@ -1,8 +1,7 @@
 # TD-168D Double Head Special Beads Nail Pearl Fixing Beading Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/TD-198D.png?v=1786001355)
 
-> **Core Abstract:** 
-> The TD-168D Double Head Special Beads Setting Machine is a state-of-the-art high-speed pneumatic nailing system engineered for seamlessly setting multiple patterns of special-shaped and fancy beads. It is perfectly suited for large-scale garment OEM factories, luxury bag manufacturers, and heavy craft producers aiming for premium quality. The machine's standout core advantage lies in its dual-station independent feeding mechanism, which allows the simultaneous attachment of two entirely different shapes or sizes of asymmetrical beads without the need for frequent mold changes. Equipped with an intelligent PLC CNC control system, advanced anti-jamming screening tracks, and heavy-duty dual cylinders, it safely processes both fragile rhinestones and tough materials like hard leather, multiplying production efficiency and simplifying complex decorative designs.
+> > The TD-168D Double Head Special Beads Setting Machine is a state-of-the-art high-speed pneumatic nailing system engineered for seamlessly setting multiple patterns of special-shaped and fancy beads. It is perfectly suited for large-scale garment OEM factories, luxury bag manufacturers, and heavy craft producers aiming for premium quality. The machine's standout core advantage lies in its dual-station independent feeding mechanism, which allows the simultaneous attachment of two entirely different shapes or sizes of asymmetrical beads without the need for frequent mold changes. Equipped with an intelligent PLC CNC control system, advanced anti-jamming screening tracks, and heavy-duty dual cylinders, it safely processes both fragile rhinestones and tough materials like hard leather, multiplying production efficiency and simplifying complex decorative designs.
 
 ## 1. Product Overview
 | Item | Details |

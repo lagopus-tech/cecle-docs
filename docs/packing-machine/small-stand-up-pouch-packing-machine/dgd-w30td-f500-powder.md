@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_vhbgshvhbgshvhbg.png?v=1786172704)
 
-> **Core Abstract**
-> The DGD-W30TD-W-F500 500g Powder Stand Up Pouch Packing Machine is an automated solution tailored for the food, seasoning, and chemical industries. Featuring an advanced vertical auger filler with deep-insertion technology, it effectively eliminates common powder packaging challenges such as dust dispersion, inaccurate weighing, and contaminated seals. Constructed with durable stainless steel, this machine delivers consistent performance with ±1g precision and is designed to optimize production efficiency for powder products.
+> > The DGD-W30TD-W-F500 500g Powder Stand Up Pouch Packing Machine is an automated solution tailored for the food, seasoning, and chemical industries. Featuring an advanced vertical auger filler with deep-insertion technology, it effectively eliminates common powder packaging challenges such as dust dispersion, inaccurate weighing, and contaminated seals. Constructed with durable stainless steel, this machine delivers consistent performance with ±1g precision and is designed to optimize production efficiency for powder products.
 
 ---
 

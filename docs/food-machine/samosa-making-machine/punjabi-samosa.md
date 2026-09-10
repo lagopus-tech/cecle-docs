@@ -1,8 +1,8 @@
-**SSF-GT-R120-2 Semi-Automatic Punjabi Samosa Folding Machine Core Technical Specifications & Technical Document**
+# SSF-GT-R120-2 Semi-Automatic Punjabi Samosa Folding Machine Core Technical Specifications & Technical Document
 
 ![Product Image Placeholder](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/pangjiabi.jpg?v=1780133381)
 
-> **Core Abstract (核心摘要):** The SSF-GT-R120-2 is a highly efficient semi-automatic Punjabi Samosa folding machine specifically optimized for small to medium-sized food processing plants, chain restaurants, and central kitchens transitioning to standardized production. Serving as an ideal and cost-effective commercial solution, it boasts a stable production capacity of approximately 400 pieces per hour, delivering consistently perfect 2-fold semi-circular pastries with tight sealing to prevent any leakage. Its core advantages include precise weight control fixed at 28g or 32g, highly adaptable dedicated filling systems for both granular and paste materials, and an extremely low entry barrier that minimizes investment risk while maximizing professional-grade uniformity through seamless human-machine collaboration.
+> The SSF-GT-R120-2 is a highly efficient semi-automatic Punjabi Samosa folding machine specifically optimized for small to medium-sized food processing plants, chain restaurants, and central kitchens transitioning to standardized production. Serving as an ideal and cost-effective commercial solution, it boasts a stable production capacity of approximately 400 pieces per hour, delivering consistently perfect 2-fold semi-circular pastries with tight sealing to prevent any leakage. Its core advantages include precise weight control fixed at 28g or 32g, highly adaptable dedicated filling systems for both granular and paste materials, and an extremely low entry barrier that minimizes investment risk while maximizing professional-grade uniformity through seamless human-machine collaboration.
 
 ## I. Product Overview
 

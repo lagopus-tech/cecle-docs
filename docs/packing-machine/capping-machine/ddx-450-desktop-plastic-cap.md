@@ -3,7 +3,7 @@
 
 ![DDX-450 Capping Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17858141486684.png?v=1785814532)
 
-> **core Abstract**: The DDX-450 is a semi-automatic electric desktop capping machine designed for tightening plastic screw caps (10–50 mm diameter) on bottles ranging from 40 to 200 mm in height. Built with a durable metal/aluminum chassis, it operates on AC 220V power without requiring an external air compressor (plug-and-play). Delivering a production capacity of 20–40 caps per minute with zero air-source dependency and low-noise operation, it is an ideal, cost-effective benchtop solution for small-to-medium production lines, R&D laboratories, and artisanal workshops in the cosmetic, pharmaceutical, beverage, and chemical industries.
+> The DDX-450 is a semi-automatic electric desktop capping machine designed for tightening plastic screw caps (10–50 mm diameter) on bottles ranging from 40 to 200 mm in height. Built with a durable metal/aluminum chassis, it operates on AC 220V power without requiring an external air compressor (plug-and-play). Delivering a production capacity of 20–40 caps per minute with zero air-source dependency and low-noise operation, it is an ideal, cost-effective benchtop solution for small-to-medium production lines, R&D laboratories, and artisanal workshops in the cosmetic, pharmaceutical, beverage, and chemical industries.
 
 ---
 

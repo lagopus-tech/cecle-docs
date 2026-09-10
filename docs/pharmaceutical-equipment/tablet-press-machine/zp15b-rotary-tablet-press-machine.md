@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/jimeng-2026-07-25-1612.png?v=1784947459)
 
-> **Core Abstract**
-> The ZP15B is a continuously and automatically operating rotary tablet press with a massive 100kN pressure, specifically designed to efficiently press various granular raw materials into large-size round or irregular-shaped tablets. This equipment is highly suitable for continuous production in pharmaceutical companies, veterinary medicine factories, and the food industry, especially customized for pressing large tablets such as chicken bouillon cubes, veterinary tablets, and effervescent tablets. Its core advantages lie in its outstanding production capacity of up to 27,000 pieces/hour, a powerful forming pressure of 100 kN (maximum tablet diameter up to 40mm), and a standard gravity forced feeding system to solve poor material fluidity issues, providing you with an efficient, safe, and stable batch production solution.
+> > The ZP15B is a continuously and automatically operating rotary tablet press with a massive 100kN pressure, specifically designed to efficiently press various granular raw materials into large-size round or irregular-shaped tablets. This equipment is highly suitable for continuous production in pharmaceutical companies, veterinary medicine factories, and the food industry, especially customized for pressing large tablets such as chicken bouillon cubes, veterinary tablets, and effervescent tablets. Its core advantages lie in its outstanding production capacity of up to 27,000 pieces/hour, a powerful forming pressure of 100 kN (maximum tablet diameter up to 40mm), and a standard gravity forced feeding system to solve poor material fluidity issues, providing you with an efficient, safe, and stable batch production solution.
 
 ## I. Product Overview
 

@@ -4,8 +4,7 @@
 
 ---
 
-> **Core Abstract**
-> The HP-4050 is a slide-out swing-away T-shirt heat press machine—a medium-format, high-output, high-safety flatbed heat transfer device engineered for batch customization of large flat substrates such as T-shirts, canvas bags, and oversized mouse pads. It is best suited to medium-sized garment customization factories, cross-border e-commerce T-shirt sellers chasing viral SKUs, advertising sampling studios, hoodie printing workshops, and high-volume school or club orders. Its core advantages include a slide-out + swing-away structure that keeps operators' hands fully clear of the heating platen (eliminating burn risks during 8+ hour shifts), an M-type cast-aluminum platen that delivers uniform, vivid, saturation-free transfers across large prints, and an adjustable rotary pressure valve for substrates from thin tees to thick hoodies. With a 40×50 cm (15.7×19.7") platen and 2500W power, it balances capacity and safety for sustained production.
+> > The HP-4050 is a slide-out swing-away T-shirt heat press machine—a medium-format, high-output, high-safety flatbed heat transfer device engineered for batch customization of large flat substrates such as T-shirts, canvas bags, and oversized mouse pads. It is best suited to medium-sized garment customization factories, cross-border e-commerce T-shirt sellers chasing viral SKUs, advertising sampling studios, hoodie printing workshops, and high-volume school or club orders. Its core advantages include a slide-out + swing-away structure that keeps operators' hands fully clear of the heating platen (eliminating burn risks during 8+ hour shifts), an M-type cast-aluminum platen that delivers uniform, vivid, saturation-free transfers across large prints, and an adjustable rotary pressure valve for substrates from thin tees to thick hoodies. With a 40×50 cm (15.7×19.7") platen and 2500W power, it balances capacity and safety for sustained production.
 
 ---
 

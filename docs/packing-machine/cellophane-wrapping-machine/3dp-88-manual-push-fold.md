@@ -2,8 +2,7 @@
 
 ![3DP-88 Cellophane Wrapping Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17845150517448.png?v=1784515135)
 
-> **Core Abstract**
-> The 3DP-88 is a semi-automatic cellophane overwrapping machine designed for side-flap folding and heat-sealing of rigid square boxes across cosmetics, pharmaceutical, food, and stationery industries (e.g., perfume, tea, medicine boxes). Operating at up to 20 cycles/min with a max box capacity of 310 × 100 × 75 mm, it uses high-quality aluminum heating plates for smooth, tight, professional triangular-fold seals. Key features include digital temperature control, stable long-hour operation, and optional top/bottom heating plates or spot-sealing additions for enhanced package quality.
+> > The 3DP-88 is a semi-automatic cellophane overwrapping machine designed for side-flap folding and heat-sealing of rigid square boxes across cosmetics, pharmaceutical, food, and stationery industries (e.g., perfume, tea, medicine boxes). Operating at up to 20 cycles/min with a max box capacity of 310 × 100 × 75 mm, it uses high-quality aluminum heating plates for smooth, tight, professional triangular-fold seals. Key features include digital temperature control, stable long-hour operation, and optional top/bottom heating plates or spot-sealing additions for enhanced package quality.
 
 ## 1. Product Overview
 - **Category**: Packaging Machinery / 3D Transparent Film Wrapping Machine / Overwrapping Machine / Cellophane wrapping machine / Box wrapping machine

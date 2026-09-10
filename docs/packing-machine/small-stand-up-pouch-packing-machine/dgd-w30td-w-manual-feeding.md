@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_aod3boaod3boaod3.jpg?v=1786172838)
 
-> **Core Abstract**
-> The DGD-W30TD-W Manual Feeding Stand Up Pouch Packing Machine is a compact, highly adaptable packaging solution designed specifically for irregular, non-quantifiable, or easily misaligned materials across the food, daily chemical, and hardware industries. Built with body stainless steel body and an intelligent PLC control system, it perfectly bridges the gap between manual labor and full automation. Featuring a space-saving footprint under 1 m² and modular compatibility with over 9 specialized feeders, it solves traditional automated packaging limitations while delivering a high-capacity bag bin for enhanced production efficiency.
+> > The DGD-W30TD-W Manual Feeding Stand Up Pouch Packing Machine is a compact, highly adaptable packaging solution designed specifically for irregular, non-quantifiable, or easily misaligned materials across the food, daily chemical, and hardware industries. Built with body stainless steel body and an intelligent PLC control system, it perfectly bridges the gap between manual labor and full automation. Featuring a space-saving footprint under 1 m² and modular compatibility with over 9 specialized feeders, it solves traditional automated packaging limitations while delivering a high-capacity bag bin for enhanced production efficiency.
 
 ---
 

@@ -1,8 +1,7 @@
 # ETBPC-180 Blister Cutting / Punching Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/6275e99a519edc9c7d42bc693f75d227_1b270174-38b6-4637-99ab-748adfdea7d8.png?v=1782715352)
 
-> **Core Abstract:** 
-> The ETBPC-180 Blister Cutting and Punching Machine is a specialized desktop auxiliary unit designed to precision-trim excess aluminum foil and film from formed blister packs. Perfect for small-batch production in pharmaceuticals, healthcare, and cosmetics, this purely electric machine eliminates the need for air compressors, making it a "plug-and-play" solution. It features an integrated stainless steel body compliant with food and drug safety standards, an adjustable temperature range (80-150°C) for material versatility (PVC/PET/PP), and a compact footprint suitable for laboratories and R&D departments. With stable accuracy and burr-free cutting, it ensures professional packaging results with low maintenance costs.
+> > The ETBPC-180 Blister Cutting and Punching Machine is a specialized desktop auxiliary unit designed to precision-trim excess aluminum foil and film from formed blister packs. Perfect for small-batch production in pharmaceuticals, healthcare, and cosmetics, this purely electric machine eliminates the need for air compressors, making it a "plug-and-play" solution. It features an integrated stainless steel body compliant with food and drug safety standards, an adjustable temperature range (80-150°C) for material versatility (PVC/PET/PP), and a compact footprint suitable for laboratories and R&D departments. With stable accuracy and burr-free cutting, it ensures professional packaging results with low maintenance costs.
 
 ---
 

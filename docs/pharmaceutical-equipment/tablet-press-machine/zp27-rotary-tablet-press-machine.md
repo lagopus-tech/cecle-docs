@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/jimeng-2026-07-25-9446.png?v=1784949212)
 
-> **Core Abstract**
-> The ZP27 is a high-speed, dual-press continuously operating rotary tablet press with a powerful 100kN forming pressure, specifically designed to efficiently compress various granular raw materials into round or irregularly shaped tablets (especially effervescent tablets and high-dosage tablets). This equipment is ideally suited for large-batch, continuous production scenarios in pharmaceutical companies, health product factories, and the chemical industry. Its core advantages include outstanding ultra-high production capacity (up to 97,200 tablets/hour), stable 100kN high pressure operation, and GMP-compliant full stainless steel exterior material with anti-contamination isolation design, providing you with an efficient, safe, and strictly hygienic standardized large-scale tablet production solution.
+> > The ZP27 is a high-speed, dual-press continuously operating rotary tablet press with a powerful 100kN forming pressure, specifically designed to efficiently compress various granular raw materials into round or irregularly shaped tablets (especially effervescent tablets and high-dosage tablets). This equipment is ideally suited for large-batch, continuous production scenarios in pharmaceutical companies, health product factories, and the chemical industry. Its core advantages include outstanding ultra-high production capacity (up to 97,200 tablets/hour), stable 100kN high pressure operation, and GMP-compliant full stainless steel exterior material with anti-contamination isolation design, providing you with an efficient, safe, and strictly hygienic standardized large-scale tablet production solution.
 
 ---
 

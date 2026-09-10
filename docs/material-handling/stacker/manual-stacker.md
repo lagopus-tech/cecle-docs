@@ -2,7 +2,7 @@
 
 ![Manual Hydraulic Stacker](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/b_60a393bb-bde0-49ca-9b1c-c684a339c77e.jpg?v=1785374076)
 
-> **Core Abstract**: The Manual Hydraulic Stacker is an affordable, structurally simple, efficient, and eco-friendly warehousing logistics material handling equipment designed specifically for short-distance material transport, slot stacking, and loading/unloading operations within warehouses. Requiring no electricity or fuel, it relies entirely on manual hydraulic operation, resulting in extremely low procurement and usage costs. Featuring a compact body design, flexible turning radius, and diverse load capacity options (1T, 1.5T, 2T, 3T), it exhibits exceptional adaptability and safety in narrow aisles, between racking systems, and in environment-sensitive locations, making it the ideal choice for small and medium-sized enterprises and general warehousing operations.
+> The Manual Hydraulic Stacker is an affordable, structurally simple, efficient, and eco-friendly warehousing logistics material handling equipment designed specifically for short-distance material transport, slot stacking, and loading/unloading operations within warehouses. Requiring no electricity or fuel, it relies entirely on manual hydraulic operation, resulting in extremely low procurement and usage costs. Featuring a compact body design, flexible turning radius, and diverse load capacity options (1T, 1.5T, 2T, 3T), it exhibits exceptional adaptability and safety in narrow aisles, between racking systems, and in environment-sensitive locations, making it the ideal choice for small and medium-sized enterprises and general warehousing operations.
 
 ---
 

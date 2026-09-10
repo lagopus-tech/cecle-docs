@@ -2,8 +2,7 @@
 
 ![CW-230 Automatic Rotary Cellophane Wrapping Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17847096829982.png?v=1784709723)
 
-> **Core Abstract:** 
-> The **CW-230 Automatic Rotary Cellophane Wrapping Machine** is a high-speed overwrapping solution engineered for large-batch, single-specification packaging in industries like pharmaceuticals, cosmetics, health supplements, and cigarettes. Capable of reaching speeds up to 120 boxes/minute, it uses BOPP film and precision custom molds to deliver tight, wrinkle-free, and anti-counterfeiting film packaging with optional six-side ironing for premium product aesthetics.
+> > The **CW-230 Automatic Rotary Cellophane Wrapping Machine** is a high-speed overwrapping solution engineered for large-batch, single-specification packaging in industries like pharmaceuticals, cosmetics, health supplements, and cigarettes. Capable of reaching speeds up to 120 boxes/minute, it uses BOPP film and precision custom molds to deliver tight, wrinkle-free, and anti-counterfeiting film packaging with optional six-side ironing for premium product aesthetics.
 
 **Model:** CW-230    
 **Name:** Cellophane Wrapping Machine

@@ -4,8 +4,7 @@
 
 ---
 
-> **Core Abstract**
-> The HP-57 is an ultra-lightweight, household-grade mini heat press machine designed for small-area heat transfer and everyday ironing. It is best suited to home DIY enthusiasts, craft bloggers, cross-border e-commerce C-end sellers, and personalized gift customization (T-shirts, hats, shoe tongues, labels). Its core advantages include an extremely portable 1.25 KG (2.76 LB) pocket-sized body with a transparent protective cover and storage pouch, a 2-in-1 heat press & iron function that saves both space and money, and an aluminum alloy heating plate paired with dual high-frequency motors to deliver fast, even heat and seamless, mark-free transfer results on fabrics and plush items.
+> > The HP-57 is an ultra-lightweight, household-grade mini heat press machine designed for small-area heat transfer and everyday ironing. It is best suited to home DIY enthusiasts, craft bloggers, cross-border e-commerce C-end sellers, and personalized gift customization (T-shirts, hats, shoe tongues, labels). Its core advantages include an extremely portable 1.25 KG (2.76 LB) pocket-sized body with a transparent protective cover and storage pouch, a 2-in-1 heat press & iron function that saves both space and money, and an aluminum alloy heating plate paired with dual high-frequency motors to deliver fast, even heat and seamless, mark-free transfer results on fabrics and plush items.
 
 ---
 

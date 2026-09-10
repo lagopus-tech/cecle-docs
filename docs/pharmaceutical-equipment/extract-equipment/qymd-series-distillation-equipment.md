@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/jimeng-2026-09-05-8583-_1000__1000_....png?v=1788598114)
 
-> **Core Abstract (核心摘要)**
-> The Glass Short Path Molecular Distillation Equipment (QYMD Series) is a highly precise thermodynamic separation system operating under deep vacuum conditions (up to 0.1Pa). It is expertly designed for the botanical extraction, pharmaceutical, and fine chemical industries, specializing in the continuous separation and purification of crude oils, essential oils, and heat-sensitive derivatives. Manufactured by Wenzhou T&D Packaging Machinery Factory (CECLE), its core advantages lie in its exceptional evaporation efficiency and automated continuous feeding/discharging design, which completely prevents the thermal degradation of heat-sensitive materials. With processing capacities ranging from 0.1 to 4 kg/hr, it is an indispensable laboratory and pilot-scale tool for high-purity, non-destructive distillation.
+> > The Glass Short Path Molecular Distillation Equipment (QYMD Series) is a highly precise thermodynamic separation system operating under deep vacuum conditions (up to 0.1Pa). It is expertly designed for the botanical extraction, pharmaceutical, and fine chemical industries, specializing in the continuous separation and purification of crude oils, essential oils, and heat-sensitive derivatives. Manufactured by Wenzhou T&D Packaging Machinery Factory (CECLE), its core advantages lie in its exceptional evaporation efficiency and automated continuous feeding/discharging design, which completely prevents the thermal degradation of heat-sensitive materials. With processing capacities ranging from 0.1 to 4 kg/hr, it is an indispensable laboratory and pilot-scale tool for high-purity, non-destructive distillation.
 
 ## I. Product Overview & Core Advantages (产品概述与核心优势)
 

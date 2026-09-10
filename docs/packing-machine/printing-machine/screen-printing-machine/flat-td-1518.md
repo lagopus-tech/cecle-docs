@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_k6nuj6k6nuj6k6nu.png?v=1782348129)
 
-> **Core Abstract**
-> The TD-1518 is a small-sized, pneumatically driven single-color oblique arm flat screen printing machine specifically engineered for small-area flat products. It is highly ideal for industries such as electronics, packaging, and commercial crafts, delivering consistent quality on materials like metal sheets, wood boards, and paper. The machine's core advantages stem from its lightweight yet robust oblique arm structure and cylinder-driven pneumatic printing system, ensuring uniform pressure and smooth operation. Offering ultimate cost-effectiveness with low investment costs, it boasts a remarkably fast running speed capable of reaching 1000-1200 pcs/hr, making it an excellent entry-level automation choice for small-to-medium continuous production.
+> > The TD-1518 is a small-sized, pneumatically driven single-color oblique arm flat screen printing machine specifically engineered for small-area flat products. It is highly ideal for industries such as electronics, packaging, and commercial crafts, delivering consistent quality on materials like metal sheets, wood boards, and paper. The machine's core advantages stem from its lightweight yet robust oblique arm structure and cylinder-driven pneumatic printing system, ensuring uniform pressure and smooth operation. Offering ultimate cost-effectiveness with low investment costs, it boasts a remarkably fast running speed capable of reaching 1000-1200 pcs/hr, making it an excellent entry-level automation choice for small-to-medium continuous production.
 
 ---
 

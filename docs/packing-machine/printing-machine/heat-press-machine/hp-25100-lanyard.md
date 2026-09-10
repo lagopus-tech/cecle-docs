@@ -4,8 +4,7 @@
 
 ---
 
-> **Core Abstract**
-> The HP-25100 is an ultra-long-format manual lanyard heat press machine designed for one-pass, seamless heat transfer onto long-strip substrates such as woven webbing, lanyards, ribbons, shoelaces, and safety belts. It is best suited to webbing and ribbon factories, lanyard customization plants, gift and cultural-creative merchandising workshops, cross-border e-commerce lanyard sellers, and sports-accessory printers. Its core advantages include a 25×100 cm (9.8×39.4") extra-long heating platen that prints an entire strip in a single press—eliminating splicing, color shift, and misalignment—plus a wider coverage that boosts single-job area by about 3.6× versus entry-level 23×30 cm presses, dramatically increasing daily output. With 1800W/2400W power and 0–220℃ precise control on sublimation-friendly materials, it delivers factory-grade, uniform, large-format transfer production.
+> > The HP-25100 is an ultra-long-format manual lanyard heat press machine designed for one-pass, seamless heat transfer onto long-strip substrates such as woven webbing, lanyards, ribbons, shoelaces, and safety belts. It is best suited to webbing and ribbon factories, lanyard customization plants, gift and cultural-creative merchandising workshops, cross-border e-commerce lanyard sellers, and sports-accessory printers. Its core advantages include a 25×100 cm (9.8×39.4") extra-long heating platen that prints an entire strip in a single press—eliminating splicing, color shift, and misalignment—plus a wider coverage that boosts single-job area by about 3.6× versus entry-level 23×30 cm presses, dramatically increasing daily output. With 1800W/2400W power and 0–220℃ precise control on sublimation-friendly materials, it delivers factory-grade, uniform, large-format transfer production.
 
 ---
 

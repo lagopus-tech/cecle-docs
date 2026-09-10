@@ -4,8 +4,7 @@
 
 ---
 
-> **Core Abstract**
-> The HP-2938 is a 14-in-1 multifunction swing-away heat press machine built as an all-in-one personalization and sublimation workstation. It is best suited to startup gift-customization workshops, tourist souvenir shops, DIY craft studios, cross-border e-commerce sellers, campus clubs, and advertising companies. Its core advantages include 14 versatile attachments—uniquely adding rare shoe, pen, and ball presses beyond the standard 8-in-1 set—a 360° swing-away platen that moves the scorching heat plate fully aside for 100% burn-free operation, an aviation-plug system that swaps functions in under 1 minute, an industrial anti-rust base plate with a 400℃ heat-resistant silicone pad, and a plum-blossom pressure plate for even force distribution. With a 29×38 cm (11.4×15") platen, 1250W power, and 110V/220V compatibility, it delivers a complete, space-saving print factory on less than half a square meter of desktop.
+> > The HP-2938 is a 14-in-1 multifunction swing-away heat press machine built as an all-in-one personalization and sublimation workstation. It is best suited to startup gift-customization workshops, tourist souvenir shops, DIY craft studios, cross-border e-commerce sellers, campus clubs, and advertising companies. Its core advantages include 14 versatile attachments—uniquely adding rare shoe, pen, and ball presses beyond the standard 8-in-1 set—a 360° swing-away platen that moves the scorching heat plate fully aside for 100% burn-free operation, an aviation-plug system that swaps functions in under 1 minute, an industrial anti-rust base plate with a 400℃ heat-resistant silicone pad, and a plum-blossom pressure plate for even force distribution. With a 29×38 cm (11.4×15") platen, 1250W power, and 110V/220V compatibility, it delivers a complete, space-saving print factory on less than half a square meter of desktop.
 
 ---
 

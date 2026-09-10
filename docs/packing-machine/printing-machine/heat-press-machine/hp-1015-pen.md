@@ -4,8 +4,7 @@
 
 ---
 
-> **Core Abstract**
-> The HP-1015 is a desktop pen heat press machine purpose-built for cylindrical pens with a sublimation coating. It is best suited to advertising gift shops, corporate promotional pen suppliers, campus stationery stores, and cross-border e-commerce DIY sellers. Its core advantages include simultaneous 6-pen printing on a 10×15 cm platen that multiplies throughput versus single-pen presses, a groove silicone pad that locks pens firmly to prevent rolling and ghosting, and an automatic countdown sensor that starts timing the moment the handle is pressed down—no manual Start button needed. With 350W low power consumption, a dual-display digital controller, and a compact footprint, it delivers fast ROI and effortless operation for both small-batch and high-volume custom pen orders.
+> > The HP-1015 is a desktop pen heat press machine purpose-built for cylindrical pens with a sublimation coating. It is best suited to advertising gift shops, corporate promotional pen suppliers, campus stationery stores, and cross-border e-commerce DIY sellers. Its core advantages include simultaneous 6-pen printing on a 10×15 cm platen that multiplies throughput versus single-pen presses, a groove silicone pad that locks pens firmly to prevent rolling and ghosting, and an automatic countdown sensor that starts timing the moment the handle is pressed down—no manual Start button needed. With 350W low power consumption, a dual-display digital controller, and a compact footprint, it delivers fast ROI and effortless operation for both small-batch and high-volume custom pen orders.
 
 ---
 

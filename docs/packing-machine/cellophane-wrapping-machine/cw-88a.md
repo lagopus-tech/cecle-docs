@@ -2,7 +2,7 @@
 
 ![CW-88A Cellophane Wrapping Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17845121487577.png?v=1784512291)
 
-> **core Abstract**: The CW-88A is a compact, semi-automatic 3D cellophane overwrapping machine designed for small boxed products across cosmetics, pharmaceuticals, tea, playing cards, and tobacco industries. Featuring a fully electric drive with motorized box pushing, it eliminates the need for air compressors while delivering quiet operation and neat heat-sealed BOPP film wrapping. It achieves a speed of 5–15 boxes/min for boxes up to 100x100x30 mm, offering a cost-effective, high-quality packaging solution.
+> The CW-88A is a compact, semi-automatic 3D cellophane overwrapping machine designed for small boxed products across cosmetics, pharmaceuticals, tea, playing cards, and tobacco industries. Featuring a fully electric drive with motorized box pushing, it eliminates the need for air compressors while delivering quiet operation and neat heat-sealed BOPP film wrapping. It achieves a speed of 5–15 boxes/min for boxes up to 100x100x30 mm, offering a cost-effective, high-quality packaging solution.
 
 ## I. Product Overview
 

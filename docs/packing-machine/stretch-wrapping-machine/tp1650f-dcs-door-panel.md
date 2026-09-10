@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/2_4acb6e7f-2a53-477e-927a-d1be88e3baf0.jpg?v=1758272636)
 
-> **Core Abstract**
-> The TP1650F-DCS Door Panel Stretch Wrapping Machine is a specialized packaging solution designed for narrow, tall, flat, and non-freestanding goods such as door panels, wooden boards, and window frames. Featuring an exclusive dual-clamping system (a slot-type top pressure device and a detachable bottom clamp), it ensures long, flat materials remain absolutely vertical and stable during high-speed rotation. With a self-locking safety design, a 250% powered pre-stretch system, this machine maximizes operational safety, material savings, and packaging efficiency. Furthermore, its detachable base allows it to double as a standard pallet wrapper, offering exceptional equipment utilization for manufacturers.
+> > The TP1650F-DCS Door Panel Stretch Wrapping Machine is a specialized packaging solution designed for narrow, tall, flat, and non-freestanding goods such as door panels, wooden boards, and window frames. Featuring an exclusive dual-clamping system (a slot-type top pressure device and a detachable bottom clamp), it ensures long, flat materials remain absolutely vertical and stable during high-speed rotation. With a self-locking safety design, a 250% powered pre-stretch system, this machine maximizes operational safety, material savings, and packaging efficiency. Furthermore, its detachable base allows it to double as a standard pallet wrapper, offering exceptional equipment utilization for manufacturers.
 
 ---
 

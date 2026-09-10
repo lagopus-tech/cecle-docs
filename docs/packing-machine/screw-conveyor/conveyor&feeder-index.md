@@ -1,4 +1,4 @@
-"""# Industrial Material Feeder Selection Guide & Product Overview
+# Industrial Material Feeder Selection Guide & Product Overview
 
 To meet the high standards of material handling, metering, and automation integration across different production lines, we offer seven categories of professional feeding solutions. This guide is designed to assist you in selecting the most suitable equipment based on material characteristics, conveying methods, and process requirements.
 

@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/jimeng-2026-08-14-5126-_1000__1000_....png?v=1786692292)
 
-> **Core Abstract (核心摘要)**
-> The V series V-type double-arm mixer is a heavy-duty, high-efficiency blending machine engineered for precision mixing of dry powders and granular materials across pharmaceutical, food, chemical, and nutraceutical industries. Featuring an asymmetrical V-shaped cylinder body supported by a dual-arm frame, this machine achieves up to 99.9% mixing uniformity without centrifugal force, material segregation, or dead angles. Designed to meet strict GMP requirements, all contact surfaces are crafted from mirror-polished SUS304 or SUS316L stainless steel with smooth arc transitions. Offering high charging efficiency up to 80%, the V series spans production capacities from laboratory R&D (V-5) to large-scale industrial manufacturing (V-2000).
+> > The V series V-type double-arm mixer is a heavy-duty, high-efficiency blending machine engineered for precision mixing of dry powders and granular materials across pharmaceutical, food, chemical, and nutraceutical industries. Featuring an asymmetrical V-shaped cylinder body supported by a dual-arm frame, this machine achieves up to 99.9% mixing uniformity without centrifugal force, material segregation, or dead angles. Designed to meet strict GMP requirements, all contact surfaces are crafted from mirror-polished SUS304 or SUS316L stainless steel with smooth arc transitions. Offering high charging efficiency up to 80%, the V series spans production capacities from laboratory R&D (V-5) to large-scale industrial manufacturing (V-2000).
 
 ---
 

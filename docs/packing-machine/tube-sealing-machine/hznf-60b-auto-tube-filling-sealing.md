@@ -3,8 +3,7 @@
 
 ![HZNF-60B Automatic Tube Filling and Sealing Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17834983511300.png?v=1783498487)
 
-> **Core Abstract:**  
-> The **HZNF-60B** is a fully automatic, high-speed tube filling and sealing machine designed for large-scale production in cosmetics, pharmaceuticals, food, and industrial chemicals. Capable of handling metal, aluminum, plastic, and composite tubes, it delivers high output (30-60 pcs/min) and precise filling (5-600ml, accuracy ≤ ±1%). Built to GMP standards with 304 stainless steel and PLC touch screen controls, it seamlessly integrates automatic tube loading, registration, precision filling, hot/mechanical sealing, date coding, and finished product discharge.
+> > The **HZNF-60B** is a fully automatic, high-speed tube filling and sealing machine designed for large-scale production in cosmetics, pharmaceuticals, food, and industrial chemicals. Capable of handling metal, aluminum, plastic, and composite tubes, it delivers high output (30-60 pcs/min) and precise filling (5-600ml, accuracy ≤ ±1%). Built to GMP standards with 304 stainless steel and PLC touch screen controls, it seamlessly integrates automatic tube loading, registration, precision filling, hot/mechanical sealing, date coding, and finished product discharge.
 
 ---
 

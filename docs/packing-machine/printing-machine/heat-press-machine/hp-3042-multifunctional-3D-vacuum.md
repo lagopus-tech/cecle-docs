@@ -4,8 +4,7 @@
 
 ---
 
-> **Core Abstract**
-> The HP-3042 is a multifunctional 3D vacuum heat press machine built for high-efficiency, all-in-one heat transfer onto 3D phone cases, mugs, water bottles, and other irregularly shaped sublimation products. It is best suited to personalized phone-case customization shops, cultural-creative gift companies, scenic-area souvenir retailers, and cross-border e-commerce DIY sellers. Its core advantages include a large 300×420×110 mm vacuum chamber that prints up to 12 mugs per cycle (12× the throughput of a single-station mug press), a 108° flip-top clamshell for fast loading and unloading, dense upper/lower convex-dot heating surfaces with far-infrared technology for uniform, vivid color reproduction, and a built-in high-stability vacuum pump that delivers seamless, white-edge-free 3D wrapping without an external air compressor.
+> > The HP-3042 is a multifunctional 3D vacuum heat press machine built for high-efficiency, all-in-one heat transfer onto 3D phone cases, mugs, water bottles, and other irregularly shaped sublimation products. It is best suited to personalized phone-case customization shops, cultural-creative gift companies, scenic-area souvenir retailers, and cross-border e-commerce DIY sellers. Its core advantages include a large 300×420×110 mm vacuum chamber that prints up to 12 mugs per cycle (12× the throughput of a single-station mug press), a 108° flip-top clamshell for fast loading and unloading, dense upper/lower convex-dot heating surfaces with far-infrared technology for uniform, vivid color reproduction, and a built-in high-stability vacuum pump that delivers seamless, white-edge-free 3D wrapping without an external air compressor.
 
 ---
 

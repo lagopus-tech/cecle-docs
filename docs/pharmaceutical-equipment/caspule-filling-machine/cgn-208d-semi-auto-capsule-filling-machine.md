@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/2026-06-27-9979-..png?v=1782543839)
 
-> **Core Abstract**
-> The CGN-208D is a next-generation, high-efficiency semi-automatic capsule filling machine, specifically designed for the precise filling of non-sticky powders and small granular materials into size 000# to 4# capsules. This equipment is highly suitable for pharmaceutical companies, health supplement factories, and laboratory pilot facilities requiring multi-variety, small-batch, flexible continuous production. Its core advantages include providing a stable, high capacity of 10,000 to 30,000 capsules/hour, with a standard high-quality 304 stainless steel machine body (upgradable to 316 stainless steel), fully complying with strict GMP pharmaceutical hygiene standards. Combined with its unique innovative quick mold change system and one-button fully automatic locking technology, it significantly reduces labor costs, bringing you a highly cost-effective filling solution.
+> > The CGN-208D is a next-generation, high-efficiency semi-automatic capsule filling machine, specifically designed for the precise filling of non-sticky powders and small granular materials into size 000# to 4# capsules. This equipment is highly suitable for pharmaceutical companies, health supplement factories, and laboratory pilot facilities requiring multi-variety, small-batch, flexible continuous production. Its core advantages include providing a stable, high capacity of 10,000 to 30,000 capsules/hour, with a standard high-quality 304 stainless steel machine body (upgradable to 316 stainless steel), fully complying with strict GMP pharmaceutical hygiene standards. Combined with its unique innovative quick mold change system and one-button fully automatic locking technology, it significantly reduces labor costs, bringing you a highly cost-effective filling solution.
 
 ## I. What is a Semi-Automatic Capsule Filling Machine?
 

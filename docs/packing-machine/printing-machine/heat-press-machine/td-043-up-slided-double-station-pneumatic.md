@@ -4,8 +4,7 @@
 
 ---
 
-> **Core Abstract**
-> The TD-043 is an up-slide double-station pneumatic heat press machine designed for high-volume sublimation transfer onto garments, T-shirts, and textiles, as well as low-temperature, low-pressure lamination. It is best suited to garment printing factories, customization studios, advertising gift makers, cross-border e-commerce sellers, and small-batch production lines. Its core advantages include a dual-station design—two fixed worktables with an upper heating plate slid between them via a handle, so loading and pressing run in parallel to raise output—plus pneumatic auto press/lift that removes manual effort, manual/auto dual modes, and an emergency stop for safety. A 40×60 cm (15.8×23.6") platen, 3500W power, and 6 kg/cm² max air pressure deliver stable, consistent results.
+> > The TD-043 is an up-slide double-station pneumatic heat press machine designed for high-volume sublimation transfer onto garments, T-shirts, and textiles, as well as low-temperature, low-pressure lamination. It is best suited to garment printing factories, customization studios, advertising gift makers, cross-border e-commerce sellers, and small-batch production lines. Its core advantages include a dual-station design—two fixed worktables with an upper heating plate slid between them via a handle, so loading and pressing run in parallel to raise output—plus pneumatic auto press/lift that removes manual effort, manual/auto dual modes, and an emergency stop for safety. A 40×60 cm (15.8×23.6") platen, 3500W power, and 6 kg/cm² max air pressure deliver stable, consistent results.
 
 ---
 

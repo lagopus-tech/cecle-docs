@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_ka7371ka7371ka73.png?v=1786172723)
 
-> **Core Abstract**
-> The DGD-W30TD-W-FD Bucket Conveyor Stand Up Pouch Packing Machine is an advanced packaging line specifically designed for irregular chunk materials, severely entangled products, and messy bulk items across the food, snack, and daily chemical industries. Featuring a standard 1.5-meter bucket conveyor that supports 3 to 4 operators working collaboratively, this machine enforces a steady production rhythm to drive continuous, high-efficiency operations. Built with a stainless steel structure, it integrates manual feeding，automatic bag pickup, automatic opening, bucket dumping, and automatic sealing to drastically elevate workshop productivity.
+> > The DGD-W30TD-W-FD Bucket Conveyor Stand Up Pouch Packing Machine is an advanced packaging line specifically designed for irregular chunk materials, severely entangled products, and messy bulk items across the food, snack, and daily chemical industries. Featuring a standard 1.5-meter bucket conveyor that supports 3 to 4 operators working collaboratively, this machine enforces a steady production rhythm to drive continuous, high-efficiency operations. Built with a stainless steel structure, it integrates manual feeding，automatic bag pickup, automatic opening, bucket dumping, and automatic sealing to drastically elevate workshop productivity.
 
 ---
 

@@ -3,7 +3,7 @@
 
 ![SGJ-70 Capping Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/1786069098920.png?v=1786069871)
 
-> **core Abstract**: The SGJ-70 is a semi-automatic electric and pneumatic capping machine designed for precision sealing across daily chemical, cosmetics, food, and pharmaceutical industries. Built with durable 304 stainless steel and oxidized aluminum alloy, it features dual-motor drive technology to effortlessly handle complex closures, including pump heads, spray nozzles, and irregular plastic caps. With a capping speed of 20–30 caps per minute, adjustable torque, and wide 110V–220V voltage compatibility, it delivers reliable, versatile, and damage-free capping for diverse bottle specifications.
+> The SGJ-70 is a semi-automatic electric and pneumatic capping machine designed for precision sealing across daily chemical, cosmetics, food, and pharmaceutical industries. Built with durable 304 stainless steel and oxidized aluminum alloy, it features dual-motor drive technology to effortlessly handle complex closures, including pump heads, spray nozzles, and irregular plastic caps. With a capping speed of 20–30 caps per minute, adjustable torque, and wide 110V–220V voltage compatibility, it delivers reliable, versatile, and damage-free capping for diverse bottle specifications.
 
 ---
 

@@ -4,8 +4,7 @@
 
 ---
 
-> **Core Abstract**
-> The HP-2330 is a manual flat swing-away heat press machine built for small-batch, personalized heat transfer onto flat substrates such as T-shirts and mouse pads. It is best suited to custom apparel shops, cross-border e-commerce DIY sellers, advertising signage studios, and printing sampling labs. Its core advantages include a 360° swing-away platen that fully exposes the work area to eliminate burn risks, a 5th-generation dual-display temperature/time control system with ℃/℉ switch, and an even-pressure plum-blossom pressure plate. With a 23×30 cm (9.1×11.8") platen, 900W power, and have a external fuse switch for circuit protection, it delivers safe, uniform, and reliable sublimation and transfer printing for studio and boutique production.
+> > The HP-2330 is a manual flat swing-away heat press machine built for small-batch, personalized heat transfer onto flat substrates such as T-shirts and mouse pads. It is best suited to custom apparel shops, cross-border e-commerce DIY sellers, advertising signage studios, and printing sampling labs. Its core advantages include a 360° swing-away platen that fully exposes the work area to eliminate burn risks, a 5th-generation dual-display temperature/time control system with ℃/℉ switch, and an even-pressure plum-blossom pressure plate. With a 23×30 cm (9.1×11.8") platen, 900W power, and have a external fuse switch for circuit protection, it delivers safe, uniform, and reliable sublimation and transfer printing for studio and boutique production.
 
 ---
 

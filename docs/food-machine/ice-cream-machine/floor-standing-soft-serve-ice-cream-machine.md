@@ -2,8 +2,7 @@
 
 ![Floor-standing Soft Serve Ice Cream Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/icre_cream.png?v=1787801082)
 
-> **Core Abstract**: 
-> The Floor-standing Soft Serve Ice Cream Machine (Models: BQL-818 / BQL-825B / BQL-830C) is an industrial-grade, high-capacity dessert solution engineered for high-traffic commercial environments. Featuring a robust vertical layout, heavy-duty compressors, and a twin-hopper 3-flavor dispensing system (two individual flavors and one twist combination), this machine ensures continuous, stable production. Built with a durable full stainless steel body, intelligent digital controls, universal lockable casters, and an optional hopper pre-cooling system, it is the ultimate choice for ice cream parlors, large snack bars, supermarkets, shopping malls, and bustling food courts.
+> > The Floor-standing Soft Serve Ice Cream Machine (Models: BQL-818 / BQL-825B / BQL-830C) is an industrial-grade, high-capacity dessert solution engineered for high-traffic commercial environments. Featuring a robust vertical layout, heavy-duty compressors, and a twin-hopper 3-flavor dispensing system (two individual flavors and one twist combination), this machine ensures continuous, stable production. Built with a durable full stainless steel body, intelligent digital controls, universal lockable casters, and an optional hopper pre-cooling system, it is the ultimate choice for ice cream parlors, large snack bars, supermarkets, shopping malls, and bustling food courts.
 
 ---
 

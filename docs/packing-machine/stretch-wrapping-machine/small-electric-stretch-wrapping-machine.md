@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_lb4cv0lb4cv0lb4c.png?v=1782526547)
 
-> **Core Abstract**
-> The Small Electric Stretch Wrapping Machine is a lightweight, tabletop packaging device tailor-made for wrapping regular goods such as cartons and foam boxes. Designed for cross-border e-commerce sellers, courier collection points, and small warehouses, it replaces manual wrapping with a steady 30 rpm AC motor, a hand-grip top turntable for extra tension, and convenient foot switch control. Extremely portable at just 13kg and supporting wrapping loads from 3 to 50kg, it delivers tighter, professional packaging while saving time, effort, and film consumables.
+> > The Small Electric Stretch Wrapping Machine is a lightweight, tabletop packaging device tailor-made for wrapping regular goods such as cartons and foam boxes. Designed for cross-border e-commerce sellers, courier collection points, and small warehouses, it replaces manual wrapping with a steady 30 rpm AC motor, a hand-grip top turntable for extra tension, and convenient foot switch control. Extremely portable at just 13kg and supporting wrapping loads from 3 to 50kg, it delivers tighter, professional packaging while saving time, effort, and film consumables.
 
 ---
 

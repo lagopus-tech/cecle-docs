@@ -2,8 +2,7 @@
 
 ![Walkie Fully Powered Electric Straddle Stacker Details](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/stacker2.png?v=1783574058)
 
-> **Core Abstract**: 
-> The Walkie Fully Powered Electric Straddle Stacker is a compact electric lifting equipment designed specifically for warehousing logistics and workshop material handling, making it exceptionally ideal for storage environments with limited space and narrow aisles. Integrating efficient electric lifting and driving functions, this model significantly reduces operator labor intensity and enhances handling safety through its ultra-small turning radius and intuitive operating experience. With its compact structure, low maintenance costs, and exceptional cost-effectiveness, it serves as the ideal selection for small and medium-sized enterprises to boost warehouse operation efficiency and achieve logistics automation.
+> > The Walkie Fully Powered Electric Straddle Stacker is a compact electric lifting equipment designed specifically for warehousing logistics and workshop material handling, making it exceptionally ideal for storage environments with limited space and narrow aisles. Integrating efficient electric lifting and driving functions, this model significantly reduces operator labor intensity and enhances handling safety through its ultra-small turning radius and intuitive operating experience. With its compact structure, low maintenance costs, and exceptional cost-effectiveness, it serves as the ideal selection for small and medium-sized enterprises to boost warehouse operation efficiency and achieve logistics automation.
 
 ---
 

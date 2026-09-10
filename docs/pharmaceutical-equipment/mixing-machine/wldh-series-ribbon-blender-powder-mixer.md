@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/jimeng-2026-08-15-1808-_1000__1000_....png?v=1786757066)
 
-> **Core Abstract**
-> The WLDH Series Horizontal Ribbon Mixer is a high-efficiency single-dimensional motion mixing equipment specifically designed for powders, granules, and low-viscosity liquids. It is widely used in industries such as food, pharmaceutical, chemical, and agriculture. Its core advantages lie in the unique U-shaped trough body and dual-layer ribbon design, which can achieve extremely high mixing uniformity at ratios up to 1:10,000 within 1-10 minutes. The equipment has a loading coefficient of over 70%, with single-batch capacity ranging from 30kg to 6,000kg. Machine materials are available in carbon steel, 304 stainless steel, or 316L stainless steel. With fast discharge and minimal residue, it is an ideal solution for enterprises pursuing large-scale, high-efficiency production.
+> > The WLDH Series Horizontal Ribbon Mixer is a high-efficiency single-dimensional motion mixing equipment specifically designed for powders, granules, and low-viscosity liquids. It is widely used in industries such as food, pharmaceutical, chemical, and agriculture. Its core advantages lie in the unique U-shaped trough body and dual-layer ribbon design, which can achieve extremely high mixing uniformity at ratios up to 1:10,000 within 1-10 minutes. The equipment has a loading coefficient of over 70%, with single-batch capacity ranging from 30kg to 6,000kg. Machine materials are available in carbon steel, 304 stainless steel, or 316L stainless steel. With fast discharge and minimal residue, it is an ideal solution for enterprises pursuing large-scale, high-efficiency production.
 
 ---
 

@@ -1,8 +1,7 @@
 # TD-001 Double Barrel Shoe Sole Pressing Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/TD-001.png?v=1788491134)
 
-> **Core Abstract:** 
-> The TD-001 Double Barrel Shoe Sole Pressing Machine is an efficient pneumatic equipment designed for precise sole and upper bonding across various footwear types, including leather shoes, sports shoes, and casual shoes. Ideal for shoe manufacturing factories, repair shops, and sampling studios, it features a dual-barrel independent structure that achieves a high productivity of 1000–1200 pairs per hour. With intuitive barometer pressure monitoring, a simple operation panel, and reliable pneumatic control (0.2–0.6 Mpa), the TD-001 delivers strong, consistent adhesion while ensuring easy operation and stable performance for batch production.
+> > The TD-001 Double Barrel Shoe Sole Pressing Machine is an efficient pneumatic equipment designed for precise sole and upper bonding across various footwear types, including leather shoes, sports shoes, and casual shoes. Ideal for shoe manufacturing factories, repair shops, and sampling studios, it features a dual-barrel independent structure that achieves a high productivity of 1000–1200 pairs per hour. With intuitive barometer pressure monitoring, a simple operation panel, and reliable pneumatic control (0.2–0.6 Mpa), the TD-001 delivers strong, consistent adhesion while ensuring easy operation and stable performance for batch production.
 
 ## 1. Product Overview
 | Item | Specification |

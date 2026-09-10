@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/jimeng-2026-07-04-5988.png?v=1783144372)
 
-> **Core Abstract**
-> The TDP-0 is an extremely lightweight, purely hand-driven single punch desktop tablet press, specifically designed to press granular raw materials into exquisite round tablets. This equipment does not require any power connection and can be operated smoothly by a single person via a hand crank, making it an ideal choice for laboratory pilot trials, new formula sampling, start-up clinics, and very small-scale customized production. Its core advantages lie in its extremely compact body (weighing only 30 KG) and flexible portability, while providing a stable pressing pressure of up to 15 kN to meet molding requirements up to a maximum diameter of 12 mm. Depending on the frequency of manual cranking, the production capacity can reach 1000 - 2000 pieces per hour. With extremely low maintenance costs and excellent ease of use, it provides you with a highly cost-effective formulation solution.
+> > The TDP-0 is an extremely lightweight, purely hand-driven single punch desktop tablet press, specifically designed to press granular raw materials into exquisite round tablets. This equipment does not require any power connection and can be operated smoothly by a single person via a hand crank, making it an ideal choice for laboratory pilot trials, new formula sampling, start-up clinics, and very small-scale customized production. Its core advantages lie in its extremely compact body (weighing only 30 KG) and flexible portability, while providing a stable pressing pressure of up to 15 kN to meet molding requirements up to a maximum diameter of 12 mm. Depending on the frequency of manual cranking, the production capacity can reach 1000 - 2000 pieces per hour. With extremely low maintenance costs and excellent ease of use, it provides you with a highly cost-effective formulation solution.
 
 ## I. Product Overview
 

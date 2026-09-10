@@ -1,8 +1,7 @@
 # TD-7661 Automatic Blister Vacuum Forming Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/TD-7661.png?v=1783675590)
 
-> **Core Abstract:**
-> The TD-7661 is a heavy-duty, industrial-grade automatic blister vacuum forming machine specifically designed for mass production in professional packaging plants. Capable of handling a wide range of plastic materials including PVC, PETG, PP, and eco-friendly APET, it features an expansive 760×610mm (29.92''×24.01'') forming area and a deep-forming capacity of up to 200mm. With a robust production efficiency of 200 to 300 molds per hour and a high-power stable vacuum system, this 700KG machine ensures precise pattern replication for industrial trays, liners, and shells. It is the ideal solution for electronics, hardware, and food packaging industries seeking uniform heating, extreme durability, and consistent high-volume output.
+> > The TD-7661 is a heavy-duty, industrial-grade automatic blister vacuum forming machine specifically designed for mass production in professional packaging plants. Capable of handling a wide range of plastic materials including PVC, PETG, PP, and eco-friendly APET, it features an expansive 760×610mm (29.92''×24.01'') forming area and a deep-forming capacity of up to 200mm. With a robust production efficiency of 200 to 300 molds per hour and a high-power stable vacuum system, this 700KG machine ensures precise pattern replication for industrial trays, liners, and shells. It is the ideal solution for electronics, hardware, and food packaging industries seeking uniform heating, extreme durability, and consistent high-volume output.
 
 ## 1. Product Overview
 | Item | Details |

@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/jimeng-2026-07-04-5842.png?v=1783146094)
 
-> **Core Abstract**
-> The ZP-9 is a continuously and automatically operating rotary tablet press, specifically designed to efficiently press various granular raw materials into round or irregular-shaped tablets. This equipment is highly suitable for medium-scale continuous production in pharmaceutical companies, health supplement factories, as well as the chemical and food industries. Its core advantages lie in its outstanding production capacity of up to 16,200 pieces/hour and a powerful pressing pressure of up to 60 kN. Through the continuous synchronous operation of multiple molds on the turret, it not only significantly improves production efficiency but also ensures extremely high stability during the tableting process, providing you with an efficient and reliable batch production solution.
+> > The ZP-9 is a continuously and automatically operating rotary tablet press, specifically designed to efficiently press various granular raw materials into round or irregular-shaped tablets. This equipment is highly suitable for medium-scale continuous production in pharmaceutical companies, health supplement factories, as well as the chemical and food industries. Its core advantages lie in its outstanding production capacity of up to 16,200 pieces/hour and a powerful pressing pressure of up to 60 kN. Through the continuous synchronous operation of multiple molds on the turret, it not only significantly improves production efficiency but also ensures extremely high stability during the tableting process, providing you with an efficient and reliable batch production solution.
 
 ## I. Product Overview
 

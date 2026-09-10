@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/jimeng-2026-07-25-3503.png?v=1784947858)
 
-> **Core Abstract**
-> The ZP17 is a continuously operating rotary tablet press with 60kN forming pressure, specifically designed to efficiently compress various granular raw materials into round or irregularly shaped tablets. This equipment is ideally suited for multi-variety, small-batch production scenarios. Its core advantages include an outstanding production capacity of up to 30,600 tablets/hour and excellent material adaptability, with a standard gravity feeding system that effectively addresses the issue of poor raw material flowability. The entire transmission system features bottom-sealed lubrication, ensuring high-standard production hygiene requirements, making it an ideal choice for small and medium-sized enterprises in the pharmaceutical, food, and chemical industries for efficient tablet production.
+> > The ZP17 is a continuously operating rotary tablet press with 60kN forming pressure, specifically designed to efficiently compress various granular raw materials into round or irregularly shaped tablets. This equipment is ideally suited for multi-variety, small-batch production scenarios. Its core advantages include an outstanding production capacity of up to 30,600 tablets/hour and excellent material adaptability, with a standard gravity feeding system that effectively addresses the issue of poor raw material flowability. The entire transmission system features bottom-sealed lubrication, ensuring high-standard production hygiene requirements, making it an ideal choice for small and medium-sized enterprises in the pharmaceutical, food, and chemical industries for efficient tablet production.
 
 ---
 

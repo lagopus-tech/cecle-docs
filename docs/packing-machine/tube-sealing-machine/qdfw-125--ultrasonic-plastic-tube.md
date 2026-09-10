@@ -3,8 +3,7 @@
 
 ![QDFW-125 Ultrasonic Sealing Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17834972916848.png?v=1783497319)
 
-> **Core Abstract:**  
-> The **QDFW-125** is a versatile pneumatic ultrasonic tube sealing machine specifically designed for small-to-medium enterprises and laboratories in the cosmetics, pharmaceutical, food, and chemical industries. Ideal for paste and slurry products like toothpaste, cleansers, and glues, it uses cold ultrasonic vibration to deliver firm, heat-free seals without scorching heat-sensitive ingredients. Key features include multi-material compatibility (aluminum, plastic, composite tubes), real-time digital frequency monitoring, a compact benchtop/vertical design, and simultaneous date embossing.
+> > The **QDFW-125** is a versatile pneumatic ultrasonic tube sealing machine specifically designed for small-to-medium enterprises and laboratories in the cosmetics, pharmaceutical, food, and chemical industries. Ideal for paste and slurry products like toothpaste, cleansers, and glues, it uses cold ultrasonic vibration to deliver firm, heat-free seals without scorching heat-sensitive ingredients. Key features include multi-material compatibility (aluminum, plastic, composite tubes), real-time digital frequency monitoring, a compact benchtop/vertical design, and simultaneous date embossing.
 
 ---
 

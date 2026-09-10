@@ -4,8 +4,7 @@
 
 ---
 
-> **Core Abstract**
-> The HP-80100 is a manual large-format flat heat press machine with a slide-out lower platen, designed for one-pass transfer of oversized patterns onto T-shirts, metal plates, ceramic tiles, glass, and large-format textiles. It is best suited to advertising and promotional-gift customization shops, garment printing factories, cross-border e-commerce large-format sublimation sellers, and personalized home-textile and flag printing workshops. Its core advantages include an 80×100 cm (31.5×39.4") extra-large heating platen that forms a full-size pattern in a single press—eliminating splicing—plus a slide-out worktable that lets operators load and align materials safely outside the heated upper platen. A large heating panel delivers even heat and pressure edge to center, and 6000W power heats to 200℃ in about 15 minutes for continuous, small-to-medium batch production.
+> > The HP-80100 is a manual large-format flat heat press machine with a slide-out lower platen, designed for one-pass transfer of oversized patterns onto T-shirts, metal plates, ceramic tiles, glass, and large-format textiles. It is best suited to advertising and promotional-gift customization shops, garment printing factories, cross-border e-commerce large-format sublimation sellers, and personalized home-textile and flag printing workshops. Its core advantages include an 80×100 cm (31.5×39.4") extra-large heating platen that forms a full-size pattern in a single press—eliminating splicing—plus a slide-out worktable that lets operators load and align materials safely outside the heated upper platen. A large heating panel delivers even heat and pressure edge to center, and 6000W power heats to 200℃ in about 15 minutes for continuous, small-to-medium batch production.
 
 ---
 

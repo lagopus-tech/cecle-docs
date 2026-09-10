@@ -3,8 +3,7 @@
 
 ![AL-D220 Automatic Two-Sided Round & Square Bottle Labeling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_fec8tyfec8tyfec8.png?v=1785295363)
 
-> **Core Abstract**
-> The AL-D220 Automatic Two-Sided Round & Square Bottle Labeling Machine is an industrial-grade, highly versatile packaging solution engineered for cylindrical and flat-sided containers such as wine bottles, water bottles, and square cans. Ideal for the food, beverage, and daily chemical industries, this advanced system delivers a precise throughput of 30-60 bottles per minute with a high servo-driven labeling accuracy of $\pm 1\text{mm}$. Featuring robust modular compatibility, it supports flexible single-sided or front-and-back dual labeling, customizable transparent label sensors, and on-line ribbon coders. By combining multi-shape adaptability, anti-bubble application, and professional-grade durability, the AL-D220 maximizes packaging efficiency and brand consistency for growing enterprises.
+> > The AL-D220 Automatic Two-Sided Round & Square Bottle Labeling Machine is an industrial-grade, highly versatile packaging solution engineered for cylindrical and flat-sided containers such as wine bottles, water bottles, and square cans. Ideal for the food, beverage, and daily chemical industries, this advanced system delivers a precise throughput of 30-60 bottles per minute with a high servo-driven labeling accuracy of $\pm 1\text{mm}$. Featuring robust modular compatibility, it supports flexible single-sided or front-and-back dual labeling, customizable transparent label sensors, and on-line ribbon coders. By combining multi-shape adaptability, anti-bubble application, and professional-grade durability, the AL-D220 maximizes packaging efficiency and brand consistency for growing enterprises.
 
 ---
 

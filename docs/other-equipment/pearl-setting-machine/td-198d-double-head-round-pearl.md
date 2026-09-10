@@ -1,8 +1,7 @@
 # TD-198D Double Head Nail Round Pearl Fixing Beading Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/TD-198D.png?v=1786001355)
 
-> **Core Abstract:** 
-> The TD-198D Double Head Round Pearl Setting Machine is a high-yield, dual-station pneumatic beading equipment built to efficiently arrange multi-specification standard round pearls. It stands out as the ultimate solution for medium-to-large garment OEMs, wedding dress customizers, and export clothing suppliers who require complex, staggered pearl designs. Featuring a highly innovative double head and double hopper structure, it enables operators to seamlessly alternate between two different pearl sizes (ranging from 4mm to 12mm) without ever stopping for time-consuming mold changes. Powered by a smart PLC dual control system and industrial-grade long-stroke cylinders, this powerful machine delivers exceptional precision and penetrating force on multi-layer composite fabrics, drastically saving processing time while significantly boosting overall factory output.
+> > The TD-198D Double Head Round Pearl Setting Machine is a high-yield, dual-station pneumatic beading equipment built to efficiently arrange multi-specification standard round pearls. It stands out as the ultimate solution for medium-to-large garment OEMs, wedding dress customizers, and export clothing suppliers who require complex, staggered pearl designs. Featuring a highly innovative double head and double hopper structure, it enables operators to seamlessly alternate between two different pearl sizes (ranging from 4mm to 12mm) without ever stopping for time-consuming mold changes. Powered by a smart PLC dual control system and industrial-grade long-stroke cylinders, this powerful machine delivers exceptional precision and penetrating force on multi-layer composite fabrics, drastically saving processing time while significantly boosting overall factory output.
 
 ## 1. Product Overview
 | Item | Details |

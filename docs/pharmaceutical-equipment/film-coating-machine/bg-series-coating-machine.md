@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/jimeng-2026-08-10-1882-_1000__1000_....png?v=1786327786)
 
-> **Core Abstract**
-> The BG series efficient intelligent coating machine is high-efficiency processing equipment specially designed for film and sugar coating of tablets, pills, and candies. It is extremely suitable for high-standard production lines in the pharmaceutical and food industries. The core advantage of this series lies in its PLC human-machine interface intelligent control system that complies with GMP requirements, as well as a constant-temperature hot air drying system that reaches a 100,000-class purification standard. Covering a wide capacity range from 10 kg to 80 kg/time, this equipment comes standard with Japan-imported spray guns, featuring no dust pollution and energy saving. It ensures that the coated finished products have a uniform, solid, and smooth surface, making it a highly cost-effective and ideal choice for modern, high-standard formulation processes.
+> > The BG series efficient intelligent coating machine is high-efficiency processing equipment specially designed for film and sugar coating of tablets, pills, and candies. It is extremely suitable for high-standard production lines in the pharmaceutical and food industries. The core advantage of this series lies in its PLC human-machine interface intelligent control system that complies with GMP requirements, as well as a constant-temperature hot air drying system that reaches a 100,000-class purification standard. Covering a wide capacity range from 10 kg to 80 kg/time, this equipment comes standard with Japan-imported spray guns, featuring no dust pollution and energy saving. It ensures that the coated finished products have a uniform, solid, and smooth surface, making it a highly cost-effective and ideal choice for modern, high-standard formulation processes.
 
 ## I. Product Overview
 

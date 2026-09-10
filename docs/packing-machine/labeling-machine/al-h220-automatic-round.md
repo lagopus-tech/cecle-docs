@@ -3,8 +3,7 @@
 
 ![Automatic Horizontal Round Bottle Labeling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_90zlw590zlw590zl.png?v=1785303901)
 
-> **Core Abstract**
-> The Automatic Horizontal Round Bottle Labeling Machine is an advanced industrial packaging solution specifically engineered for unstable cylindrical products that cannot stand steadily on standard conveyors, such as medical vials, ampoules, oral liquid bottles, lipstick tubes, and crayons. Ideal for the pharmaceutical, cosmetic, and stationery industries, this specialized horizontal system offers flexible throughput options ranging from a standard 60-150 pcs/min to an optional high-speed 150-300 pcs/min configuration utilizing an elevator and centrifugal feeder setup, all while maintaining $\pm 1\text{mm}$ precision. Featuring customizable automatic feeding mechanisms, transparent label sensors, and on-line ribbon coders, it ensures reliable, high-efficiency, and bubble-free horizontal rolling application.
+> > The Automatic Horizontal Round Bottle Labeling Machine is an advanced industrial packaging solution specifically engineered for unstable cylindrical products that cannot stand steadily on standard conveyors, such as medical vials, ampoules, oral liquid bottles, lipstick tubes, and crayons. Ideal for the pharmaceutical, cosmetic, and stationery industries, this specialized horizontal system offers flexible throughput options ranging from a standard 60-150 pcs/min to an optional high-speed 150-300 pcs/min configuration utilizing an elevator and centrifugal feeder setup, all while maintaining $\pm 1\text{mm}$ precision. Featuring customizable automatic feeding mechanisms, transparent label sensors, and on-line ribbon coders, it ensures reliable, high-efficiency, and bubble-free horizontal rolling application.
 
 ---
 

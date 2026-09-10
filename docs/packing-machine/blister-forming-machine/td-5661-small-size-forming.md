@@ -1,8 +1,7 @@
 # TD-5661 Plastic Blister Tray Vacuum Forming Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/TD-5661.png?v=1783675588)
 
-> **Core Abstract:**
-> The TD-5661 is a versatile semi-automatic plastic blister tray vacuum forming machine optimized for sampling workshops and small-to-medium batch production. Perfect for industries such as electronics packaging, medical supplies, and cosmetics, it supports common materials like PVC, PET, PP, and PS. This model features a practical 560×610mm (22.04''×24.01'') forming area and a high-efficiency heating system that ensures clear, full-contoured trays without thin edges or cracking. Delivering 200 to 300 molds per hour, the TD-5661 combines a compact footprint with industrial stability, making it an excellent choice for businesses requiring frequent mold changes and high-precision blister liners or inserts.
+> > The TD-5661 is a versatile semi-automatic plastic blister tray vacuum forming machine optimized for sampling workshops and small-to-medium batch production. Perfect for industries such as electronics packaging, medical supplies, and cosmetics, it supports common materials like PVC, PET, PP, and PS. This model features a practical 560×610mm (22.04''×24.01'') forming area and a high-efficiency heating system that ensures clear, full-contoured trays without thin edges or cracking. Delivering 200 to 300 molds per hour, the TD-5661 combines a compact footprint with industrial stability, making it an excellent choice for businesses requiring frequent mold changes and high-precision blister liners or inserts.
 
 ## 1. Product Overview
 | Item | Details |

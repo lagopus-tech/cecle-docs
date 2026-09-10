@@ -2,8 +2,7 @@
 
 ![Fully Automatic Flow Packing Shrink Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_xh9ng6xh9ng6xh9n.png?v=1786088027)
 
-> **Core Abstract**
-> The HFQ series fully automatic flow packing shrink machine is an industrial-grade solution designed for high-efficiency and high-precision packaging. This equipment is perfectly suited for packaging small boxes, phone boxes, cosmetic boxes, bath bombs, instant noodles, and various small products, with a maximum production speed of up to 100 pieces per minute. Compared to traditional L-bar sealers or side sealers, the flow wrapper not only offers faster speeds but also delivers more compact and exquisite packaging results, while significantly saving 3%-10% on film material waste. For special products like bath bombs, we also provide customized fully automatic feeding devices, making it the ideal choice for enterprises pursuing ultimate packaging quality and operational efficiency.
+> > The HFQ series fully automatic flow packing shrink machine is an industrial-grade solution designed for high-efficiency and high-precision packaging. This equipment is perfectly suited for packaging small boxes, phone boxes, cosmetic boxes, bath bombs, instant noodles, and various small products, with a maximum production speed of up to 100 pieces per minute. Compared to traditional L-bar sealers or side sealers, the flow wrapper not only offers faster speeds but also delivers more compact and exquisite packaging results, while significantly saving 3%-10% on film material waste. For special products like bath bombs, we also provide customized fully automatic feeding devices, making it the ideal choice for enterprises pursuing ultimate packaging quality and operational efficiency.
 
 ---
 

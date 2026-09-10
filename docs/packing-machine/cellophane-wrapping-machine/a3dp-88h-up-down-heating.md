@@ -1,6 +1,6 @@
 # Product Manual: A3DP-88H Electro-Pneumatic Six-Side Ironing Cellophane Wrapping Machine
 
-> **core Abstract:** The A3DP-88H is a semi-automatic, electro-pneumatic cellophane 3D overwrapping machine designed for square-boxed products in cosmetics, pharmaceuticals, healthcare, tea, and tobacco industries. Featuring dual top and bottom heating plates, it irons all six faces of the box to eliminate film slack and bubbles, producing a mirror-tight finish at speeds of 15–20 cycles/min for box sizes up to 220 × 140 × 110 mm.
+> The A3DP-88H is a semi-automatic, electro-pneumatic cellophane 3D overwrapping machine designed for square-boxed products in cosmetics, pharmaceuticals, healthcare, tea, and tobacco industries. Featuring dual top and bottom heating plates, it irons all six faces of the box to eliminate film slack and bubbles, producing a mirror-tight finish at speeds of 15–20 cycles/min for box sizes up to 220 × 140 × 110 mm.
 
 ![A3DP-88H Electro-Pneumatic Six-Side Ironing Cellophane Wrapping Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17847860444116.png?v=1784786069)
 

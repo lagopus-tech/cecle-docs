@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/jimeng-2026-08-10-2137-image_1000__1000_....png?v=1786326295)
 
-> **Core Abstract**
-> The BY Series Coating Machine is high-efficiency processing equipment that integrates sugar coating, film coating, and polishing functions, specifically designed for the surface coating of various tablets, pills, and candies. It is highly suitable for high-standard production environments in the pharmaceutical, food, health product, and chemical industries. The core advantage of this series lies in its extremely broad capacity coverage and high-quality stainless steel construction, equipped with an independent heating system and speed adjustment function, capable of providing the most efficient and uniform coating effect, making it a highly cost-effective solution for modern formulation processes.
+> > The BY Series Coating Machine is high-efficiency processing equipment that integrates sugar coating, film coating, and polishing functions, specifically designed for the surface coating of various tablets, pills, and candies. It is highly suitable for high-standard production environments in the pharmaceutical, food, health product, and chemical industries. The core advantage of this series lies in its extremely broad capacity coverage and high-quality stainless steel construction, equipped with an independent heating system and speed adjustment function, capable of providing the most efficient and uniform coating effect, making it a highly cost-effective solution for modern formulation processes.
 
 ## I. Product Overview
 

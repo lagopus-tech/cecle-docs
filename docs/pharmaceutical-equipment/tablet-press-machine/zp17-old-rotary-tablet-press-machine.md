@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/jimeng-2026-07-25-4024.png?v=1784950449)
 
-> **Core Abstract**
-> The ZP17 Old Model is a continuously operating rotary tablet press with 60kN forming pressure, specifically designed to efficiently compress various granular raw materials into round or irregularly shaped tablets. This equipment is ideally suited for multi-variety, small-batch production scenarios in pharmaceutical companies, veterinary drug factories, and the food industry. Its core advantages include a stable production capacity of up to 30,600 tablets/hour, a compact machine design, and a standard gravity feeding system that effectively addresses the challenge of poor raw material flowability. The entire transmission system features bottom-sealed oil-immersed lubrication, ensuring high-standard production hygiene requirements, making it an ideal choice for small and medium-sized enterprises seeking efficient tablet production.
+> > The ZP17 Old Model is a continuously operating rotary tablet press with 60kN forming pressure, specifically designed to efficiently compress various granular raw materials into round or irregularly shaped tablets. This equipment is ideally suited for multi-variety, small-batch production scenarios in pharmaceutical companies, veterinary drug factories, and the food industry. Its core advantages include a stable production capacity of up to 30,600 tablets/hour, a compact machine design, and a standard gravity feeding system that effectively addresses the challenge of poor raw material flowability. The entire transmission system features bottom-sealed oil-immersed lubrication, ensuring high-standard production hygiene requirements, making it an ideal choice for small and medium-sized enterprises seeking efficient tablet production.
 
 ---
 

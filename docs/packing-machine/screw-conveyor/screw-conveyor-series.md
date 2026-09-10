@@ -2,8 +2,7 @@
 
 ![Screw Conveyor Product Display](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/SCREW_CPNVEYOR.png?v=1782713882)
 
-> **Core Abstract**
-> The SC Series Screw Conveyor (Auger Elevator) is a high-efficiency automated handling solution designed for the seamless vertical transport of powders (e.g., flour, medicine) and small granules (e.g., plastic pellets, seasonings). Constructed with food-grade SUS304 stainless steel, it ensures exceptional corrosion resistance and hygiene compliance. Key features include highly flexible height customization, intelligent frequency-controlled speed adjustment for synchronized feeding, and a mobile caster base for easy factory layout management. With an optional forced agitation device to prevent material bridging, the SC Series provides a stable, durable, and low-maintenance automated feeding solution for food, pharmaceutical, and chemical processing lines.
+> > The SC Series Screw Conveyor (Auger Elevator) is a high-efficiency automated handling solution designed for the seamless vertical transport of powders (e.g., flour, medicine) and small granules (e.g., plastic pellets, seasonings). Constructed with food-grade SUS304 stainless steel, it ensures exceptional corrosion resistance and hygiene compliance. Key features include highly flexible height customization, intelligent frequency-controlled speed adjustment for synchronized feeding, and a mobile caster base for easy factory layout management. With an optional forced agitation device to prevent material bridging, the SC Series provides a stable, durable, and low-maintenance automated feeding solution for food, pharmaceutical, and chemical processing lines.
 
 ## I. Product Overview
 * **Category**: Industrial Automated Handling Equipment / Screw Elevator

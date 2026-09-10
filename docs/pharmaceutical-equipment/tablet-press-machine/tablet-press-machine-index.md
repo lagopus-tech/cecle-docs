@@ -1,7 +1,6 @@
 # Complete Selection Guide and Product Overview for Tablet Press Machines
 
-> **Core Abstract**
-> This guide provides a complete selection strategy and product overview for tablet press machines, covering our full range of equipment from single-punch to rotary presses. Single-punch tablet presses (such as the TDP series) feature a compact structure and minimal material loss, making them ideal for laboratory R&D, clinics, and small-scale prototyping. Rotary tablet presses (such as the ZP series, including ZP-9, ZP17, etc.) are designed for automated continuous production in the pharmaceutical, nutraceutical, chemical, and food industries, offering high capacity and stability. Whether you are a startup or a large-scale factory requiring GMP compliance, you will find the optimal tablet forming solution here to match your capacity needs, material characteristics, and investment budget.
+> > This guide provides a complete selection strategy and product overview for tablet press machines, covering our full range of equipment from single-punch to rotary presses. Single-punch tablet presses (such as the TDP series) feature a compact structure and minimal material loss, making them ideal for laboratory R&D, clinics, and small-scale prototyping. Rotary tablet presses (such as the ZP series, including ZP-9, ZP17, etc.) are designed for automated continuous production in the pharmaceutical, nutraceutical, chemical, and food industries, offering high capacity and stability. Whether you are a startup or a large-scale factory requiring GMP compliance, you will find the optimal tablet forming solution here to match your capacity needs, material characteristics, and investment budget.
 
 ---
 

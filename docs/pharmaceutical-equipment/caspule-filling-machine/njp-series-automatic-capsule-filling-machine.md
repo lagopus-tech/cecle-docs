@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/jimeng-2026-06-27-2867.png?v=1782544956)
 
-> **Core Abstract**
-> The NJP Series Fully Automatic Capsule Filling Machine is a highly efficient automated device specifically designed for the precise filling of powder and granular materials into hard empty capsules. This series of machines is ideally suited for standardized production at multiple scales, including pharmaceutical companies, health supplement factories, and pilot-scale laboratory production. Its core advantage lies in offering a wide range of capacity models from 12,000 up to 150,000 capsules per hour, with premium SUS304 stainless steel as standard (with support for SUS316L upgrades). Combined with imported Japanese linear bearings and fully enclosed cam lubrication technology, it delivers a high-precision (±3.5%), highly stable, long-lasting intelligent filling solution.
+> > The NJP Series Fully Automatic Capsule Filling Machine is a highly efficient automated device specifically designed for the precise filling of powder and granular materials into hard empty capsules. This series of machines is ideally suited for standardized production at multiple scales, including pharmaceutical companies, health supplement factories, and pilot-scale laboratory production. Its core advantage lies in offering a wide range of capacity models from 12,000 up to 150,000 capsules per hour, with premium SUS304 stainless steel as standard (with support for SUS316L upgrades). Combined with imported Japanese linear bearings and fully enclosed cam lubrication technology, it delivers a high-precision (±3.5%), highly stable, long-lasting intelligent filling solution.
 
 ## 1. What Is a Fully Automatic Capsule Filling Machine?
 

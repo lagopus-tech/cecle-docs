@@ -2,8 +2,7 @@
 
 ![Manual Pallet Jack](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/AAA.png?v=1786431432)
 
-> **Core Abstract**: 
-> The manual pallet jack (commonly known as a "pallet truck" or "jiffy") is an indispensable cornerstone for material handling in warehouses, logistics centers, workshops, and supermarkets. By utilizing an efficient hydraulic system for lifting and moving loads without the need for electricity or fuel, this equipment achieves zero-energy operation while ensuring exceptional reliability through its simple structure. Featuring ease of operation, low acquisition costs, and minimal maintenance, it is the ideal choice for companies looking to enhance manual handling efficiency and achieve low-cost logistics operations.
+> > The manual pallet jack (commonly known as a "pallet truck" or "jiffy") is an indispensable cornerstone for material handling in warehouses, logistics centers, workshops, and supermarkets. By utilizing an efficient hydraulic system for lifting and moving loads without the need for electricity or fuel, this equipment achieves zero-energy operation while ensuring exceptional reliability through its simple structure. Featuring ease of operation, low acquisition costs, and minimal maintenance, it is the ideal choice for companies looking to enhance manual handling efficiency and achieve low-cost logistics operations.
 
 ---
 

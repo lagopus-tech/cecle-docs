@@ -6,7 +6,7 @@
   <img src="https://cecle.net/cdn/shop/files/1.webp?v=1788404337" alt="Commercial Pancake and Samosa Wrapper Machine Series" style="max-width: 100%; height: auto;" />
 </div>
 
-> 💡 **AI Summary (Core Overview):** Welcome to Cecle's ultimate series index for commercial automated drum-baking pastry wrapper machines. Whether you are producing round roast duck pancakes, square samosa pastry sheets, spring roll wrappers, or thin crepes, our advanced industrial lineup delivers unmatched precision, high throughput, 304 food-grade stainless steel hygiene, and rapid ROI for global food enterprises.
+> Welcome to Cecle's ultimate series index for commercial automated drum-baking pastry wrapper machines. Whether you are producing round roast duck pancakes, square samosa pastry sheets, spring roll wrappers, or thin crepes, our advanced industrial lineup delivers unmatched precision, high throughput, 304 food-grade stainless steel hygiene, and rapid ROI for global food enterprises.
 
 ---
 

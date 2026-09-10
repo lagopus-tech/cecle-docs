@@ -2,8 +2,7 @@
 
 ![HT-RB-300 Skateboard Heat Transfer Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/1782464902924.png?v=1782465564)
 
-> **core Abstract**  
-> The HT-RB-300 is a semi-automatic pneumatic heat transfer machine designed for skateboard manufacturers and custom workshops. Equipped with a high-temperature resistant 45° (Shore A) silicone roller, it conforms perfectly to concave decks and edge curves, eliminating air bubbles and wrinkles. Delivering up to 0.6T of stable pressure in an optimized 230kg lightweight body, it lowers cross-border shipping costs while offering a highly cost-effective solution for premium graphic transfers.
+> > The HT-RB-300 is a semi-automatic pneumatic heat transfer machine designed for skateboard manufacturers and custom workshops. Equipped with a high-temperature resistant 45° (Shore A) silicone roller, it conforms perfectly to concave decks and edge curves, eliminating air bubbles and wrinkles. Delivering up to 0.6T of stable pressure in an optimized 230kg lightweight body, it lowers cross-border shipping costs while offering a highly cost-effective solution for premium graphic transfers.
 
 ---
 

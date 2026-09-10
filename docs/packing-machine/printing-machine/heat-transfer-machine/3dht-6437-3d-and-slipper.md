@@ -3,8 +3,7 @@
 
 ![HT-6437 3D Heat Transfer Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17828894095972.png?v=1782889447)
 
-> **core Abstract**  
-> The HT-6437 is a semi-automatic heat transfer machine specifically designed for 3D curved surfaces and irregularly shaped products. It is widely used in footwear (such as flip-flop/sandal soles), stationery, and plastic gift manufacturing. Featuring an electric-drive and pneumatic linkage control system, it achieves a high production speed of up to 15 cycles/min. Combined with a high-precision film feeding system and pressure buffering mechanism, it ensures full coverage and strong adhesion on complex curved surfaces—making it an ideal choice for high-capacity, multi-material transfer applications.
+> > The HT-6437 is a semi-automatic heat transfer machine specifically designed for 3D curved surfaces and irregularly shaped products. It is widely used in footwear (such as flip-flop/sandal soles), stationery, and plastic gift manufacturing. Featuring an electric-drive and pneumatic linkage control system, it achieves a high production speed of up to 15 cycles/min. Combined with a high-precision film feeding system and pressure buffering mechanism, it ensures full coverage and strong adhesion on complex curved surfaces—making it an ideal choice for high-capacity, multi-material transfer applications.
 
 ---
 

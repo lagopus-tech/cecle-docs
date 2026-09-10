@@ -2,8 +2,7 @@
 
 ![Electric Pallet Jack](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/121.png?v=1787203718)
 
-> **Core Abstract**
-> The Electric Pallet Jack (Models: EPT15TQ / EPT15TLI) is a highly efficient solution for modern logistics and warehousing. Featuring a fully electric drive system, it automates both travel and lifting, eliminating the physical strain associated with traditional manual handling. With an ergonomic design and powerful motor output, it smoothly and quickly manages loads up to 1500kg. It is specifically designed for frequent operations in narrow aisles, between warehouse shelves, and inside truck trailers, making it an ideal choice for businesses looking to boost logistics efficiency and improve workplace ergonomics.
+> > The Electric Pallet Jack (Models: EPT15TQ / EPT15TLI) is a highly efficient solution for modern logistics and warehousing. Featuring a fully electric drive system, it automates both travel and lifting, eliminating the physical strain associated with traditional manual handling. With an ergonomic design and powerful motor output, it smoothly and quickly manages loads up to 1500kg. It is specifically designed for frequent operations in narrow aisles, between warehouse shelves, and inside truck trailers, making it an ideal choice for businesses looking to boost logistics efficiency and improve workplace ergonomics.
 
 ---
 

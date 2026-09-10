@@ -2,8 +2,7 @@
 
 ![A3DP-88 Cellophane Wrapping Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/A3DP-88_1_88928bbd-01cb-4ff5-a458-97026b05aba9.jpg?v=1784773548)
 
-> **Core Abstract**  
-> The A3DP-88 is a compact, pneumatic cellophane overwrapping machine engineered to deliver professional "cigarette-pack style" 3D fold wrapping for boxed items using BOPP film. Ideal for cosmetics, healthcare, tea, stationery, and pharmaceuticals, it achieves up to 20 cycles/min with precise width/height adjustments. Featuring customizable spot or four-side heat sealing, this space-saving unit ensures tight, wrinkle-free, tamper-evident, and moisture-proof packaging to elevate product presentation for small to medium-scale manufacturers.
+> > The A3DP-88 is a compact, pneumatic cellophane overwrapping machine engineered to deliver professional "cigarette-pack style" 3D fold wrapping for boxed items using BOPP film. Ideal for cosmetics, healthcare, tea, stationery, and pharmaceuticals, it achieves up to 20 cycles/min with precise width/height adjustments. Featuring customizable spot or four-side heat sealing, this space-saving unit ensures tight, wrinkle-free, tamper-evident, and moisture-proof packaging to elevate product presentation for small to medium-scale manufacturers.
 
 **Model: A3DP-88**
 

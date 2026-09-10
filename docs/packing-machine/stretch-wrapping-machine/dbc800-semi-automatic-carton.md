@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/1_cee52332-607e-4c7f-bbfe-f84696d4a11b.png?v=1782375142)
 
-> **Core Abstract**
-> The DBC800 Semi-automatic Stretch Wrapping Machine is a highly flexible, ergonomic packaging solution designed specifically for e-commerce parcels, postal boxes, and small goods weighing up to 80KG. Its high-table structure allows operators to work comfortably without bending over. Featuring an intuitive control panel, a secure foot pedal switch, and adjustable wrapping poles to accommodate various carton sizes, it significantly improves packaging efficiency. By ensuring a tight and secure wrap, the DBC800 protects goods from dust, moisture, and transit damage while drastically reducing manual labor compared to hand wrapping.
+> > The DBC800 Semi-automatic Stretch Wrapping Machine is a highly flexible, ergonomic packaging solution designed specifically for e-commerce parcels, postal boxes, and small goods weighing up to 80KG. Its high-table structure allows operators to work comfortably without bending over. Featuring an intuitive control panel, a secure foot pedal switch, and adjustable wrapping poles to accommodate various carton sizes, it significantly improves packaging efficiency. By ensuring a tight and secure wrap, the DBC800 protects goods from dust, moisture, and transit damage while drastically reducing manual labor compared to hand wrapping.
 
 ---
 

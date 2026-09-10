@@ -2,7 +2,7 @@
 
 ![PC-88 Capping Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/1786004487309.png?v=1786004547)
 
-> **core Abstract**: The PC-88 is a high-precision semi-automatic pneumatic capping machine designed for non-abrasive, leak-proof crimping of aluminum and spray-type caps (13–22mm). Built with durable, high-grade pneumatic components and a stable stainless-steel worktable, it reaches operating speeds up to 200 cycles/min, making it an ideal sealing solution for perfume, cosmetics, pharmaceutical, and beverage packaging lines.
+> The PC-88 is a high-precision semi-automatic pneumatic capping machine designed for non-abrasive, leak-proof crimping of aluminum and spray-type caps (13–22mm). Built with durable, high-grade pneumatic components and a stable stainless-steel worktable, it reaches operating speeds up to 200 cycles/min, making it an ideal sealing solution for perfume, cosmetics, pharmaceutical, and beverage packaging lines.
 
 ## I. Product Overview
 * **Product Category**: Semi-automatic Pneumatic Capping Machine.

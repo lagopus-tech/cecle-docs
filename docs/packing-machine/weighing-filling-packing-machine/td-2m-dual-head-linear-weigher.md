@@ -1,8 +1,7 @@
 # TD-2M Automatic Dual-Head Linear Weigher Filling Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/TD-2M.png?v=1787885097)
 
-> **Core Abstract:**
-> The TD-2M Automatic Dual-Head Linear Weigher is a highly cost-effective, entry-level automatic weighing and filling machine designed for small to medium-scale food and agricultural packaging. Ideal for granules, slices, and regular-shaped products like sugar, rice, seeds, and seasoning powders, it utilizes two alternating weighing heads to balance speed and accuracy (1-2g precision at 30 drops/min). Equipped with a brand-new modular control system and stepless vibrating feeding, it ensures smooth operation without damaging materials. It also supports recipe mixing, making it a versatile choice for standalone use or integration with vertical packaging machines.
+> > The TD-2M Automatic Dual-Head Linear Weigher is a highly cost-effective, entry-level automatic weighing and filling machine designed for small to medium-scale food and agricultural packaging. Ideal for granules, slices, and regular-shaped products like sugar, rice, seeds, and seasoning powders, it utilizes two alternating weighing heads to balance speed and accuracy (1-2g precision at 30 drops/min). Equipped with a brand-new modular control system and stepless vibrating feeding, it ensures smooth operation without damaging materials. It also supports recipe mixing, making it a versatile choice for standalone use or integration with vertical packaging machines.
 
 ## 1. Product Overview
 The TD-2M is a dual-head linear scale suitable for the automatic quantitative weighing of granules and regular-shaped materials for small to medium production capacities.

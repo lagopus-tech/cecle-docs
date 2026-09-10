@@ -1,8 +1,7 @@
 # FM-50 (1-50g) Automatic Weighing Filling Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/FM-50.png?v=1787906295)
 
-> **Core Abstract:**
-> The FM-50 Automatic Weighing Filling Machine is a highly efficient and precise quantitative dispensing equipment designed for packaging 1 to 50g of granules, powders, tea, seeds, and small hardware. It is ideal for food processing, pharmaceutical & healthcare, hardware packaging, and small to medium-sized retail shops. Its core advantages include a premium food-grade stainless steel construction for hygiene and durability, an intelligent microcomputer control panel for high-precision weighing, and an independent foot pedal for hands-free discharging. Featuring a compact desktop design (weighing only 9kg) and a stable output of 6–12 bags per minute, it provides a versatile, space-saving, and reliable filling solution.
+> > The FM-50 Automatic Weighing Filling Machine is a highly efficient and precise quantitative dispensing equipment designed for packaging 1 to 50g of granules, powders, tea, seeds, and small hardware. It is ideal for food processing, pharmaceutical & healthcare, hardware packaging, and small to medium-sized retail shops. Its core advantages include a premium food-grade stainless steel construction for hygiene and durability, an intelligent microcomputer control panel for high-precision weighing, and an independent foot pedal for hands-free discharging. Featuring a compact desktop design (weighing only 9kg) and a stable output of 6–12 bags per minute, it provides a versatile, space-saving, and reliable filling solution.
 
 ---
 

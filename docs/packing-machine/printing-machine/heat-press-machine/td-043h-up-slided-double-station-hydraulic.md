@@ -4,8 +4,7 @@
 
 ---
 
-> **Core Abstract**
-> The TD-043H is an up-slide double-station hydraulic heat press machine designed for high-volume sublimation transfer onto garments and T-shirts. It is best suited to garment printing factories, customization studios, advertising gift makers, cross-border e-commerce sellers, and medium-to-large batch production lines. Its core advantages include a hydraulic drive that delivers stronger, more stable pressure without an external air compressor—eliminating air-source cost and maintenance—plus a dual-station design where one side presses while the other is loaded in parallel to raise output, and an emergency stop that lifts the plate instantly for safety. A 40×60 cm (15.8×23.6") platen and 3500W power ensure consistent, high-throughput results.
+> > The TD-043H is an up-slide double-station hydraulic heat press machine designed for high-volume sublimation transfer onto garments and T-shirts. It is best suited to garment printing factories, customization studios, advertising gift makers, cross-border e-commerce sellers, and medium-to-large batch production lines. Its core advantages include a hydraulic drive that delivers stronger, more stable pressure without an external air compressor—eliminating air-source cost and maintenance—plus a dual-station design where one side presses while the other is loaded in parallel to raise output, and an emergency stop that lifts the plate instantly for safety. A 40×60 cm (15.8×23.6") platen and 3500W power ensure consistent, high-throughput results.
 
 ---
 

@@ -3,8 +3,7 @@
 
 ![Stand-on Electric Pallet Truck](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/W.png?v=1787031484)
 
-> **Core Abstract**: 
-> The Stand-on Electric Pallet Truck is an efficient warehousing solution designed specifically for modern large-scale facilities. Combining electric drive with a stand-on operating design, this model significantly increases travel speed and operator comfort for long-distance material handling. With a sturdy chassis, high load capacity, and flexible foldable protective guards, it transitions seamlessly between wide warehouse aisles and narrow work areas, making it the optimal choice for boosting operational efficiency.
+> > The Stand-on Electric Pallet Truck is an efficient warehousing solution designed specifically for modern large-scale facilities. Combining electric drive with a stand-on operating design, this model significantly increases travel speed and operator comfort for long-distance material handling. With a sturdy chassis, high load capacity, and flexible foldable protective guards, it transitions seamlessly between wide warehouse aisles and narrow work areas, making it the optimal choice for boosting operational efficiency.
 
 ---
 

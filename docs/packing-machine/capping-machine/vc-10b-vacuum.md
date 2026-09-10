@@ -2,7 +2,7 @@
 
 ![VC-10B Capping Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17861546847522.png?v=1786154733)
 
-> **core Abstract**: The VC-10B is a high-efficiency semi-automatic vacuum capping machine designed for glass jars and bottles. Engineered with pneumatic and electrical integration, it achieves up to 0.08 Mpa vacuum pressure and a capping speed of 600–800 bottles/hour with adjustable torque (5–25 N.M). Ideal for food, condiment, and pharmaceutical industries (e.g., canned fruits, sauces, jam, and honey), it delivers reliable sealing quality, compact structure, and durable performance to extend product shelf life.
+> The VC-10B is a high-efficiency semi-automatic vacuum capping machine designed for glass jars and bottles. Engineered with pneumatic and electrical integration, it achieves up to 0.08 Mpa vacuum pressure and a capping speed of 600–800 bottles/hour with adjustable torque (5–25 N.M). Ideal for food, condiment, and pharmaceutical industries (e.g., canned fruits, sauces, jam, and honey), it delivers reliable sealing quality, compact structure, and durable performance to extend product shelf life.
 
 ## 1. Product Overview
 *   **Category**: Semi-automatic Vacuum Capping Machine

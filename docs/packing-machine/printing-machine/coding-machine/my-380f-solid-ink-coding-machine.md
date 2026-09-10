@@ -1,7 +1,7 @@
 # MY-380F Solid‑Ink Coding Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/MY-380F.png?v=1785396188)
 
-> **Core Abstract:** The MY-380F is a high-speed, fully automatic solid-ink coding machine designed for high-volume offline batch printing. It is ideally suited for industries such as pharmaceuticals, food, and cosmetics that require rapid marking of production dates and batch numbers on flat materials like empty cardboard boxes, labels, and cards before packaging. Its core advantage lies in its "automatic paging" system and solid-ink technology, which achieves printing speeds of up to 300 pieces per minute. The instant-dry ink ensures clear, smudge-proof marks on paper and plastic films, significantly reducing manual labor and enhancing production efficiency for large-scale operations.
+> The MY-380F is a high-speed, fully automatic solid-ink coding machine designed for high-volume offline batch printing. It is ideally suited for industries such as pharmaceuticals, food, and cosmetics that require rapid marking of production dates and batch numbers on flat materials like empty cardboard boxes, labels, and cards before packaging. Its core advantage lies in its "automatic paging" system and solid-ink technology, which achieves printing speeds of up to 300 pieces per minute. The instant-dry ink ensures clear, smudge-proof marks on paper and plastic films, significantly reducing manual labor and enhancing production efficiency for large-scale operations.
 
 ## 1. Product Overview
 | Item | Details |

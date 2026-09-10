@@ -3,8 +3,7 @@
 
 ![ACW-88D Cellophane Wrapping Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17853129498603.png?v=1785313139)
 
-> **Core Abstract:**  
-> The **ACW-88D** is a premium desktop manual cellophane overwrapping machine designed for small-to-medium production, sampling, and multi-spec product switching in the perfume, cosmetics, tea, and luxury gift industries. It features an innovative **spot sealing system** that solves edge-curling and wrinkling on square boxes, along with a high-precision aluminum heating plate, integrated hot wire film cutter, and adjustable tension system for professional, wrinkle-free cigarette-style film packaging.
+> > The **ACW-88D** is a premium desktop manual cellophane overwrapping machine designed for small-to-medium production, sampling, and multi-spec product switching in the perfume, cosmetics, tea, and luxury gift industries. It features an innovative **spot sealing system** that solves edge-curling and wrinkling on square boxes, along with a high-precision aluminum heating plate, integrated hot wire film cutter, and adjustable tension system for professional, wrinkle-free cigarette-style film packaging.
 
 ---
 

@@ -2,8 +2,7 @@
 
 ![Semi-Automatic Flat Surface Labeling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_e39buye39buye39b.png?v=1785307339)
 
-> **Core Abstract**
-> The MT-60 Semi-Automatic Flat Surface Labeling Machine is a robust electro-pneumatic packaging solution engineered for precision flat labeling on carton boxes, flat lids, plastic cards, and various flat containers across food, cosmetics, and electronics industries. Combining an efficient speed of 15–40 pcs/min with high labeling precision within 1.0mm, this semi-automatic device requires both electricity and an air source connection. Featuring durable metallic construction, customizable product-specific fixed molds for optimal alignment, and an optional ribbon coding machine for direct date printing, it delivers an accurate and professional labeling workflow for small-to-medium enterprises.
+> > The MT-60 Semi-Automatic Flat Surface Labeling Machine is a robust electro-pneumatic packaging solution engineered for precision flat labeling on carton boxes, flat lids, plastic cards, and various flat containers across food, cosmetics, and electronics industries. Combining an efficient speed of 15–40 pcs/min with high labeling precision within 1.0mm, this semi-automatic device requires both electricity and an air source connection. Featuring durable metallic construction, customizable product-specific fixed molds for optimal alignment, and an optional ribbon coding machine for direct date printing, it delivers an accurate and professional labeling workflow for small-to-medium enterprises.
 
 ---
 

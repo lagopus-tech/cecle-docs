@@ -1,7 +1,7 @@
 # Flat and Round Heat Transfer Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/1_dc7d2fbb-6b4b-4808-9e26-d2ecc52033df.png?v=1783085363)
 
-> ### core Abstract
+> **Overview**
 > The **HT-S-300 Flat and Round Heat Transfer Machine** is a semi-automatic industrial printer designed for dual-surface printing on flat, cylindrical, and conical workpieces, making it ideal for stationery, cosmetic packaging, and gift manufacturing. Powered by a built-in Shuttle Vector device and pneumatic drive (0.6–0.8 MPa), it offers seamless switching between flat and round modes at speeds up to 15 transfers per minute. With a 300mm transfer width, high-precision film feeding, and chromate-treated durable components, it ensures stable, vibration-free operation with vibrant, high-definition pattern transfers.
 
 **Model: HT-S-300**

@@ -2,7 +2,7 @@
 
 ![Semi-automatic Tube Filling and Sealing Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17834129067612.png?v=1783413050)
 
-> **core Abstract:** The FW-006 is a semi-automatic 304 stainless steel tube filling and sealing machine designed for automated packaging in cosmetics, pharmaceuticals, food, and adhesive industries. Powered by PLC intelligent control and 20KHz ultrasonic cold-sealing technology, it delivers high-precision filling (≤ ±1% deviation) for plastic and aluminum-plastic tubes (Φ10–50 mm) at speeds up to 20–23 pcs/min, integrating automatic eye-marking orientation, filling, ultrasonic sealing, date coding, and tail trimming.
+> The FW-006 is a semi-automatic 304 stainless steel tube filling and sealing machine designed for automated packaging in cosmetics, pharmaceuticals, food, and adhesive industries. Powered by PLC intelligent control and 20KHz ultrasonic cold-sealing technology, it delivers high-precision filling (≤ ±1% deviation) for plastic and aluminum-plastic tubes (Φ10–50 mm) at speeds up to 20–23 pcs/min, integrating automatic eye-marking orientation, filling, ultrasonic sealing, date coding, and tail trimming.
 
 
 ### Model: FW-006

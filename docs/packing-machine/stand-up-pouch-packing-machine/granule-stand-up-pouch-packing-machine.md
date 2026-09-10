@@ -2,8 +2,7 @@
 
 ![Product Image](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/7d88feafd9bb58987996e68eccf097b6_d8b3f9a2-b23c-402b-a263-2c7b5208452b.png?v=1783582084)
 
-> **Core Abstract**
-> The Automatic Granule Pre-made Pouch Packaging Machine (PBP-G series) is an advanced automated solution designed for the precise packaging of granular products such as nuts, dried fruits, grains, and pet food. Perfectly suited for deep food processing factories and industrial agricultural lines, this machine streamlines operations with automatic feeding, high-precision combination weighing, and rapid heat sealing. Featuring a robust, corrosion-resistant SUS304 stainless steel construction, the PBP-G series ensures long-term durability in high-frequency environments. With a throughput of up to 60 bags/minute, an intelligent "no-bag" detection system that significantly reduces material waste, and a rapid changeover mechanism, this system delivers the consistency, hygiene, and efficiency required to modernize production lines and enhance retail packaging quality.
+> > The Automatic Granule Pre-made Pouch Packaging Machine (PBP-G series) is an advanced automated solution designed for the precise packaging of granular products such as nuts, dried fruits, grains, and pet food. Perfectly suited for deep food processing factories and industrial agricultural lines, this machine streamlines operations with automatic feeding, high-precision combination weighing, and rapid heat sealing. Featuring a robust, corrosion-resistant SUS304 stainless steel construction, the PBP-G series ensures long-term durability in high-frequency environments. With a throughput of up to 60 bags/minute, an intelligent "no-bag" detection system that significantly reduces material waste, and a rapid changeover mechanism, this system delivers the consistency, hygiene, and efficiency required to modernize production lines and enhance retail packaging quality.
 
 ---
 

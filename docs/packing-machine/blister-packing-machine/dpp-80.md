@@ -2,8 +2,7 @@
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/DPP-80S_5ff80cf8-f0aa-4efc-93da-46abd6267d53.png?v=1782548436)
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/DPP-80L_ced92c02-2a3e-4473-9a96-98fca615bbe3.png?v=1782710967)
 
-> **Core Abstract:** 
-> The DPP-80 series is a high-performance, fully automatic alu-plastic blister packing machine designed for the pharmaceutical, healthcare, and electronics industries. It provides an integrated one-stop solution for the entire production process, including blister forming, filling, heat sealing, batch coding, and punching. Powered by a precision servo drive system and controlled via an intuitive PLC touch screen, it ensures stable operation with a packaging speed of up to 33 cycles per minute. Compatible with PVC, PET, and pharmaceutical aluminum foil, it is the ideal equipment for standardized mass production of capsules, tablets, and small hardware. Its modular mold design allows for quick product switching, offering exceptional versatility for modern manufacturing facilities.
+> > The DPP-80 series is a high-performance, fully automatic alu-plastic blister packing machine designed for the pharmaceutical, healthcare, and electronics industries. It provides an integrated one-stop solution for the entire production process, including blister forming, filling, heat sealing, batch coding, and punching. Powered by a precision servo drive system and controlled via an intuitive PLC touch screen, it ensures stable operation with a packaging speed of up to 33 cycles per minute. Compatible with PVC, PET, and pharmaceutical aluminum foil, it is the ideal equipment for standardized mass production of capsules, tablets, and small hardware. Its modular mold design allows for quick product switching, offering exceptional versatility for modern manufacturing facilities.
 
 ---
 

@@ -3,7 +3,7 @@
 
 ![ADK Automatic Capping Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17863445455120.png?v=1786352536)
 
-> **core Abstract**: The ADK is a high-efficiency, fully automatic inline capping machine designed for universal sealing of plastic threaded caps, pilfer-proof aluminum caps, and metal screw caps across beverage, liquor, pharmaceutical, and daily chemical industries. Equipped with precision German SICK sensors and an intelligent PLC touchscreen control system, it operates at speeds of 45–60 cycles per minute. Key features include non-damaging, scratch-free torque sealing, 201 stainless steel industrial durability, and seamless integration into automated production lines.
+> The ADK is a high-efficiency, fully automatic inline capping machine designed for universal sealing of plastic threaded caps, pilfer-proof aluminum caps, and metal screw caps across beverage, liquor, pharmaceutical, and daily chemical industries. Equipped with precision German SICK sensors and an intelligent PLC touchscreen control system, it operates at speeds of 45–60 cycles per minute. Key features include non-damaging, scratch-free torque sealing, 201 stainless steel industrial durability, and seamless integration into automated production lines.
 
 ---
 

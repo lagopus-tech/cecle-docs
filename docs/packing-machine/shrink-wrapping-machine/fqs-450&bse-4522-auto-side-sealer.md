@@ -2,8 +2,7 @@
 
 ![FQS Series Automatic Side Seal Shrink Packaging System](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_5s3b4l5s3b4l5s3b.png?v=1786088009)
 
-> **Core Abstract**
-> The FQS series automatic side seal thermal shrink packaging system is a high-performance industrial solution designed for packaging products of unlimited length. Unlike traditional L-bar sealers, the side-sealing mechanism allows for continuous packaging of exceptionally long items. Standard models accommodate product lengths over 100mm and heights up to 25cm (customizable to 30cm), making them ideal for long-format goods like carpets, textiles, aluminum profiles, and electronics. The system features a modular design supporting various widths, robust automation capabilities, and compatibility with POF or PE films. This solution is the preferred choice for factories seeking to maximize efficiency, reduce labor costs, and achieve superior, professional-grade product presentation.
+> > The FQS series automatic side seal thermal shrink packaging system is a high-performance industrial solution designed for packaging products of unlimited length. Unlike traditional L-bar sealers, the side-sealing mechanism allows for continuous packaging of exceptionally long items. Standard models accommodate product lengths over 100mm and heights up to 25cm (customizable to 30cm), making them ideal for long-format goods like carpets, textiles, aluminum profiles, and electronics. The system features a modular design supporting various widths, robust automation capabilities, and compatibility with POF or PE films. This solution is the preferred choice for factories seeking to maximize efficiency, reduce labor costs, and achieve superior, professional-grade product presentation.
 
 ---
 

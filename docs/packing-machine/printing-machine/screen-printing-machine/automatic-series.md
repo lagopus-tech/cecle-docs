@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/1_89a65ea3-748e-4f89-95d0-5197f741e972.png?v=1782367987)
 
-> **Core Abstract**
-> The TD-R4060 and TD-R5080 constitute a series of industrial floor-standing, fully automatic flatbed roll-to-roll screen printing production lines designed for continuous web materials Integrating automatic roll feeding, precise flatbed printing, continuous oven drying, and automated rewinding into a single inline system, it is perfectly suited for mass production in the anti-counterfeiting trademark, heat transfer sticker, and adhesive label industries. The system's core advantages rely on a Japanese Mitsubishi PLC paired with German SK color sensors for impeccable multi-color registration, combined with a precise servo-driven squeegee system. Delivering an exceptional automated workflow that minimizes edge deformation and boosts qualification rates, this heavy-duty combined line achieves a massive printing speed of up to 500-1000 meters per hour to maximize large-scale factory yields.
+> > The TD-R4060 and TD-R5080 constitute a series of industrial floor-standing, fully automatic flatbed roll-to-roll screen printing production lines designed for continuous web materials Integrating automatic roll feeding, precise flatbed printing, continuous oven drying, and automated rewinding into a single inline system, it is perfectly suited for mass production in the anti-counterfeiting trademark, heat transfer sticker, and adhesive label industries. The system's core advantages rely on a Japanese Mitsubishi PLC paired with German SK color sensors for impeccable multi-color registration, combined with a precise servo-driven squeegee system. Delivering an exceptional automated workflow that minimizes edge deformation and boosts qualification rates, this heavy-duty combined line achieves a massive printing speed of up to 500-1000 meters per hour to maximize large-scale factory yields.
 
 ---
 

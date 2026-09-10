@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/TD-2030SF.jpg?v=1788337699)
 
-> **Core Abstract**
-> The TD-2030SF/TD-3050SF is an industrial-grade, floor-standing vertical flat screen printing machine driven by an advanced dual-servo system and regulated by PLC program control. Specifically engineered for the high-tech electronics industry, it is ideal for printing precision components like PCB boards, conductive film circuits, lens windows, and plexiglass. Available in two print sizes — a 200×300MM model (TD-2030SF) and a 300×500MM model (TD-3050SF) — both share the same heavy-duty vertical horizontal-lift structure and vacuum table, guaranteeing an exceptional printing accuracy of ±0.02mm. Delivering an ultra-smooth servo-driven squeegee stroke that eliminates pneumatic vibrations, the machines reach a stable capacity of up to 1,000 pcs/hr, offering an elite production solution for high-yield precision lines.
+> > The TD-2030SF/TD-3050SF is an industrial-grade, floor-standing vertical flat screen printing machine driven by an advanced dual-servo system and regulated by PLC program control. Specifically engineered for the high-tech electronics industry, it is ideal for printing precision components like PCB boards, conductive film circuits, lens windows, and plexiglass. Available in two print sizes — a 200×300MM model (TD-2030SF) and a 300×500MM model (TD-3050SF) — both share the same heavy-duty vertical horizontal-lift structure and vacuum table, guaranteeing an exceptional printing accuracy of ±0.02mm. Delivering an ultra-smooth servo-driven squeegee stroke that eliminates pneumatic vibrations, the machines reach a stable capacity of up to 1,000 pcs/hr, offering an elite production solution for high-yield precision lines.
 
 ---
 

@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/tp1650f-csMD.png?v=1784094966)
 
-> **Core Abstract**
-> The TP1650F-CS Pneumatic Top Platen Pallet Stretch Wrapping Machine is a highly cost-effective packaging solution tailored for lightweight, unstable pallet loads under 100KG. Perfect for empty bottles, light cartons, and foam products, this machine features a pneumatic cylinder top platen device that securely holds goods in place to prevent shifting or scattering during turntable rotation. Requiring an external air compressor, it offers a compact design compared to purely electric models. With a 250% powered pre-stretch film carriage and customizable cylinder strokes based on load height, it ensures optimal stability while maximizing the savings on packaging consumables.
+> > The TP1650F-CS Pneumatic Top Platen Pallet Stretch Wrapping Machine is a highly cost-effective packaging solution tailored for lightweight, unstable pallet loads under 100KG. Perfect for empty bottles, light cartons, and foam products, this machine features a pneumatic cylinder top platen device that securely holds goods in place to prevent shifting or scattering during turntable rotation. Requiring an external air compressor, it offers a compact design compared to purely electric models. With a 250% powered pre-stretch film carriage and customizable cylinder strokes based on load height, it ensures optimal stability while maximizing the savings on packaging consumables.
 
 ---
 

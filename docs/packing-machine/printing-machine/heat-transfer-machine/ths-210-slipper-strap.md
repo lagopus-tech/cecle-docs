@@ -3,8 +3,7 @@
 
 ![THS-210 Slipper Surface Heat Transfer Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_8ea3dn8ea3dn8ea3_2_43f4b2e4-cce9-4d5d-bf20-ddf7227da8ef.jpg?v=1783153801)
 
-> **core Abstract**  
-> The THS-210 is a semi-automatic heat transfer machine specifically designed for printing vibrant, high-definition patterns onto slipper surfaces, flip-flops, and PVC/EVA fabrics. Featuring dual film feeding modes (automatic feeding for high-speed output at 15 prints/min and manual pulling for fine calibration), a high-precision foil controller, and a durable chromate-treated frame, it offers footwear manufacturers an efficient, low-cost solution for standardized surface decoration.
+> > The THS-210 is a semi-automatic heat transfer machine specifically designed for printing vibrant, high-definition patterns onto slipper surfaces, flip-flops, and PVC/EVA fabrics. Featuring dual film feeding modes (automatic feeding for high-speed output at 15 prints/min and manual pulling for fine calibration), a high-precision foil controller, and a durable chromate-treated frame, it offers footwear manufacturers an efficient, low-cost solution for standardized surface decoration.
 
 ## I. Product Overview
 * **Product Category**: Heat Transfer Machinery / Specialized Equipment for Slipper Processing

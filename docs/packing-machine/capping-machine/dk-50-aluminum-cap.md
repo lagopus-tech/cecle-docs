@@ -3,7 +3,7 @@
 
 ![Capping Machine DK-50](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17858345175658.png?v=1785834698)
 
-> **core Abstract**: The DK-50 Capping Machine is a semi-automatic, pure electric benchtop/floor-standing sealing equipment engineered for aluminum metal caps and plastic pilfer-proof caps. Operating at 20–40 bottles per minute without requiring an external air compressor, it delivers 100% leak-proof, professional-grade seals and secure tamper-evident ring forming. Ideal for small-to-medium beverage, spirits, pharmaceutical, and chemical manufacturers seeking reliable, high-precision bottle capping.
+> The DK-50 Capping Machine is a semi-automatic, pure electric benchtop/floor-standing sealing equipment engineered for aluminum metal caps and plastic pilfer-proof caps. Operating at 20–40 bottles per minute without requiring an external air compressor, it delivers 100% leak-proof, professional-grade seals and secure tamper-evident ring forming. Ideal for small-to-medium beverage, spirits, pharmaceutical, and chemical manufacturers seeking reliable, high-precision bottle capping.
 
 ---
 

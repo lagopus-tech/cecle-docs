@@ -1,8 +1,7 @@
 # TD-4M Automatic 4-Head Linear Weigher Packing Machine
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/TD-4M.png?v=1787886609)
 
-> **Core Abstract:**
-> The TD-4M Automatic 4-Head Linear Weigher is a versatile and efficient quantitative filling machine, perfect for food processing plants requiring speed and multi-material mixing capabilities. Suitable for granules like seeds, rice, coffee, and MSG, its four independent hoppers work collaboratively to deliver higher speeds (up to 30 drops/min) and precise ratio mixing in a single discharge. Featuring an advanced modular control system and stepless vibratory feeding, it protects fragile items while maintaining a 1-2g accuracy. Its compact design and high performance make it an ideal core component for automated packaging lines.
+> > The TD-4M Automatic 4-Head Linear Weigher is a versatile and efficient quantitative filling machine, perfect for food processing plants requiring speed and multi-material mixing capabilities. Suitable for granules like seeds, rice, coffee, and MSG, its four independent hoppers work collaboratively to deliver higher speeds (up to 30 drops/min) and precise ratio mixing in a single discharge. Featuring an advanced modular control system and stepless vibratory feeding, it protects fragile items while maintaining a 1-2g accuracy. Its compact design and high performance make it an ideal core component for automated packaging lines.
 
 ## 1. Product Overview
 The TD-4M is a linear scale equipped with four weighing units, offering higher efficiency and more flexible combinations than the dual-head scale.

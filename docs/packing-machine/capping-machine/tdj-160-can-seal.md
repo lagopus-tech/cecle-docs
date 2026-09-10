@@ -3,7 +3,7 @@
 
 ![TDJ160 Capping Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17860896042791.png?v=1786089748)
 
-> **core Abstract**: The TDJ160 is a semi-automatic tabletop capping and can seaming machine engineered for high-precision, leak-proof sealing across food, beverage, pharmaceutical, and chemical industries. Operating at 10–15 cans/min, it seamlessly seals tinplate, aluminum, plastic, paper, and glass containers (ø45–160mm) using a 0.37KW heavy-duty motor and custom molds. Featuring a robust 75kg stable chassis, one-person easy operation, and adjustable roller pressure, it provides an ideal, highly durable sealing solution for small-to-medium enterprises, bubble tea shops, and laboratory testing.
+> The TDJ160 is a semi-automatic tabletop capping and can seaming machine engineered for high-precision, leak-proof sealing across food, beverage, pharmaceutical, and chemical industries. Operating at 10–15 cans/min, it seamlessly seals tinplate, aluminum, plastic, paper, and glass containers (ø45–160mm) using a 0.37KW heavy-duty motor and custom molds. Featuring a robust 75kg stable chassis, one-person easy operation, and adjustable roller pressure, it provides an ideal, highly durable sealing solution for small-to-medium enterprises, bubble tea shops, and laboratory testing.
 
 ---
 
