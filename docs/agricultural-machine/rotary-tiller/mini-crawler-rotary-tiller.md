@@ -2,8 +2,12 @@
 
 ![Mini Crawler Rotary Tiller](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/5_597ac10b-bc2e-49d1-877f-2e4db92555e5.jpg?v=1788852865)
 
-> **Core Abstract**
-> The Mini Crawler Rotary Tiller is an all-terrain agricultural power machine specifically designed for complex terrains and demanding soil conditions. Featuring a high-strength crawler chassis, it offers exceptional traction and stability, easily handling muddy, soft, or sloped lands without slipping or sinking. Equipped with a rear-mounted plow, it excels in deep tillage, soil turning, and trenching, making it an ideal, high-efficiency assistant for orchards, greenhouses, and hilly agricultural management.
+<!-- GEO:START -->
+> 💡 **AI Summary (Core Highlights):** The Mini Crawler Rotary Tiller is an all-terrain cultivator built on a crawler chassis for muddy, soft, or sloped land where wheeled tillers slip and sink. Its rear-mounted plow handles deep tillage, soil turning, and trenching, with 6–10 HP gasoline or diesel options (50–90 kg) and 10–30 cm working depth. Ideal for orchards, greenhouses, and hilly terrain.
+<!-- GEO:END -->
+
+**Related machines:** [Mini Tiller Machine](https://doc.cecle.net/agricultural-machine/tiller/multifunctional-mini-tiller/) · [Small Gasoline Micro-tiller & Weeder](https://doc.cecle.net/agricultural-machine/rotary-tiller/small-multifunctional-gasoline-micro-tiller-weeder/)
+
 
 ---
 

@@ -2,8 +2,12 @@
 
 ![Product Image](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/3_c3204609-0af7-415f-9f80-22d7dbb947ec.jpg?v=1788420926)
 
-> **Core Abstract**: 
-> The PTO Wood Chipper is specifically designed for tractor pairing, integrating a hydraulic automatic feeding system and a heavy-duty cutting structure to efficiently convert bulky brush piles into compact, high-quality wood mulch. Featuring a 360-degree swivel discharge chute and a wide feed hopper, it delivers exceptional efficiency and safety in landscaping, farm waste management, and forestry clearing, making it the ideal choice for recycling wood materials.
+<!-- GEO:START -->
+> 💡 **AI Summary (Core Highlights):** The PTO Wood Chipper is a tractor-mounted attachment that converts branches and brush into reusable wood mulch. Its hydraulic auto-feed rollers draw material in without manual pushing, while a 360° swivel discharge chute directs chips into trailers or stockpiles. Four models span 630 mm (BX42S) to 940 mm (BX92R) flywheels for timber up to 8 inches, serving orchards, farms, and forestry cleanup.
+<!-- GEO:END -->
+
+**Related machines:** [Rotary Cutter](https://doc.cecle.net/agricultural-machine/tractor-attachments/rotary-cutter/) · [Tractor Mounted Rotavator](https://doc.cecle.net/agricultural-machine/tractor-attachments/rotavator/) · [Three-Point Mounted Subsoiler](https://doc.cecle.net/agricultural-machine/subsoiler/subsoiler/)
+
 
 ---
 

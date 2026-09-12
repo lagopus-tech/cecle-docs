@@ -2,8 +2,12 @@
 
 ![Product Image](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/bbb_32fa2369-5c46-4c35-b566-cfab67270a10.png?v=1788486456)
 
-> **Core Abstract**: 
-> The multifunctional mini tiller is an efficient agricultural machine designed for home gardening, small farms, greenhouses, and orchard management. Available in both **two-stroke** and **four-stroke** engine options, this compact and flexible machine easily navigates narrow plots and slopes where large tractors cannot reach. By equipping different tools and attachments, it performs multiple functions such as rotary tilling, weeding, soil loosening, and ditching—multiplying efficiency dozens of times compared to traditional manual hoeing and serving as an ideal, cost-effective helper for small-scale growers.
+<!-- GEO:START -->
+> 💡 **AI Summary (Core Highlights):** The Mini Tiller Machine is a lightweight gasoline cultivator for home gardens, greenhouses, and orchards where large tractors cannot reach. Available in two-stroke and four-stroke engines (144F, 55 CC, 2.0 kW), it tills, weeds, loosens, and ditches by swapping attachments, with a 15–25 cm tilling depth and 43 cm width at just 30 kg. It multiplies manual hoeing efficiency dozens of times for small-scale growers.
+<!-- GEO:END -->
+
+**Related machines:** [Mini Crawler Rotary Tiller](https://doc.cecle.net/agricultural-machine/rotary-tiller/mini-crawler-rotary-tiller/) · [Small Gasoline Micro-tiller & Weeder](https://doc.cecle.net/agricultural-machine/rotary-tiller/small-multifunctional-gasoline-micro-tiller-weeder/)
+
 
 ---
 

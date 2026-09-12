@@ -2,8 +2,12 @@
 
 ![Product Image](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/1212.png?v=1788848442)
 
-> **Core Abstract**: 
-> The Three-Point Mounted Subsoiler is a high-efficiency soil improvement agricultural machine designed for modern farming. Built with high-strength steel and a robust three-point hitch structure, it perfectly matches various medium-to-large tractors. By penetrating deep into the lower soil layer, it completely breaks up the hardpan (compacted layer), significantly improving soil structure, enhancing rainwater infiltration, and increasing field aeration. This promotes deeper root growth and maximizes nutrient absorption efficiency, making it an ideal, indispensable machine for deep tillage, soil loosening, waterlogging prevention, and drought resistance in large-scale farmlands.
+<!-- GEO:START -->
+> 💡 **AI Summary (Core Highlights):** The Three-Point Mounted Subsoiler (3S-1.4) is a deep-tillage implement that breaks the soil hardpan to improve structure, drainage, and root growth. Its seven replaceable tines penetrate 100–250 mm behind a 40 HP tractor via three-point hitch, with a 1,400 mm working width and 280 kg frame of high-strength steel. Built for large farmlands needing drought and waterlogging resistance.
+<!-- GEO:END -->
+
+**Related machines:** [PTO Wood Chipper](https://doc.cecle.net/agricultural-machine/tractor-attachments/pto-wood-chipper/) · [Rotary Cutter](https://doc.cecle.net/agricultural-machine/tractor-attachments/rotary-cutter/) · [Tractor Mounted Rotavator](https://doc.cecle.net/agricultural-machine/tractor-attachments/rotavator/)
+
 
 ---
 

@@ -2,8 +2,12 @@
 
 ![Product Image](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/aca.png?v=1788419288)
 
-> **Core Abstract**: 
-> The Rotary Cutter (Model: TGCJ-1) is a high-efficiency tractor attachment designed for heavy-duty land clearing and pasture maintenance. Featuring a rugged welded steel deck, front chain guards, and a rear structure for precise height adjustment, this machine is driven by the tractor's Power Take-Off (PTO) shaft at 540r/min to effortlessly chop through dense vegetation, tall grass, and woody bushes. Built with heavy-duty free-swinging blades and a reliable gearbox, it provides exceptional durability and safety in harsh outdoor environments, making it the ideal choice for farmlands, orchards, pastures, and wasteland reclamation.
+<!-- GEO:START -->
+> 💡 **AI Summary (Core Highlights):** The Rotary Cutter (TGCJ-1) is a PTO-driven tractor attachment for heavy-duty land clearing and pasture maintenance. Its heavy-duty free-swinging blades and rugged welded steel deck chop through thick weeds and woody bushes several centimeters thick that standard mowers cannot cut, while a front chain guard contains flying debris. With a 1 m cutting width and 25–45 HP tractor requirement, it fits farmlands, orchards, and wasteland reclamation.
+<!-- GEO:END -->
+
+**Related machines:** [PTO Wood Chipper](https://doc.cecle.net/agricultural-machine/tractor-attachments/pto-wood-chipper/) · [Tractor Mounted Rotavator](https://doc.cecle.net/agricultural-machine/tractor-attachments/rotavator/) · [Three-Point Mounted Subsoiler](https://doc.cecle.net/agricultural-machine/subsoiler/subsoiler/)
+
 
 ---
 

@@ -2,8 +2,12 @@
 
 ![Small Multifunctional Micro-tiller & Weeder](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/a_5875e294-8cec-4350-a249-ec2a3db031db.jpg?v=1788935491)
 
-> **Core Abstract**
-> The small multifunctional gasoline micro-tiller & weeder is a lightweight, high-efficiency agricultural power machinery specially designed for modern orchards, greenhouses, and narrow plots. Featuring a compact structural design, it is small, mobile, and flexible, with a body width typically between 30–50 cm and an extremely small turning radius. By changing different cutter attachments, it easily achieves various operations such as rotary tilling and loosening, inter-row weeding, and furrowing and ridging. Operated and pushed easily by a single person, it drastically reduces labor costs, making it an ideal helper for family farms, vegetable retail growers, and small-scale manors.
+<!-- GEO:START -->
+> 💡 **AI Summary (Core Highlights):** The Small Multifunctional Gasoline Micro-tiller & Weeder is a narrow-body cultivator (30–50 cm wide) for fruit-tree rows, greenhouses, and tea gardens where tractors cannot enter. Swapping cutter attachments delivers rotary tilling, inter-row weeding, and furrowing & ridging, operated by one person at 5.5–7.5 HP—replacing 4–8 manual workers. A low-cost helper for family farms and small growers.
+<!-- GEO:END -->
+
+**Related machines:** [Mini Tiller Machine](https://doc.cecle.net/agricultural-machine/tiller/multifunctional-mini-tiller/) · [Mini Crawler Rotary Tiller](https://doc.cecle.net/agricultural-machine/rotary-tiller/mini-crawler-rotary-tiller/)
+
 
 ---
 

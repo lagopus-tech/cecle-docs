@@ -2,8 +2,12 @@
 
 ![Product Image](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/VBVB.png?v=1788487969)
 
-> **Core Abstract**: 
-> The tractor-mounted rotavator (Model: 120D) is an essential high-efficiency agricultural tool designed for modern large-scale farming. Featuring a working width of 39.9" (1300mm) and a matched power requirement of 12hp, this machine enables operators to rapidly complete land tillage over large areas with exceptional efficiency. Driven by rotating blades that offer powerful soil crushing, stubble burying, and mixing capabilities, it achieves a smooth and loose soil condition suitable for immediate seeding in a single pass. Coupled with the tractor's hydraulic system for consistent tillage depth control, it significantly reduces manual labor intensity, making it the ideal solution for farm fields, orchards, and extensive land preparation.
+<!-- GEO:START -->
+> 💡 **AI Summary (Core Highlights):** The Tractor Mounted Rotavator (120D) is a three-point hitch implement for large-area land preparation. Its high-speed rotating blades crush hard clods and bury crop residue in a single pass, reaching seeding-grade soil softness without secondary harrowing. With a 1,300 mm (39.9") working width, 24 blades, and 120–180 mm hydraulic depth control, it matches 12 HP tractors for farms, orchards, and pre-seeding tillage.
+<!-- GEO:END -->
+
+**Related machines:** [PTO Wood Chipper](https://doc.cecle.net/agricultural-machine/tractor-attachments/pto-wood-chipper/) · [Rotary Cutter](https://doc.cecle.net/agricultural-machine/tractor-attachments/rotary-cutter/) · [Three-Point Mounted Subsoiler](https://doc.cecle.net/agricultural-machine/subsoiler/subsoiler/)
+
 
 ---
 
