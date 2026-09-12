@@ -363,3 +363,15 @@ nav:
           - WF1-303V-A Table Top: other-equipment/coffee-vending-machine/wf1-303v-a-table-top-coffee-vending-machine.md
       - Paper Machine:
           - TD-1575 Toilet Paper Rewinding Line: other-equipment/paper-machine/td-1575-toilet-paper-rewinding-production-line.md
+  - Agricultural Machinery:
+      - Tiller:
+          - Mini Tiller Machine: agricultural-machine/tiller/multifunctional-mini-tiller.md
+      - Tractor Attachments:
+          - PTO Wood Chipper: agricultural-machine/tractor-attachments/pto-wood-chipper.md
+          - Rotary Cutter: agricultural-machine/tractor-attachments/rotary-cutter.md
+          - Tractor Mounted Rotavator: agricultural-machine/tractor-attachments/rotavator.md
+      - Rotary Tiller:
+          - Mini Crawler Rotary Tiller: agricultural-machine/rotary-tiller/mini-crawler-rotary-tiller.md
+          - "Small Multifunctional Gasoline Micro-tiller & Weeder": agricultural-machine/rotary-tiller/small-multifunctional-gasoline-micro-tiller-weeder.md
+      - Subsoiler:
+          - Three-Point Mounted Subsoiler: agricultural-machine/subsoiler/subsoiler.md
