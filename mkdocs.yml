@@ -250,6 +250,12 @@ nav:
           - Rotary Type: packing-machine/cup-filling-and-sealing-machine/rotary-type.md
       - Compression Packing Machine:
           - CP-700 Pneumatic Compression: packing-machine/compress-vacuum-packaging-machine/cp-700-pneumatic-compression-packing-machine.md
+      - Bag Making Machine:
+          - Overview: packing-machine/bag-making-machine/bag-making-machine-index.md
+          - OPP-600/700/800/1000 Heat-Cut Side-Seal Bag Machine: packing-machine/bag-making-machine/opp-600-700-800-1000-heat-cutting-side-sealing-bag-making-machine.md
+          - PE-800/900/1000 High-Frequency Zipper Bag Machine: packing-machine/bag-making-machine/pe-800-900-1000-high-frequency-zipper-bag-making-machine.md
+          - TD-ZB700 Ziplock Bag Making Machine: packing-machine/bag-making-machine/td-zb700-ziplock-bag-making-machine.md
+          - TDZD-400/500/600 Three-Side Sealing Pouch Machine: packing-machine/bag-making-machine/tdzd-400-500-600-three-side-sealing-laminated-pouch-making-machine.md
   - Food Machinery:
       - Samosa Making Series:
           - Overview: food-machine/samosa-making-machine/samosa-making-machine-index.md
@@ -280,7 +286,16 @@ nav:
           - Noodle Making Machine Series: food-machine/noodle-making-machine/noodle-making-machine-series.md
           - Self-Cooking Rice Noodle Maker: food-machine/noodle-making-machine/round-rice-noodles-machine-series.md
           - Multi-function Rice Noodle Line: food-machine/noodle-making-machine/rice-noodle-machine-series.md
-      - Soft Serve Ice Cream Machine:
+          - Automatic Noodle Making Series: food-machine/noodle-making-machine/automatic-noodle-making-machine-series.md
+      - Meat Processing Series:
+          - BSM-1400 Bone Saw Machine: food-machine/meat-making-machine/bone-saw-machine-series.md
+          - MG-120 Commercial Meat Slicer Mincer Stuffer: food-machine/meat-making-machine/commercial-meat-making-machine-series.md
+          - FMG-100 Frozen Meat Grinder: food-machine/meat-making-machine/frozen-meat-grinder-series.md
+          - HMG-120 Household Meat Grinder: food-machine/meat-making-machine/household-meat-grinder-series.md
+          - VMG-2200 Meat Slicer Grinder: food-machine/meat-making-machine/meat-grinder-slicer-series.md
+          - CMG-150 Electric Meat Grinder: food-machine/meat-making-machine/meat-making-machine-series.md
+          - DK-2 Meat Shredder: food-machine/meat-making-machine/meat-shredder-series.md
+  - Soft Serve Ice Cream Machine:
           - Overview: food-machine/ice-cream-machine/soft-serve-ice-cream-machine-index.md
           - Countertop Soft Serve Ice Cream Machine: food-machine/ice-cream-machine/countertop-soft-serve-ice-cream-machine.md
           - Floor Standing Soft Serve Ice Cream Machine: food-machine/ice-cream-machine/floor-standing-soft-serve-ice-cream-machine.md
@@ -288,8 +303,15 @@ nav:
           - Overview: food-machine/spring-roll-samosa-pastry-machine/spring-roll-samosa-pastry-machine-index.md
           - Samosa Pastry Sheet Machine: food-machine/spring-roll-samosa-pastry-machine/samosa-pastry-making-machine-series.md
           - Spring Roll & Crepe Machine: food-machine/spring-roll-samosa-pastry-machine/spring-rolls-skin-series.md
+          - Pastry Sheet Making Machine: food-machine/spring-roll-samosa-pastry-machine/pastry-sheet-making-machine-series.md
       - Wonton Machine:
           - YT-10 Automatic Wonton Machine: food-machine/wonton-machine/automatic-wonton-series.md
+      - Snack Making Series:
+          - Overview: food-machine/snack-making-machine/snack-making-machine-index.md
+          - TD-530/550 Cotton Candy Machine: food-machine/snack-making-machine/cotton-candy-machine-series.md
+          - TD-2 Donut Making Machine: food-machine/snack-making-machine/donut-making-machine-series.md
+          - TD-850 Rotary Roaster: food-machine/snack-making-machine/rotating-oven-series.md
+          - TD-7/10 Sausage Grill Machine: food-machine/snack-making-machine/sausage-grill-machine-series.md
           
   - Pharmaceutical Equipment:
       - Capsule Filling Machine:
