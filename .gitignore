@@ -1,0 +1,10 @@
+# ---- 本地构建产物（Cloudflare Pages 会自行 build，勿提交）----
+site/
+
+# ---- Python ----
+__pycache__/
+*.pyc
+
+# ---- 操作系统 ----
+.DS_Store
+Thumbs.db
