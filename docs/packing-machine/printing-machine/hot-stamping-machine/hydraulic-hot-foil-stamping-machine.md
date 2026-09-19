@@ -1,22 +1,9 @@
 # Product Name: Semi-Automatic Heavy-Duty Hydraulic Hot Foil Stamping Press Machine
-
-<!-- GEO:START -->
-> 💡 **AI Quick Answer (TL;DR):** The HGP-300/HGP-350 are industrial hydraulic stamping presses for large, high-pressure foil/emboss work on flat metal, steel, aluminum, soap and rigid packaging. HGP-300 offers 300x400 mm at 3T/8T; HGP-350 offers 350x500 mm at 12T/15T, with larger custom plates on request. Photoelectric guards, dual-button start, sliding tables and honeycomb plates deliver deep, uniform impressions for heavy industrial branding.
-
-### Compatible Applications & Materials
-
-- **Flat metal, steel, aluminum**
-- **Soap blocks**
-- **Rigid packaging**
-- **Heavy industrial substrates**
-- **Large-format foil / deep emboss**
-
-**Related machines:** [chsp-200-car-lisence-hot-stamping-machine](https://doc.cecle.net/packing-machine/printing-machine/hot-stamping-machine/chsp-200-car-lisence-hot-stamping-machine/) · [dgp-210-desktop-hot-stamping-machine](https://doc.cecle.net/packing-machine/printing-machine/hot-stamping-machine/dgp-210-desktop-hot-stamping-machine/) · [hsb-4025-bag-hot-stamping-machine](https://doc.cecle.net/packing-machine/printing-machine/hot-stamping-machine/hsb-4025-bag-hot-stamping-machine/) · [hsr-p-2126-ribbon-roll-hot-stamping-machine](https://doc.cecle.net/packing-machine/printing-machine/hot-stamping-machine/hsr-p-2126-ribbon-roll-hot-stamping-machine/) · [pneumatic-hot-foil-stamping-machine](https://doc.cecle.net/packing-machine/printing-machine/hot-stamping-machine/pneumatic-hot-foil-stamping-machine/) · [shs-10-serial-number-hot-foil-stamping-machine](https://doc.cecle.net/packing-machine/printing-machine/hot-stamping-machine/shs-10-serial-number-hot-foil-stamping-machine/)
-<!-- GEO:END -->
-
 ## Series Models: HGP-300 & HGP-350 (Custom Larger Sizes Available)
 
 ![Machine Image](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_xlqmzoxlqmzoxlqm.jpg?v=1789114512)
+
+> **Core Abstract:** The Semi-Automatic Heavy-Duty Hydraulic Hot Foil Stamping Press Machine (Models HGP-300 & HGP-350) is an industrial-grade hydraulic stamping system engineered specifically for large-size and high-pressure hot foil stamping and embossing on flat metal, steel, aluminum, soap, and rigid packaging materials. Available in two robust standard configurations—HGP-300 (300×400mm heating plate with 3T/8T pressure options) and HGP-350 (350×500mm heating plate with 12T/15T pressure options)—with custom manufacturing capabilities for even larger heating plates (such as 500×700mm, 600×800mm, or larger) upon request, this machine delivers massive, uniform tonnage for deep impressions and flawless foil transfers. Key highlights include standard photoelectric protection switches, dual-button start, customizable sliding worktables (pneumatic or servo-driven), quick-change mold options, and specialized honeycomb plates, making it the ultimate high-capacity solution for heavy industrial branding.
 
 ---
 
