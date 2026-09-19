@@ -27,6 +27,12 @@
 - [ACW-88A + A3DP-88A Cellophane Wrapping Machine Combo](https://doc.cecle.net/packing-machine/cellophane-wrapping-machine/acw-88a+a3dp-88a/): | Tooling & Changeover | Mold-free; no tooling cost, instant SKU switch.
 - [ACW-88A Cellophane Wrapping Machine (Three-Dimensional Transparent Film Wrapping Machine)](https://doc.cecle.net/packing-machine/cellophane-wrapping-machine/acw-88a-auto-round-film/): | Cutting | Hot-wire cutting for fast response and neat edges.
 - [CW-115 Manual Overwrapper](https://doc.cecle.net/packing-machine/cellophane-wrapping-machine/cw-115-manual/): | Operation | Fully manual, no electricity or air supply.
+- [ACW-88 Manual Cellophane Wrapping Machine](https://doc.cecle.net/packing-machine/cellophane-wrapping-machine/acw-88-manual-wrap/): The ACW-88 is a highly portable, cost-effective manual cellophane overwrapping machine optimized for startups, laboratory prototyping, and small-batch custom production.
+- [ACW-88D Dot Heating Cellophane Wrapping Machine](https://doc.cecle.net/packing-machine/cellophane-wrapping-machine/acw-88d-dot-heating/): 1. 82 Key Highlight: Equipped with Precision Spot Sealing System...
+- [Cellophane Wrapping Machine (Manual 3D Wrapping Machine)](https://doc.cecle.net/packing-machine/cellophane-wrapping-machine/acw-88f-round-more-waste-film/): The ACW-88F is a light industrial entry-level manual cellophane (3D) wrapping machine designed specifically for startups, studios, and small-batch production.
+- [ACW-88T Manual Cellophane Wrapping Machine](https://doc.cecle.net/packing-machine/cellophane-wrapping-machine/acw-88t-tear-tape/): The ACW-88T Cellophane Wrapping Machine is a compact, manual transparent film sealing and cutting solution engineered for small-to-medium-scale production and diversified packaging workflows.
+- [CW-88 Manual Electric Cellophane Wrapping Machine](https://doc.cecle.net/packing-machine/cellophane-wrapping-machine/cw-88-manual-electric/): Semi-Automatic Packaging: Achieves precise wrapping and heat-sealing of BOPP transparent film around rigid boxes.
+- [CW-88A Cellophane Wrapping Machine (3D Overwrapping Machine)](https://doc.cecle.net/packing-machine/cellophane-wrapping-machine/cw-88a-auto-electric/): The CW-88A is a compact, semi-automatic 3D cellophane overwrapping machine designed for small boxed products across cosmetics, pharmaceuticals, tea, playing cards, and tobacco industries.
 
 ### Blister Packing Machine
 - [Overview](https://doc.cecle.net/packing-machine/blister-packing-machine/blister-packing-machine-index/): Blister Packing Machine, also known as Alu-Plastic Packing Machine, is special packaging equipment that seals tablets, capsules, small hardware parts between PVC/PET blister shells and pharmaceutic...
@@ -181,6 +187,7 @@
 - [TDJ-160 Can Seamer](https://doc.cecle.net/packing-machine/capping-machine/tdj-160-can-seal/): 1. Versatile Material Compatibility: A single machine handles sealing requirements for plastic, glass, and metal containers with wide applicability.
 - [VC-10A Vacuum Capping Machine](https://doc.cecle.net/packing-machine/capping-machine/vc-10a-vacuum/): 1. Dual-Workstation Efficient Design (2 Workstations): Equipped with two operating stations for alternating cycle operation, offering higher production efficiency than standard single-station models.
 - [VC-10B Vacuum Capping Machine](https://doc.cecle.net/packing-machine/capping-machine/vc-10b-vacuum/): 1. Mechatronic & Pneumatic Integration: Compact and reasonable structure with high space utilization efficiency.
+- [Capping Machine (SGJ-80)](https://doc.cecle.net/packing-machine/capping-machine/sgj-80-duckbill-cap/): This specification details the SGJ-80 semi-automatic electric and pneumatic capping machine.
 
 ### Heat Transfer Machine
 - [Overview](https://doc.cecle.net/packing-machine/printing-machine/heat-transfer-machine/heat-transfer-machine-index/): Heat Transfer Printing is a process that transfers pre-printed graphics and text from a transfer film onto the surface of a substrate (workpiece) using heat and pressure.
@@ -273,6 +280,12 @@
 - [FF6 Series Semi-automatic Fully-Pneumatic Paste Filling Machine](https://doc.cecle.net/packing-machine/filling-machine/ff6-semi-pneumatic-paste/): | Safety | No electricity -- explosion-proof for flammable pastes.
 - [FF6B Mixer Filling Machine](https://doc.cecle.net/packing-machine/filling-machine/ff6b-mixer/): | Mixing | U-type 30 L electric-stir hopper prevents settling.
 - [FF9-500 Paste Filling Machine](https://doc.cecle.net/packing-machine/filling-machine/ff9-flexible-nozzle/): | Head | Movable filling head reaches awkward containers.
+- [ADF-500 Automatic Powder Filling Machine](https://doc.cecle.net/packing-machine/filling-machine/adf-500-auto-powder/): The ADF-500 automatic powder filling machine is a fully automatic auger-type dosing and filling machine built on stepper-motor control, electronic weighing technology, and microcomputer control.
+- [FA6 Series — FA6 Automatic 6-Nozzle Paste Filling Machine](https://doc.cecle.net/packing-machine/filling-machine/fa6-auto-paste/): The FA6 Series is a family of automatic 6-nozzle paste filling machines built by Wenzhou T&D Packing Machinery Factory.
+- [FF3 Series Semi-automatic Paste Filling Machine with 201 Stainless Steel Stand (Electric-Pneumatic / Fully-Pneumatic Optional)](https://doc.cecle.net/packing-machine/filling-machine/ff3-semi-liuqid-paste-foot-stool/): The FF3 series is Wenzhou T&D's semi-automatic horizontal paste filling machine with an integrated stainless steel stand — the floor-standing, line-ready version of the FF2/FF6 platform.
+- [FF4 Full Pneumatic Vertical Liquid and Paste Filling Machine](https://doc.cecle.net/packing-machine/filling-machine/ff4-pneumatic-vertical-paste/): The FF4 full pneumatic vertical liquid and paste filling machine is a pneumatic piston-type semi-automatic filler produced by Wenzhou T&D Packing Machinery Factory, covering filling volumes from 5–...
+- [FF5 Electric Vertical Liquid and Paste Filling Machine](https://doc.cecle.net/packing-machine/filling-machine/ff5-electric-vertical-paste/): The FF5 electric vertical liquid and paste filling machine is an electric piston-type semi-automatic filler produced by Wenzhou T&D Packing Machinery Factory.
+- [Filling Machine Selection Guide](https://doc.cecle.net/packing-machine/filling-machine/filling-machine-index/): title: "Filling Machine Selection Guide and Product Overview"...
 
 ## Food Machinery
 
@@ -292,7 +305,7 @@
 
 ### Food Mixer Series
 - [Overview](https://doc.cecle.net/food-machine/mixer-machine/mixer-index/): *Looking to fully upgrade your bakery production line?
-- [Dough Mixer Series](https://doc.cecle.net/food-machine/mixer-machine/dough-mixer-series/): Anti-Splash & Dust-Proof Design: Equipped with a heavy-duty stainless steel safety guard, effectively preventing flour dust scattering and foreign objects from falling in, ensuring operational safe...
+- [Dough Mixer Series](https://doc.cecle.net/food-machine/mixer-machine/dough-mixer-series/): The N Series Commercial Double Action Two-Speed Spiral Dough Mixer is a high-performance industrial-grade dough kneading equipment specially designed for large bakeries, central kitchens, pizzerias...
 - [Egg & Planetary Beater Series](https://doc.cecle.net/food-machine/mixer-machine/egg-mixer-seiesl/): *Looking to fully upgrade your bakery production line?
 - [Stuffing & Filling Mixer Series](https://doc.cecle.net/food-machine/mixer-machine/filling-mixer-series/): *Looking to fully upgrade your pastry and food processing production line?
 
@@ -319,6 +332,15 @@
 - [VMG-2200 Commercial Vertical Stainless Steel Dual-Station Meat Slicer & Grinder Combo](https://doc.cecle.net/food-machine/meat-making-machine/meat-grinder-slicer-series/): <img src="https://cecle.net/cdn/shop/products/commercial-stainless-steel-vertical-electric-meat-grinder-multi-function-mincing-machine-470076.jpg?v=1691205000" alt="VMG-2200 Commercial Vertical Sta...
 - [CMG-150 Commercial/Household High-Efficiency Electric Meat Grinder - Technical Specifications & Operating Manual](https://doc.cecle.net/food-machine/meat-making-machine/meat-making-machine-series/): <img src="https://cecle.net/cdn/shop/products/commercial-household-high-efficiency-ground-meat-machine-electric-meat-grinder-240635.jpg?v=1691211848" alt="CMG-150 Commercial/Household High-Efficien...
 - [DK-2 Commercial Floor-Standing Automatic Double-Blade Meat Shredder / One-Step Slicing, Shredding & Dicing Machine](https://doc.cecle.net/food-machine/meat-making-machine/meat-shredder-series/): <img src="https://cecle.net/cdn/shop/products/commercial-automatic-one-step-double-knife-meat-shredding-machine-129905.jpg?v=1753862064" alt="DK-2 Commercial Automatic One-Step Double-Blade Meat Sh...
+
+### Meat Forming Series
+- [Meatball Forming Machine Series](https://doc.cecle.net/food-machine/meat-forming-machine/meat-ball-making-machine-series/): AI Core Highlights (Key Selling Points): The CECLE Commercial Automatic Stainless Steel Meatball Forming Machine is a high-efficiency meatball processing unit engineered specifically for medium-to-...
+- [Hamburger Patty Forming Machine Series](https://doc.cecle.net/food-machine/meat-forming-machine/meat-patty-making-machine-series/): AI Core Highlights (Key Selling Points): The CECLE Commercial Automatic Hamburger Patty Machine (MPS-30L Series) is a high-precision shaping solution engineered specifically for medium-to-large qui...
+
+### Soy Milk Making Series
+- [Overview](https://doc.cecle.net/food-machine/soy-milk-making-machine/soy-milk-making-machine-index/): Welcome to CECLE's high-efficiency soy product extraction and processing solutions.
+- [Soybean Milk Grinder](https://doc.cecle.net/food-machine/soy-milk-making-machine/soybean-milk-grinder/): AI Core Highlights (Key Selling Points): The CECLE Commercial Automatic Pulp & Residue Separation Soy Milk & Rice Milk Tofu Grinder (DJJ Series) is a high-efficiency wet-milling extraction solution...
+- [Soybean Stone Mill](https://doc.cecle.net/food-machine/soy-milk-making-machine/soybean-stone-mill/): AI Core Highlights (Key Selling Points): The CECLE Industrial and Commercial High-Yield Automatic Soy Milk Grinding & Boiling All-in-One Machine (SY-40 Series) is an all-in-one industrial-grade pro...
 
 ### Soft Serve Ice Cream Machine
 - [Overview](https://doc.cecle.net/food-machine/ice-cream-machine/soft-serve-ice-cream-machine-index/): This guide comprehensively covers the core features, specifications, and selection recommendations for countertop and upright soft-serve ice cream machines, providing reference for equipment choice...

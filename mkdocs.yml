@@ -68,6 +68,12 @@ nav:
           - ACW-88A + A3DP-88A Combo Overwrapper: packing-machine/cellophane-wrapping-machine/acw-88a+a3dp-88a.md
           - ACW-88A Auto Round Film Overwrapper: packing-machine/cellophane-wrapping-machine/acw-88a-auto-round-film.md
           - CW-115 Manual Overwrapper: packing-machine/cellophane-wrapping-machine/cw-115-manual.md
+          - ACW-88 Manual Cellophane Wrapping Machine: packing-machine/cellophane-wrapping-machine/acw-88-manual-wrap.md
+          - ACW-88D Dot Heating Cellophane Wrapping Machine: packing-machine/cellophane-wrapping-machine/acw-88d-dot-heating.md
+          - ACW-88F Round More Waste Film Wrapping Machine: packing-machine/cellophane-wrapping-machine/acw-88f-round-more-waste-film.md
+          - ACW-88T Tear Tape Cellophane Wrapping Machine: packing-machine/cellophane-wrapping-machine/acw-88t-tear-tape.md
+          - CW-88 Manual Electric Cellophane Wrapping Machine: packing-machine/cellophane-wrapping-machine/cw-88-manual-electric.md
+          - CW-88A Auto Electric Cellophane Wrapping Machine: packing-machine/cellophane-wrapping-machine/cw-88a-auto-electric.md
       - Blister Packing Machine:
           - Overview: packing-machine/blister-packing-machine/blister-packing-machine-index.md
           - MTBP-180 Benchtop Entry-level: packing-machine/blister-packing-machine/mtbp-180.md
@@ -205,6 +211,7 @@ nav:
           - TDJ-160 Can Seamer: packing-machine/capping-machine/tdj-160-can-seal.md
           - VC-10A Glass Jar Vacuum Capper: packing-machine/capping-machine/vc-10a-vacuum.md
           - VC-10B Glass Jar Vacuum Capper: packing-machine/capping-machine/vc-10b-vacuum.md
+          - SGJ-80 Duckbill Cap Capping Machine: packing-machine/capping-machine/sgj-80-duckbill-cap.md
       - Printing Machine: 
           - Heat Transfer Machine:
               - Overview: packing-machine/printing-machine/heat-transfer-machine/heat-transfer-machine-index.md
@@ -287,6 +294,12 @@ nav:
           - FF6 Semi-Pneumatic Paste Filling Machine: packing-machine/filling-machine/ff6-semi-pneumatic-paste.md
           - FF6B Mixer: packing-machine/filling-machine/ff6b-mixer.md
           - FF9 Flexible Nozzle: packing-machine/filling-machine/ff9-flexible-nozzle.md
+          - ADF-500 Automatic Powder Filling Machine: packing-machine/filling-machine/adf-500-auto-powder.md
+          - FA6 Automatic 6-Nozzle Paste Filling Machine: packing-machine/filling-machine/fa6-auto-paste.md
+          - FF3 Semi-Automatic Paste Filling Machine: packing-machine/filling-machine/ff3-semi-liuqid-paste-foot-stool.md
+          - FF4 Full Pneumatic Vertical Paste Filling Machine: packing-machine/filling-machine/ff4-pneumatic-vertical-paste.md
+          - FF5 Electric Vertical Paste Filling Machine: packing-machine/filling-machine/ff5-electric-vertical-paste.md
+          - Filling Machine Selection Guide: packing-machine/filling-machine/filling-machine-index.md
      
   - Food Machinery:
       - Samosa Making Series:
@@ -327,6 +340,13 @@ nav:
           - VMG-2200 Meat Slicer Grinder: food-machine/meat-making-machine/meat-grinder-slicer-series.md
           - CMG-150 Electric Meat Grinder: food-machine/meat-making-machine/meat-making-machine-series.md
           - DK-2 Meat Shredder: food-machine/meat-making-machine/meat-shredder-series.md
+      - Meat Forming Series:
+          - Meatball Forming Machine Series: food-machine/meat-forming-machine/meat-ball-making-machine-series.md
+          - Hamburger Patty Forming Machine Series: food-machine/meat-forming-machine/meat-patty-making-machine-series.md
+      - Soy Milk Making Series:
+          - Overview: food-machine/soy-milk-making-machine/soy-milk-making-machine-index.md
+          - Soybean Milk Grinder: food-machine/soy-milk-making-machine/soybean-milk-grinder.md
+          - Soybean Stone Mill: food-machine/soy-milk-making-machine/soybean-stone-mill.md
       - Soft Serve Ice Cream Machine:
           - Overview: food-machine/ice-cream-machine/soft-serve-ice-cream-machine-index.md
           - Countertop Soft Serve Ice Cream Machine: food-machine/ice-cream-machine/countertop-soft-serve-ice-cream-machine.md
