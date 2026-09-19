@@ -8,7 +8,7 @@
 
 ---
 
-## Core Abstract
+## Overview
 
 The **FA6 Series** is a family of **automatic 6-nozzle paste filling machines** built by Wenzhou **T&D Packing Machinery Factory**. Seven volume variants cover the entire mid-to-large output range: **FA6-100 (10–100 ml), FA6-300 (30–300 ml), FA6-500 (50–500 ml), FA6-1000 (100–1000 ml), FA6-2500 (250–2500 ml), FA6-3000 (300–3000 ml), and FA6-5000 (500–5000 ml).** All variants share the same chassis, 80 L hopper, 220 V / 660 W power supply, 0.6–0.8 MPa air supply, 210 × 110 × 150 cm packaging size, and ±1% filling accuracy, driven by a **Taiwan PLC + Airtac pneumatic** control core. Peak mechanical speed is **240 fills/min** (10–40 cycles/min × 6 nozzles). Net weight scales with cylinder size from about 400 kg (FA6-100) up to 600 kg (FA6-1000 and above). Built on a **201/304 stainless steel** frame with optional 316 stainless steel, the machine combines **anti-drip shutoff nozzles** with **Germany SICK photoelectric sensors (no bottle, no fill)** and a built-in 2 m fixed-position conveyor. It handles viscous liquids and pastes such as sauce, cream, paste, yogurt, cooking oil, juice, milk, and liquid detergent. Export packaging is a plywood case (one case per set, including tools and spare parts); MOQ 1 set; 100% T/T (30% deposit + 70% before shipping); lead time 15–30 days; one-year warranty on the whole machine plus lifetime maintenance.
 

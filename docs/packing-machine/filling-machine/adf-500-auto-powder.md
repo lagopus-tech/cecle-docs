@@ -7,7 +7,7 @@
 > **Category:** Powder Filling Machine / Auger Dosing Filler
 > **Supplier:** Wenzhou T&D Packing Machinery Factory
 
-## Core Abstract
+## Overview
 
 The ADF-500 automatic powder filling machine is a fully automatic auger-type dosing and filling machine built on stepper-motor control, electronic weighing technology, and microcomputer control. It delivers a filling range of 5 g to 5000 g (screw replacement required across the range) at speeds of 1800–4000 fills per hour with accuracy within 1%. It handles powders, superfine powders, and small granules — such as milk powder, seasonings, flour, white sugar, solid beverages, washing powder, and feed additives — into bags, cans, bottles, and other containers. One-year warranty with lifetime maintenance service.
 

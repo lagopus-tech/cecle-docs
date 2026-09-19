@@ -2,8 +2,7 @@
 
 ![SGJ-80 Capping Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17866100131655.png?v=1786610041)
 
-> **core Abstract**
-> This specification details the SGJ-80 semi-automatic electric and pneumatic capping machine. Engineered for cosmetics, daily chemical, pharmaceutical, and food industries, it excels at sealing complex and irregular caps including spray, pump, and trigger caps. Built with 304 stainless steel and dual motors, it delivers speeds up to 45 caps/min, leveraging constant pneumatic downward pressure and digital torque control to ensure high-efficiency, non-damaging capping.
+This specification details the SGJ-80 semi-automatic electric and pneumatic capping machine. Engineered for cosmetics, daily chemical, pharmaceutical, and food industries, it excels at sealing complex and irregular caps including spray, pump, and trigger caps. Built with 304 stainless steel and dual motors, it delivers speeds up to 45 caps/min, leveraging constant pneumatic downward pressure and digital torque control to ensure high-efficiency, non-damaging capping.
 
 ## 1. Product Overview
 *   **Product Category**: Semi-Automatic Electric & Pneumatic Capping Machine

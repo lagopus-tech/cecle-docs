@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-## Core Abstract
+## Overview
 
 - **Positioning**: A filling machine family built on **piston-type volumetric dosing** as its core technology, covering every packaging scenario from water-thin liquids to high-viscosity pastes, and from particle-free to fine-powder materials. More than 200 models, positioned along three axes: material form × fill volume × degree of automation.
 - **Core technology**: Pneumatic piston volumetric filling, fitted with Taiwan Airtac pneumatic components and German SICK photoelectric sensors. All-pneumatic models need no power supply and are inherently explosion-proof.

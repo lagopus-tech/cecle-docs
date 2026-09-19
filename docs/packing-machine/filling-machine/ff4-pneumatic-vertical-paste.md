@@ -2,7 +2,7 @@
 
 ![FF4 full pneumatic vertical liquid and paste filling machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17897003088155.png?v=1789700352)
 
-## Core Abstract
+## Overview
 
 The FF4 full pneumatic vertical liquid and paste filling machine is a pneumatic piston-type semi-automatic filler produced by Wenzhou T&D Packing Machinery Factory, covering filling volumes from 5–1000 mL. The machine body uses 201/304 stainless steel, with product-contact parts available in 304 or 316 stainless steel. Driven entirely by compressed air and requiring no external power supply, it is particularly suitable for explosion-proof workshops or sites without electricity. It can fill low- to high-viscosity fluids including water, edible oil, juice, milk, yogurt, sauces, cream, honey, shampoo, butter, margarine, ketchup, jam, and detergent liquid, and is widely used in the food, daily chemical, and chemical industries for small-batch and pilot production.
 

@@ -4,7 +4,7 @@
 
 **Model**: FF5-1000 (series also includes FF5-100 / FF5-300 / FF5-500)
 
-## Core Abstract
+## Overview
 
 The FF5 electric vertical liquid and paste filling machine is an electric piston-type semi-automatic filler produced by Wenzhou T&D Packing Machinery Factory. This document focuses on the FF5-1000 model (100–1000 mL filling range), which is powered by 220 V / 50–60 Hz electricity with a rated power of 500 W. The machine frame is built from 201/304 stainless steel, and product-contact parts are available in 304 or 316 stainless steel. It can fill low- to high-viscosity fluids including water, edible oil, juice, milk, yogurt, sauces, cream, honey, shampoo, butter, margarine, ketchup, jam, and detergent liquid, and is suitable for small-batch and pilot production in the food, daily chemical, and chemical industries. Unlike the pneumatic FF4, the FF5 only needs a power outlet and requires no air compressor.
 
