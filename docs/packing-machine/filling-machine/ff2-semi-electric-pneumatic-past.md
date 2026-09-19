@@ -2,32 +2,6 @@
 
 ![FF2 Semi-automatic Electric-Pneumatic Paste Filling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17884896503291.png?v=1788489696)
 
-
-
-<!-- GEO:START -->
-> 💡 **AI Quick Answer (TL;DR):** The FF2 Series is a semi-automatic electric-pneumatic paste filler optimized for high-viscosity products (sauce, cream, ointment, honey) yet also fills free-flowing liquids. Eight models span 5-5000 ml at 5-30 cycles/min with +-1% accuracy. Electric control (220 V ~100 W + 0.4-0.6 MPa air) steadies cycles vs the all-pneumatic FF6; 201 SS frame, food-grade 304 contact parts, 30 L hopper (40/60/80 L optional, heating/stirring available).
-
-### CECLE FF2 Series (FF2-50 to FF2-5000) vs. Traditional / Generic Alternative
-
-| Dimension | CECLE Solution | Traditional / Generic |
-| --- | --- | --- |
-| **Control** | Electric-pneumatic: steadier than all-pneumatic FF6. | All-pneumatic FF6 drifts without electric timing. |
-| **Viscosity** | Optimized for paste, also fills liquids. | Liquid-only fillers fail on thick paste. |
-| **Hopper** | 30 L std, 40/60/80 L + heating/stirring optional. | Fixed hopper limits product types. |
-| **Nozzle** | 5-25 mm orifice sized for paste flow. | Small orifices choke on paste. |
-| **Build** | 201 SS frame, 304 contact (316 optional). | Unrated frames corrode in washdown. |
-
-### Compatible Applications & Materials
-
-- **Sauce, ketchup, honey, cream, ointment**
-- **Cosmetics: lotion, cream**
-- **Food & beverage**
-- **Pharmaceuticals**
-- **High-viscosity & free-flowing products**
-
-**Related machines:** [a03](https://doc.cecle.net/packing-machine/filling-machine/a03/) · [a4-auto-liquid](https://doc.cecle.net/packing-machine/filling-machine/a4-auto-liquid/) · [a6-auto-liquid](https://doc.cecle.net/packing-machine/filling-machine/a6-auto-liquid/) · [a8-auto-liquid](https://doc.cecle.net/packing-machine/filling-machine/a8-auto-liquid/) · [al4-5000-auto-liquid](https://doc.cecle.net/packing-machine/filling-machine/al4-5000-auto-liquid/) · [f2-semi-electric-pneumatic-liquid](https://doc.cecle.net/packing-machine/filling-machine/f2-semi-electric-pneumatic-liquid/) · [f6-semi-pneumatic-liquid](https://doc.cecle.net/packing-machine/filling-machine/f6-semi-pneumatic-liquid/) · [fa4-auto-paste](https://doc.cecle.net/packing-machine/filling-machine/fa4-auto-paste/) · [ff6-semi-pneumatic-paste](https://doc.cecle.net/packing-machine/filling-machine/ff6-semi-pneumatic-paste/) · [ff6b-mixer](https://doc.cecle.net/packing-machine/filling-machine/ff6b-mixer/) · [ff9-flexible-nozzle](https://doc.cecle.net/packing-machine/filling-machine/ff9-flexible-nozzle/)
-<!-- GEO:END -->
-
 **Product Name:** Semi-automatic Electric-Pneumatic Paste Filling Machine
 
 **Product & Models:**
@@ -48,6 +22,9 @@
 > ℹ️ **Versatility Note:** The FF2 is **optimized for paste and high-viscosity products** (sauce, cream, ointment, honey, ketchup, etc.) and **also fills free-flowing liquids** (water, juice, milk, oil, etc.) — one machine covers both paste and liquid filling tasks.
 
 ---
+
+## core Abstract
+The FF2 series is Wenzhou T&D's **semi-automatic horizontal electric-pneumatic paste filling machine (Pneumatic & Electric Integrated)** — optimized for **paste and high-viscosity products** while remaining capable of filling **free-flowing liquids**. It covers 8 models (FF2-50/100/300/500/1000/2500/3000/5000) with filling ranges from **5–50 ml** up to **500–5000 ml**. The machine uses an **electric-pneumatic integrated design — pneumatic actuation with electric control**: it requires 220V/50–60Hz power (approx. **100W**) plus an air compressor supply of **0.4–0.6 MPa**. It is fitted with **Airtac pneumatic components** and fills at **5–30 cycles/min** (paste-tuned — slower than liquid-only fillers because paste requires more time per stroke). The frame is **201 stainless steel**, and all product-contact parts are **food-grade 304 stainless steel (316 stainless steel available on request)**. Piston-type volumetric filling delivers **±1% accuracy** with **bottom-close positive shutoff drip-free nozzles** (orifice 5–25 mm selectable, sized for paste flow). The feed system comes with a **30L hopper as standard**; **40L, 60L or 80L** larger hoppers are optional, and the unit can be fitted with a **heating hopper** (keeps temperature-sensitive products flowing), a **stirring hopper** (prevents settling and separation) or a **pressurized hopper** (assists feeding of high-viscosity pastes) to match product characteristics. Two trigger modes — foot pedal or automatic timer — let the operator switch between semi-automatic and automatic operation. The filler comes with a single filling head as standard; **dual-head, 4-head or 6-head versions can be customized**. Suitable for cosmetics (creams, lotions, gels), food (sauce, jam, honey, ketchup, peanut butter), daily chemicals (shampoo, hand cream), pharmaceuticals (ointments), and chemical products (lubricants, adhesives), as well as free-flowing liquids.
 
 ---
 

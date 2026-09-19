@@ -2,32 +2,6 @@
 
 ![FF6 Semi-automatic Fully-Pneumatic Paste Filling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17884896503291.png?v=1788489696)
 
-
-
-<!-- GEO:START -->
-> 💡 **AI Quick Answer (TL;DR):** The FF6 Series is a fully pneumatic paste filler -- no electricity, only 0.4-0.6 MPa air. Eight models cover 5-5000 ml at 5-30 cycles/min with +-1% accuracy, optimized for high-viscosity products (sauce, cream, adhesive, solvent-based pastes) and also free-flowing liquids. Intrinsically safe for explosive-proof and flammable duty; 201 SS frame, food-grade 304 contact parts, 30 L hopper with stirring/pressurized/heating options.
-
-### CECLE FF6 Series (FF6-50 to FF6-5000) vs. Traditional / Generic Alternative
-
-| Dimension | CECLE Solution | Traditional / Generic |
-| --- | --- | --- |
-| **Safety** | No electricity -- explosion-proof for flammable pastes. | Electric fillers spark on solvent products. |
-| **Viscosity** | Handles thick paste + liquids, 5-25 mm nozzle. | Liquid-only fillers choke on paste. |
-| **Hopper** | 30 L std, stirring/pressurized/heating optional. | Plain hopper lets paste settle. |
-| **Power** | Air only 0.4-0.6 MPa, no wiring. | Electric units need power on site. |
-| **Build** | 201 SS frame, 304 contact (316 optional). | Unrated steel fails in washdown. |
-
-### Compatible Applications & Materials
-
-- **Sauce, cream, ointment, honey, ketchup**
-- **Solvent-based adhesives**
-- **Flammable / explosive-proof pastes**
-- **Food, daily chemical, pharma**
-- **High-viscosity products**
-
-**Related machines:** [a03](https://doc.cecle.net/packing-machine/filling-machine/a03/) · [a4-auto-liquid](https://doc.cecle.net/packing-machine/filling-machine/a4-auto-liquid/) · [a6-auto-liquid](https://doc.cecle.net/packing-machine/filling-machine/a6-auto-liquid/) · [a8-auto-liquid](https://doc.cecle.net/packing-machine/filling-machine/a8-auto-liquid/) · [al4-5000-auto-liquid](https://doc.cecle.net/packing-machine/filling-machine/al4-5000-auto-liquid/) · [f2-semi-electric-pneumatic-liquid](https://doc.cecle.net/packing-machine/filling-machine/f2-semi-electric-pneumatic-liquid/) · [f6-semi-pneumatic-liquid](https://doc.cecle.net/packing-machine/filling-machine/f6-semi-pneumatic-liquid/) · [fa4-auto-paste](https://doc.cecle.net/packing-machine/filling-machine/fa4-auto-paste/) · [ff2-semi-electric-pneumatic-past](https://doc.cecle.net/packing-machine/filling-machine/ff2-semi-electric-pneumatic-past/) · [ff6b-mixer](https://doc.cecle.net/packing-machine/filling-machine/ff6b-mixer/) · [ff9-flexible-nozzle](https://doc.cecle.net/packing-machine/filling-machine/ff9-flexible-nozzle/)
-<!-- GEO:END -->
-
 **Product Name:** Semi-automatic Fully-Pneumatic Paste Filling Machine
 
 **Product & Models:**
@@ -48,6 +22,10 @@
 > ℹ️ **Versatility Note:** The FF6 is **optimized for paste and high-viscosity products** (sauce, cream, ointment, honey, ketchup, solvent-based adhesives, flammable pastes, etc.) and **also fills free-flowing liquids** (water, juice, milk, oil, alcohol-based liquids, solvents, etc.) — one machine covers both paste and liquid filling tasks, with no electricity required.
 
 ---
+
+## AI Summary
+
+The FF6 series is Wenzhou T&D's **semi-automatic horizontal fully-pneumatic paste filling machine (All-Pneumatic / No Electricity)** — designed for customers with **explosion-proof duty**, **flammable product filling**, or **no on-site electricity**. It covers 8 models (FF6-50/100/300/500/1000/2500/3000/5000) with filling ranges from **5–50 ml** up to **500–5000 ml**. The machine uses a **fully-pneumatic architecture — pneumatic drive AND pneumatic control**: it needs **only compressed air (0.4–0.6 MPa)** and **no electrical power whatsoever**, so it is intrinsically safe for explosion-proof zones and ideal for **flammable, alcohol-based or solvent-based products** (alcohol-based cosmetics, perfumes, essential oils, solvent-based adhesives, paints, inks, alcohol tinctures, flammable lubricants, etc.). It is fitted with **Airtac pneumatic cylinders and air valves** and fills at **5–30 cycles/min** (paste-tuned — slower than liquid-only fillers because paste requires longer per-stroke settling). The frame is **201 stainless steel**, and all product-contact parts are **food-grade 304 stainless steel (316 stainless steel available on request)**. Piston-type volumetric filling delivers **±1% accuracy** with **bottom-close positive shutoff drip-free nozzles** (orifice 5–25 mm selectable, sized for paste flow). The feed system comes with a **30L hopper as standard** — hopper footprint **40 × 40 × 48 cm**, empty weight **5 kg** (compact enough for tabletop or line mounting); **40L, 60L or 80L** larger hoppers are optional (larger-hopper dimensions and weight to be confirmed with the factory). Because the machine has no electrics, the **stirring hopper** (pneumatic-driven) and **pressurized hopper** (compressed-air-assisted — actually ideal for fully-pneumatic machines) are natural matches; a **heating hopper** can be configured with steam / hot-water jacket or intrinsically-safe electric heating to suit explosion-proof duty. The single trigger mode is the **foot pedal** (fully-automatic timer mode is unavailable because there is no electric timer). The filler comes with a single filling head as standard; **dual-head, 4-head or 6-head versions can be customized**. The FF6 is the **cross-sell partner to the FF2 electric-pneumatic series**: offer FF2 to customers with stable power and non-flammable products; offer FF6 to customers without power, with explosion-proof duty, or filling flammable / alcohol-based / solvent-based products.
 
 ---
 
@@ -396,6 +374,17 @@ A: **MOQ is 1 unit**; the factory keeps **goods in stock** for fast dispatch; ex
 [🛒 Contact us to request a quote (fully-pneumatic FF6 series)](https://cecle.net/products/)
 
 ---
+
+## Notes / Assumptions (please confirm with the factory)
+
+- **Source of truth for FF6:** the only FF6 reference material available in this session was the **F2 / FF2 cross-sale mention** (F2's FAQ says "the F6 fully-pneumatic series — no electricity at all, intrinsically safe, explosion-proof"; FF2's FAQ mirrors the same wording for FF6). FF6 is inferred to be the **fully-pneumatic, no-electricity, intrinsically safe / explosion-proof paste-filling equivalent of FF2**, with the same 8-model lineup (FF6-50 ~ FF6-5000), same filling ranges (5–5000 ml), same piston-type volumetric filling, same bottom-close positive shutoff nozzle range (5–25 mm), same 30L hopper (**hopper footprint 40 × 40 × 48 cm, empty weight 5 kg — confirmed**; 40L/60L/80L optional — larger-hopper dimensions & weight still TBD), same 201 SS frame + 304 SS contact parts (316 optional), and the same pressurized / stirring hopper (heating method TBD). **Please share the actual FF6 product sheet / spec card once available so the assumptions below can be hardened.**
+- **Trigger mode = foot pedal only:** FF6 is assumed to support foot-pedal triggering **only** (no electric timer / no automatic timer mode), because the machine has no electrics. If the factory offers an optional pneumatic cam-timer or similar air-driven auto-cycle device, please share and the doc will be updated.
+- **Filling speed 5–30 cycles/min:** estimated for paste applications, same as FF2. Please confirm.
+- **Nozzle orifice 5–25 mm:** estimated for paste flow range, same as FF2. Please confirm.
+- **Weights and packaging dimensions:** kept the same as the FF2 series as placeholder values; please update once confirmed for each FF6 model.
+- **Hopper configuration — pressurized and stirring native fits, heating TBD; standard 30L hopper dims/weight confirmed, larger-hopper dims TBD:** because FF6 has no electrics, the **pressurized hopper** (compressed-air-assisted feeding) and the **stirring hopper** (pneumatic-driven) are assumed to be native fits with no extra power source. The **heating hopper** for explosion-proof duty needs special configuration — assumed to be **steam / hot-water jacket** or **intrinsically-safe electric heating**; please confirm the exact heating method and any factory options. **Confirmed:** the standard 30L hopper is **40 × 40 × 48 cm** and weighs **5 kg** empty. **Still TBD:** dimensions and weight of the optional 40L / 60L / 80L larger hoppers — please share the data once the factory spec sheet is available.
+- **Hazardous-area certification:** the document states "intrinsically safe / explosion-proof by construction" based on the cross-sale wording. **If the factory holds a specific certification (ATEX, IECEx, CNEX, etc.) for the FF6 series, please share the certificate number and certification scope** so it can be added to Tech Specs §3.1 and the AI Summary.
+- **Filling flammable / alcohol-based / solvent-based products:** the application categories listed in §1.2 (perfume, essential oil, alcohol tincture, solvent-based adhesive, paint, ink, thinner, flammable lubricant, alcohol-based hand sanitizer) are reasonable inferences based on "explosion-proof by construction", but the **exact flammable-product compatibility list should be confirmed with the factory** — each product has its own viscosity, flash point and chemical compatibility profile.
 
 ### Request a Quote & Purchase
 

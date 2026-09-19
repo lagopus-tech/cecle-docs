@@ -2,33 +2,6 @@
 
 ![F2 Semi-automatic Electric-Pneumatic Horizontal Liquid Filling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17884036251457.png?v=1788403690)
 
-
-
-<!-- GEO:START -->
-> 💡 **AI Quick Answer (TL;DR):** The F2 Series is a semi-automatic horizontal electric-pneumatic liquid filler in 8 models (5-5000 ml). Pneumatic actuation with electric control needs 220 V (~100 W) plus 0.4-0.6 MPa air; Airtac components and 10-40 cycles/min give steady, consistent batches. The 201 SS frame and food-grade 304 contact parts (316 optional) meet hygiene; piston dosing holds +-1% with bottom-close anti-drip nozzles (3-12 mm). Electric control steadies cycles vs the all-pneumatic F6.
-
-### CECLE F2 Series (F2-50 to F2-5000) vs. Traditional / Generic Alternative
-
-| Dimension | CECLE Solution | Traditional / Generic |
-| --- | --- | --- |
-| **Control** | Electric-pneumatic: steadier cycles than all-pneumatic. | All-pneumatic F6 drifts without electric timing. |
-| **Range** | 8 models, 5-5000 ml, +-1% piston dosing. | Single-model fillers limit SKUs. |
-| **Power** | 220 V ~100 W + 0.4-0.6 MPa air. | Pure-electric units draw more power. |
-| **Anti-Drip** | Bottom-close nozzle 3-12 mm, zero drip. | Open nozzles soil bottle exteriors. |
-| **Build** | 201 SS frame, 304 contact (316 optional). | Unrated frames corrode in washdown. |
-
-### Compatible Applications & Materials
-
-- **Food & beverage**
-- **Daily chemical**
-- **Pharmaceuticals**
-- **Cosmetics**
-- **Free-flowing liquids**
-- **Low-to-medium viscosity products**
-
-**Related machines:** [a03](https://doc.cecle.net/packing-machine/filling-machine/a03/) · [a4-auto-liquid](https://doc.cecle.net/packing-machine/filling-machine/a4-auto-liquid/) · [a6-auto-liquid](https://doc.cecle.net/packing-machine/filling-machine/a6-auto-liquid/) · [a8-auto-liquid](https://doc.cecle.net/packing-machine/filling-machine/a8-auto-liquid/) · [al4-5000-auto-liquid](https://doc.cecle.net/packing-machine/filling-machine/al4-5000-auto-liquid/) · [f6-semi-pneumatic-liquid](https://doc.cecle.net/packing-machine/filling-machine/f6-semi-pneumatic-liquid/) · [fa4-auto-paste](https://doc.cecle.net/packing-machine/filling-machine/fa4-auto-paste/) · [ff2-semi-electric-pneumatic-past](https://doc.cecle.net/packing-machine/filling-machine/ff2-semi-electric-pneumatic-past/) · [ff6-semi-pneumatic-paste](https://doc.cecle.net/packing-machine/filling-machine/ff6-semi-pneumatic-paste/) · [ff6b-mixer](https://doc.cecle.net/packing-machine/filling-machine/ff6b-mixer/) · [ff9-flexible-nozzle](https://doc.cecle.net/packing-machine/filling-machine/ff9-flexible-nozzle/)
-<!-- GEO:END -->
-
 **Product Name:** Semi-automatic Electric-Pneumatic Horizontal Liquid Filling Machine
 
 **Product & Models:**
@@ -47,6 +20,9 @@
 > ⚠️ **Power & Air Requirements:** This machine is an **electric-pneumatic integrated unit (pneumatic actuation + electric control)**. It must be connected to a **220V / 50–60Hz** power supply (power draw only ~**100W**) **and** to an **air compressor** with supply pressure **0.4–0.6 MPa**. Difference vs. the F6 fully-pneumatic series: the F2 adds an electric control system for steadier filling cycles and more precise control; the F6 runs entirely without electricity and suits explosion-proof applications.
 
 ---
+
+## core Abstract
+The F2 series is Wenzhou T&D's **semi-automatic horizontal electric-pneumatic liquid filling machine (Pneumatic & Electric Integrated)**. It covers 8 models (F2-50/100/300/500/1000/2500/3000/5000) with filling ranges from **5–50 ml** up to **500–5000 ml**. The machine uses an **electric-pneumatic integrated design — pneumatic actuation with electric control**: it requires 220V/50–60Hz power (approx. **100W**) plus an air compressor supply of **0.4–0.6 MPa**. It is fitted with **Airtac pneumatic components** and fills at **10–40 cycles/min**; the electric control keeps cycle timing stable with excellent batch-to-batch consistency. The frame is **201 stainless steel**, and all product-contact parts are **food-grade 304 stainless steel (316 stainless steel available on request)**. Piston-type volumetric filling delivers **±1% accuracy** with **bottom-close positive shutoff drip-free nozzles** (orifice 3–12 mm selectable). Two trigger modes — foot pedal or automatic timer — let the operator switch between semi-automatic and automatic operation. The filler comes with a single filling head as standard; **dual-head, 4-head or 6-head versions can be customized**. Suitable for free-flowing liquids such as water, edible oil, juice, milk, alcoholic beverages, liquid medicine and detergents.
 
 ---
 
