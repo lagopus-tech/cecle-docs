@@ -415,6 +415,12 @@ nav:
       - Extract & Distillation Equipment:
           - CTM Chinese Medicine Extraction & Concentration: pharmaceutical-equipment/extract-equipment/ctm-chinese-medicine-extraction-concentration-equipment.md
           - QYMD Glass Short Path Molecular Distillation: pharmaceutical-equipment/extract-equipment/qymd-series-distillation-equipment.md
+      - Laboratory Instrument:
+          - Circulating Water Vacuum Pump: pharmaceutical-equipment/laboratory-instrument/circulating-water-vacuum-pump.md
+          - Double Layer Glass Reactor: pharmaceutical-equipment/laboratory-instrument/double-layer-glass-reactor.md
+          - GDW Series Circulating Heating & Cooling Equipment: pharmaceutical-equipment/laboratory-instrument/gdw-serise-circulating-heating-and-cooling-equipment.md
+          - RE Series Rotary Evaporator: pharmaceutical-equipment/laboratory-instrument/re-serise-rotary-evaporator.md
+          - WBS Series Water/Oil Bath: pharmaceutical-equipment/laboratory-instrument/wbs-serise-water-oil-bath.md
   - Material Handling Equipment:
       - Stacker Series:
           - Overview: material-handling/stacker/stacker-index.md
