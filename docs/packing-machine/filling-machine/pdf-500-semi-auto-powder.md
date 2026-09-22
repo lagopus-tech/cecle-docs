@@ -7,7 +7,7 @@
 > **Category:** Powder Filling Machine / Auger Dosing Filler
 > **Supplier:** Wenzhou T&D Packing Machinery Factory
 
-## Core Abstract
+## Overview
 
 The PDF-500 semi-automatic powder filling machine is an auger-type dosing and filling machine built on stepper-motor control technology, electronic weighing technology, and microcomputer control. It delivers a filling range of 5 g to 5000 g (screw replacement required across the range) at speeds of 10–60 fills per minute with accuracy within 1%. It handles powders, superfine powders, and small granules — such as milk powder, seasonings, flour, white sugar, solid beverages, washing powder, and feed additives — into bags, cans, bottles, and other containers, and can be upgraded to fully automatic operation or paired with a spiral feeder for automatic feed control. One-year warranty with lifetime maintenance service.
 
@@ -112,74 +112,74 @@ One-year warranty. Under warranty, damage from normal use as described in the ma
 
 ```json
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials can the PDF-500 semi-automatic powder filling machine fill?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is suitable for powders, superfine powders, and small granules such as compound seasoning, natural seasoning, salt, MSG, milk powder, solid beverage powder, white sugar, flour, washing powder, pesticides, veterinary medicine, feed, enzyme preparations, and additives."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What containers can the PDF-500 fill into?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bags, cans, bottles, and other containers for powder packing."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How is the filling weight of the PDF-500 adjusted?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The target weight is set from the keyboard and is continuously adjustable. To cover the full 5 g to 5000 g range, the blanking screw is replaced with one of a different specification."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How accurate is the PDF-500 semi-automatic powder filling machine?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Filling accuracy is within 1 percent, and errors caused by material proportion or material level changes are automatically tracked and corrected."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the filling speed of the PDF-500?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The filling speed is 10 to 60 times per minute, depending on the material and target weight."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is the PDF-500 semi-automatic or fully automatic?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It operates as a semi-automatic machine and can also be configured for automatic operation. Only manual bag feeding is needed in semi-automatic mode; the filling mouth stays clean and bags are easy to seal."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can the PDF-500 feed material automatically?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. It can be matched with a spiral feeder for automatic material feed control."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the warranty and after-sales terms for the PDF-500?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "One-year warranty. Under warranty, damage from normal use is repaired or replaced free of charge (customer pays freight from China; engineer travel, if required, is paid by the customer). Beyond the warranty period, lifetime maintenance service is provided."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "What materials can the PDF-500 semi-automatic powder filling machine fill?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "It is suitable for powders, superfine powders, and small granules such as compound seasoning, natural seasoning, salt, MSG, milk powder, solid beverage powder, white sugar, flour, washing powder, pesticides, veterinary medicine, feed, enzyme preparations, and additives."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What containers can the PDF-500 fill into?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Bags, cans, bottles, and other containers for powder packing."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How is the filling weight of the PDF-500 adjusted?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "The target weight is set from the keyboard and is continuously adjustable. To cover the full 5 g to 5000 g range, the blanking screw is replaced with one of a different specification."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How accurate is the PDF-500 semi-automatic powder filling machine?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Filling accuracy is within 1 percent, and errors caused by material proportion or material level changes are automatically tracked and corrected."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the filling speed of the PDF-500?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "The filling speed is 10 to 60 times per minute, depending on the material and target weight."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Is the PDF-500 semi-automatic or fully automatic?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "It operates as a semi-automatic machine and can also be configured for automatic operation. Only manual bag feeding is needed in semi-automatic mode; the filling mouth stays clean and bags are easy to seal."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Can the PDF-500 feed material automatically?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. It can be matched with a spiral feeder for automatic material feed control."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What are the warranty and after-sales terms for the PDF-500?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "One-year warranty. Under warranty, damage from normal use is repaired or replaced free of charge (customer pays freight from China; engineer travel, if required, is paid by the customer). Beyond the warranty period, lifetime maintenance service is provided."
+ }
+ }
+ ]
 }
 ```
 

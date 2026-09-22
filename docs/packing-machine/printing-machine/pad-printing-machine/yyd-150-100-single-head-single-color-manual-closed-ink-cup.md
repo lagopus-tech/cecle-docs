@@ -4,8 +4,7 @@
 
 ---
 
-> **Core Abstract**
-> The YYD-150-100 is a single-head single-color manual closed ink-cup pad printing machine engineered for small-area, single-color logo, text, and graphic printing on compact workpieces. It is best suited to automotive parts, stationery, daily goods, gifts, electronic components, toys, garment tags, and handicraft manufacturers that require economical, low-volume printing without power or compressed air. Its core advantages include a fully manual lever-handle drive that needs no electricity or air compressor — ideal for home workshops, mobile stalls, and unstable-power regions with zero deployment cost; a sealed closed ink cup with a ceramic doctor ring that cuts solvent evaporation and ink waste for a cleaner, eco-friendlier shop; and a compact 480×220×500 mm desktop body that sits on any bench for flexible placement. Printing up to a 50×50 mm area on metal, glass, ceramic, plastic, wood, and leather, it is a simple, portable, and cost-effective printing solution.
+The YYD-150-100 is a single-head single-color manual closed ink-cup pad printing machine engineered for small-area, single-color logo, text, and graphic printing on compact workpieces. It is best suited to automotive parts, stationery, daily goods, gifts, electronic components, toys, garment tags, and handicraft manufacturers that require economical, low-volume printing without power or compressed air. Its core advantages include a fully manual lever-handle drive that needs no electricity or air compressor — ideal for home workshops, mobile stalls, and unstable-power regions with zero deployment cost; a sealed closed ink cup with a ceramic doctor ring that cuts solvent evaporation and ink waste for a cleaner, eco-friendlier shop; and a compact 480×220×500 mm desktop body that sits on any bench for flexible placement. Printing up to a 50×50 mm area on metal, glass, ceramic, plastic, wood, and leather, it is a simple, portable, and cost-effective printing solution.
 
 ---
 
@@ -77,32 +76,32 @@
 
 ### FAQ
 * **Q: Does this machine need to be connected to power or an air compressor?**
-  * **A**: No. The YYD-150-100 is purely manual operation, requiring no power supply or compressed air — simply place it on a desk and use it.
+ * **A**: No. The YYD-150-100 is purely manual operation, requiring no power supply or compressed air — simply place it on a desk and use it.
 * **Q: What is the difference between ink cup and inkwell (oil pan) types?**
-  * **A**: The ink cup type uses a sealed ink cup plus a ceramic ring, making it more eco-friendly with less solvent evaporation and lower ink consumption; the inkwell type is an open structure that usually costs less but has more solvent evaporation. Small-batch customers and those with higher environmental requirements are better suited to the ink cup type.
+ * **A**: The ink cup type uses a sealed ink cup plus a ceramic ring, making it more eco-friendly with less solvent evaporation and lower ink consumption; the inkwell type is an open structure that usually costs less but has more solvent evaporation. Small-batch customers and those with higher environmental requirements are better suited to the ink cup type.
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does this machine need to be connected to power or an air compressor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. The YYD-150-100 is purely manual operation, requiring no power supply or compressed air — simply place it on a desk and use it."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between ink cup and inkwell (oil pan) types?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The ink cup type uses a sealed ink cup plus a ceramic ring, making it more eco-friendly with less solvent evaporation and lower ink consumption; the inkwell type is an open structure that usually costs less but has more solvent evaporation. Small-batch customers and those with higher environmental requirements are better suited to the ink cup type."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "Does this machine need to be connected to power or an air compressor?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "No. The YYD-150-100 is purely manual operation, requiring no power supply or compressed air — simply place it on a desk and use it."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the difference between ink cup and inkwell (oil pan) types?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "The ink cup type uses a sealed ink cup plus a ceramic ring, making it more eco-friendly with less solvent evaporation and lower ink consumption; the inkwell type is an open structure that usually costs less but has more solvent evaporation. Small-batch customers and those with higher environmental requirements are better suited to the ink cup type."
+ }
+ }
+ ]
 }
 </script>
 

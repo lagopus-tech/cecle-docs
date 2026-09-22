@@ -6,7 +6,6 @@
 
 ---
 
-> **core Abstract**
 >
 > **Product Name (EN)**: Automatic Four Heads Liquid Filling Machine (A4 Series)
 > **Models**: A4-100 / A4-300 / A4-500 / A4-1000 / A4-2500 / A4-5000
@@ -139,66 +138,66 @@ A: The machine is **CE certified** (Certificate No: **B-S15047199**). Materials 
 
 ```json
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does the A4 series support corrosive liquids?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. For corrosive materials, we provide a full 316L stainless steel build or an anti-corrosion Teflon coating customization to protect the machine and ensure long service life."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is installation and training difficult?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not at all. The machine is fully debugged before shipment for out-of-the-box installation. Detailed video guides plus online one-on-one engineer support are provided."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can heating and mixing functions be added?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. For high-viscosity or easily-solidifying materials, we can customize the hopper heating and stirring device to keep material flowable during filling."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How is the filling accuracy guaranteed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The piston-type quantitative dosing combined with a Taiwan-brand PLC keeps filling error within ±1%. Airtac pneumatic components and SICK photoelectric sensors further stabilize the cycle for consistent results."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can the number of filling heads be customized?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The machine supports 2, 4, 6 and 8 head configurations. The standard A4 series ships with 4 heads; other head counts are customizable on request."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between A4-2500 and the other A4 models?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The A4-2500 covers the 250-2500 ml range and runs at 10-30 cycles/min, slightly slower than the 10-40 cycles/min of the other models. It also weighs 400 kg versus the 330-334 kg of the smaller models, due to the larger piston cylinder and frame."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What certifications does the machine have?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The machine is CE certified (Certificate No: B-S15047199). Materials comply with GMP standards for food-contact applications."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "Does the A4 series support corrosive liquids?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. For corrosive materials, we provide a full 316L stainless steel build or an anti-corrosion Teflon coating customization to protect the machine and ensure long service life."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Is installation and training difficult?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Not at all. The machine is fully debugged before shipment for out-of-the-box installation. Detailed video guides plus online one-on-one engineer support are provided."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Can heating and mixing functions be added?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. For high-viscosity or easily-solidifying materials, we can customize the hopper heating and stirring device to keep material flowable during filling."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How is the filling accuracy guaranteed?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "The piston-type quantitative dosing combined with a Taiwan-brand PLC keeps filling error within ±1%. Airtac pneumatic components and SICK photoelectric sensors further stabilize the cycle for consistent results."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Can the number of filling heads be customized?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. The machine supports 2, 4, 6 and 8 head configurations. The standard A4 series ships with 4 heads; other head counts are customizable on request."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the difference between A4-2500 and the other A4 models?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "The A4-2500 covers the 250-2500 ml range and runs at 10-30 cycles/min, slightly slower than the 10-40 cycles/min of the other models. It also weighs 400 kg versus the 330-334 kg of the smaller models, due to the larger piston cylinder and frame."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What certifications does the machine have?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "The machine is CE certified (Certificate No: B-S15047199). Materials comply with GMP standards for food-contact applications."
+ }
+ }
+ ]
 }
 ```
 
@@ -229,9 +228,9 @@ A: The machine is **CE certified** (Certificate No: **B-S15047199**). Materials 
 ### Step-by-Step Operation
 
 ```
-Step 1                Step 2              Step 3                Step 4              Step 5
-Bottle Feeding  →   Counting & Stop  →   4-Head Synchronized  →   Anti-Drip    →   Bottle Discharge
-                                    Filling                           Handling
+Step 1 Step 2 Step 3 Step 4 Step 5
+Bottle Feeding → Counting & Stop → 4-Head Synchronized → Anti-Drip → Bottle Discharge
+ Filling Handling
 ```
 
 #### Step 1 — Bottle Feeding

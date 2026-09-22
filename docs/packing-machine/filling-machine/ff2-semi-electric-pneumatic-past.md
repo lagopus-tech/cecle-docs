@@ -23,7 +23,7 @@
 
 ---
 
-## core Abstract
+## Overview
 The FF2 series is Wenzhou T&D's **semi-automatic horizontal electric-pneumatic paste filling machine (Pneumatic & Electric Integrated)** — optimized for **paste and high-viscosity products** while remaining capable of filling **free-flowing liquids**. It covers 8 models (FF2-50/100/300/500/1000/2500/3000/5000) with filling ranges from **5–50 ml** up to **500–5000 ml**. The machine uses an **electric-pneumatic integrated design — pneumatic actuation with electric control**: it requires 220V/50–60Hz power (approx. **100W**) plus an air compressor supply of **0.4–0.6 MPa**. It is fitted with **Airtac pneumatic components** and fills at **5–30 cycles/min** (paste-tuned — slower than liquid-only fillers because paste requires more time per stroke). The frame is **201 stainless steel**, and all product-contact parts are **food-grade 304 stainless steel (316 stainless steel available on request)**. Piston-type volumetric filling delivers **±1% accuracy** with **bottom-close positive shutoff drip-free nozzles** (orifice 5–25 mm selectable, sized for paste flow). The feed system comes with a **30L hopper as standard**; **40L, 60L or 80L** larger hoppers are optional, and the unit can be fitted with a **heating hopper** (keeps temperature-sensitive products flowing), a **stirring hopper** (prevents settling and separation) or a **pressurized hopper** (assists feeding of high-viscosity pastes) to match product characteristics. Two trigger modes — foot pedal or automatic timer — let the operator switch between semi-automatic and automatic operation. The filler comes with a single filling head as standard; **dual-head, 4-head or 6-head versions can be customized**. Suitable for cosmetics (creams, lotions, gels), food (sauce, jam, honey, ketchup, peanut butter), daily chemicals (shampoo, hand cream), pharmaceuticals (ointments), and chemical products (lubricants, adhesives), as well as free-flowing liquids.
 
 ---
@@ -198,106 +198,106 @@ A: Yes. The hopper comes standard at **30L**, with **40L, 60L or 80L** larger op
 
 ```json
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does the FF2 semi-automatic electric-pneumatic paste filling machine need electricity?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The FF2 series is an electric-pneumatic integrated unit: the electric control section requires a 220V/50–60Hz power supply (only about 100W), while the filling action is executed by compressed air, so an air compressor (0.4–0.6 MPa) must also be connected."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does the FF2 electric-pneumatic paste filling machine need an air compressor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The machine uses pneumatic actuation with electric control and must be connected to an air compressor supplying 0.4–0.6 MPa; an ordinary small piston-type compressor with an air receiver is sufficient."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is the FF2 electric-pneumatic paste filling machine explosion-proof?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The FF2 contains electric control parts and is not intended as an explosion-proof unit. If explosion-proof duty is required or flammable liquids such as alcohol-based solvents must be filled, the FF6 fully-pneumatic paste-filling series (no electricity, intrinsically safe) is recommended."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the filling accuracy and speed of the FF2 paste filling machine?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Filling accuracy is within ±1%; filling speed is 5–30 cycles/min (paste-tuned) and is adjustable."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can the FF2 semi-automatic filling machine fill both paste and liquids?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The FF2 is optimized for paste and high-viscosity products and also fills free-flowing liquids. Primary use covers sauce, ketchup, jam, honey, peanut butter, cream, lotion, shampoo (thick), ointment, detergent (thick), lubricant and adhesive; secondary use covers water, juice, milk, edible oil, liquid seasonings and liquid detergents. One machine covers both paste and liquid categories — change the nozzle, adjust the piston stroke, switch in minutes."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How is the FF2 paste filler different from the F2 liquid filler?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Both share the same electric-pneumatic integrated architecture (220V/50–60Hz, approx. 100W plus 0.4–0.6 MPa air). The F2 is liquid-only — faster at 10–40 cycles/min with a smaller nozzle (3–12 mm). The FF2 is paste-primary, liquid-secondary — slower at 5–30 cycles/min with a larger nozzle (5–25 mm) and piston geometry tuned for thick products. Choose F2 for liquid-only lines, FF2 for paste (or for both paste and liquid)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is it troublesome to change the filling volume or switch between paste and liquid on the FF2?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Within the model range, adjusting the piston stroke changes the fill volume without replacing any parts; a changeover takes only a few minutes. Switching between paste and liquid is also simple: change the nozzle (paste vs. liquid) and adjust the piston stroke and speed — a few minutes, no tools required."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Will the FF2 paste filler drip, string or leave residue?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. The nozzle uses a bottom-close positive shutoff design — the discharge closes the moment filling ends. For paste applications this guarantees no stringing, no paste tail and no residue on bottle mouths, keeping cosmetic jars, food containers and pharma packaging clean. Nozzle orifices can be selected within a 5–25 mm range sized for paste flow."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can the FF2 paste filling machine run fully automatically?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. It supports both foot-pedal (semi-automatic) and automatic timer (automatic) modes and can be switched at any time. For higher output, dual-head, 4-head or 6-head multi-head versions can be customized."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can the product-contact parts of the FF2 paste filling machine be customized in 316 stainless steel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Product-contact parts are food-grade 304 stainless steel as standard and can be customized in 316 stainless steel for higher acid/alkali and corrosion resistance, suited to pharmaceutical, chemical and corrosive products."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the warranty policy for the FF2 paste filling machine?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The machine carries a 1-year warranty with free repair or part replacement for non-human damage during the warranty period (international freight borne by the customer), plus lifetime maintenance service after warranty. MOQ is 1 unit and the factory keeps goods in stock."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can the hopper capacity of the FF2 paste filling machine be customized? Can it be fitted with a heating, stirring or pressurized hopper?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The hopper is 30L as standard, with 40L, 60L or 80L larger options to reduce refill stops on high-volume lines. It can also be fitted with a heating hopper (keeps honey, chocolate paste, syrup and other temperature-sensitive products flowing), a stirring hopper (prevents settling, separation and surface skinning, suited to particulate sauces) or a pressurized hopper (compressed air assists stable feeding of very viscous pastes), depending on the product."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "Does the FF2 semi-automatic electric-pneumatic paste filling machine need electricity?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. The FF2 series is an electric-pneumatic integrated unit: the electric control section requires a 220V/50–60Hz power supply (only about 100W), while the filling action is executed by compressed air, so an air compressor (0.4–0.6 MPa) must also be connected."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Does the FF2 electric-pneumatic paste filling machine need an air compressor?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. The machine uses pneumatic actuation with electric control and must be connected to an air compressor supplying 0.4–0.6 MPa; an ordinary small piston-type compressor with an air receiver is sufficient."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Is the FF2 electric-pneumatic paste filling machine explosion-proof?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "The FF2 contains electric control parts and is not intended as an explosion-proof unit. If explosion-proof duty is required or flammable liquids such as alcohol-based solvents must be filled, the FF6 fully-pneumatic paste-filling series (no electricity, intrinsically safe) is recommended."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What are the filling accuracy and speed of the FF2 paste filling machine?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Filling accuracy is within ±1%; filling speed is 5–30 cycles/min (paste-tuned) and is adjustable."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Can the FF2 semi-automatic filling machine fill both paste and liquids?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. The FF2 is optimized for paste and high-viscosity products and also fills free-flowing liquids. Primary use covers sauce, ketchup, jam, honey, peanut butter, cream, lotion, shampoo (thick), ointment, detergent (thick), lubricant and adhesive; secondary use covers water, juice, milk, edible oil, liquid seasonings and liquid detergents. One machine covers both paste and liquid categories — change the nozzle, adjust the piston stroke, switch in minutes."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How is the FF2 paste filler different from the F2 liquid filler?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Both share the same electric-pneumatic integrated architecture (220V/50–60Hz, approx. 100W plus 0.4–0.6 MPa air). The F2 is liquid-only — faster at 10–40 cycles/min with a smaller nozzle (3–12 mm). The FF2 is paste-primary, liquid-secondary — slower at 5–30 cycles/min with a larger nozzle (5–25 mm) and piston geometry tuned for thick products. Choose F2 for liquid-only lines, FF2 for paste (or for both paste and liquid)."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Is it troublesome to change the filling volume or switch between paste and liquid on the FF2?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "No. Within the model range, adjusting the piston stroke changes the fill volume without replacing any parts; a changeover takes only a few minutes. Switching between paste and liquid is also simple: change the nozzle (paste vs. liquid) and adjust the piston stroke and speed — a few minutes, no tools required."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Will the FF2 paste filler drip, string or leave residue?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "No. The nozzle uses a bottom-close positive shutoff design — the discharge closes the moment filling ends. For paste applications this guarantees no stringing, no paste tail and no residue on bottle mouths, keeping cosmetic jars, food containers and pharma packaging clean. Nozzle orifices can be selected within a 5–25 mm range sized for paste flow."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Can the FF2 paste filling machine run fully automatically?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. It supports both foot-pedal (semi-automatic) and automatic timer (automatic) modes and can be switched at any time. For higher output, dual-head, 4-head or 6-head multi-head versions can be customized."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Can the product-contact parts of the FF2 paste filling machine be customized in 316 stainless steel?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. Product-contact parts are food-grade 304 stainless steel as standard and can be customized in 316 stainless steel for higher acid/alkali and corrosion resistance, suited to pharmaceutical, chemical and corrosive products."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the warranty policy for the FF2 paste filling machine?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "The machine carries a 1-year warranty with free repair or part replacement for non-human damage during the warranty period (international freight borne by the customer), plus lifetime maintenance service after warranty. MOQ is 1 unit and the factory keeps goods in stock."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Can the hopper capacity of the FF2 paste filling machine be customized? Can it be fitted with a heating, stirring or pressurized hopper?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. The hopper is 30L as standard, with 40L, 60L or 80L larger options to reduce refill stops on high-volume lines. It can also be fitted with a heating hopper (keeps honey, chocolate paste, syrup and other temperature-sensitive products flowing), a stirring hopper (prevents settling, separation and surface skinning, suited to particulate sauces) or a pressurized hopper (compressed air assists stable feeding of very viscous pastes), depending on the product."
+ }
+ }
+ ]
 }
 ```
 
@@ -319,34 +319,34 @@ A: Yes. The hopper comes standard at **30L**, with **40L, 60L or 80L** larger op
 
 ```
 ① Setup
-   Connect power 220V/50–60Hz (approx. 100W)
-   Connect air compressor; regulate supply to 0.4–0.6 MPa
-        │
+ Connect power 220V/50–60Hz (approx. 100W)
+ Connect air compressor; regulate supply to 0.4–0.6 MPa
+ │
 ② Feed
-   Add the paste (or liquid) into the hopper (standard 30L; 40/60/80L optional)
-   (use heating / stirring / pressurized hopper for products that need it)
-        │
+ Add the paste (or liquid) into the hopper (standard 30L; 40/60/80L optional)
+ (use heating / stirring / pressurized hopper for products that need it)
+ │
 ③ Set Volume
-   Adjust piston stroke → set the fill volume per cycle (stepless within range)
-   Adjust filling speed if needed (paste: typically 5–30 cycles/min)
-        │
+ Adjust piston stroke → set the fill volume per cycle (stepless within range)
+ Adjust filling speed if needed (paste: typically 5–30 cycles/min)
+ │
 ④ Place Container
-   Position the jar / bottle / bucket directly under the filling nozzle
-   (paste: use paste nozzle 5–25 mm; liquid: switch to liquid nozzle 3–12 mm)
-        │
+ Position the jar / bottle / bucket directly under the filling nozzle
+ (paste: use paste nozzle 5–25 mm; liquid: switch to liquid nozzle 3–12 mm)
+ │
 ⑤ Trigger Filling
-   Foot pedal (semi-automatic mode) or automatic timer (automatic mode)
-        │
+ Foot pedal (semi-automatic mode) or automatic timer (automatic mode)
+ │
 ⑥ Filled (accuracy ±1%)
-   Bottom-close positive shutoff nozzle → no dripping, no stringing, no paste tail
-        │
+ Bottom-close positive shutoff nozzle → no dripping, no stringing, no paste tail
+ │
 ⑦ Next Container — Repeat
-   Repeat ④–⑥ at 5–30 cycles/min (paste)
-        │
+ Repeat ④–⑥ at 5–30 cycles/min (paste)
+ │
 ⑧ Cleaning & Shutdown
-   Stop the machine; disconnect power and air;
-   disassemble and rinse hopper / piston / filling nozzle;
-   clean before switching to a different product
+ Stop the machine; disconnect power and air;
+ disassemble and rinse hopper / piston / filling nozzle;
+ clean before switching to a different product
 ```
 
 ### 6.2 Sales Workflow (from inquiry to delivery)

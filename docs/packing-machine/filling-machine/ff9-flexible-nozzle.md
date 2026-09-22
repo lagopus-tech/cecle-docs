@@ -2,7 +2,7 @@
 
 ![FF9-500 Paste Filling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17878950327428.png?v=1787895195)
 
-##  (Core Abstract)
+##
 
 > The FF9-500 is a semi-automatic movable filling head paste filling machine from Wenzhou T&D Packaging Machinery Factory, suitable for filling liquids and viscous pastes in the food & beverage, daily chemical, cosmetic, and pharmaceutical industries. Filling range 5–5000 ml, speed 10–40 times/min, accuracy ±1%, with foot pedal/timer dual-mode switching. The movable filling head is equipped with a bottom-close anti-drip nozzle, liquid-contact parts are food-grade 304 stainless steel (316 optional), and silica gel seal rings withstand 100℃. In stock, FOB Ningbo, 1-year warranty.
 
@@ -80,75 +80,75 @@ Suitable for filling both free-flowing liquids and viscous paste materials, wide
 - **Upsell / Add-ons**: Ask for customer filling volume requirements to recommend from the 6 available specifications (5-100ml to 500-5000ml); recommend 316 stainless steel + rubber seals for corrosive or acidic products; recommend a larger hopper or automatic conveyor line configuration for higher output needs.
 
 ### FAQ
-1. **Does the machine require electricity?**  
-   It uses a pneumatic + electric drive, requiring both an air compressor and a power plug to be connected for stable and safe operation.
-2. **What materials can it fill?**  
-   Suitable for free-flowing liquids and viscous pastes such as water, cooking oil, juice, milk, yoghurt, sauce, cream, shampoo, chilli paste, tomato paste, paste, liquid detergent, etc.
-3. **How is the filling accuracy? Will it drip?**  
-   Filling accuracy is within ±1%. The bottom close positive shutoff nozzle design ensures zero dripping during filling.
-4. **How to operate it?**  
-   Semi-automatic filling via the foot pedal switch, or continuous automatic filling via the automatic timer, with free switching between the two modes.
-5. **What is the warranty policy?**  
-   1-year warranty. Free repair or replacement for damage caused by normal operation per the manual during the warranty period (shipping costs from China to destination borne by customer). If an on-site engineer is required, round-trip travel expenses are borne by the customer. Lifetime maintenance service is provided beyond the warranty period.
-6. **Can nozzle sizes or filling volume ranges be customized?**  
-   Yes. Nozzle diameter options range from 3–12 mm, and 6 filling volume ranges are available (10-100ml, 30-300ml, 50-500ml, 100-1000ml, 250-2500ml, 500-5000ml).
+1. **Does the machine require electricity?**
+ It uses a pneumatic + electric drive, requiring both an air compressor and a power plug to be connected for stable and safe operation.
+2. **What materials can it fill?**
+ Suitable for free-flowing liquids and viscous pastes such as water, cooking oil, juice, milk, yoghurt, sauce, cream, shampoo, chilli paste, tomato paste, paste, liquid detergent, etc.
+3. **How is the filling accuracy? Will it drip?**
+ Filling accuracy is within ±1%. The bottom close positive shutoff nozzle design ensures zero dripping during filling.
+4. **How to operate it?**
+ Semi-automatic filling via the foot pedal switch, or continuous automatic filling via the automatic timer, with free switching between the two modes.
+5. **What is the warranty policy?**
+ 1-year warranty. Free repair or replacement for damage caused by normal operation per the manual during the warranty period (shipping costs from China to destination borne by customer). If an on-site engineer is required, round-trip travel expenses are borne by the customer. Lifetime maintenance service is provided beyond the warranty period.
+6. **Can nozzle sizes or filling volume ranges be customized?**
+ Yes. Nozzle diameter options range from 3–12 mm, and 6 filling volume ranges are available (10-100ml, 30-300ml, 50-500ml, 100-1000ml, 250-2500ml, 500-5000ml).
 
 ### FAQ Schema (JSON-LD)
 
 ```json
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does the machine require electricity?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It uses a pneumatic + electric drive, requiring both an air compressor and a power plug to be connected for stable and safe operation."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What materials can it fill?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Suitable for free-flowing liquids and viscous pastes such as water, cooking oil, juice, milk, yoghurt, sauce, cream, shampoo, chilli paste, tomato paste, paste, liquid detergent, etc."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How is the filling accuracy? Will it drip?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Filling accuracy is within ±1%. The bottom close positive shutoff nozzle design ensures zero dripping during filling."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How to operate it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Semi-automatic filling via the foot pedal switch, or continuous automatic filling via the automatic timer, with free switching between the two modes."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the warranty policy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1-year warranty. Free repair or replacement for damage caused by normal operation per the manual during the warranty period (shipping costs from China to destination borne by customer). If an on-site engineer is required, round-trip travel expenses are borne by the customer. Lifetime maintenance service is provided beyond the warranty period."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can nozzle sizes or filling volume ranges be customized?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Nozzle diameter options range from 3–12 mm, and 6 filling volume ranges are available (5-100ml, 10-200ml, 50-500ml, 100-1000ml, 250-2500ml, 500-5000ml)."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "Does the machine require electricity?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "It uses a pneumatic + electric drive, requiring both an air compressor and a power plug to be connected for stable and safe operation."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What materials can it fill?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Suitable for free-flowing liquids and viscous pastes such as water, cooking oil, juice, milk, yoghurt, sauce, cream, shampoo, chilli paste, tomato paste, paste, liquid detergent, etc."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How is the filling accuracy? Will it drip?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Filling accuracy is within ±1%. The bottom close positive shutoff nozzle design ensures zero dripping during filling."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How to operate it?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Semi-automatic filling via the foot pedal switch, or continuous automatic filling via the automatic timer, with free switching between the two modes."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the warranty policy?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "1-year warranty. Free repair or replacement for damage caused by normal operation per the manual during the warranty period (shipping costs from China to destination borne by customer). If an on-site engineer is required, round-trip travel expenses are borne by the customer. Lifetime maintenance service is provided beyond the warranty period."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Can nozzle sizes or filling volume ranges be customized?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. Nozzle diameter options range from 3–12 mm, and 6 filling volume ranges are available (5-100ml, 10-200ml, 50-500ml, 100-1000ml, 250-2500ml, 500-5000ml)."
+ }
+ }
+ ]
 }
 ```
 
@@ -173,15 +173,15 @@ Suitable for filling both free-flowing liquids and viscous paste materials, wide
 
 ```mermaid
 flowchart LR
-    A[Connect Air Compressor<br>and Power Supply] --> B[Set Filling Volume & Speed]
-    B --> C{Select Operation Mode}
-    C -->|Semi-Automatic| D[Step on Foot Pedal<br>Start Filling]
-    C -->|Automatic| E[Automatic Timer<br>Cycle Filling]
-    D --> F[Piston Quantitative Paste Suction]
-    E --> F
-    F --> G[Move Filling Head<br>to Container]
-    G --> H[Bottom Close Anti-Drip Nozzle<br>Instant Cut-off No Dripping]
-    H --> I[Filling Complete<br>Enter Next Cycle]
+ A[Connect Air Compressor<br>and Power Supply] --> B[Set Filling Volume & Speed]
+ B --> C{Select Operation Mode}
+ C -->|Semi-Automatic| D[Step on Foot Pedal<br>Start Filling]
+ C -->|Automatic| E[Automatic Timer<br>Cycle Filling]
+ D --> F[Piston Quantitative Paste Suction]
+ E --> F
+ F --> G[Move Filling Head<br>to Container]
+ G --> H[Bottom Close Anti-Drip Nozzle<br>Instant Cut-off No Dripping]
+ H --> I[Filling Complete<br>Enter Next Cycle]
 ```
 ### Request a Quote & Purchase
 

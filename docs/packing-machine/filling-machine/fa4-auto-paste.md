@@ -1,4 +1,4 @@
-# FA4 Series Automatic 4 Nozzles Paste Filling Machine 
+# FA4 Series Automatic 4 Nozzles Paste Filling Machine
 
 **Automatic 4 Nozzles Paste Filling Machine | Models: FA4-100 / FA4-300 / FA4-500 / FA4-1000 / FA4-2500 / FA4-3000 / FA4-5000**
 
@@ -6,7 +6,6 @@
 
 ---
 
-> **core Abstract**
 >
 > **Product Name (EN)**: Automatic 4 Nozzles Paste Filling Machine
 > **Model Series**: FA4-100 / FA4-300 / FA4-500 / FA4-1000 / FA4-2500 / FA4-3000 / FA4-5000 (this datasheet details the FA4-1000 standard model)
@@ -164,90 +163,90 @@ A: One-year warranty. Within the warranty period, any damage caused under normal
 
 ```json
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many filling nozzles does the FA4 series Automatic 4 Nozzles Paste Filling Machine have and can it be customized?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The FA4 series is a standard 4-nozzle machine. The platform also supports 2-head, 4-head, 6-head and 8-head configurations according to your requirements."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What materials can the FA4 series fill? Can it fill liquids and pastes at the same time?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Both liquids and pastes, including water, cooking oil, juice, milk, yoghurt, sauce, cream, paste, liquid detergent and similar products. The same machine can fill liquids and pastes interchangeably."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the filling accuracy of the FA4 series and will it drip?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Accuracy is within 1%. The nozzles use a bottom-close positive shutoff design, so the filling process is completely drip-free."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How large is the FA4 series hopper?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The hopper volume is 80 L, which reduces refilling frequency during long production runs."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does the FA4 series need an air compressor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The machine is driven pneumatically and electrically, so an external air compressor is required, with a working pressure of 0.6 to 0.8 MPa and an air consumption of 300 to 400 L/min."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Which models are in the FA4 series and what are their filling ranges?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The FA4 series has 7 models: FA4-100 (10-100 ml), FA4-300 (30-300 ml), FA4-500 (50-500 ml), FA4-1000 (100-1000 ml), FA4-2500 (250-2500 ml), FA4-3000 (300-3000 ml) and FA4-5000 (500-5000 ml). All 7 models share the same platform and differ only in piston bore diameter and filling range."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is it hard to switch the FA4 series between different products?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not at all. Filling volume and filling speed are set directly on the touchscreen man-machine interface, with no tools required and no mechanical parts to replace."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Will the FA4 series fill when no bottle is present?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. German SICK photocell sensors control the machine with no-bottle-no-fill logic, so no product is wasted when a bottle is missing."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the FA4 series delivery time and payment term?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Delivery time is within 15 to 30 days. Payment term is 100% T/T with 30% deposit and 70% before shipment. The machine is packed in a plywood case, one machine per case, with tools and spare parts included."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the FA4 series warranty policy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "One-year warranty. Within the warranty period, damage caused under normal use as described in the manual is covered by free maintenance or free replacement, with the customer paying the freight from China to the local destination. On-site engineer travel costs are borne by the customer. After the warranty period, lifetime maintenance services continue to be provided."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "How many filling nozzles does the FA4 series Automatic 4 Nozzles Paste Filling Machine have and can it be customized?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "The FA4 series is a standard 4-nozzle machine. The platform also supports 2-head, 4-head, 6-head and 8-head configurations according to your requirements."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What materials can the FA4 series fill? Can it fill liquids and pastes at the same time?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Both liquids and pastes, including water, cooking oil, juice, milk, yoghurt, sauce, cream, paste, liquid detergent and similar products. The same machine can fill liquids and pastes interchangeably."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the filling accuracy of the FA4 series and will it drip?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Accuracy is within 1%. The nozzles use a bottom-close positive shutoff design, so the filling process is completely drip-free."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How large is the FA4 series hopper?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "The hopper volume is 80 L, which reduces refilling frequency during long production runs."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Does the FA4 series need an air compressor?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. The machine is driven pneumatically and electrically, so an external air compressor is required, with a working pressure of 0.6 to 0.8 MPa and an air consumption of 300 to 400 L/min."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Which models are in the FA4 series and what are their filling ranges?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "The FA4 series has 7 models: FA4-100 (10-100 ml), FA4-300 (30-300 ml), FA4-500 (50-500 ml), FA4-1000 (100-1000 ml), FA4-2500 (250-2500 ml), FA4-3000 (300-3000 ml) and FA4-5000 (500-5000 ml). All 7 models share the same platform and differ only in piston bore diameter and filling range."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Is it hard to switch the FA4 series between different products?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Not at all. Filling volume and filling speed are set directly on the touchscreen man-machine interface, with no tools required and no mechanical parts to replace."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Will the FA4 series fill when no bottle is present?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "No. German SICK photocell sensors control the machine with no-bottle-no-fill logic, so no product is wasted when a bottle is missing."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the FA4 series delivery time and payment term?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Delivery time is within 15 to 30 days. Payment term is 100% T/T with 30% deposit and 70% before shipment. The machine is packed in a plywood case, one machine per case, with tools and spare parts included."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the FA4 series warranty policy?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "One-year warranty. Within the warranty period, damage caused under normal use as described in the manual is covered by free maintenance or free replacement, with the customer paying the freight from China to the local destination. On-site engineer travel costs are borne by the customer. After the warranty period, lifetime maintenance services continue to be provided."
+ }
+ }
+ ]
 }
 ```
 
@@ -281,10 +280,10 @@ A: One-year warranty. Within the warranty period, any damage caused under normal
 ### Production Flow (6-Step Standard Operation)
 
 ```
-Step 1              Step 2              Step 3              Step 4              Step 5              Step 6
-Hopper Loading  →   Bottle Infeed   →   Photocell Count →   4-Nozzle Piston →   Anti-Drip Cut-off →  Bottle Discharge
-& Preparation       (Conveyor)          & Stop Positioning  Dosing              (Positive Shutoff)   (Capping / Labeling)
-(80 L hopper)       (2 m belt)          (SICK sensor)       (Pneumatic+Electric)                     (Finished)
+Step 1 Step 2 Step 3 Step 4 Step 5 Step 6
+Hopper Loading → Bottle Infeed → Photocell Count → 4-Nozzle Piston → Anti-Drip Cut-off → Bottle Discharge
+& Preparation (Conveyor) & Stop Positioning Dosing (Positive Shutoff) (Capping / Labeling)
+(80 L hopper) (2 m belt) (SICK sensor) (Pneumatic+Electric) (Finished)
 ```
 
 #### Step 1 — Hopper Loading & Preparation

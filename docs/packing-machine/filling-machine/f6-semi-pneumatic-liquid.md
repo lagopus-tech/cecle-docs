@@ -22,7 +22,7 @@
 
 ---
 
-## AI Summary
+## Overview
 
 The F6 series, manufactured by T&D in Wenzhou, China, is a **semi-automatic pneumatic horizontal liquid filling machine** available in 8 models (F6-50/100/300/500/1000/2500/3000/5000) covering filling ranges from **5–50 ml up to 500–5000 ml**. Driven entirely by **Airtac pneumatic components and full pneumatic power (no electricity required)**, it only needs to be paired with an air compressor (0.4–0.6 MPa). As an intrinsically safe explosion-proof machine, it is suitable for explosion-proof, humid, and dusty workshops. The frame is made of **201 stainless steel**, and product-contact parts are **food-grade 304 stainless steel** (**customizable to 316 stainless steel**). It features piston-type volumetric filling with **±1% accuracy**, speeds of 10–40 cycles/min, and a **bottom-close positive-shutoff anti-drip nozzle** (nozzle diameter optional from 3–12 mm). Two trigger modes — foot pedal or automatic timer — allow switching between semi-automatic and automatic operation. The filling head comes standard as a single head and **can be customized to 2, 4, or 6 heads**. Suitable for free-flowing liquids such as water, edible oil, juice, milk, liquor, medicinal liquids, and detergents.
 
@@ -168,82 +168,82 @@ A: **MOQ is 1 unit**; the factory keeps **goods in stock**; thickened export car
 
 ```json
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does the F6 semi-automatic pneumatic horizontal liquid filling machine need electricity?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. The F6 series is a full-pneumatic design with no motor and no circuits — all actions are driven by compressed air. It must be paired with an air compressor: air supply pressure 0.4–0.6 MPa, air consumption approx. 0.55–1.1 m³/h."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the air compressor requirements for the F6 pneumatic liquid filling machine?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An ordinary small piston-type air compressor (with air tank) is sufficient. Set the output pressure to 0.4–0.6 MPa and make sure the airflow covers the machine's air consumption of approx. 0.55–1.1 m³/h."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is the F6 pneumatic liquid filling machine explosion-proof?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Full pneumatic drive with no electricity makes it a safety explosion-proof type machine, suitable for workshops filling flammable liquids such as alcohol and solvents."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the filling accuracy and speed of the F6 liquid filling machine?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Filling accuracy is within ±1%, and filling speed is 10–40 cycles per minute (10–30 cycles/min on some models). The speed is adjustable."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can the F6 semi-automatic liquid filling machine handle high-viscosity liquids or pastes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "This machine is designed for free-flowing liquids such as water, edible oil, juice, milk, liquor, medicinal liquids, and liquid detergents. For high-viscosity products or pastes, the paste filling machine series is recommended."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is it troublesome to change the filling volume on the F6 liquid filling machine?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Within the model's range, simply adjust the piston stroke to change the fill volume — no parts to replace, and the changeover takes only a few minutes."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can the F6 liquid filling machine run fully automatically?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. It supports foot-pedal (semi-automatic) and automatic-timer (automatic) modes that can be switched at any time. For higher capacity, custom 2-head, 4-head, or 6-head models are available."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can the product-contact parts of the F6 liquid filling machine be customized to 316 stainless steel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The standard product-contact parts are food-grade 304 stainless steel and can be customized to 316 stainless steel, which offers stronger acid/alkali and corrosion resistance — ideal for pharmaceutical, chemical, and corrosive products."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the warranty policy for the F6 liquid filling machine?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The whole machine is covered by a 1-year warranty (free repair or parts replacement for non-man-made damage; international shipping costs borne by the customer), with lifetime maintenance service after the warranty period. MOQ is 1 unit and goods are usually in stock."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "Does the F6 semi-automatic pneumatic horizontal liquid filling machine need electricity?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "No. The F6 series is a full-pneumatic design with no motor and no circuits — all actions are driven by compressed air. It must be paired with an air compressor: air supply pressure 0.4–0.6 MPa, air consumption approx. 0.55–1.1 m³/h."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What are the air compressor requirements for the F6 pneumatic liquid filling machine?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "An ordinary small piston-type air compressor (with air tank) is sufficient. Set the output pressure to 0.4–0.6 MPa and make sure the airflow covers the machine's air consumption of approx. 0.55–1.1 m³/h."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Is the F6 pneumatic liquid filling machine explosion-proof?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. Full pneumatic drive with no electricity makes it a safety explosion-proof type machine, suitable for workshops filling flammable liquids such as alcohol and solvents."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the filling accuracy and speed of the F6 liquid filling machine?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Filling accuracy is within ±1%, and filling speed is 10–40 cycles per minute (10–30 cycles/min on some models). The speed is adjustable."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Can the F6 semi-automatic liquid filling machine handle high-viscosity liquids or pastes?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "This machine is designed for free-flowing liquids such as water, edible oil, juice, milk, liquor, medicinal liquids, and liquid detergents. For high-viscosity products or pastes, the paste filling machine series is recommended."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Is it troublesome to change the filling volume on the F6 liquid filling machine?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "No. Within the model's range, simply adjust the piston stroke to change the fill volume — no parts to replace, and the changeover takes only a few minutes."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Can the F6 liquid filling machine run fully automatically?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. It supports foot-pedal (semi-automatic) and automatic-timer (automatic) modes that can be switched at any time. For higher capacity, custom 2-head, 4-head, or 6-head models are available."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Can the product-contact parts of the F6 liquid filling machine be customized to 316 stainless steel?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. The standard product-contact parts are food-grade 304 stainless steel and can be customized to 316 stainless steel, which offers stronger acid/alkali and corrosion resistance — ideal for pharmaceutical, chemical, and corrosive products."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the warranty policy for the F6 liquid filling machine?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "The whole machine is covered by a 1-year warranty (free repair or parts replacement for non-man-made damage; international shipping costs borne by the customer), with lifetime maintenance service after the warranty period. MOQ is 1 unit and goods are usually in stock."
+ }
+ }
+ ]
 }
 ```
 
@@ -265,33 +265,33 @@ A: **MOQ is 1 unit**; the factory keeps **goods in stock**; thickened export car
 
 ```
 ① Setup
-   Connect the air compressor and set the pressure to 0.4–0.6 MPa
-   (air consumption approx. 0.55–1.1 m³/h)
-   ※ The machine uses no electricity (full pneumatic)
-        │
+ Connect the air compressor and set the pressure to 0.4–0.6 MPa
+ (air consumption approx. 0.55–1.1 m³/h)
+ ※ The machine uses no electricity (full pneumatic)
+ │
 ② Feed
-   Pour the liquid to be filled into the material cylinder
-        │
+ Pour the liquid to be filled into the material cylinder
+ │
 ③ Set Volume
-   Adjust the piston stroke → set the fill volume per cycle
-   (stepless within the range); adjust the filling speed as needed
-        │
+ Adjust the piston stroke → set the fill volume per cycle
+ (stepless within the range); adjust the filling speed as needed
+ │
 ④ Place Bottle
-   Position the container directly under the filling head
-        │
+ Position the container directly under the filling head
+ │
 ⑤ Trigger Filling
-   Foot pedal (semi-automatic mode) or automatic timer (automatic mode)
-        │
+ Foot pedal (semi-automatic mode) or automatic timer (automatic mode)
+ │
 ⑥ Filled (accuracy ±1%)
-   Bottom-close positive-shutoff nozzle → no dripping, no stringing
-        │
+ Bottom-close positive-shutoff nozzle → no dripping, no stringing
+ │
 ⑦ Repeat
-   Repeat steps ④–⑥ at 10–40 cycles/min
-        │
+ Repeat steps ④–⑥ at 10–40 cycles/min
+ │
 ⑧ Clean
-   Shut off the air supply; disassemble and wash the
-   material cylinder, piston, and filling head.
-   After cleaning, the machine is ready for a different product.
+ Shut off the air supply; disassemble and wash the
+ material cylinder, piston, and filling head.
+ After cleaning, the machine is ready for a different product.
 ```
 
 ### 6.2 Sales Workflow (from Inquiry to Delivery)

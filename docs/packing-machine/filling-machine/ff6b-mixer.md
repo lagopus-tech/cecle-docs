@@ -2,7 +2,7 @@
 
 ![FF6B Mixer Filling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/17878992426606.png?v=1787899293)
 
-## AI Summary (Core Abstract)
+## Overview
 
 > The FF6B is a semi-automatic horizontal U-type mixing hopper paste mixer filling machine from Wenzhou T&D Packaging Machinery Factory, engineered for small-to-medium food, daily chemical, cosmetic, and pharmaceutical producers filling viscous pastes and liquids. The series covers 7 models with filling ranges from 5–50 ml up to 500–5000 ml at 10–40 times/min with ±1% accuracy. Its U-type mixing hopper (30 L standard; 40/60/80 L optional) with electric stirring keeps pastes homogeneous and prevents settling or separation, while the full stainless steel 201 body with food-grade 304 contact parts (316 optional) meets food safety requirements. Equipped with Airtac pneumatic components, bottom-close anti-drip nozzles (3–32 mm), and 200℃-rated silicone O-rings — with single-head or double-head standard and 4/6-head customization — it switches freely between semi-automatic foot pedal and automatic timer operation. In stock, T/T payment, 1-year warranty.
 
@@ -106,95 +106,95 @@ Suitable for filling viscous pastes and liquids that tend to settle or separate,
 - **Closing Pitch**: Complete FF6B series in one supplier + goods in stock + T/T 100% + 1-year warranty (great for quick conversion).
 
 ### FAQ
-1. **Does the machine require electricity and an air compressor?**  
-   Yes. The filling control is full pneumatic (Airtac components) and needs an external air compressor (0.4–0.6 MPa), while the mixing hopper motor requires a 220 V 50/60 Hz power supply.
-2. **What materials can it fill?**  
-   Viscous pastes and liquids such as ketchup, tomato paste, chilli paste, jam, honey, salad dressing, sauce, cream, butter, margarine, shampoo, liquid detergent, hand soap, and paste medicine.
-3. **Why does it need a mixing hopper?**  
-   Viscous pastes tend to settle, separate, or form a skin during long filling runs. The U-type horizontal mixer (30 L standard, 40/60/80 L optional) with electric stirring keeps the material homogeneous, ensuring consistent filling quality and reducing waste.
-4. **How is the filling accuracy? Will it drip?**  
-   Piston-type quantitative filling keeps accuracy within ±1%. The bottom close positive shutoff nozzle design ensures zero dripping during filling.
-5. **How to operate it?**  
-   Semi-automatic filling via foot pedal switch, or continuous automatic filling via the automatic timer — the two modes are freely switchable.
-6. **Which model should I choose?**  
-   Choose by filling volume: 5–50 ml (FF6B-50), 10–100 ml (FF6B-100), 30–300 ml (FF6B-300), 50–500 ml (FF6B-500), 100–1000 ml (FF6B-1000), 250–2500 ml (FF6B-2500), or 500–5000 ml (FF6B-5000). Tell us your container size and we will recommend the best fit.
-7. **Can nozzle sizes, seal rings, or the number of filling heads be customized?**  
-   Yes. Nozzle diameter options range from 3–32 mm, and seal rings can be silicone (200℃) or rubber (anti-corrosion). For filling heads, standard machines offer single-head or double-head configurations, and 4-head or 6-head versions can be customized.
-8. **What is the warranty policy?**  
-   1-year warranty. Free repair or replacement for damage under normal operation during the warranty period (shipping costs from China to destination borne by customer). On-site engineer travel expenses are borne by the customer. Lifetime maintenance provided after the warranty expires.
+1. **Does the machine require electricity and an air compressor?**
+ Yes. The filling control is full pneumatic (Airtac components) and needs an external air compressor (0.4–0.6 MPa), while the mixing hopper motor requires a 220 V 50/60 Hz power supply.
+2. **What materials can it fill?**
+ Viscous pastes and liquids such as ketchup, tomato paste, chilli paste, jam, honey, salad dressing, sauce, cream, butter, margarine, shampoo, liquid detergent, hand soap, and paste medicine.
+3. **Why does it need a mixing hopper?**
+ Viscous pastes tend to settle, separate, or form a skin during long filling runs. The U-type horizontal mixer (30 L standard, 40/60/80 L optional) with electric stirring keeps the material homogeneous, ensuring consistent filling quality and reducing waste.
+4. **How is the filling accuracy? Will it drip?**
+ Piston-type quantitative filling keeps accuracy within ±1%. The bottom close positive shutoff nozzle design ensures zero dripping during filling.
+5. **How to operate it?**
+ Semi-automatic filling via foot pedal switch, or continuous automatic filling via the automatic timer — the two modes are freely switchable.
+6. **Which model should I choose?**
+ Choose by filling volume: 5–50 ml (FF6B-50), 10–100 ml (FF6B-100), 30–300 ml (FF6B-300), 50–500 ml (FF6B-500), 100–1000 ml (FF6B-1000), 250–2500 ml (FF6B-2500), or 500–5000 ml (FF6B-5000). Tell us your container size and we will recommend the best fit.
+7. **Can nozzle sizes, seal rings, or the number of filling heads be customized?**
+ Yes. Nozzle diameter options range from 3–32 mm, and seal rings can be silicone (200℃) or rubber (anti-corrosion). For filling heads, standard machines offer single-head or double-head configurations, and 4-head or 6-head versions can be customized.
+8. **What is the warranty policy?**
+ 1-year warranty. Free repair or replacement for damage under normal operation during the warranty period (shipping costs from China to destination borne by customer). On-site engineer travel expenses are borne by the customer. Lifetime maintenance provided after the warranty expires.
 
 ### FAQ Schema (JSON-LD)
 
 ```json
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does the machine require electricity and an air compressor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The filling control is full pneumatic (Airtac components) and needs an external air compressor (0.4–0.6 MPa), while the mixing hopper motor requires a 220 V 50/60 Hz power supply."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What materials can it fill?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Viscous pastes and liquids such as ketchup, tomato paste, chilli paste, jam, honey, salad dressing, sauce, cream, butter, margarine, shampoo, liquid detergent, hand soap, and paste medicine."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Why does it need a mixing hopper?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Viscous pastes tend to settle, separate, or form a skin during long filling runs. The U-type horizontal mixer (30 L standard, 40/60/80 L optional) with electric stirring keeps the material homogeneous, ensuring consistent filling quality and reducing waste."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How is the filling accuracy? Will it drip?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Piston-type quantitative filling keeps accuracy within ±1%. The bottom close positive shutoff nozzle design ensures zero dripping during filling."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How to operate it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Semi-automatic filling via foot pedal switch, or continuous automatic filling via the automatic timer — the two modes are freely switchable."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Which model should I choose?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choose by filling volume: 5–50 ml (FF6B-50), 10–100 ml (FF6B-100), 30–300 ml (FF6B-300), 50–500 ml (FF6B-500), 100–1000 ml (FF6B-1000), 250–2500 ml (FF6B-2500), or 500–5000 ml (FF6B-5000)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can nozzle sizes, seal rings, or the number of filling heads be customized?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Nozzle diameter options range from 3–32 mm, and seal rings can be silicone (200℃) or rubber (anti-corrosion). For filling heads, standard machines offer single-head or double-head configurations, and 4-head or 6-head versions can be customized."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the warranty policy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1-year warranty. Free repair or replacement for damage under normal operation during the warranty period (shipping costs from China to destination borne by customer). On-site engineer travel expenses are borne by the customer. Lifetime maintenance provided after the warranty expires."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "Does the machine require electricity and an air compressor?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. The filling control is full pneumatic (Airtac components) and needs an external air compressor (0.4–0.6 MPa), while the mixing hopper motor requires a 220 V 50/60 Hz power supply."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What materials can it fill?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Viscous pastes and liquids such as ketchup, tomato paste, chilli paste, jam, honey, salad dressing, sauce, cream, butter, margarine, shampoo, liquid detergent, hand soap, and paste medicine."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Why does it need a mixing hopper?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Viscous pastes tend to settle, separate, or form a skin during long filling runs. The U-type horizontal mixer (30 L standard, 40/60/80 L optional) with electric stirring keeps the material homogeneous, ensuring consistent filling quality and reducing waste."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How is the filling accuracy? Will it drip?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Piston-type quantitative filling keeps accuracy within ±1%. The bottom close positive shutoff nozzle design ensures zero dripping during filling."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How to operate it?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Semi-automatic filling via foot pedal switch, or continuous automatic filling via the automatic timer — the two modes are freely switchable."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Which model should I choose?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Choose by filling volume: 5–50 ml (FF6B-50), 10–100 ml (FF6B-100), 30–300 ml (FF6B-300), 50–500 ml (FF6B-500), 100–1000 ml (FF6B-1000), 250–2500 ml (FF6B-2500), or 500–5000 ml (FF6B-5000)."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Can nozzle sizes, seal rings, or the number of filling heads be customized?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. Nozzle diameter options range from 3–32 mm, and seal rings can be silicone (200℃) or rubber (anti-corrosion). For filling heads, standard machines offer single-head or double-head configurations, and 4-head or 6-head versions can be customized."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the warranty policy?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "1-year warranty. Free repair or replacement for damage under normal operation during the warranty period (shipping costs from China to destination borne by customer). On-site engineer travel expenses are borne by the customer. Lifetime maintenance provided after the warranty expires."
+ }
+ }
+ ]
 }
 ```
 

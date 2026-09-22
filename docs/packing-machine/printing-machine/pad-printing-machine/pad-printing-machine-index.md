@@ -14,17 +14,17 @@ A pad printing machine is an indirect gravure printing device. It uses an etched
 Pad printing is accomplished through the tight coordination of the main machine, fixtures, and consumables; the standardized process is divided into three stages:
 
 1. **Pre-Press Preparation & Setup (Pre-Stage)**
-   * **Plate Making**: Based on vector artwork, chemical etching is used to create pattern recesses with micron-level depth on a special alloy steel plate.
-   * **Ink Mixing**: According to the product material (ABS, PC, metal, glass, etc.), select a dedicated pad-printing solvent ink and add **Thinner** in proportion to adjust viscosity; for hard materials such as hardware/glass, a matching curing agent may be added to improve adhesion.
-   * **Mounting & Alignment**: Install the steel plate and inkwell/ink cup, fix the dedicated profiled fixture (Fixture) for the product to be printed, and calibrate alignment via the X/Y/Z-axis micro-adjustment mechanism.
+ * **Plate Making**: Based on vector artwork, chemical etching is used to create pattern recesses with micron-level depth on a special alloy steel plate.
+ * **Ink Mixing**: According to the product material (ABS, PC, metal, glass, etc.), select a dedicated pad-printing solvent ink and add **Thinner** in proportion to adjust viscosity; for hard materials such as hardware/glass, a matching curing agent may be added to improve adhesion.
+ * **Mounting & Alignment**: Install the steel plate and inkwell/ink cup, fix the dedicated profiled fixture (Fixture) for the product to be printed, and calibrate alignment via the X/Y/Z-axis micro-adjustment mechanism.
 
 2. **Pad Printing Transfer (Core Stage)**
-   * **Inking & Doctoring**: The flood bar spreads ink over the plate's pattern area, then the doctor blade (or ink cup ceramic ring) scrapes the excess ink off the plate surface, leaving ink only in the pattern recesses.
-   * **Pick-up**: The silicone pad presses down against the plate recess, picks up the ink film, and lifts; during the in-air transfer, the surface solvent instantly evaporates, producing tackiness.
-   * **Transfer**: The pad moves above the product and presses down, deforming to conform to the product, peeling off the pattern completely and transferring it onto the workpiece surface.
+ * **Inking & Doctoring**: The flood bar spreads ink over the plate's pattern area, then the doctor blade (or ink cup ceramic ring) scrapes the excess ink off the plate surface, leaving ink only in the pattern recesses.
+ * **Pick-up**: The silicone pad presses down against the plate recess, picks up the ink film, and lifts; during the in-air transfer, the surface solvent instantly evaporates, producing tackiness.
+ * **Transfer**: The pad moves above the product and presses down, deforming to conform to the product, peeling off the pattern completely and transferring it onto the workpiece surface.
 
 3. **Maintenance (Post-Stage)**
-   * **Pad & Plate Maintenance**: After operation, use screen-wash / dedicated solvent to thoroughly clean residual ink from the plate recesses to prevent drying and clogging; clean dust from the pad surface with white spirit or packing tape and store away from light.
+ * **Pad & Plate Maintenance**: After operation, use screen-wash / dedicated solvent to thoroughly clean residual ink from the plate recesses to prevent drying and clogging; clean dust from the pad surface with white spirit or packing tape and store away from light.
 
 ---
 
@@ -87,29 +87,29 @@ Breaking free from ordinary models' limitations, providing dedicated mechanical 
 
 ### 1. Quick Model-Selection Decision (Three-Step Method)
 * **Step 1: Number of print colors**
-  * Single color: choose **YYD single-head series** or **YYD2 dual-head series** (if doubled output is desired);
-  * Two-color overprint: choose **YYC two-color shuttle series**;
-  * Four-color overprint: choose **YYC-130-80 four-color shuttle machine**.
+ * Single color: choose **YYD single-head series** or **YYD2 dual-head series** (if doubled output is desired);
+ * Two-color overprint: choose **YYC two-color shuttle series**;
+ * Four-color overprint: choose **YYC-130-80 four-color shuttle machine**.
 * **Step 2: Workpiece shape & interference**
-  * Ordinary flat / slightly curved small parts: standard models apply;
-  * **Eyewear frame / inner temple printing**: must choose **YYD-125-100Y dedicated clearance machine**;
-  * **Small knob outer-wall full-circle scale (≤Φ20mm)**: must choose **YYS-100-100 circumference machine**.
+ * Ordinary flat / slightly curved small parts: standard models apply;
+ * **Eyewear frame / inner temple printing**: must choose **YYD-125-100Y dedicated clearance machine**;
+ * **Small knob outer-wall full-circle scale (≤Φ20mm)**: must choose **YYS-100-100 circumference machine**.
 * **Step 3: Site & budget**
-  * No power / home / mobile stall: choose **YYD-150-100 manual ink-cup machine**;
-  * Small desktop sampling / space-sensitive: choose **YYD-125-100T desktop machine**;
-  * Industrial line batch production: choose **YYD / YYC floor-standing vertical series**.
+ * No power / home / mobile stall: choose **YYD-150-100 manual ink-cup machine**;
+ * Small desktop sampling / space-sensitive: choose **YYD-125-100T desktop machine**;
+ * Industrial line batch production: choose **YYD / YYC floor-standing vertical series**.
 
 ### 2. Open Inkwell vs Closed Ink Cup — Which to Choose?
 * **Open Inkwell (YYD/YYC/YYS series mainstay)**:
-  * *Pros*: Extremely simple structure, very low cost; ink cleaning and color change take only minutes; ink viscosity adjustment is intuitive, suitable for small-batch, multi-variety, frequent color-change processing.
+ * *Pros*: Extremely simple structure, very low cost; ink cleaning and color change take only minutes; ink viscosity adjustment is intuitive, suitable for small-batch, multi-variety, frequent color-change processing.
 * **Closed Ink Cup (YYD-150-100 mainstay)**:
-  * *Pros*: Ink is sealed inside the ceramic-ring cup, solvent evaporation reduced by over 80%, odorless and more eco-friendly, ink viscosity stays stable for long periods, suitable for long-duration constant single-color operation or workshops with strict environmental requirements.
+ * *Pros*: Ink is sealed inside the ceramic-ring cup, solvent evaporation reduced by over 80%, odorless and more eco-friendly, ink viscosity stays stable for long periods, suitable for long-duration constant single-color operation or workshops with strict environmental requirements.
 
 ### 3. Troubleshooting Common Printing Defects
 * **Q: Why do the printed pattern edges show burrs / stringing?**
-  * **A**: Usually the ink is too thick or dries too slowly. Add a tiny amount of thinner to reduce viscosity, or fine-tune the air valve to raise the pad's lift-off (ink release) speed.
+ * **A**: Usually the ink is too thick or dries too slowly. Add a tiny amount of thinner to reduce viscosity, or fine-tune the air valve to raise the pad's lift-off (ink release) speed.
 * **Q: Why is the pattern center blurred, missing (pinholing), or has small bubbles?**
-  * **A**: ① Dust/oil on the pad surface (remove with tape); ② Excessive pad down-pressure causing poor air release (reduce the down-stroke); ③ Improper pad shape selection (rounded or pointed-top pads aid air release better).
+ * **A**: ① Dust/oil on the pad surface (remove with tape); ② Excessive pad down-pressure causing poor air release (reduce the down-stroke); ③ Improper pad shape selection (rounded or pointed-top pads aid air release better).
 
 ---
 

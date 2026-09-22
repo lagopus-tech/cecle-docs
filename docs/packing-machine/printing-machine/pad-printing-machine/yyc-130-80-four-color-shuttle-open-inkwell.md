@@ -4,8 +4,7 @@
 
 ---
 
-> **Core Abstract**
-> The YYC-130-80 is a floor-standing four-color shuttle open-inkwell pad printing machine engineered for multi-color logo, text, and graphic printing on small, slightly curved workpieces. It is best suited to communication equipment, home appliances, stationery, hardware fittings, automotive parts, toys, and gifts manufacturers, as well as OEM/ODM production lines and brand contract factories requiring consistent multi-color registration. Its core advantages include a four-head synchronized print structure with a shuttle worktable that completes four-color printing in a single clamping, eliminating repeated positioning errors and boosting multi-color order capacity; microcomputer action control paired with multi-axis manual micro-adjustment for precise alignment; an open-inkwell ink system for fast color changeovers and broad ink-viscosity tolerance; and a rigid floor-standing frame for vibration-free stability during long continuous runs. Delivering speeds up to 900 pcs/hr over a 130×80 mm print area, it is an efficient, stable solution for small-to-medium batch multi-color production.
+The YYC-130-80 is a floor-standing four-color shuttle open-inkwell pad printing machine engineered for multi-color logo, text, and graphic printing on small, slightly curved workpieces. It is best suited to communication equipment, home appliances, stationery, hardware fittings, automotive parts, toys, and gifts manufacturers, as well as OEM/ODM production lines and brand contract factories requiring consistent multi-color registration. Its core advantages include a four-head synchronized print structure with a shuttle worktable that completes four-color printing in a single clamping, eliminating repeated positioning errors and boosting multi-color order capacity; microcomputer action control paired with multi-axis manual micro-adjustment for precise alignment; an open-inkwell ink system for fast color changeovers and broad ink-viscosity tolerance; and a rigid floor-standing frame for vibration-free stability during long continuous runs. Delivering speeds up to 900 pcs/hr over a 130×80 mm print area, it is an efficient, stable solution for small-to-medium batch multi-color production.
 
 ---
 
@@ -81,32 +80,32 @@
 
 ### FAQ
 * **Q: Can this machine use 110V voltage in the United States?**
-  * **A**: Yes. This machine supports both 110V/220V, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards.
+ * **A**: Yes. This machine supports both 110V/220V, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards.
 * **Q: Is an air compressor required? What is the air pressure requirement?**
-  * **A**: Yes, you need to prepare your own air compressor. The required air pressure is **5–7 bar**.
+ * **A**: Yes, you need to prepare your own air compressor. The required air pressure is **5–7 bar**.
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can this machine use 110V voltage in the United States?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. This machine supports both 110V and 220V, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is an air compressor required and what is the air pressure requirement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, you need to prepare your own air compressor. The required air pressure is 5–7 bar."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "Can this machine use 110V voltage in the United States?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. This machine supports both 110V and 220V, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Is an air compressor required and what is the air pressure requirement?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes, you need to prepare your own air compressor. The required air pressure is 5–7 bar."
+ }
+ }
+ ]
 }
 </script>
 

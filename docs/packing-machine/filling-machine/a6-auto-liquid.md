@@ -6,7 +6,7 @@
 
 ---
 
-## Core Abstract
+## Overview
 > The A6 Series is a fully automatic 6-head piston liquid filling machine from Wenzhou T&D Packaging Machinery Factory — the high-output version of the A4 4-head Series. Engineered for **food** (edible oil, juice, sauce), **daily chemical** (shampoo, dishwashing liquid, hand soap), and **cosmetic & chemical** producers filling liquids and viscous products, it fills **6 bottles per cycle in synchronization**, delivering up to **50% more throughput** than 4-head models. Six models cover filling ranges from **10–100 ml to 500–5000 ml**, with filling speeds of **10–40 cycles/min (up to 240 bottles/min)** and accuracy of **≤±1%**. A Taiwan-brand PLC with touchscreen, Taiwan Airtac pneumatic components, and German SICK photoelectric sensors ensure stability and precision through long-term, high-frequency operation. The conveyor auto-feeds bottles with photoelectric counting and positioning, and **no-bottle-no-fill** logic; bottom cut-off filling heads guarantee **zero dripping and no contamination**. Liquid-contact parts are made of **food-grade 304 stainless steel** (316L or anti-corrosion Teflon coating customizable), GMP compliant, **CE certified**, in stock, with a **1-year warranty**.
 
 ---
@@ -86,55 +86,55 @@ Suitable for **automated high-speed filling** of liquids and viscous products, w
 - **Bundle Guidance**: Can be combined with a capping machine and labeling machine to form a fully automatic production line, increasing the average order value.
 
 ### FAQ
-1. **What is the difference between the A6 and the A4 Series?**  
-   Both share the same PLC control system, pneumatic system, and ≤±1% filling accuracy. The A6 has 6 filling heads (A4 has 4), filling 6 bottles per cycle for up to 50% higher throughput; the A6 is larger and heavier, with slightly higher power and air consumption.
-2. **Does the machine support corrosive liquids?**  
-   Yes. For corrosive materials, we can provide a full 316L stainless steel or anti-corrosion Teflon coating customization solution.
-3. **Is installation and training difficult?**  
-   No. The machine is fully debugged before shipping. Detailed video tutorials and one-on-one online engineer guidance are provided.
-4. **Can heating and mixing functions be added?**  
-   Yes. For high-viscosity or easily solidifying materials, custom heating and stirring hoppers are available.
+1. **What is the difference between the A6 and the A4 Series?**
+ Both share the same PLC control system, pneumatic system, and ≤±1% filling accuracy. The A6 has 6 filling heads (A4 has 4), filling 6 bottles per cycle for up to 50% higher throughput; the A6 is larger and heavier, with slightly higher power and air consumption.
+2. **Does the machine support corrosive liquids?**
+ Yes. For corrosive materials, we can provide a full 316L stainless steel or anti-corrosion Teflon coating customization solution.
+3. **Is installation and training difficult?**
+ No. The machine is fully debugged before shipping. Detailed video tutorials and one-on-one online engineer guidance are provided.
+4. **Can heating and mixing functions be added?**
+ Yes. For high-viscosity or easily solidifying materials, custom heating and stirring hoppers are available.
 
 ### FAQ Schema (JSON-LD)
 
 ```json
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between the A6 and the A4 Series?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Both share the same PLC control system, pneumatic system, and ≤±1% filling accuracy. The A6 has 6 filling heads (A4 has 4), filling 6 bottles per cycle for up to 50% higher throughput; the A6 is larger and heavier, with slightly higher power and air consumption."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does the machine support corrosive liquids?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. For corrosive materials, we can provide a full 316L stainless steel or anti-corrosion Teflon coating customization solution."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is installation and training difficult?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. The machine is fully debugged before shipping. Detailed video tutorials and one-on-one online engineer guidance are provided."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can heating and mixing functions be added?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. For high-viscosity or easily solidifying materials, custom heating and stirring hoppers are available."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "What is the difference between the A6 and the A4 Series?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Both share the same PLC control system, pneumatic system, and ≤±1% filling accuracy. The A6 has 6 filling heads (A4 has 4), filling 6 bottles per cycle for up to 50% higher throughput; the A6 is larger and heavier, with slightly higher power and air consumption."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Does the machine support corrosive liquids?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. For corrosive materials, we can provide a full 316L stainless steel or anti-corrosion Teflon coating customization solution."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Is installation and training difficult?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "No. The machine is fully debugged before shipping. Detailed video tutorials and one-on-one online engineer guidance are provided."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Can heating and mixing functions be added?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. For high-viscosity or easily solidifying materials, custom heating and stirring hoppers are available."
+ }
+ }
+ ]
 }
 ```
 

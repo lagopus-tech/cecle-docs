@@ -8,8 +8,7 @@
 
 ---
 
-> **Core Abstract**
-> The YYD Series comprises single-head, single-color floor-standing open-inkwell pad printing machines available in three models — YYD-125-100, YYD-200-150, and YYD-225-200 — differentiated by steel-plate size and print area while sharing identical operation and ink supply. It is best suited to automotive parts, stationery, daily goods, gifts, electronic components, toys, and garment-tag manufacturers requiring small-area, single-color logo, text, and graphic printing for sampling and small-to-medium batch production. Its core advantages include a floor-standing body that stays stable and low-noise during high-speed runs without needing an extra workbench; an open-inkwell system for effortless cleaning, fast color changeovers, and lower maintenance cost than sealed cups; With print areas from 60×60 mm up to 150×70 mm and speeds up to 2300 pcs/hr, it offers a flexible, cost-effective production range.
+The YYD Series comprises single-head, single-color floor-standing open-inkwell pad printing machines available in three models — YYD-125-100, YYD-200-150, and YYD-225-200 — differentiated by steel-plate size and print area while sharing identical operation and ink supply. It is best suited to automotive parts, stationery, daily goods, gifts, electronic components, toys, and garment-tag manufacturers requiring small-area, single-color logo, text, and graphic printing for sampling and small-to-medium batch production. Its core advantages include a floor-standing body that stays stable and low-noise during high-speed runs without needing an extra workbench; an open-inkwell system for effortless cleaning, fast color changeovers, and lower maintenance cost than sealed cups; With print areas from 60×60 mm up to 150×70 mm and speeds up to 2300 pcs/hr, it offers a flexible, cost-effective production range.
 
 ---
 
@@ -78,42 +77,42 @@
 
 ### FAQ
 * **Q: Can this machine use 110V voltage in the United States?**
-  * **A**: Yes. We provide both 110V (North American standard) and 220V (European/Asian standard) versions, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards.
+ * **A**: Yes. We provide both 110V (North American standard) and 220V (European/Asian standard) versions, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards.
 * **Q: Does it need to be connected to an air compressor?**
-  * **A**: Yes, the machine needs to be connected to an air compressor — you can prepare your own or purchase one from us.
+ * **A**: Yes, the machine needs to be connected to an air compressor — you can prepare your own or purchase one from us.
 * **Q: How do I choose among YYD-125-100 / YYD-200-150 / YYD-225-200?**
-  * **A**: All three share identical ink supply; the difference lies in **steel-plate size and print area**: YYD-125-100 suits small-area sampling; YYD-200-150 suits medium areas; YYD-225-200 has the largest plate (200×200 mm) and suits large areas. Select based on product size and maximum pattern size.
+ * **A**: All three share identical ink supply; the difference lies in **steel-plate size and print area**: YYD-125-100 suits small-area sampling; YYD-200-150 suits medium areas; YYD-225-200 has the largest plate (200×200 mm) and suits large areas. Select based on product size and maximum pattern size.
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can this machine use 110V voltage in the United States?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. We provide both 110V (North American standard) and 220V (European/Asian standard) versions, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does it need to be connected to an air compressor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, the machine needs to be connected to an air compressor. You can prepare your own or purchase one from us."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I choose among YYD-125-100, YYD-200-150, and YYD-225-200?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "All three share identical ink supply; the difference lies in steel-plate size and print area: YYD-125-100 suits small-area sampling; YYD-200-150 suits medium areas; YYD-225-200 has the largest plate (200×200 mm) and suits large areas. Select based on product size and maximum pattern size."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "Can this machine use 110V voltage in the United States?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. We provide both 110V (North American standard) and 220V (European/Asian standard) versions, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Does it need to be connected to an air compressor?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes, the machine needs to be connected to an air compressor. You can prepare your own or purchase one from us."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How do I choose among YYD-125-100, YYD-200-150, and YYD-225-200?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "All three share identical ink supply; the difference lies in steel-plate size and print area: YYD-125-100 suits small-area sampling; YYD-200-150 suits medium areas; YYD-225-200 has the largest plate (200×200 mm) and suits large areas. Select based on product size and maximum pattern size."
+ }
+ }
+ ]
 }
 </script>
 

@@ -6,8 +6,7 @@
 
 
 
-> **Core Abstract**
-> The YYS-100-100 is an automatic rotary circumference floor-standing single-color open inkwell pad printing machine purpose-built for 360° full-wrap printing on small equal-diameter cylindrical workpieces. Ideal for appliance and automotive rotary knobs, straight-wall bottle caps, pen barrels, and syringe graduations in the home-appliance, automotive, cosmetic-packaging, instrumentation, stationery, and hardware industries, it specializes in single-color circumferential logos, scales, and text on cylinders up to Φ20 mm. Its core advantages include a linear pure-rolling transfer mechanism that eliminates side-edge blurring and distortion; a floor-standing cast-aluminum column-and-base body that stays stable and low-noise at 1700 pcs/hr; an open inkwell system for effortless cleaning and fast color changeovers at lower cost than sealed cups; plus microcomputer control, a built-in digital counter, and dual panel/pedal start for easy operation.
+The YYS-100-100 is an automatic rotary circumference floor-standing single-color open inkwell pad printing machine purpose-built for 360° full-wrap printing on small equal-diameter cylindrical workpieces. Ideal for appliance and automotive rotary knobs, straight-wall bottle caps, pen barrels, and syringe graduations in the home-appliance, automotive, cosmetic-packaging, instrumentation, stationery, and hardware industries, it specializes in single-color circumferential logos, scales, and text on cylinders up to Φ20 mm. Its core advantages include a linear pure-rolling transfer mechanism that eliminates side-edge blurring and distortion; a floor-standing cast-aluminum column-and-base body that stays stable and low-noise at 1700 pcs/hr; an open inkwell system for effortless cleaning and fast color changeovers at lower cost than sealed cups; plus microcomputer control, a built-in digital counter, and dual panel/pedal start for easy operation.
 
 ---
 
@@ -90,32 +89,32 @@
 ### FAQ
 
 - **Q: What is the maximum workpiece diameter this machine can print?**
-  - **A**: The maximum printable diameter is Φ20 mm. For small knobs and small round caps within 20 mm diameter, the machine's shuttle stroke and 100 mm steel plate development length match most perfectly, producing seamlessly closed full-circle scales.
+ - **A**: The maximum printable diameter is Φ20 mm. For small knobs and small round caps within 20 mm diameter, the machine's shuttle stroke and 100 mm steel plate development length match most perfectly, producing seamlessly closed full-circle scales.
 - **Q: Is an air compressor required? Does it support 110V voltage?**
-  - **A**: Yes. The machine's motions are driven by air cylinders and require an external 4–6 bar air compressor. The electrical circuit supports global customization (110V or 220V), and the machine is equipped with a power plug that complies with local certification standards at the factory.
+ - **A**: Yes. The machine's motions are driven by air cylinders and require an external 4–6 bar air compressor. The electrical circuit supports global customization (110V or 220V), and the machine is equipped with a power plug that complies with local certification standards at the factory.
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the maximum workpiece diameter this machine can print?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The maximum printable diameter is Φ20 mm. For small knobs and small round caps within 20 mm diameter, the machine's shuttle stroke and 100 mm steel plate development length match most perfectly, producing seamlessly closed full-circle scales."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is an air compressor required and does it support 110V voltage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The machine's motions are driven by air cylinders and require an external 4–6 bar air compressor. The electrical circuit supports global customization (110V or 220V), and the machine is equipped with a power plug that complies with local certification standards at the factory."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "What is the maximum workpiece diameter this machine can print?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "The maximum printable diameter is Φ20 mm. For small knobs and small round caps within 20 mm diameter, the machine's shuttle stroke and 100 mm steel plate development length match most perfectly, producing seamlessly closed full-circle scales."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Is an air compressor required and does it support 110V voltage?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. The machine's motions are driven by air cylinders and require an external 4–6 bar air compressor. The electrical circuit supports global customization (110V or 220V), and the machine is equipped with a power plug that complies with local certification standards at the factory."
+ }
+ }
+ ]
 }
 </script>
 

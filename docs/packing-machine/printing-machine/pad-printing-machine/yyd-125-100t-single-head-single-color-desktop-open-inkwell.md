@@ -4,8 +4,7 @@
 
 ---
 
-> **Core Abstract**
-> The YYD-125-100T is a compact desktop single-head, single-color open inkwell pad printing machine engineered for logo, text, and graphic printing on small components. Ideal for automotive parts, stationery, consumer electronics, toys, promotional gifts, apparel tags, and studio sampling labs, it excels in sample proofing and small-to-medium batch production. Built with an integrated cast-aluminum body, it ensures vibration-free stability and low operating noise. Key advantages include an open inkwell system for effortless color changeovers and broad ink viscosity adaptability, a standard T-slot worktable with clamping blocks enabling rapid 5-second fixture swaps, and microcomputer automation with a 4-digit counter and dual panel/pedal trigger. Delivering speeds up to 800 pcs/hr with a 70×70 mm print area, it offers an agile, cost-effective industrial printing solution.
+The YYD-125-100T is a compact desktop single-head, single-color open inkwell pad printing machine engineered for logo, text, and graphic printing on small components. Ideal for automotive parts, stationery, consumer electronics, toys, promotional gifts, apparel tags, and studio sampling labs, it excels in sample proofing and small-to-medium batch production. Built with an integrated cast-aluminum body, it ensures vibration-free stability and low operating noise. Key advantages include an open inkwell system for effortless color changeovers and broad ink viscosity adaptability, a standard T-slot worktable with clamping blocks enabling rapid 5-second fixture swaps, and microcomputer automation with a 4-digit counter and dual panel/pedal trigger. Delivering speeds up to 800 pcs/hr with a 70×70 mm print area, it offers an agile, cost-effective industrial printing solution.
 
 ---
 
@@ -42,10 +41,10 @@
 | Items | Specifications |
 | :--- | :--- |
 | **Model** | YYD-125-100T |
-| **Voltage** | 110V/220V  |
+| **Voltage** | 110V/220V |
 | **Print Color** | Single Color |
 | **Max Printing Area** | 70×70 mm / 2.76×2.76" |
-| **Max Steel Plate Size** | 100×100 mm / 3.94×3.94"  |
+| **Max Steel Plate Size** | 100×100 mm / 3.94×3.94" |
 | **Max Printing Speed** | 800 pcs/hr |
 | **Air Pressure** | 5–6 bar |
 | **Ink Supply** | Open Inkwell |
@@ -80,38 +79,38 @@
 
 ### FAQ
 * **Q: Can this machine use 110V voltage in the United States?**
-  * **A**: Yes. We provide both 110V (North American standard) and 220V (European/Asian standard) versions, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards.
+ * **A**: Yes. We provide both 110V (North American standard) and 220V (European/Asian standard) versions, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards.
 * **Q: Is an air compressor required? What is the air pressure requirement?**
-  * **A**: Yes, the machine needs to be connected to an air compressor — you can prepare your own or purchase one from us. The required air pressure is **5–6 bar**.
+ * **A**: Yes, the machine needs to be connected to an air compressor — you can prepare your own or purchase one from us. The required air pressure is **5–6 bar**.
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can this machine use 110V voltage in the United States?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. We provide both 110V (North American standard) and 220V (European/Asian standard) versions, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is an air compressor required and what is the air pressure requirement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, the machine needs to be connected to an air compressor. You can prepare your own or purchase one from us. The required air pressure is 5–6 bar."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "Can this machine use 110V voltage in the United States?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. We provide both 110V (North American standard) and 220V (European/Asian standard) versions, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Is an air compressor required and what is the air pressure requirement?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes, the machine needs to be connected to an air compressor. You can prepare your own or purchase one from us. The required air pressure is 5–6 bar."
+ }
+ }
+ ]
 }
 </script>
 
 ---
 
-## VI.  Media Resources
+## VI. Media Resources
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4WfVrc-XrcE?si=xx_MiFrO9z3hBuvm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

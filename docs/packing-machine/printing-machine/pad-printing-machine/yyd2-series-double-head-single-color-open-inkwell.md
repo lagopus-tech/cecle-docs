@@ -7,8 +7,7 @@
 
 ---
 
-> **Core Abstract**
-> The YYD2 Series comprises double-head, single-color floor-standing open-inkwell pad printing machines in two models — YYD2-125-100 and YYD2-200-150 — differentiated by steel-plate size and print area. Its dual independent inkwells, dual plates, and dual heads are pneumatically synchronized, so a single press transfers two workpieces (or two positions on one part) at once. Ideal for automotive parts, stationery, daily goods, gifts, electronics, toys, bottle caps, and pen manufacturers needing small-area, single-color logo/text/graphic printing for sampling and small-to-medium batches. Core advantages: a floor-standing body that stays stable and low-noise at speed; a double-head layout that roughly doubles small-part throughput versus single-head machines; and an open-inkwell system with effortless cleaning, fast changeovers, and lower maintenance than sealed cups. Print areas span 70×70 mm to 120×70 mm with speeds up to 2300 pcs/hr.
+The YYD2 Series comprises double-head, single-color floor-standing open-inkwell pad printing machines in two models — YYD2-125-100 and YYD2-200-150 — differentiated by steel-plate size and print area. Its dual independent inkwells, dual plates, and dual heads are pneumatically synchronized, so a single press transfers two workpieces (or two positions on one part) at once. Ideal for automotive parts, stationery, daily goods, gifts, electronics, toys, bottle caps, and pen manufacturers needing small-area, single-color logo/text/graphic printing for sampling and small-to-medium batches. Core advantages: a floor-standing body that stays stable and low-noise at speed; a double-head layout that roughly doubles small-part throughput versus single-head machines; and an open-inkwell system with effortless cleaning, fast changeovers, and lower maintenance than sealed cups. Print areas span 70×70 mm to 120×70 mm with speeds up to 2300 pcs/hr.
 
 ---
 
@@ -80,42 +79,42 @@
 
 ### FAQ
 * **Q: Can this machine use 110V voltage in the United States?**
-  * **A**: Yes. We provide both 110V (North American standard) and 220V (European/Asian standard) versions, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards.
+ * **A**: Yes. We provide both 110V (North American standard) and 220V (European/Asian standard) versions, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards.
 * **Q: Is an air compressor required?**
-  * **A**: Yes, the machine needs to be connected to an air compressor — you can prepare your own or purchase one from us. The required air pressure is **4–6 bar**.
+ * **A**: Yes, the machine needs to be connected to an air compressor — you can prepare your own or purchase one from us. The required air pressure is **4–6 bar**.
 * **Q: What is the difference between a double-head single-color machine and a single-head single-color machine?**
-  * **A**: The core difference lies in throughput and station count: a single-head machine prints only one product per cycle, whereas a double-head model is equipped with two rubber heads and can transfer two products (or two positions on one workpiece) in a single press. In small-part batch printing, double-head efficiency is close to twice that of a single-head machine, greatly saving labor and man-hour costs; the ink-supply principle and cleaning/maintenance methods are essentially the same for both.
+ * **A**: The core difference lies in throughput and station count: a single-head machine prints only one product per cycle, whereas a double-head model is equipped with two rubber heads and can transfer two products (or two positions on one workpiece) in a single press. In small-part batch printing, double-head efficiency is close to twice that of a single-head machine, greatly saving labor and man-hour costs; the ink-supply principle and cleaning/maintenance methods are essentially the same for both.
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can this machine use 110V voltage in the United States?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. We provide both 110V (North American standard) and 220V (European/Asian standard) versions, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is an air compressor required and what is the air pressure requirement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, the machine needs to be connected to an air compressor. You can prepare your own or purchase one from us. The required air pressure is 4–6 bar."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between a double-head single-color machine and a single-head single-color machine?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The core difference lies in throughput and station count: a single-head machine prints only one product per cycle, whereas a double-head model is equipped with two rubber heads and can transfer two products (or two positions on one workpiece) in a single press. In small-part batch printing, double-head efficiency is close to twice that of a single-head machine, greatly saving labor and man-hour costs; the ink-supply principle and cleaning/maintenance methods are essentially the same for both."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "Can this machine use 110V voltage in the United States?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. We provide both 110V (North American standard) and 220V (European/Asian standard) versions, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Is an air compressor required and what is the air pressure requirement?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes, the machine needs to be connected to an air compressor. You can prepare your own or purchase one from us. The required air pressure is 4–6 bar."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the difference between a double-head single-color machine and a single-head single-color machine?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "The core difference lies in throughput and station count: a single-head machine prints only one product per cycle, whereas a double-head model is equipped with two rubber heads and can transfer two products (or two positions on one workpiece) in a single press. In small-part batch printing, double-head efficiency is close to twice that of a single-head machine, greatly saving labor and man-hour costs; the ink-supply principle and cleaning/maintenance methods are essentially the same for both."
+ }
+ }
+ ]
 }
 </script>
 

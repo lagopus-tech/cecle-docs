@@ -8,8 +8,7 @@
 
 ---
 
-> **Core Abstract**
-> The YYC Series comprises auto 2-color shuttle floor-standing open-inkwell pad printing machines in three models — YYC-125-100, YYC-200-150, and YYC-225-200 — differentiated by steel-plate size and print area. After a single clamping, the shuttle table automatically shifts the workpiece between the two print heads to complete two-color overprinting in sequence. Ideal for manufacturers of automotive parts, electronics enclosures, toy components, pen barrels, cosmetic bottle caps, tools, instruments, and gift packaging that need precise two-color logos, scales, or graphics on small-to-medium flat or slightly curved parts. Core advantages: a high-precision shuttle table that eliminates secondary manual registration and drives scrap rates near zero;a floor-standing body that stays stable and low-noise at speed; and a cost-effective open-inkwell system with effortless disassembly and fast color changeovers. Print areas span 70×70 mm to 150×70 mm with speeds up to 1500 pcs/hr.
+The YYC Series comprises auto 2-color shuttle floor-standing open-inkwell pad printing machines in three models — YYC-125-100, YYC-200-150, and YYC-225-200 — differentiated by steel-plate size and print area. After a single clamping, the shuttle table automatically shifts the workpiece between the two print heads to complete two-color overprinting in sequence. Ideal for manufacturers of automotive parts, electronics enclosures, toy components, pen barrels, cosmetic bottle caps, tools, instruments, and gift packaging that need precise two-color logos, scales, or graphics on small-to-medium flat or slightly curved parts. Core advantages: a high-precision shuttle table that eliminates secondary manual registration and drives scrap rates near zero;a floor-standing body that stays stable and low-noise at speed; and a cost-effective open-inkwell system with effortless disassembly and fast color changeovers. Print areas span 70×70 mm to 150×70 mm with speeds up to 1500 pcs/hr.
 
 ---
 
@@ -77,48 +76,48 @@
 
 ### Sales Tips
 * **Three-Model Selection Guidance**:
-  * **YYC-125-100**: Suitable for regular small hardware, bottle caps, and small-area logos, with the highest speed (1500 pcs/h) and excellent cost-performance.
-  * **YYC-200-150**: Suitable for longer, wider workpieces (e.g., appliance panels, stationery rulers).
-  * **YYC-225-200**: Suitable for long-ratio patterns (steel plate up to 200 mm in length), meeting large-format two-color printing needs.
+ * **YYC-125-100**: Suitable for regular small hardware, bottle caps, and small-area logos, with the highest speed (1500 pcs/h) and excellent cost-performance.
+ * **YYC-200-150**: Suitable for longer, wider workpieces (e.g., appliance panels, stationery rulers).
+ * **YYC-225-200**: Suitable for long-ratio patterns (steel plate up to 200 mm in length), meeting large-format two-color printing needs.
 
 ### FAQ
 * **Q: Can this machine use 110V voltage in the United States?**
-  * **A**: Yes. We provide both 110V (North American standard) and 220V (European/Asian standard) versions, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards.
+ * **A**: Yes. We provide both 110V (North American standard) and 220V (European/Asian standard) versions, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards.
 * **Q: Is an air compressor required?**
-  * **A**: Yes, the machine needs to be connected to an air compressor — you can prepare your own or purchase one from us. The required air pressure is **4–6 bar**.
+ * **A**: Yes, the machine needs to be connected to an air compressor — you can prepare your own or purchase one from us. The required air pressure is **4–6 bar**.
 * **Q: What is the difference between the YYC shuttle 2-color machine and the YYD2 double-head single-color machine? How should I choose?**
-  * **A**: Their production purposes are completely different: the YYD2 Series (double-head single-color) presses once to print 2 products (single color) simultaneously, ideal for small-part high-volume fast runs where per-piece throughput is doubled; the YYC Series (shuttle 2-color) clamps one product per cycle, but the workpiece automatically shuttles between two print heads to complete two-color overprinting in sequence, designed specifically for high-precision two-color patterns.
+ * **A**: Their production purposes are completely different: the YYD2 Series (double-head single-color) presses once to print 2 products (single color) simultaneously, ideal for small-part high-volume fast runs where per-piece throughput is doubled; the YYC Series (shuttle 2-color) clamps one product per cycle, but the workpiece automatically shuttles between two print heads to complete two-color overprinting in sequence, designed specifically for high-precision two-color patterns.
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can this machine use 110V voltage in the United States?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. We provide both 110V (North American standard) and 220V (European/Asian standard) versions, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is an air compressor required and what is the air pressure requirement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, the machine needs to be connected to an air compressor. You can prepare your own or purchase one from us. The required air pressure is 4–6 bar."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between the YYC shuttle 2-color machine and the YYD2 double-head single-color machine?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Their production purposes are completely different: the YYD2 Series (double-head single-color) presses once to print 2 products (single color) simultaneously, ideal for small-part high-volume fast runs where per-piece throughput is doubled; the YYC Series (shuttle 2-color) clamps one product per cycle, but the workpiece automatically shuttles between two print heads to complete two-color overprinting in sequence, designed specifically for high-precision two-color patterns."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "Can this machine use 110V voltage in the United States?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. We provide both 110V (North American standard) and 220V (European/Asian standard) versions, factory-preset to the customer's destination voltage, and equipped with power plugs that comply with local standards."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Is an air compressor required and what is the air pressure requirement?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes, the machine needs to be connected to an air compressor. You can prepare your own or purchase one from us. The required air pressure is 4–6 bar."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the difference between the YYC shuttle 2-color machine and the YYD2 double-head single-color machine?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Their production purposes are completely different: the YYD2 Series (double-head single-color) presses once to print 2 products (single color) simultaneously, ideal for small-part high-volume fast runs where per-piece throughput is doubled; the YYC Series (shuttle 2-color) clamps one product per cycle, but the workpiece automatically shuttles between two print heads to complete two-color overprinting in sequence, designed specifically for high-precision two-color patterns."
+ }
+ }
+ ]
 }
 </script>
 

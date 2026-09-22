@@ -2,7 +2,7 @@
 
 ![AL4-5000 Liquid Filling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/1787880778553.png?v=1787880960)
 
-## core Abstract
+## Overview
 > The AL4-5000 is a fully automatic four-nozzle piston liquid filling machine from Wenzhou T&D Packaging Machinery Factory, engineered for small-to-medium food & beverage, edible oil, alcohol, daily chemical, and pharmaceutical producers. It fills 5–5000 ml per cycle at 1–100 times per minute with ±1% accuracy, and switches freely between semi-automatic (foot pedal) and fully automatic (timer) operation. Its full pneumatic drive runs without electricity — an intrinsically safe, explosion-proof design ideal for flammable workshops — and every liquid-contact part is food-grade 304 stainless steel (316 optional), with 200°C-rated silicone O-rings and bottom-close anti-drip nozzles (3–12 mm) guaranteeing zero dripping. In stock, shipped by sea, backed by a 1-year warranty.
 
 - **Machine Name**: Liquid Filling Machine
@@ -79,85 +79,85 @@ Suitable for filling liquids with good fluidity, widely used in:
 - **Upsell / Add-ons**: Ask for customer filling volume requirements to recommend models (6 ranges from 5-150 ml to 500-5000 ml); recommend 316 stainless steel + rubber seals for corrosive liquids; recommend 304/316 food-grade configuration for high hygiene standards.
 
 ### FAQ
-1. **Does the machine require electricity?**  
-   No. Full pneumatic drive only requires connecting an air compressor to operate safely and explosion-proof.
-2. **What liquids can it fill?**  
-   Suitable for liquids with good fluidity: water, edible oil, juice, milk, alcohol, liquid medicine, dishwashing liquid, etc.
-3. **How is the filling accuracy? Will it drip?**  
-   Accuracy is within 1%. The nozzles use a bottom close positive shutoff design to ensure zero dripping.
-4. **How to operate it?**  
-   It can be operated via foot pedal switch or automatic timer for continuous filling. Easily switch between semi-automatic and automatic modes.
-5. **What is the warranty policy?**  
-   1-year warranty. Free repair or replacement for damage under normal operation during the warranty period (shipping costs from China to destination borne by customer). On-site engineer travel expenses are borne by the customer. Lifetime maintenance provided after the warranty expires.
-6. **Can nozzle sizes or the number of filling heads be customized?**  
-   Yes. Nozzle diameter options range from 3–12 mm, and filling heads can be customized to single-head or double-head (default is 4 heads).
-7. **What is the delivery lead time?**  
-   In stock. Ships immediately after payment (including sea freight).
+1. **Does the machine require electricity?**
+ No. Full pneumatic drive only requires connecting an air compressor to operate safely and explosion-proof.
+2. **What liquids can it fill?**
+ Suitable for liquids with good fluidity: water, edible oil, juice, milk, alcohol, liquid medicine, dishwashing liquid, etc.
+3. **How is the filling accuracy? Will it drip?**
+ Accuracy is within 1%. The nozzles use a bottom close positive shutoff design to ensure zero dripping.
+4. **How to operate it?**
+ It can be operated via foot pedal switch or automatic timer for continuous filling. Easily switch between semi-automatic and automatic modes.
+5. **What is the warranty policy?**
+ 1-year warranty. Free repair or replacement for damage under normal operation during the warranty period (shipping costs from China to destination borne by customer). On-site engineer travel expenses are borne by the customer. Lifetime maintenance provided after the warranty expires.
+6. **Can nozzle sizes or the number of filling heads be customized?**
+ Yes. Nozzle diameter options range from 3–12 mm, and filling heads can be customized to single-head or double-head (default is 4 heads).
+7. **What is the delivery lead time?**
+ In stock. Ships immediately after payment (including sea freight).
 
 ### FAQ Schema (JSON-LD)
 
 ```json
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does the machine require electricity?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Full pneumatic drive only requires connecting an air compressor to operate safely and explosion-proof."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What liquids can it fill?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Suitable for liquids with good fluidity: water, edible oil, juice, milk, alcohol, liquid medicine, dishwashing liquid, etc."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How is the filling accuracy? Will it drip?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Accuracy is within 1%. The nozzles use a bottom close positive shutoff design to ensure zero dripping."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How to operate it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It can be operated via foot pedal switch or automatic timer for continuous filling. Easily switch between semi-automatic and automatic modes."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the warranty policy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1-year warranty. Free repair or replacement for damage under normal operation during the warranty period (shipping costs from China to destination borne by customer). On-site engineer travel expenses are borne by the customer. Lifetime maintenance provided after the warranty expires."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can nozzle sizes or the number of filling heads be customized?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Nozzle diameter options range from 3–12 mm, and filling heads can be customized to single-head or double-head (default is 4 heads)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the delivery lead time?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In stock. Ships immediately after payment (including sea freight)."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "Does the machine require electricity?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "No. Full pneumatic drive only requires connecting an air compressor to operate safely and explosion-proof."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What liquids can it fill?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Suitable for liquids with good fluidity: water, edible oil, juice, milk, alcohol, liquid medicine, dishwashing liquid, etc."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How is the filling accuracy? Will it drip?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Accuracy is within 1%. The nozzles use a bottom close positive shutoff design to ensure zero dripping."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How to operate it?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "It can be operated via foot pedal switch or automatic timer for continuous filling. Easily switch between semi-automatic and automatic modes."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the warranty policy?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "1-year warranty. Free repair or replacement for damage under normal operation during the warranty period (shipping costs from China to destination borne by customer). On-site engineer travel expenses are borne by the customer. Lifetime maintenance provided after the warranty expires."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Can nozzle sizes or the number of filling heads be customized?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes. Nozzle diameter options range from 3–12 mm, and filling heads can be customized to single-head or double-head (default is 4 heads)."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the delivery lead time?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "In stock. Ships immediately after payment (including sea freight)."
+ }
+ }
+ ]
 }
 ```
 
@@ -181,15 +181,15 @@ Suitable for filling liquids with good fluidity, widely used in:
 
 ```mermaid
 flowchart LR
-    A[Connect Air Compressor<br>Supply Compressed Air] --> B[Set Filling Volume & Speed]
-    B --> C{Select Operation Mode}
-    C -->|Semi-Automatic| D[Step on Foot Pedal<br>Start Filling]
-    C -->|Automatic| E[Automatic Timer<br>Cycle Filling]
-    D --> F[Piston Quantitative Liquid Suction]
-    E --> F
-    F --> G[Simultaneous 4-Nozzle Filling]
-    G --> H[Bottom Close Positive Shutoff Nozzle<br>Instant Cut-off Anti-Drip]
-    H --> I[Filling Complete<br>Enter Next Cycle]
+ A[Connect Air Compressor<br>Supply Compressed Air] --> B[Set Filling Volume & Speed]
+ B --> C{Select Operation Mode}
+ C -->|Semi-Automatic| D[Step on Foot Pedal<br>Start Filling]
+ C -->|Automatic| E[Automatic Timer<br>Cycle Filling]
+ D --> F[Piston Quantitative Liquid Suction]
+ E --> F
+ F --> G[Simultaneous 4-Nozzle Filling]
+ G --> H[Bottom Close Positive Shutoff Nozzle<br>Instant Cut-off Anti-Drip]
+ H --> I[Filling Complete<br>Enter Next Cycle]
 ```
 
 ### Request a Quote & Purchase

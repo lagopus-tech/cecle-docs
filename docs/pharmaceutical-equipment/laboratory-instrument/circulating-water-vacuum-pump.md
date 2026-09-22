@@ -2,8 +2,7 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/jimeng-2026-09-20-9238-image_1000__1000_....png?v=1789893842)
 
-> **Core Abstract**
-> The SHZ-D(III) Series Anti-Corrosion Circulating Water Multi-Purpose Vacuum Pump is a device that uses circulating water as its working fluid and generates negative pressure through fluid jet action for vacuum evacuation. This machine is best suited for industries such as pharmaceutical, chemical, biological, and materials science, and is commonly used to support 2L to 5L rotary evaporators or glass reactors for distillation and concentration. Its core advantages include a high-strength anti-corrosion material body, flexible dual-tap or quad-tap configurations, and a maximum vacuum level of up to 0.098 Mpa. While providing stable vacuum, it also circulates cooling water to reaction devices, making it an indispensable high-efficiency and energy-saving equipment.
+The SHZ-D(III) Series Anti-Corrosion Circulating Water Multi-Purpose Vacuum Pump is a device that uses circulating water as its working fluid and generates negative pressure through fluid jet action for vacuum evacuation. This machine is best suited for industries such as pharmaceutical, chemical, biological, and materials science, and is commonly used to support 2L to 5L rotary evaporators or glass reactors for distillation and concentration. Its core advantages include a high-strength anti-corrosion material body, flexible dual-tap or quad-tap configurations, and a maximum vacuum level of up to 0.098 Mpa. While providing stable vacuum, it also circulates cooling water to reaction devices, making it an indispensable high-efficiency and energy-saving equipment.
 
 ## I. Product Overview & Core Advantages
 
@@ -21,17 +20,17 @@ The SHZ-D(III) Series Circulating Water Vacuum Pump is a fundamental supporting 
 
 Based on different laboratory workload requirements, the SHZ-D(III) Series offers the following two standard model configurations:
 
-| Technical Parameter         | SHZ-D(III) Dual-Gauge Dual-Tap                            | SHZ-D(III) Quad-Gauge Quad-Tap                               |
+| Technical Parameter | SHZ-D(III) Dual-Gauge Dual-Tap | SHZ-D(III) Quad-Gauge Quad-Tap |
 | :-------------------------- | :-------------------------------------------------------- | :----------------------------------------------------------- |
-| **Power**                   | 180 W                                                     | 370 W                                                        |
-| **Voltage**                 | 220V 50/60Hz                                              | 220V 50/60Hz                                                 |
-| **Flow**                    | 60 L/min                                                  | 60 L/min                                                     |
-| **Head**                    | 8 m                                                       | 8 m                                                          |
-| **Body Material**           | Anti-corrosion                                            | Anti-corrosion                                               |
-| **Max Vacuum**              | 0.098 Mpa                                                 | 0.098 Mpa                                                    |
-| **Single Tap Suction**      | 10 L/min                                                  | 10 L/min                                                     |
-| **Suction Taps**            | 2 Pcs                                                     | 4 Pcs                                                        |
-| **Volume**                  | 15 L                                                      | 15 L                                                         |
+| **Power** | 180 W | 370 W |
+| **Voltage** | 220V 50/60Hz | 220V 50/60Hz |
+| **Flow** | 60 L/min | 60 L/min |
+| **Head** | 8 m | 8 m |
+| **Body Material** | Anti-corrosion | Anti-corrosion |
+| **Max Vacuum** | 0.098 Mpa | 0.098 Mpa |
+| **Single Tap Suction** | 10 L/min | 10 L/min |
+| **Suction Taps** | 2 Pcs | 4 Pcs |
+| **Volume** | 15 L | 15 L |
 | **Recommended Application** | Equipped with 2L, 5L glass reactors or rotary evaporators | Equipped with multiple 2L, 5L glass reactors or rotary evaporators |
 
 *(Note: When the water temperature is controlled between 4°C and 10°C, the pump can achieve optimal vacuum performance.)*
@@ -59,34 +58,34 @@ For global customers and laboratory procurement, we provide safe and reliable pa
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What equipment is the circulating water vacuum pump mainly used with?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "This equipment is mainly used to support 2L to 5L rotary evaporators or double-layer glass reactors, providing the necessary vacuum environment and auxiliary cooling water circulation for these core laboratory devices."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can the pump achieve optimal vacuum performance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Based on the characteristics of this fluid jet equipment, when the circulating water temperature in the water tank is maintained at a low level (between 4°C and 10°C), the impact of water's saturated vapor pressure can be minimized to the greatest extent, thereby achieving the best vacuum effect (maximum vacuum level up to 0.098 Mpa)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between the dual-gauge dual-tap and quad-gauge quad-tap models?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The dual-gauge dual-tap model is suitable for routine small-scale single-unit experiments and can connect to one reaction device. The quad-gauge quad-tap model (with higher power at 370W) is equipped with four independent suction ports, allowing simultaneous connection and monitoring of multiple experimental devices, significantly improving parallel work efficiency in the laboratory."
-      }
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "What equipment is the circulating water vacuum pump mainly used with?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "This equipment is mainly used to support 2L to 5L rotary evaporators or double-layer glass reactors, providing the necessary vacuum environment and auxiliary cooling water circulation for these core laboratory devices."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How can the pump achieve optimal vacuum performance?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Based on the characteristics of this fluid jet equipment, when the circulating water temperature in the water tank is maintained at a low level (between 4°C and 10°C), the impact of water's saturated vapor pressure can be minimized to the greatest extent, thereby achieving the best vacuum effect (maximum vacuum level up to 0.098 Mpa)."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the difference between the dual-gauge dual-tap and quad-gauge quad-tap models?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "The dual-gauge dual-tap model is suitable for routine small-scale single-unit experiments and can connect to one reaction device. The quad-gauge quad-tap model (with higher power at 370W) is equipped with four independent suction ports, allowing simultaneous connection and monitoring of multiple experimental devices, significantly improving parallel work efficiency in the laboratory."
+ }
+ }
+ ]
 }
 </script>
 
