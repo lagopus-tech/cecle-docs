@@ -12,7 +12,7 @@
 > **MOQ:** 1 set ｜ **Payment:** T/T 100% ｜ **Lead Time:** In stock / 7-day preparation
 > **Package:** Plywood Case ｜ **Warranty:** 1 year + lifetime maintenance
 
-## Core Abstract
+## Overview
 
 The PL-88 manual perfume filling machine is a **benchtop manual pneumatic filling machine** supplied by Wenzhou T&D Packing Machinery Factory. It uses **full pneumatic drive with foot-pedal control** and requires no power supply, making it ideal for precision filling of low-viscosity volatile liquids such as alcohol-based perfumes, essential oils, aromatic liquids, and toners. The machine is equipped with **1 anti-drip filling nozzle**, and the filling volume is **steplessly adjusted via the top handwheel** (adjusting the piston stroke), so one machine covers 5–100 ml bottle types with no parts to swap when changing volume or bottle type. Filling accuracy is ±1%, and manual operation reaches 20–40 bottles per minute. Contact parts are made of food-grade 304 stainless steel with food-grade seals, easy to disassemble and clean, leaving no residue when switching fragrance or color. The net weight is about 18 kg, packed in a plywood case, and one workbench is all it takes to start production — fit for small-batch, multi-fragrance perfume and home-fragrance filling. MOQ 1 set, one-year whole-machine warranty, lifetime maintenance.
 
