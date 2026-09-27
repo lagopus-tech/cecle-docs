@@ -2,8 +2,6 @@
 
 > The PRE Series Commercial Heavy-Duty Automatic Dough Pressing Machine (including models PRE-350 and PRE-500) is a high-capacity dough sheeting and kneading system engineered for large-scale bakeries, central kitchens, pastry food plants, and institutional canteens. Constructed with heavy-duty structural steel and food-grade stainless steel, it features oversized 114 mm diameter solid alloy rollers and an industrial 3.0 kW pure copper motor supporting 5–20 mm thickness clearance adjustment. Driven by a reinforced single gear chain transmission, it delivers non-slip, massive pressing torque to handle continuous rolling and gluten alignment for stiff, heavy dough batches, significantly reducing manual labor intensity while ensuring uniform, fine crumb structures.
 
-*Looking to upgrade your entire dough processing line? Read our comprehensive guide: [The Ultimate Guide to Global Pastry and Pasta Automation 2026](/guides/2026-pastry-automation-guide) to learn how heavy-duty dough sheeters integrate seamlessly with automated forming machines, bun makers, and continuous baking or steaming lines.*
-
 ![PRE Series Commercial Heavy-Duty Automatic Dough Pressing Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/1_6dc26b53-4479-4793-9f2d-f866ddd2c811.jpg?v=1787294090)
 
 ## I. Product Overview

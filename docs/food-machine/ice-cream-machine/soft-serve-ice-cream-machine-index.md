@@ -24,10 +24,10 @@ This guide comprehensively covers the core features, specifications, and selecti
 
 ## II. Key Configurations & Optional Recommendations
 
-*   **Flavor Configuration**: Both machine types support **dual-tank triple-head design (2 single flavors + 1 mixed double flavor)**, meeting diverse customer taste preferences[cite: 5, 6].
+*   **Flavor Configuration**: Both machine types support **dual-tank triple-head design (2 single flavors + 1 mixed double flavor)**, meeting diverse customer taste preferences.
 *   **Pre-Cooling System (Optional Upgrade)**:
-    *   **Function Description**: Provides independent refrigeration inside the storage tank, maintaining slurry at a stable 2–8°C temperature[cite: 5, 6].
-    *   **Recommendation**: If your shop experiences **high foot traffic** or operates in **hot environments**, strongly consider adding the pre-cooling system. It prevents bacterial growth and spoilage of ingredients during overnight or standby periods (saving time and materials), while significantly reducing secondary cooling time and greatly enhancing continuous dispensing speed[cite: 5, 6].
+    *   **Function Description**: Provides independent refrigeration inside the storage tank, maintaining slurry at a stable 2–8°C temperature.
+    *   **Recommendation**: If your shop experiences **high foot traffic** or operates in **hot environments**, strongly consider adding the pre-cooling system. It prevents bacterial growth and spoilage of ingredients during overnight or standby periods (saving time and materials), while significantly reducing secondary cooling time and greatly enhancing continuous dispensing speed.
 
 ---
 
@@ -42,8 +42,8 @@ This guide comprehensively covers the core features, specifications, and selecti
 
 ## IV. Selection Decision Guide
 
-1.  **Choose Based on Space Availability**: If counter or operational space is limited, prioritize **countertop ice cream machines**; if you have an independent storefront, mall booth, or ample floor space, opt for **upright machines with swivel casters**[cite: 5, 6].
-2.  **Choose Based on Customer Traffic**: For high daily volume, concentrated peak hours, and need for continuous dispensing, **upright high-capacity models (e.g., BQL-830C)** or units with pre-cooling systems are more reliable choices[cite: 5, 6].
-3.  **Maintenance Considerations**: Both modern commercial models typically feature **one-touch automatic cleaning**. Daily maintenance requires only filling with water and starting the cleaning cycle to flush out residue; perform deep disassembly cleaning once weekly to ensure food hygiene[cite: 5, 6].
+1.  **Choose Based on Space Availability**: If counter or operational space is limited, prioritize **countertop ice cream machines**; if you have an independent storefront, mall booth, or ample floor space, opt for **upright machines with swivel casters**.
+2.  **Choose Based on Customer Traffic**: For high daily volume, concentrated peak hours, and need for continuous dispensing, **upright high-capacity models (e.g., BQL-830C)** or units with pre-cooling systems are more reliable choices.
+3.  **Maintenance Considerations**: Both modern commercial models typically feature **one-touch automatic cleaning**. Daily maintenance requires only filling with water and starting the cleaning cycle to flush out residue; perform deep disassembly cleaning once weekly to ensure food hygiene.
 
-If you have further questions regarding specific voltage customization (e.g., 110V US standard, 220V EU/AU standard) or logistics terms, feel free to contact us for additional consultation[cite: 5, 6].
+If you have further questions regarding specific voltage customization (e.g., 110V US standard, 220V EU/AU standard) or logistics terms, feel free to contact us for additional consultation.

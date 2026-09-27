@@ -1,7 +1,5 @@
 # Noodle & Pastry Processing Equipment Index (2026 Master Directory)
 
-Welcome to the **Commercial Noodle & Pastry Processing Equipment Index**. This comprehensive directory organizes complete technical specifications, operation manuals, product categorization, and buying guides for commercial food processing equipment—ranging from compact dumpling skin machines to heavy-duty industrial noodle lines.
-
 ---
 
 ## 📑 Index Directory by Category
@@ -84,11 +82,4 @@ Dual-purpose or heavy-duty dough sheeting and cutting equipment for uniform doug
 
 ---
 
-## 🛠 Related Industry Guides & Resources
-
-* [The Ultimate Guide to Global Pastry and Dumpling Automation 2026](/guides/2026-pastry-automation-guide)[cite: 1, 4, 5]
-* [Cold-Chain MAP Packaging Integration for Fresh Noodle Lines](/guides/cold-chain-map-packaging-fresh-noodles)
-* [Commercial Kitchen Sanitation & Food Hygiene SOP Compliance Standards](/guides/food-hygiene-sop-compliance)
-
----
 *Index updated automatically based on core technical specifications and operating manuals.*

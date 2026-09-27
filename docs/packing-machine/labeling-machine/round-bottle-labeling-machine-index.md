@@ -1,7 +1,5 @@
 # Round Bottle Labeling Machine Selection Guide & Product Overview
 
-Welcome to the CECLE Round Bottle Labeling Machine product section. We specialize in providing efficient, precise, and economical cylindrical container labeling solutions for global customers. To meet the production needs of businesses of all sizes, we primarily offer 4 major series of round bottle labeling machines: **Manual**, **Semi-Automatic**, **Desktop Fully Automatic**, and **Vertical Fully Automatic**.
-
 ---
 
 ### I. Core Parameters & Function Comparison of the 4 Round Bottle Labelers

@@ -14,11 +14,11 @@ The Three-Point Mounted Subsoiler is a high-efficiency soil improvement agricult
 ---
 
 ## II. Key Advantages
-* **Breaks up Soil Compaction**: It can penetrate deep into the soil to break up the "hardpan" (the compacted layer), improving soil structure[cite: 1].
-* **Improves Drainage and Aeration**: By loosening the deep soil, it helps water soak in better and allows roots to breathe, preventing waterlogging[cite: 1].
-* **Promotes Root Growth**: Looser soil allows crop roots to grow deeper, which helps the plants absorb more nutrients and water[cite: 1].
-* **Heavy-Duty Construction**: The frame is made of high-strength steel, designed to withstand heavy loads in tough soil conditions[cite: 1].
-* **Replaceable Tips/Shares**: The wear parts (the tips) are replaceable, which lowers maintenance costs and extends the machine's life[cite: 1].
+* **Breaks up Soil Compaction**: It can penetrate deep into the soil to break up the "hardpan" (the compacted layer), improving soil structure.
+* **Improves Drainage and Aeration**: By loosening the deep soil, it helps water soak in better and allows roots to breathe, preventing waterlogging.
+* **Promotes Root Growth**: Looser soil allows crop roots to grow deeper, which helps the plants absorb more nutrients and water.
+* **Heavy-Duty Construction**: The frame is made of high-strength steel, designed to withstand heavy loads in tough soil conditions.
+* **Replaceable Tips/Shares**: The wear parts (the tips) are replaceable, which lowers maintenance costs and extends the machine's life.
 
 ---
 
@@ -42,7 +42,7 @@ The Three-Point Mounted Subsoiler is a high-efficiency soil improvement agricult
 | **Total weight** | 280kg |
 | **Matched power** | 40hp |
 
-*Reminder: The product detail is manually measured, there will be deviations please refer to the actual product[cite: 1].*
+*Reminder: The product detail is manually measured, there will be deviations please refer to the actual product.*
 
 ---
 

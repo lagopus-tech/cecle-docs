@@ -107,7 +107,6 @@ Quickly select the equipment series best suited for you based on your **producti
 
 # J-1500 Series Semi-Automatic Japanese Gyoza Machine - Core Technical Parameters & Operation Guide
 
-*Planning to upgrade your entire production line? Read our comprehensive guide: [2026 Global Pastry & Dumpling Automation Ultimate Guide](/guides/2026-pastry-automation-guide) to learn about integration solutions for the J-1500 semi-automatic Japanese Gyoza machine and commercial cold-chain MAP systems.*
 
 ![J-1500 Semi-Automatic Japanese Gyoza Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/f22b9280f766a95901dce3c2bb14d72f.png?v=1784944026)
 
@@ -285,8 +284,6 @@ Investing in the J-1500 semi-automatic Japanese Gyoza machine significantly opti
 ---
 
 # DM Series Automatic Dumpling Machine - Core Technical Specifications & Operation Manual
-
-*Looking to upgrade your entire production line? Read our comprehensive guide: [2026 Global Pastry & Dumpling Automation Ultimate Guide](/guides/2026-pastry-automation-guide) to learn how the DM Series and our flat-sheet Samosa forming machines integrate with commercial cold-chain MAP packaging systems.*
 
 ![DM Automatic Dumpling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/80_3.jpg?v=1784791102)
 
@@ -477,8 +474,6 @@ Investing in a DM Series automatic dumpling machine transforms your operating co
 # ADM Series Automatic Dumpling Machine - Core Technical Specifications & Operation Manual
 
 > The ADM Series automatic dumpling machine is a high-performance, industrial-grade food processing system designed for large food factories, central kitchens, and chain restaurant operations. Built with premium food-grade 304 stainless steel, it ensures maximum sanitation and durability. This automated machine integrates continuous dough rolling, accurate filling injection, and forming into a unified process. Delivering peak capacity up to 15,000 pcs/h (ADM-200 model) and featuring precise servo-driven weight control (10–35g), it accurately reproduces handmade quality while dramatically cutting labor costs. It stands as the ultimate automation solution for enterprises seeking large-scale, standardized dumpling production with fast ROI.
-
-*Looking to upgrade your entire production line? Read our comprehensive guide: [2026 Global Pastry & Dumpling Automation Ultimate Guide](/guides/2026-pastry-automation-guide) to discover how the ADM Series and our flat-sheet Samosa forming machines integrate with commercial cold-chain MAP packaging systems.*
 
 ![ADM Automatic Dumpling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/833d22a50fe6af6bcb46639c0b58f78d.png?v=1783580255)
 

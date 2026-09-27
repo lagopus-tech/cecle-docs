@@ -1,7 +1,5 @@
 # J-1500 Series Semi-Automatic Japanese-Style Dumpling Machine - Core Technical Parameters and Operating Guide
 
-*Looking to upgrade your entire production line? Read our comprehensive guide: [2026 Global Pastry & Dumpling Automation Ultimate Guide](/guides/2026-pastry-automation-guide) to learn about the integration solution of the J-1500 Semi-Automatic Japanese-Style Dumpling Machine with commercial cold-chain Modified Atmosphere Packaging (MAP) systems.*
-
 ![J-1500 Semi-Automatic Japanese-Style Dumpling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/f22b9280f766a95901dce3c2bb14d72f.png?v=1784944026)
 
 > The J-1500 Series Semi-Automatic Japanese-Style Dumpling Machine is a high-efficiency food processing equipment designed specifically for small to medium catering stores, Japanese gyoza/steamed dumpling specialty shops, and central kitchens. Constructed with premium food-grade 304 stainless steel, it ensures excellent hygiene and durability. This semi-automatic device combines manual/pre-made wrapper placement with precise filling injection and press-molding processes. Featuring a stable production capacity of up to 1,500 pcs/hour and equipped with a precision filling control system, it perfectly restores the exquisite appearance and firm texture of Japanese handmade dumplings/gyoza, while significantly reducing labor costs. It is an ideal automation upgrade for enterprises pursuing standardization and cost-effectiveness.

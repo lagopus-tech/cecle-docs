@@ -1,5 +1,4 @@
 # ADM Series Automatic Dumpling Machine - Core Technical Specifications and Operation Manual
-*Looking to upgrade your entire production line? Read our comprehensive pillar guide: [The 2026 Ultimate Guide to Global Pastry & Dumpling Automation](/guides/2026-pastry-automation-guide) to learn how the ADM series and our flat-lay Samosa forming machines integrate with commercial cold chain MAP packaging systems.*
 
 ![ADM Automatic Dumpling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/833d22a50fe6af6bcb46639c0b58f78d.png?v=1783580255)
 > The ADM Series Automatic Dumpling Machine is a high-performance, industrial-grade food processing system specifically engineered for large-scale food factories, central kitchens, and chain restaurants. Manufactured with premium food-grade 304 stainless steel for ultimate hygiene and durability, this fully automated machine integrates continuous dough pressing, precise filling injection, and forming into a single process. With a peak production capacity of up to 15,000 pieces per hour (ADM-200 model) and precise servo-driven weight control (10-35g), it perfectly replicates handmade textures while drastically reducing manual labor costs. It is the ultimate automation solution for businesses seeking high-volume, standardized dumpling production with a rapid return on investment.
@@ -151,7 +150,6 @@ The following is a guide to core operation and parameter setting based on real m
 }
 </script>
 
-
 ---
 
 ## V. Video Demonstration and Operation Reference
@@ -161,8 +159,6 @@ If you wish to intuitively understand the continuous dough pressing, forming tra
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-AdXi2FWsTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>- 
 
 📽 Operation Video: [https://youtu.be/Pde49YPYm5A?si=7A4fpiHdmsNa9Ktw](https://youtu.be/Ug_bk2IIMoM)
-
-
 
 ## VI. Commercial Terms & ROI
 

@@ -1,7 +1,5 @@
 # DM Series Automatic Dumpling Machine - Core Technical Specifications and Operation Manual
 
-*Looking to upgrade your entire production line? Please read our comprehensive guide: [2026 Global Pastry and Dumpling Automation Ultimate Guide](/guides/2026-pastry-automation-guide) to understand how the DM Series and our sheet-feed Samosa forming machine integrate with commercial cold-chain Modified Atmosphere Packaging (MAP) systems.*
-
 ![DM Automatic Dumpling Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/80_3.jpg?v=1784791102)
 
 > The DM Series Automatic Dumpling Machine is a high-performance, industrial-grade food processing system designed for large-scale food factories, central kitchens, and chain restaurants. Constructed from high-quality food-grade 304 stainless steel, it ensures excellent hygiene and durability. This fully automatic machine integrates continuous dough pressing, precise filling injection, and forming into a single seamless process. With a maximum capacity of up to 6,000 pieces per hour (DM-120 model) and a precise servo-driven weight control system (10-35g), it faithfully replicates the texture of handmade dumplings while significantly reducing labor costs. This is the ultimate automation solution for businesses seeking high-volume, standardized dumpling production with a fast return on investment.

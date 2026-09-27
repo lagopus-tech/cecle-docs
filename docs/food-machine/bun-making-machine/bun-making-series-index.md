@@ -1,8 +1,4 @@
-# Ultimate Baozi & Steam Bun Machine Series Index
-
-*Want to upgrade your entire production line? Please read our comprehensive guide: The Ultimate Guide to Global Pastry and Baozi Automation.*
-
-Welcome to the **Baozi Machine Series Index**. This guide covers our complete range of automated steamed bun (Baozi) making machines, designed to cater to various production scales—from compact central kitchens to large-scale industrial food factories. Below is a quick comparison matrix to help you choose the right equipment, followed by a detailed contrast of the three series and their individual technical specifications.
+# Baozi & Steam Bun Machine Series Index
 
 ## Quick Comparison Matrix
 
