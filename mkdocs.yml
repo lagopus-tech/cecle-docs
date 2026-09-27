@@ -132,6 +132,8 @@ nav:
           - Climbing Belt Conveyor: packing-machine/screw-conveyor/climbing-belt-conveyor.md
           - Bucket Elevator: packing-machine/screw-conveyor/bucket-elevator.md
           - Z-type Bucket Elevator: packing-machine/screw-conveyor/z-type-bucket-elevator.md
+          - Screw Conveyor (SC Series): packing-machine/screw-conveyor/screw-conveyor.md
+          - Loss-in-Weight Screw Feeder TD4040: packing-machine/screw-conveyor/loss-in-weight-screw-feeder-td4040.md
       - Stand-up Pouch Packing Machine:
           - Overview: packing-machine/stand-up-pouch-packing-machine/stand-up-pouch-packing-machine-index.md
           - Granule Pouch Packing: packing-machine/stand-up-pouch-packing-machine/granule-stand-up-pouch-packing-machine.md
@@ -309,7 +311,10 @@ nav:
           - FF5 Electric Vertical Paste Filling Machine: packing-machine/filling-machine/ff5-electric-vertical-paste.md
           - PDF-500 Semi-Automatic Powder Filling Machine: packing-machine/filling-machine/pdf-500-semi-auto-powder.md
           - Filling Machine Selection Guide: packing-machine/filling-machine/filling-machine-index.md
-     
+      - Form Fill & Seal Systems:
+          - Liquid Pouch Packing Machine: packing-machine/form-fill-sealing-systems/liquid-pouch-packing-machine.md
+          - Paste Pouch Packing Machine: packing-machine/form-fill-sealing-systems/paste-pouch-packing-machine.md
+          - Powder Pouch Packing Machine: packing-machine/form-fill-sealing-systems/powder-pouch-packing-machine.md
   - Food Machinery:
       - Samosa Making Series:
           - Overview: food-machine/samosa-making-machine/samosa-making-machine-index.md
@@ -349,6 +354,7 @@ nav:
           - VMG-2200 Meat Slicer Grinder: food-machine/meat-making-machine/meat-grinder-slicer-series.md
           - CMG-150 Electric Meat Grinder: food-machine/meat-making-machine/meat-making-machine-series.md
           - DK-2 Meat Shredder: food-machine/meat-making-machine/meat-shredder-series.md
+          - Full Series Index: food-machine/meat-making-machine/meat-machinery-series-index.md
       - Meat Forming Series:
           - Meatball Forming Machine Series: food-machine/meat-forming-machine/meat-ball-making-machine-series.md
           - Hamburger Patty Forming Machine Series: food-machine/meat-forming-machine/meat-patty-making-machine-series.md
@@ -373,7 +379,12 @@ nav:
           - TD-2 Donut Making Machine: food-machine/snack-making-machine/donut-making-machine-series.md
           - TD-850 Rotary Roaster: food-machine/snack-making-machine/rotating-oven-series.md
           - TD-7/10 Sausage Grill Machine: food-machine/snack-making-machine/sausage-grill-machine-series.md
-          
+      - Washing & Peeling Machine Series:
+          - Overview: food-machine/washing-and-peeling-machine/washing-and-peeling-machine-series-index.md
+          - Brush Roller Peeling Machine: food-machine/washing-and-peeling-machine/brush-roller-peeling-machine-series.md
+          - Bubble Vegetable Washing Machine: food-machine/washing-and-peeling-machine/bubble-vegetable-washing-machine-series.md
+          - Potato Peeling Machine: food-machine/washing-and-peeling-machine/potato-peeling-machine-series.md
+          - Ultrasonic Rice Washing Machine: food-machine/washing-and-peeling-machine/ultrasonic-rice-washing-machine-series.md
   - Pharmaceutical Equipment:
       - Capsule Filling Machine:
           - Overview: pharmaceutical-equipment/caspule-filling-machine/capsul-filling-machine-index.md
@@ -470,3 +481,6 @@ nav:
           - Farm Tractor (WT Series Multi-Functional 4WD): agricultural-machine/farm-tractors/farm-tractors.md
       - Brush Cutter:
           - Backpack Brush Cutter (2-Stroke & 4-Stroke Gasoline): agricultural-machine/brush-cutter/backpack-brush-cutter.md
+      - Harvester:
+          - Maize Harvester: agricultural-machine/harvester/maize-harvester.md
+          - Mini Paddy Harvester: agricultural-machine/harvester/mini-paddy-harvester.md
