@@ -56,7 +56,7 @@
 ### FAQ结构化数据
 <script type="application/ld+json">
 {
-  "@context": "[https://schema.org](https://schema.org)",
+  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

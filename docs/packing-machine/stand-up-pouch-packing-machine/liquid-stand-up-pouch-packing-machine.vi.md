@@ -44,7 +44,7 @@
 ### Lược đồ FAQ
 <script type="application/ld+json">
 {
-  "@context": "[https://schema.org](https://schema.org)",
+  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {
