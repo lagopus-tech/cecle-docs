@@ -97,6 +97,47 @@ The DLE-6550 DIY Laser Cutter & Engraver is a lightweight, portable, and cost-ef
 * **Q: What should I do if engraving patterns shift or miss steps?**
   * A: Pattern shifting is almost always caused by loose timing belts or loose set screws on the stepper motor pulleys. Tighten the belts to moderate tension, tighten the pulley grub screws, and ensure the V-wheels glide smoothly without wobble.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does this machine require assembly, and is it complicated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The machine ships in a modular flat-pack kit to safeguard components during transit. A full tool set, hardware, and step-by-step video instructions are included, allowing assembly within 30 to 60 minutes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the laser beam safe to operate, and what precautions are needed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Semiconductor blue lasers emit concentrated energy. Operators must always wear the provided laser safety glasses during operation and maintain adequate room ventilation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can it engrave metals or cut transparent acrylic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It easily marks anodized aluminum and coated metal surfaces. For transparent acrylic, coat the surface with dark water-soluble paint or laser marking paper to enable light absorption."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if engraving patterns shift or miss steps?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check and tension the X/Y timing belts, tighten stepper motor pulley grub screws, and make sure the linear guide wheels run smoothly along the profiles."
+      }
+    }
+  ]
+}
+</script>
+
 ---
 
 ## VI. Commercial Terms
