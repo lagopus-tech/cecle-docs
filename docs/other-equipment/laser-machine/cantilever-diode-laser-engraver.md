@@ -1,8 +1,7 @@
 # Cantilever Diode Laser Engraver
 ![Cantilever Diode Laser Engraver](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/pic1.jpg?v=1791343526)
 
-> **Core Abstract**
-> The DLE-1720 Cantilever Diode Laser Engraver is a lightweight, ultra-compact desktop CNC laser machine designed for makers, hobbyists, leathercraft artisans, and mobile kiosk entrepreneurs. Featuring an innovative three-sided borderless cantilever structure, it eliminates outer frame interference, allowing oversized, elongated objects to pass through unobstructed. Equipped with a practical 20 × 17 cm working field, 0.01 mm positioning accuracy, and a featherweight 1.75 kg body, the machine offers versatile optical power configurations from 2500mW to 10000mW, delivering exceptional precision marking on wood, leather, acrylic, and coated surfaces.
+The DLE-1720 Cantilever Diode Laser Engraver is a lightweight, ultra-compact desktop CNC laser machine designed for makers, hobbyists, leathercraft artisans, and mobile kiosk entrepreneurs. Featuring an innovative three-sided borderless cantilever structure, it eliminates outer frame interference, allowing oversized, elongated objects to pass through unobstructed. Equipped with a practical 20 × 17 cm working field, 0.01 mm positioning accuracy, and a featherweight 1.75 kg body, the machine offers versatile optical power configurations from 2500mW to 10000mW, delivering exceptional precision marking on wood, leather, acrylic, and coated surfaces.
 
 ---
 
@@ -155,8 +154,4 @@
 ### Online Inquiries & Purchasing
 
 * **Official Store**: [🛒 Click here to view pricing and purchase on our official store](https://cecle.net/products/17-20cm-small-desktop-high-precision-cnc-laser-engraving-machine-price)
-
-
-
-
 

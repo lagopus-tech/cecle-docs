@@ -2,8 +2,7 @@
 
 [![Product Image](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/Gemini_Generated_Image_7m6j2f7m6j2f7m6j.jpg?v=1791512304)](https://cecle.net/products/high-quality-automatic-150g-200g-1kg-crude-almonds-nut-granule-sachet-granule-packing-machine)
 
-> **Core Abstract**
-> This product is an efficient and precise automatic granule vertical form-fill-seal packaging machine, perfectly tailored for the food, nut, and snack industries, utilizing a volumetric rotary cup filling system (with optional multi-head combination scale). Featuring roll-film automatic forming, filling, and sealing, it offers three models (G100, G300, and G500) with flexible filling ranges from 5g to 5000g. Equipped with customizable seal types (3-side, 4-side, or back seal), optional Z-type elevator automatic feeding compatibility, and standard steel-stamp coding, it provides a reliable, high-speed, and high-performance packaging solution for all kinds of granular materials.
+This product is an efficient and precise automatic granule vertical form-fill-seal packaging machine, perfectly tailored for the food, nut, and snack industries, utilizing a volumetric rotary cup filling system (with optional multi-head combination scale). Featuring roll-film automatic forming, filling, and sealing, it offers three models (G100, G300, and G500) with flexible filling ranges from 5g to 5000g. Equipped with customizable seal types (3-side, 4-side, or back seal), optional Z-type elevator automatic feeding compatibility, and standard steel-stamp coding, it provides a reliable, high-speed, and high-performance packaging solution for all kinds of granular materials.
 
 ---
 

@@ -2,8 +2,7 @@
 
 ![DIY Laser Cutter & Engraver](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/aaa_685b124d-97c4-448a-98dc-641e062a3bc9.jpg?v=1791341754)
 
-> **Core Abstract**
-> The DLE-6550 DIY Laser Cutter & Engraver is a lightweight, portable, and cost-effective desktop CNC engraving and cutting solution. Engineered with an open-frame bottomless structure, it eliminates workpiece size limitations imposed by traditional enclosed machines, allowing direct placement onto large table boards, wood slabs, doors, and flooring for precision engraving. Featuring an expansive 65 × 50 cm working area, 0.01 mm positioning accuracy, and modular optical power options ranging from 500mW to 15000mW, this machine excels at black & white line art, discrete dot matrix, and grayscale photographic marking across wood, leather, acrylic, and coated metals.
+The DLE-6550 DIY Laser Cutter & Engraver is a lightweight, portable, and cost-effective desktop CNC engraving and cutting solution. Engineered with an open-frame bottomless structure, it eliminates workpiece size limitations imposed by traditional enclosed machines, allowing direct placement onto large table boards, wood slabs, doors, and flooring for precision engraving. Featuring an expansive 65 × 50 cm working area, 0.01 mm positioning accuracy, and modular optical power options ranging from 500mW to 15000mW, this machine excels at black & white line art, discrete dot matrix, and grayscale photographic marking across wood, leather, acrylic, and coated metals.
 
 ---
 
