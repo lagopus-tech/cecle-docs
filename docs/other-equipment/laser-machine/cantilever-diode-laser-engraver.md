@@ -93,43 +93,6 @@ The DLE-1720 Cantilever Diode Laser Engraver is a lightweight, ultra-compact des
 * **Q: What safety precautions should be followed during operation?**
   * A: Semiconductor blue laser light is concentrated and hazardous to eyes. **All operators must wear the included laser safety goggles at all times.** In addition, operate the engraver in a well-ventilated space to disperse smoke and fumes.
 
-<!-- FAQ Schema Structured Data for SEO -->
-```html
-<script type="application/ld+json">
-{
-  "@context": "[https://schema.org](https://schema.org)",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does the single-arm cantilever design vibrate or lose accuracy during engraving?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The machine uses a rigid spine guide rail and a low-center-of-gravity base to maintain stable 0.01 mm positioning accuracy across the 20x17 cm working area."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is assembly complicated for beginners?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cantilever layout eliminates dual-belt synchronization issues. It arrives modularly pre-assembled and takes only minutes to set up."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can this machine engrave metals or transparent materials?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It easily marks anodized and painted metals. Transparent materials require a surface coating of dark washable paint or marking paper to absorb the laser energy."
-      }
-    }
-  ]
-}
-</script>
-
-```
-
 ---
 
 ## VI. Commercial Terms
