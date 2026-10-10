@@ -313,10 +313,13 @@ nav:
           - Filling Machine Selection Guide: packing-machine/filling-machine/filling-machine-index.md
           - APF-500 4-Nozzle Perfume Filling Machine: packing-machine/filling-machine/apf-500.md
           - PL-88 Manual Perfume Filling Machine: packing-machine/filling-machine/pl-88-perfume.md
+          - DF4-1000 Spout Pouch Filling Machine: packing-machine/filling-machine/df4-1000-spout-pouch.md
       - Form Fill & Seal Systems:
+          - Overview: packing-machine/form-fill-sealing-systems/pouch-packing-machine-index.md
           - Liquid Pouch Packing Machine: packing-machine/form-fill-sealing-systems/liquid-pouch-packing-machine.md
           - Paste Pouch Packing Machine: packing-machine/form-fill-sealing-systems/paste-pouch-packing-machine.md
           - Powder Pouch Packing Machine: packing-machine/form-fill-sealing-systems/powder-pouch-packing-machine.md
+          - Granule Pouch Packing Machine: packing-machine/form-fill-sealing-systems/granule-pouch-packing-machine.md
   - Food Machinery:
       - Samosa Making Series:
           - Overview: food-machine/samosa-making-machine/samosa-making-machine-index.md
@@ -387,6 +390,15 @@ nav:
           - Bubble Vegetable Washing Machine: food-machine/washing-and-peeling-machine/bubble-vegetable-washing-machine-series.md
           - Potato Peeling Machine: food-machine/washing-and-peeling-machine/potato-peeling-machine-series.md
           - Ultrasonic Rice Washing Machine: food-machine/washing-and-peeling-machine/ultrasonic-rice-washing-machine-series.md
+      - Vegetable Chopper & Dehydrator Series:
+          - Vegetable Dehydrator Series: food-machine/vegetable-chopper-dehydrator-machine/commercial-vegetable-dehydrator-series.md
+          - Dumpling Stuffing Chopper Series: food-machine/vegetable-chopper-dehydrator-machine/commercial-dumpling-stuffing-chopper-series.md
+      - Garlic Peeling Machine Series:
+          - Garlic Peeling Machine Series: food-machine/garlic-peeling-machine/garlic-peeling-machine-series.md
+      - Vegetable Slicing Machine Series:
+          - Slicer & Shredder Series: food-machine/slicing-machine/commercial-vegetable-slicer-shredder-series.md
+          - Double-Speed Vegetable Cutter: food-machine/slicing-machine/commercial-vegetable-slicer-series.md
+          - Pneumatic Slicer Series: food-machine/slicing-machine/commercial-pneumatic-slicer-series.md
   - Pharmaceutical Equipment:
       - Capsule Filling Machine:
           - Overview: pharmaceutical-equipment/caspule-filling-machine/capsul-filling-machine-index.md
@@ -402,6 +414,9 @@ nav:
           - ZP15D Rotary Tablet Press: pharmaceutical-equipment/tablet-press-machine/zp15d-rotary-tablet-press-machine.md
           - ZP17 Old Model Rotary: pharmaceutical-equipment/tablet-press-machine/zp17-old-rotary-tablet-press-machine.md
           - ZP27 High-Speed Rotary: pharmaceutical-equipment/tablet-press-machine/zp27-rotary-tablet-press-machine.md
+          - ZP420 High-Speed Rotary: pharmaceutical-equipment/tablet-press-machine/zp420-high-speed-rotary-tablet-press-machine.md
+          - TDP-120D Single Punch: pharmaceutical-equipment/tablet-press-machine/tdp-120d-tablet-press-machine.md
+          - GZPT Series High-Speed Rotary: pharmaceutical-equipment/tablet-press-machine/gzpt-series-high-speed-rotary-tablet-press-machine.md
       - Film Coating Machine:
           - Overview: pharmaceutical-equipment/film-coating-machine/coating-machine-index.md
           - BG Series High-Efficiency Coater: pharmaceutical-equipment/film-coating-machine/bg-series-coating-machine.md
@@ -465,6 +480,9 @@ nav:
           - WF1-303V-A Table Top: other-equipment/coffee-vending-machine/wf1-303v-a-table-top-coffee-vending-machine.md
       - Paper Machine:
           - TD-1575 Toilet Paper Rewinding Line: other-equipment/paper-machine/td-1575-toilet-paper-rewinding-production-line.md
+      - Laser Machine:
+          - DIY Laser Cutter & Engraver: other-equipment/laser-machine/diy-laser-cutter-engraver.md
+          - Cantilever Diode Laser Engraver: other-equipment/laser-machine/cantilever-diode-laser-engraver.md
   - Agricultural Machinery:
       - Tiller:
           - Mini Tiller Machine: agricultural-machine/tiller/multifunctional-mini-tiller.md
