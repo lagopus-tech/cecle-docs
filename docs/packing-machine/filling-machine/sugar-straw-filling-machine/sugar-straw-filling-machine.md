@@ -3,8 +3,7 @@
 
 [![Product Image](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/1_585b932d-2f33-4c35-a36f-8e40ae5921bf.jpg?v=1792132745)](https://cecle.net/products/candy-filled-straws-packing-machine-sugar-stick-filling-machine-powder-straw-filling-sealing-machine-for-magic-milk-straws)
 
-> **Core Abstract**
-> This product is an independently developed, innovative fully automatic straw filling and sealing machine, tailored specifically for the production and processing industries of candy straws, sugar stick straws, and specialty "Magic Milk Straws". The machine integrates automatic straw conveying, automatic quantitative filling of sugar/powder, dual-end automatic ultrasonic sealing, and finished product output into a complete automated process. Featuring high flexibility in deep customization, it can be custom-built according to different straw sizes and specialized filling materials required by customers, providing an efficient, stable, and precise automated solution for straw candy and novel beverage packaging.
+This product is an independently developed, innovative fully automatic straw filling and sealing machine, tailored specifically for the production and processing industries of candy straws, sugar stick straws, and specialty "Magic Milk Straws". The machine integrates automatic straw conveying, automatic quantitative filling of sugar/powder, dual-end automatic ultrasonic sealing, and finished product output into a complete automated process. Featuring high flexibility in deep customization, it can be custom-built according to different straw sizes and specialized filling materials required by customers, providing an efficient, stable, and precise automated solution for straw candy and novel beverage packaging.
 
 ---
 

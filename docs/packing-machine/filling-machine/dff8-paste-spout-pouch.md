@@ -26,8 +26,6 @@ category: paste filling machine / liquid filling machine / stand-up pouch fillin
 
 ---
 
-## Core Abstract
-
 The **DFF8 series** supplied by Wenzhou T&D Packing Machinery Factory is a **semi-automatic two-nozzles liquid & paste spout pouch filling machine (semi automatic two nozzles liquid and paste spout pouch filling machine)**, an upgrade of the DF8 dual-nozzle stand-up pouch liquid filler platform: it **fills both liquid and paste on the same machine** and comes standard with a **30 L stainless steel hopper**. Material is gravity-fed from the hopper and metered by a piston volumetric system, covering water, juice (no particles), edible oil, liquid detergent, sauce, cream/lotion and other liquids and semi-fluids in one run. The machine uses **Airtac (Taiwan) pneumatic components and full-pneumatic drive** — explosion-safe, simple to operate, and easy to maintain. **Two filling nozzles work simultaneously**; both filling volume and filling speed are adjustable; the bottom-close positive-shutoff nozzles keep drips off the pouch mouth. The DFF8-5000 tier delivers a filling range of 5–5000 ml, accuracy **within ±1%**, and speed **20–60 times/min**; air pressure 0.4–0.6 MPa, air consumption 1.1–2.2 m³/h, voltage 220 V 50/60 Hz, semi-automatic grade. Contact parts are **food-grade 304 stainless steel (316 optional)**, N.W. 80 kg, G.W. 100 kg, packing size 129×69×48 cm. Suitable for stand-up pouches, spout pouches and Doypack pouches. Aside from the **liquid & paste 2-in-1 + 30 L hopper** differences, all other specifications are identical to the DF8 series.
 
 ---

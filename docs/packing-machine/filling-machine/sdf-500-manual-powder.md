@@ -7,8 +7,6 @@
 > **Category:** Powder Filling Machine / Auger Dosing Filler
 > **Supplier:** Wenzhou T&D Packing Machinery Factory
 
-## Core Abstract
-
 The SDF-500 is a compact small powder filling machine built on stepper-motor control technology, electronic weighing technology, and microcomputer control. It delivers a filling range of 5 g to 5000 g (screw replacement required across the range) at a speed of about 20 fills per minute with accuracy within 1%. The operator manually presents bags, cans, or bottles while the machine automatically doses and corrects errors, and it can be matched with a spiral feeder for automatic feed control. It handles powders, superfine powders, and small granules — such as milk powder, seasonings, flour, white sugar, solid beverages, washing powder, and feed additives. One-year warranty with lifetime maintenance service.
 
 ## 1. Product Overview

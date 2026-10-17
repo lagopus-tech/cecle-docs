@@ -24,8 +24,6 @@ title: >-
 
 ---
 
-## Core Abstract
-
 The **DF8 Series** from Wenzhou T&D Packing Machinery Factory is a **semi-automatic full-pneumatic two-nozzle liquid spout pouch filling machine (two nozzles liquid spout pouch filling machine)** designed for filling free-flowing liquids into stand-up pouches, spout pouches, and Doypacks. The series uses a **full pneumatic drive** with no electric motor — the air source drives both pistons and valves — making it intrinsically safe, overload-resistant, and easy to maintain. **Two simultaneous filling nozzles** as standard, filling volume settable by piston stroke. Six capacity tiers are available: **DF8-100 (10–100 ml), DF8-300 (30–300 ml), DF8-500 (50–500 ml), DF8-1000 (100–1000 ml), DF8-2500 (250–2500 ml), DF8-5000 (500–5000 ml)** — small pouches, mid-volume pouches, and large-volume pouches (up to 5 L) on the same platform. Filling accuracy **within ±1%**, filling speed **10–40 times/min** for the 100/300/500/1000 tiers and **10–30 times/min** for the 2500/5000 tiers. Air pressure 0.4–0.6 MPa, air consumption 100 L/min. Material **201/304 stainless steel**, automation grade **semi-auto or automatic** (switchable on the same machine). Net weight 40 kg for the 100–1000 ml tiers and 60 kg for the 2500–5000 ml tiers. Suitable for free-flowing liquids — water, juice (no particles), edible oil, liquid detergent, liquid seasoning, toner, perfume, and similar low-to-medium viscosity products. Delivery term **EXW Wenzhou**.
 
 ---
