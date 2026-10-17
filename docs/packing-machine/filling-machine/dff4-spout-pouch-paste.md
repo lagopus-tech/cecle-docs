@@ -20,8 +20,6 @@ category: Liquid and paste dual-purpose filling machine / Spout pouch filling ma
 > **Package:** Reinforced single carton ｜ **Warranty:** 1 year + lifetime maintenance
 > **Delivery Term:** EXW Wenzhou
 
-## Core Abstract
-
 The DFF4 is a **semi automatic two nozzles liquid and paste spout pouch filling machine** built by Wenzhou T&D Packaging Machinery Factory. It is designed for filling liquids and low-viscosity pastes into spouted flexible pouches — stand-up pouch, spout pouch and Doypack — and it carries an **integrated capping module**, so filling and capping are completed on one machine. The machine runs on a **Taiwan Airtac pneumatic package with full pneumatic drive — no electrical power required**; connect an air compressor and it works. With no electric spark, it is especially suited to alcohol-based products and workshops with explosion-proof requirements. **Standard 2-nozzle configuration** (1 nozzle optional), filling range 50–250 ml, output 300–600 bags/hour, filling accuracy ≤ 1 g (absolute value). Dosing is by piston, and the **bottom close positive shutoff nozzles** are offered in 3–12 mm diameters to eliminate dripping. Contact parts are **food grade 304 stainless steel** (316 optional), sealed with **food grade silicone O-rings rated to 200°C** (rubber sealing rings available for corrosive media), meeting food safety requirements. Operation switches between foot pedal and auto timer, and semi automatic / automatic modes switch freely on the same machine; optional models cover 20–1000 ml. Machine size 1850 × 550 × 1000 mm, net weight approx. 95 kg, gross weight approx. 100 kg, shipped in one reinforced carton. MOQ 1 set, T/T 100%, dispatch within 10 days; one-year whole-machine warranty plus lifetime maintenance.
 
 ---
