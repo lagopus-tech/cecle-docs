@@ -314,12 +314,25 @@ nav:
           - APF-500 4-Nozzle Perfume Filling Machine: packing-machine/filling-machine/apf-500.md
           - PL-88 Manual Perfume Filling Machine: packing-machine/filling-machine/pl-88-perfume.md
           - DF4-1000 Spout Pouch Filling Machine: packing-machine/filling-machine/df4-1000-spout-pouch.md
+          - DF8 Liquid Spout Pouch Filling Machine: packing-machine/filling-machine/df8-liquid-spout-pouch.md
+          - DFF8 Paste Spout Pouch Filling Machine: packing-machine/filling-machine/dff8-paste-spout-pouch.md
+          - SDF-500 Manual Powder Filling Machine: packing-machine/filling-machine/sdf-500-manual-powder.md
       - Form Fill & Seal Systems:
           - Overview: packing-machine/form-fill-sealing-systems/pouch-packing-machine-index.md
           - Liquid Pouch Packing Machine: packing-machine/form-fill-sealing-systems/liquid-pouch-packing-machine.md
           - Paste Pouch Packing Machine: packing-machine/form-fill-sealing-systems/paste-pouch-packing-machine.md
           - Powder Pouch Packing Machine: packing-machine/form-fill-sealing-systems/powder-pouch-packing-machine.md
           - Granule Pouch Packing Machine: packing-machine/form-fill-sealing-systems/granule-pouch-packing-machine.md
+      - Cartoning Machine:
+          - Fully Automatic Cartoning Machine Series: packing-machine/cartoning-machine/cartoning-machine.md
+      - Sugar Straw Filling Machine:
+          - Candy Straw Filling & Sealing Machine (PSP-210): packing-machine/filling-machine/sugar-straw-filling-machine/sugar-straw-filling-machine.md
+      - Continuous Band Sealer:
+          - Overview: packing-machine/continuous-band-sealer/continuous-band-sealer-index.md
+          - FR-900 Continuous Band Sealer: packing-machine/continuous-band-sealer/fr-900.md
+          - FR-1000 Solid-Ink Roller Band Sealer: packing-machine/continuous-band-sealer/fr-1000.md
+          - PM-1800 Inkjet Printing Band Sealer: packing-machine/continuous-band-sealer/pm-1800.md
+          - Nitrogen Flushing Band Sealer: packing-machine/continuous-band-sealer/nitrogen-sealing-machine.md
   - Food Machinery:
       - Samosa Making Series:
           - Overview: food-machine/samosa-making-machine/samosa-making-machine-index.md
@@ -363,6 +376,7 @@ nav:
       - Meat Forming Series:
           - Meatball Forming Machine Series: food-machine/meat-forming-machine/meat-ball-making-machine-series.md
           - Hamburger Patty Forming Machine Series: food-machine/meat-forming-machine/meat-patty-making-machine-series.md
+          - Meatball & Patty Forming Machine Overview: food-machine/meat-forming-machine/commercial-meatball-patty-forming-machine-series-index.md
       - Soy Milk Making Series:
           - Overview: food-machine/soy-milk-making-machine/soy-milk-making-machine-index.md
           - Soybean Milk Grinder: food-machine/soy-milk-making-machine/soybean-milk-grinder.md
@@ -399,12 +413,31 @@ nav:
           - Slicer & Shredder Series: food-machine/slicing-machine/commercial-vegetable-slicer-shredder-series.md
           - Double-Speed Vegetable Cutter: food-machine/slicing-machine/commercial-vegetable-slicer-series.md
           - Pneumatic Slicer Series: food-machine/slicing-machine/commercial-pneumatic-slicer-series.md
+      - Fish Killing Machine Series:
+          - Overview: food-machine/commercial-fish-killing-machine/commercial-fish-killing-machine-series-index.md
+          - Vertical Fish Killing Machine: food-machine/commercial-fish-killing-machine/vertical-fish-killing-machine.md
+          - Conveyor Fish Killing Machine: food-machine/commercial-fish-killing-machine/commercial-conveyor-fish-killing-machine.md
+      - Commercial Juicer & Blender Series:
+          - Overview: food-machine/commercial-juicer-and-blender-machine/commercial-beverage-juice-extractor-series-index.md
+          - Commercial Blender Smoothie Maker: food-machine/commercial-juicer-and-blender-machine/commercial-blender-smoothie-maker.md
+          - Commercial Orange Juicer Machine: food-machine/commercial-juicer-and-blender-machine/commercial-orange-juicer-machine.md
+          - Sugarcane Juice Extractor: food-machine/commercial-juicer-and-blender-machine/commercial-sugarcane-juice-extractor.md
+      - Commercial Ovens & Roasters:
+          - Overview: food-machine/commercial-ovens-and-roasters/commercial-oven-baking-roasting-series-index.md
+          - Pizza Bakery Deck Oven: food-machine/commercial-ovens-and-roasters/commercial-pizza-bakery-deck-oven.md
+          - Sausage Roaster Oven: food-machine/commercial-ovens-and-roasters/commercial-sausage-roaster-oven.md
+          - Commercial Steam Oven: food-machine/commercial-ovens-and-roasters/commercial-steam-oven.md
+      - Commercial Steamer Machine:
+          - Overview: food-machine/commercial-steamer-machine/commercial-food-steaming-equipment-series-index.md
+          - 12-Tray Rice Steamer Cabinet: food-machine/commercial-steamer-machine/commercial-rice-steamer.md
+          - Steam Bun Oven: food-machine/commercial-steamer-machine/commercial-steam-bun-oven.md
   - Pharmaceutical Equipment:
       - Capsule Filling Machine:
           - Overview: pharmaceutical-equipment/caspule-filling-machine/capsul-filling-machine-index.md
           - Manual Capsule Filling Tool: pharmaceutical-equipment/caspule-filling-machine/capsule-filling-tool.md
           - CGN-208D Semi-Auto Capsule Filler: pharmaceutical-equipment/caspule-filling-machine/cgn-208d-semi-auto-capsule-filling-machine.md
           - NJP Series Automatic Capsule Filler: pharmaceutical-equipment/caspule-filling-machine/njp-series-automatic-capsule-filling-machine.md
+          - CGN-208L Oil Capsule Filler: pharmaceutical-equipment/caspule-filling-machine/cgn-208l-oil-capsule-filling-machine.md
       - Tablet Press Machine:
           - Overview: pharmaceutical-equipment/tablet-press-machine/tablet-press-machine-index.md
           - Manual Tablet Press: pharmaceutical-equipment/tablet-press-machine/manual-tablet-press-machine.md
@@ -417,6 +450,9 @@ nav:
           - ZP420 High-Speed Rotary: pharmaceutical-equipment/tablet-press-machine/zp420-high-speed-rotary-tablet-press-machine.md
           - TDP-120D Single Punch: pharmaceutical-equipment/tablet-press-machine/tdp-120d-tablet-press-machine.md
           - GZPT Series High-Speed Rotary: pharmaceutical-equipment/tablet-press-machine/gzpt-series-high-speed-rotary-tablet-press-machine.md
+      - Pill Making Machine:
+          - CQZ Series Pill Making Machine: pharmaceutical-equipment/tablet-press-machine/cqz-series-pill-making-machine.md
+          - CQZ-3-30 Automatic Pill Making Machine: pharmaceutical-equipment/tablet-press-machine/cqz-3-30-automatic-pill-making-machine.md
       - Film Coating Machine:
           - Overview: pharmaceutical-equipment/film-coating-machine/coating-machine-index.md
           - BG Series High-Efficiency Coater: pharmaceutical-equipment/film-coating-machine/bg-series-coating-machine.md
