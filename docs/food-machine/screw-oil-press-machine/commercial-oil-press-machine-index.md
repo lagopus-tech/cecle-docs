@@ -106,7 +106,7 @@ Use the matrix below to evaluate the core performance, sizing, and mechanical di
   * 1500W gear-driven torque easily breaks rock-hard soybeans without binding or stalling;
   * Mobile wheeled chassis with dual-locking polyurethane casters allows effortless one-person positioning.
 
-📖 **[Read the Full S02 Series Technical Specifications & SOP Manual &rarr;](./commercial-oil-press-s02-series.md)**
+📖 **[Read the Full S02 Series Technical Specifications & SOP Manual &rarr;](./commercial-vertical-oil-press.md)**
 
 ---
 
@@ -149,7 +149,7 @@ Regardless of model, every CECLE screw oil press incorporates the following core
 | :------------------------------- | :---------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | **ZYJ Series (868 / 888)**       | Desktop Single-Head Mini Oil Press  | [ZYJ Technical Manual](./home-use-mini-oil-press-machine.md) | [View ZYJ Online](https://cecle.net/products/home-use-mini-palm-sunflower-olive-coconut-oil-press-machine-screw-household) |
 | **Model B04**                    | Portable 4-Head Parallel Oil Press  | [B04 Technical Manual](./commercial-4-head-oil-press-machine.md) | [View B04 Online](https://cecle.net/products/commercial-small-portable-4-head-oil-press-for-household-use) |
-| **S02 Series (Standard / Plus)** | Commercial Vertical Screw Oil Press | [S02 Technical Manual](./commercial-oil-press-s02-series.md) | [View S02 Online](https://cecle.net/products/commercial-peanut-sesame-flaxseed-oil-press-soybean-sesame-oil) |
+| **S02 Series (Standard / Plus)** | Commercial Vertical Screw Oil Press | [S02 Technical Manual](./commercial-vertical-oil-press.md) | [View S02 Online](https://cecle.net/products/commercial-peanut-sesame-flaxseed-oil-press-soybean-sesame-oil) |
 
 ---
 *For customized voltage configurations (110V/220V/380V), seed specimen extraction testing, or wholesale commercial quotation inquiries, please contact our engineering team via [CECLE Official Support](https://cecle.net).*

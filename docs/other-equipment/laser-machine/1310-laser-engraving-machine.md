@@ -2,8 +2,8 @@
 
 ![CNC1310 Laser Engraving Machine](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/a_aac2efbd-e547-48c2-a082-fb35fba99dd7.jpg?v=1792119730)
 
-> **Executive Summary**
-> The CNC1310 is a heavy-duty, all-metal desktop CNC router and laser engraving machine engineered for makers, prototype developers, and craft workshops. Built with an all-metal thickened aluminum profile frame and full three-axis T8 lead screw transmission, it eliminates belt backlash, elongation, and frame flex. Equipped with a high-torque 775 physical cutting spindle motor and support for optional 500mW–15W plug-and-play laser modules, the CNC1310 delivers true 3D contour carving and surface laser marking across wood, acrylic, PVC, PCB prototyping boards, and soft metals including aluminum and copper.
+The CNC1310 is a heavy-duty, all-metal desktop CNC router and laser engraving machine engineered for makers, prototype developers, and craft workshops. Built with an all-metal thickened aluminum profile frame and full three-axis T8 lead screw transmission, it eliminates belt backlash, elongation, and frame flex. Equipped with a high-torque 775 physical cutting spindle motor and support for optional 500mW–15W plug-and-play laser modules, the CNC1310 delivers true 3D contour carving and surface laser marking across wood, acrylic, PVC, PCB prototyping boards, and soft metals including aluminum and copper.
+
 
 ---
 

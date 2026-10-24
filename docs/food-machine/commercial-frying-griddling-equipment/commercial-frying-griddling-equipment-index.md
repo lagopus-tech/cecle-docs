@@ -87,7 +87,7 @@ Use the matrix below to evaluate the core performance, sizing, and mechanical di
   * Completely isolated dual wells on the FD-2 model permit independent single-well operation during off-peak hours;
   * Accommodates both fresh and unthawed frozen raw dough portions directly.
 
-📖 **[Read the Full Automatic Fried Dumpling Machine Technical Specifications & SOP Manual &rarr;](./commercial-electric-desktop-fried-dumpling-machine.md)**
+📖 **[Read the Full Automatic Fried Dumpling Machine Technical Specifications & SOP Manual &rarr;](./commercial-fried-dumpling-machine.md)**
 
 ---
 
@@ -108,7 +108,7 @@ Use the matrix below to evaluate the core performance, sizing, and mechanical di
   * Dual-valve discharge system permits rapid sediment purging without draining reusable frying oil;
   * Lowers kitchen smoke output and prevents high acid-value oil degradation.
 
-📖 **[Read the Full Oil-Water Separation Fryer Technical Specifications & SOP Manual &rarr;](./commercial-oil-water-separation-fryer.md)**
+📖 **[Read the Full Oil-Water Separation Fryer Technical Specifications & SOP Manual &rarr;](./commercial-fryer-yzg-series.md)**
 
 ---
 
@@ -176,8 +176,8 @@ Regardless of the model selected, every CECLE thermal processing system incorpor
 | Model / Series                 | Machine Type                               | Documentation Link                                           | Official Store Purchase                                      |
 | :----------------------------- | :----------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | **Baking Pan Series**          | Double-Sided Electric Flatbread Baker      | [Baking Pan Technical Manual](./commercial-electric-baking-pan.md) | [View Baking Pan Online](https://cecle.net/products/commercial-electric-baking-pan-large-capacity-automatic-constant-temperature-desktop-vertical-thousand-layer-pancake-machine) |
-| **FD Series (FD-1 / FD-2)**    | Automatic Desktop Fried Dumpling Cooker    | [Dumpling Machine Technical Manual](./commercial-electric-desktop-fried-dumpling-machine.md) | [View Dumpling Machine Online](https://cecle.net/products/commercial-electric-heating-desktop-fried-dumpling-machine-automatic-fryer) |
-| **YZG Series (YZG-35 to 100)** | Commercial Oil-Water Separation Deep Fryer | [Fryer Technical Manual](./commercial-oil-water-separation-fryer.md) | [View Deep Fryer Online](https://cecle.net/products/commercial-oil-water-separation-fryer-stall-fried-chicken-with-fried-dough-sticks) |
+| **FD Series (FD-1 / FD-2)**    | Automatic Desktop Fried Dumpling Cooker    | [Dumpling Machine Technical Manual](./commercial-fried-dumpling-machine.md) | [View Dumpling Machine Online](https://cecle.net/products/commercial-electric-heating-desktop-fried-dumpling-machine-automatic-fryer) |
+| **YZG Series (YZG-35 to 100)** | Commercial Oil-Water Separation Deep Fryer | [Fryer Technical Manual](./commercial-fryer-yzg-series.md) | [View Deep Fryer Online](https://cecle.net/products/commercial-oil-water-separation-fryer-stall-fried-chicken-with-fried-dough-sticks) |
 | **ZK Series (ZK-350 to 1200)** | Industrial Low-Temperature Vacuum Fryer    | [Vacuum Fryer Technical Manual](./commercial-low-temperature-vacuum-fryer.md) | [View Vacuum Fryer Online](https://cecle.net/products/commercial-low-temperature-industrial-vacuum-fryer-dry-pan-drying-of-fruits-and-vegetables) |
 
 ---

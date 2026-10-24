@@ -20,11 +20,11 @@ To meet the space and capacity requirements of different food factories, the GD 
 | Model | GD-150Q | GD-300Q | GD-600Q | GD-1000Q |
 | :--- | :--- | :--- | :--- | :--- |
 | **Capacity** | 150 kg/h | 300 kg/h | 600 kg/h | 1000 kg/h |
-| **Molding Method** | \multicolumn{4}{c | }{Metal Mold / Silicone Mold} | | |
-| **Candy Size** | \multicolumn{4}{c | }{2 - 20 g/piece (Customizable)} | | |
+| **Molding Method** | Metal Mold / Silicone Mold (common to all models) | | | |
+| **Candy Size** | 2 - 20 g/piece (Customizable, common to all models) | | | |
 | **Line Length** | Approx. 18 m | Approx. 22 m | Approx. 28 m | Approx. 35 m |
 | **Total Power** | Approx. 35 kW | Approx. 55 kW | Approx. 80 kW | Approx. 110 kW |
-| **Power Supply** | \multicolumn{4}{c | }{380V 50Hz 3-Phase 5-Wire} | | |
+| **Power Supply** | 380V 50Hz 3-Phase 5-Wire (common to all models) | | | |
 | **Steam Consumption** | 150 - 250 kg/h | 250 - 400 kg/h | 400 - 600 kg/h | 600 - 900 kg/h |
 | **Compressed Air** | 0.6-0.8 MPa, ≥1.0 m³/min | 0.6-0.8 MPa, ≥1.5 m³/min | 0.6-0.8 MPa, ≥2.0 m³/min | 0.6-0.8 MPa, ≥2.5 m³/min |
 | **Cooling Water** | 3 - 5 m³/h | 5 - 8 m³/h | 8 - 12 m³/h | 12 - 18 m³/h |
