@@ -239,6 +239,9 @@ nav:
               - HP-241B Electric Ribbon Coder: packing-machine/printing-machine/coding-machine/hp-241b-electric-coding-machine.md
               - HP-241C Pneumatic Ribbon Coder: packing-machine/printing-machine/coding-machine/hp-241c-pneumatic-coding-machine.md
               - MY-380F Solid-Ink Coder: packing-machine/printing-machine/coding-machine/my-380f-solid-ink-coding-machine.md
+              - IP-255 Automatic Spray Batch Inkjet Coder: packing-machine/printing-machine/coding-machine/ip-255-automatic-inkjet-printer.md
+              - IP-260 Manual Inkjet Printer Series: packing-machine/printing-machine/coding-machine/ip-260-manual-inkjet-printer.md
+              - IP-320 High-Speed CIJ Inkjet Printer: packing-machine/printing-machine/coding-machine/ip-320-cij-inkjet-printer.md
           - Heat Press Machine:
               - Overview: packing-machine/printing-machine/heat-press-machine/heat-press-machine-index.md
               - HP-57 Mini Heat Press: packing-machine/printing-machine/heat-press-machine/hp-57-mini.md
@@ -292,6 +295,12 @@ nav:
           - TD-ZB700 Ziplock Bag Making Machine: packing-machine/bag-making-machine/td-zb700-ziplock-bag-making-machine.md
           - TDZD-400/500/600 Three-Side Sealing Pouch Machine: packing-machine/bag-making-machine/tdzd-400-500-600-three-side-sealing-laminated-pouch-making-machine.md
       - Filling Machine Series:
+      - Commercial Vacuum Packing Machine:
+          - Overview: packing-machine/commercial-vacuum-packing-machine/commercial-vacuum-packing-machine-index.md
+          - Desktop Single Chamber (DZ-260T/300T/400T): packing-machine/commercial-vacuum-packing-machine/commercial-desktop-single-vacuum-packing-machine.md
+          - Double Chamber Series: packing-machine/commercial-vacuum-packing-machine/commercial-double-chamber-vacuum-packing-machine.md
+          - Single Chamber (DZ-400S): packing-machine/commercial-vacuum-packing-machine/commercial-single-chamber-vacuum-packing-machine.md
+          - External Vacuum (YUNNA Series): packing-machine/commercial-vacuum-packing-machine/external-vacuum-packing-machine.md
           - A03 Liquid Filling Machine: packing-machine/filling-machine/a03.md
           - A4 Automatic Liquid Filling Machine: packing-machine/filling-machine/a4-auto-liquid.md
           - A6 Automatic Liquid Filling Machine: packing-machine/filling-machine/a6-auto-liquid.md
@@ -320,6 +329,11 @@ nav:
           - DFF4 Semi-Automatic Paste & Liquid Spout Pouch Filler: packing-machine/filling-machine/dff4-spout-pouch-paste.md
           - TD-1A Automatic Spout Pouch Filling & Capping Machine: packing-machine/filling-machine/td-1a-automatic-liquid-and-paste-spout-pouch.md
           - ADLC-5000 Desktop Liquid & Paste Filling Line: packing-machine/filling-machine/adlc-5000-automatic-desktop-liquid-and-paste-filling-line.md
+          - AF-1600D Semi-Automatic Cartridge Gas Filling Machine: packing-machine/filling-machine/af-1600d-aerosol.md
+          - AF3-1600A Semi-Automatic 3-Head Aerosol Filling Machine: packing-machine/filling-machine/af3-1600a-aerosol.md
+          - AF4-1600A Semi-Automatic 4-Head Aerosol Filling Machine: packing-machine/filling-machine/af4-1600a-aerosol.md
+          - AL-5000 Automatic Liquid Filling Line: packing-machine/filling-machine/al-5000-automatic-liquid-filling-line.md
+          - NLA-ALC-500 Automatic Aluminium Filling Line: packing-machine/filling-machine/nla-alc-500-automatic-aluminium-liquid-paste-filling-line.md
       - Form Fill & Seal Systems:
           - Overview: packing-machine/form-fill-sealing-systems/pouch-packing-machine-index.md
           - Liquid Pouch Packing Machine: packing-machine/form-fill-sealing-systems/liquid-pouch-packing-machine.md
@@ -435,6 +449,17 @@ nav:
           - 12-Tray Rice Steamer Cabinet: food-machine/commercial-steamer-machine/commercial-rice-steamer.md
           - Steam Bun Oven: food-machine/commercial-steamer-machine/commercial-steam-bun-oven.md
   - Pharmaceutical Equipment:
+      - Screw Oil Press Series:
+          - Overview: food-machine/screw-oil-press-machine/commercial-oil-press-machine-index.md
+          - Commercial 4-Head Screw Oil Press: food-machine/screw-oil-press-machine/commercial-4-head-oil-press-machine.md
+          - Commercial Vertical Multifunctional Oil Press: food-machine/screw-oil-press-machine/commercial-vertical-oil-press.md
+          - Home & Commercial Mini Oil Press: food-machine/screw-oil-press-machine/home-use-mini-oil-press-machine.md
+      - Commercial Frying & Griddling Series:
+          - Overview: food-machine/commercial-frying-griddling-equipment/commercial-frying-griddling-equipment-index.md
+          - Double-Sided Electric Baking Pan: food-machine/commercial-frying-griddling-equipment/commercial-electric-baking-pan.md
+          - Automatic Fried Dumpling Machine: food-machine/commercial-frying-griddling-equipment/commercial-fried-dumpling-machine.md
+          - Oil-Water Separation Deep Fryer: food-machine/commercial-frying-griddling-equipment/commercial-fryer-yzg-series.md
+          - Low-Temperature Vacuum Fryer: food-machine/commercial-frying-griddling-equipment/commercial-low-temperature-vacuum-fryer.md
       - Capsule Filling Machine:
           - Overview: pharmaceutical-equipment/caspule-filling-machine/capsul-filling-machine-index.md
           - Manual Capsule Filling Tool: pharmaceutical-equipment/caspule-filling-machine/capsule-filling-tool.md
@@ -487,6 +512,11 @@ nav:
           - RE Series Rotary Evaporator: pharmaceutical-equipment/laboratory-instrument/re-serise-rotary-evaporator.md
           - WBS Series Water/Oil Bath: pharmaceutical-equipment/laboratory-instrument/wbs-serise-water-oil-bath.md
   - Material Handling Equipment:
+      - Candy Making Machine:
+          - GD Series Fully Automatic Candy Production Line: pharmaceutical-equipment/candy-making-machine/fully-automatic-candy-production-line.md
+      - Sorting Scale:
+          - HB-220 High-Precision Dynamic Checkweigher: pharmaceutical-equipment/sorting-scale/high-precision-dynamic-checkweigher.md
+          - Multi-Stage Weight Sorting Scale: pharmaceutical-equipment/sorting-scale/multi-stage-weight-sorting-scale.md
       - Stacker Series:
           - Overview: material-handling/stacker/stacker-index.md
           - Fully Electric Straddle Stacker: material-handling/stacker/fully-electric-straddle-stacker.md
@@ -522,6 +552,12 @@ nav:
       - Laser Machine:
           - DIY Laser Cutter & Engraver: other-equipment/laser-machine/diy-laser-cutter-engraver.md
           - Cantilever Diode Laser Engraver: other-equipment/laser-machine/cantilever-diode-laser-engraver.md
+          - 1080 CO2 Laser Engraving Machine: other-equipment/laser-machine/1080-co2-laser-engraving-machine.md
+          - CNC1310 Desktop Laser Engraving Machine: other-equipment/laser-machine/1310-laser-engraving-machine.md
+          - 1325 CO2 Laser Engraving Machine: other-equipment/laser-machine/1325-co2-laser-engraving-machine.md
+          - 1390/1690 CO2 Laser Engraving Machine: other-equipment/laser-machine/1390-1690-co2-laser-engraving-machine.md
+          - 9060 CO2 Laser Engraving Machine: other-equipment/laser-machine/9060-co2-laser-engraving-machine.md
+          - Mini Desktop Portable CNC Laser Engraver: other-equipment/laser-machine/mini-desktop-portable-cnc-laser-engraving-machine.md
   - Agricultural Machinery:
       - Tiller:
           - Mini Tiller Machine: agricultural-machine/tiller/multifunctional-mini-tiller.md
