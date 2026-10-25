@@ -294,13 +294,13 @@ nav:
           - PE-800/900/1000 High-Frequency Zipper Bag Machine: packing-machine/bag-making-machine/pe-800-900-1000-high-frequency-zipper-bag-making-machine.md
           - TD-ZB700 Ziplock Bag Making Machine: packing-machine/bag-making-machine/td-zb700-ziplock-bag-making-machine.md
           - TDZD-400/500/600 Three-Side Sealing Pouch Machine: packing-machine/bag-making-machine/tdzd-400-500-600-three-side-sealing-laminated-pouch-making-machine.md
-      - Filling Machine Series:
       - Commercial Vacuum Packing Machine:
           - Overview: packing-machine/commercial-vacuum-packing-machine/commercial-vacuum-packing-machine-index.md
           - Desktop Single Chamber (DZ-260T/300T/400T): packing-machine/commercial-vacuum-packing-machine/commercial-desktop-single-vacuum-packing-machine.md
           - Double Chamber Series: packing-machine/commercial-vacuum-packing-machine/commercial-double-chamber-vacuum-packing-machine.md
           - Single Chamber (DZ-400S): packing-machine/commercial-vacuum-packing-machine/commercial-single-chamber-vacuum-packing-machine.md
           - External Vacuum (YUNNA Series): packing-machine/commercial-vacuum-packing-machine/external-vacuum-packing-machine.md
+      - Filling Machine Series:
           - A03 Liquid Filling Machine: packing-machine/filling-machine/a03.md
           - A4 Automatic Liquid Filling Machine: packing-machine/filling-machine/a4-auto-liquid.md
           - A6 Automatic Liquid Filling Machine: packing-machine/filling-machine/a6-auto-liquid.md
@@ -448,7 +448,6 @@ nav:
           - Overview: food-machine/commercial-steamer-machine/commercial-food-steaming-equipment-series-index.md
           - 12-Tray Rice Steamer Cabinet: food-machine/commercial-steamer-machine/commercial-rice-steamer.md
           - Steam Bun Oven: food-machine/commercial-steamer-machine/commercial-steam-bun-oven.md
-  - Pharmaceutical Equipment:
       - Screw Oil Press Series:
           - Overview: food-machine/screw-oil-press-machine/commercial-oil-press-machine-index.md
           - Commercial 4-Head Screw Oil Press: food-machine/screw-oil-press-machine/commercial-4-head-oil-press-machine.md
@@ -460,6 +459,7 @@ nav:
           - Automatic Fried Dumpling Machine: food-machine/commercial-frying-griddling-equipment/commercial-fried-dumpling-machine.md
           - Oil-Water Separation Deep Fryer: food-machine/commercial-frying-griddling-equipment/commercial-fryer-yzg-series.md
           - Low-Temperature Vacuum Fryer: food-machine/commercial-frying-griddling-equipment/commercial-low-temperature-vacuum-fryer.md
+  - Pharmaceutical Equipment:
       - Capsule Filling Machine:
           - Overview: pharmaceutical-equipment/caspule-filling-machine/capsul-filling-machine-index.md
           - Manual Capsule Filling Tool: pharmaceutical-equipment/caspule-filling-machine/capsule-filling-tool.md
@@ -511,12 +511,12 @@ nav:
           - GDW Series Circulating Heating & Cooling Equipment: pharmaceutical-equipment/laboratory-instrument/gdw-serise-circulating-heating-and-cooling-equipment.md
           - RE Series Rotary Evaporator: pharmaceutical-equipment/laboratory-instrument/re-serise-rotary-evaporator.md
           - WBS Series Water/Oil Bath: pharmaceutical-equipment/laboratory-instrument/wbs-serise-water-oil-bath.md
-  - Material Handling Equipment:
       - Candy Making Machine:
           - GD Series Fully Automatic Candy Production Line: pharmaceutical-equipment/candy-making-machine/fully-automatic-candy-production-line.md
       - Sorting Scale:
           - HB-220 High-Precision Dynamic Checkweigher: pharmaceutical-equipment/sorting-scale/high-precision-dynamic-checkweigher.md
           - Multi-Stage Weight Sorting Scale: pharmaceutical-equipment/sorting-scale/multi-stage-weight-sorting-scale.md
+  - Material Handling Equipment:
       - Stacker Series:
           - Overview: material-handling/stacker/stacker-index.md
           - Fully Electric Straddle Stacker: material-handling/stacker/fully-electric-straddle-stacker.md
