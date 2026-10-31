@@ -334,12 +334,14 @@ nav:
           - AF4-1600A Semi-Automatic 4-Head Aerosol Filling Machine: packing-machine/filling-machine/af4-1600a-aerosol.md
           - AL-5000 Automatic Liquid Filling Line: packing-machine/filling-machine/al-5000-automatic-liquid-filling-line.md
           - NLA-ALC-500 Automatic Aluminium Filling Line: packing-machine/filling-machine/nla-alc-500-automatic-aluminium-liquid-paste-filling-line.md
+          - PF-500 + DC-1 + AL-220 Automatic Powder Filling Line: packing-machine/filling-machine/pf-500-auto-powder-filling-line.md
       - Form Fill & Seal Systems:
           - Overview: packing-machine/form-fill-sealing-systems/pouch-packing-machine-index.md
           - Liquid Pouch Packing Machine: packing-machine/form-fill-sealing-systems/liquid-pouch-packing-machine.md
           - Paste Pouch Packing Machine: packing-machine/form-fill-sealing-systems/paste-pouch-packing-machine.md
           - Powder Pouch Packing Machine: packing-machine/form-fill-sealing-systems/powder-pouch-packing-machine.md
           - Granule Pouch Packing Machine: packing-machine/form-fill-sealing-systems/granule-pouch-packing-machine.md
+          - Small Liquid & Paste Vertical Packaging Machine (S2 Series): packing-machine/form-fill-sealing-systems/small-paste-sachet-filling-sealing-machine.md
       - Cartoning Machine:
           - Fully Automatic Cartoning Machine Series: packing-machine/cartoning-machine/cartoning-machine.md
       - Sugar Straw Filling Machine:
@@ -350,6 +352,17 @@ nav:
           - FR-1000 Solid-Ink Roller Band Sealer: packing-machine/continuous-band-sealer/fr-1000.md
           - PM-1800 Inkjet Printing Band Sealer: packing-machine/continuous-band-sealer/pm-1800.md
           - Nitrogen Flushing Band Sealer: packing-machine/continuous-band-sealer/nitrogen-sealing-machine.md
+      - Strapping & Banding Machine:
+          - Overview: packing-machine/strapping-machine/strapping-machine-index.md
+          - KZB-08AL / KZB-08AD Dual-Motor Semi-Automatic: packing-machine/strapping-machine/dual-motor-semi-automatic.md
+          - SM06L / SM06D Dual-Motor Semi-Automatic: packing-machine/strapping-machine/semi-automatic-dual-motor.md
+          - KZB-DL Semi-Automatic Side-Sealed: packing-machine/strapping-machine/kzb-dl-semi-automatic-side-sealed.md
+          - TD-101A / TD-101B Automatic Strapping Machine: packing-machine/strapping-machine/automatic-strapping-machine.md
+          - TDAG-12 / TDAG-20 Automatic Banding Machine: packing-machine/strapping-machine/automatic-banding-machine.md
+          - A19 Handheld Pneumatic: packing-machine/strapping-machine/a19-handheld-pneumatic.md
+          - DD19A Handheld Electric: packing-machine/strapping-machine/dd19a-handheld-electric.md
+          - JD-1316 Handheld Electric: packing-machine/strapping-machine/jd-1316-handheld-electric.md
+          - A333 Manual Steel Strapping Tool: packing-machine/strapping-machine/a333-manual-steel.md
   - Food Machinery:
       - Samosa Making Series:
           - Overview: food-machine/samosa-making-machine/samosa-making-machine-index.md
@@ -459,6 +472,16 @@ nav:
           - Automatic Fried Dumpling Machine: food-machine/commercial-frying-griddling-equipment/commercial-fried-dumpling-machine.md
           - Oil-Water Separation Deep Fryer: food-machine/commercial-frying-griddling-equipment/commercial-fryer-yzg-series.md
           - Low-Temperature Vacuum Fryer: food-machine/commercial-frying-griddling-equipment/commercial-low-temperature-vacuum-fryer.md
+  - Commercial Kitchen Equipment:
+      - Commercial Refrigeration Equipment:
+          - Overview: kitchen-series/commercial-refrigeration-equipment/commercial-refrigeration-equipment-index.md
+          - 54-Inch 2-Section Solid Door Refrigerator: kitchen-series/commercial-refrigeration-equipment/54-inch-double-door-fridge.md
+          - 54-Inch 2-Section Glass Door Display Refrigerator: kitchen-series/commercial-refrigeration-equipment/54-inch-glass-door-fridge.md
+          - 4-Door Dual-Temperature Freezer & Refrigerator: kitchen-series/commercial-refrigeration-equipment/four-door-commercial-fridge.md
+          - 4-Door Glass Door Display Refrigerator: kitchen-series/commercial-refrigeration-equipment/four-door-glass-refrigerator.md
+          - Upright Glass Door Display Refrigerator: kitchen-series/commercial-refrigeration-equipment/glass-door-display-fridge.md
+          - Single Door Refrigerator: kitchen-series/commercial-refrigeration-equipment/single-door-refrigerator.md
+          - Three-Temperature La Carte Display Freezer: kitchen-series/commercial-refrigeration-equipment/sushi-and-prep-refrigerator.md
   - Pharmaceutical Equipment:
       - Capsule Filling Machine:
           - Overview: pharmaceutical-equipment/caspule-filling-machine/capsul-filling-machine-index.md
@@ -558,6 +581,12 @@ nav:
           - 1390/1690 CO2 Laser Engraving Machine: other-equipment/laser-machine/1390-1690-co2-laser-engraving-machine.md
           - 9060 CO2 Laser Engraving Machine: other-equipment/laser-machine/9060-co2-laser-engraving-machine.md
           - Mini Desktop Portable CNC Laser Engraver: other-equipment/laser-machine/mini-desktop-portable-cnc-laser-engraving-machine.md
+      - Laser Marking Machine:
+          - Cabinet Type Fiber Laser Marking Machine: other-equipment/laser-marking-machine/cabinet-type-fiber-laser-marking-machine.md
+          - CO2 Laser Marking Machine: other-equipment/laser-marking-machine/co2-laser-marking-machine.md
+          - UV Laser Marking Machine: other-equipment/laser-marking-machine/uv-laser-marking-machine.md
+      - EV Charger Hanging Bracket:
+          - Manual EV Charger Hanging Bracket: other-equipment/ev-charger-hanging-bracket/manual-ev-charger-hanging-bracket.md
   - Agricultural Machinery:
       - Tiller:
           - Mini Tiller Machine: agricultural-machine/tiller/multifunctional-mini-tiller.md
