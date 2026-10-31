@@ -4,8 +4,8 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/b92c772ad2d0afab688df9826860d02e.jpg?v=1793355838)
 
-> **Core Abstract:** 
-> The TD-101A and TD-101B are high-efficiency fully-automatic strapping machines engineered for conveyor lines and high-volume batch packaging stations in e-commerce, printing, and logistics industries. Delivering strapping speeds under 2.5 seconds per cycle, they automatically handle strap feeding, tensioning, hot-weld sealing, and cutting. Featuring three versatile working modes, buckle-free thermal sealing, and custom arch/table options, they serve as the ultimate productivity upgrade over semi-automatic machines for unmanned packaging lines.
+The TD-101A and TD-101B are high-efficiency fully-automatic strapping machines engineered for conveyor lines and high-volume batch packaging stations in e-commerce, printing, and logistics industries. Delivering strapping speeds under 2.5 seconds per cycle, they automatically handle strap feeding, tensioning, hot-weld sealing, and cutting. Featuring three versatile working modes, buckle-free thermal sealing, and custom arch/table options, they serve as the ultimate productivity upgrade over semi-automatic machines for unmanned packaging lines.
+
 
 ---
 

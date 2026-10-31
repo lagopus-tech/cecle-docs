@@ -3,8 +3,8 @@
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/f687b29b2c51c06f25d82268049aafc6.jpg?v=1793355840)
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/e98cb30f924a2ac08e0698011b5d830a.jpg?v=1793355840)
 
-> **Core Abstract:** 
-> The TDAG-12 and TDAG-20 are fully-automatic OPP/paper banding machines specifically designed for printing, pharmaceutical, and delicate retail industries. Utilizing either OPP plastic film or eco-friendly paper bands, they bundle lightweight items via instant thermal heat sealing without leaving any adhesive residue or pressure marks. Featuring photoelectric automatic triggering and dual-model specifications, they provide a damage-free, eco-friendly bundling solution for small, delicate goods.
+The TDAG-12 and TDAG-20 are fully-automatic OPP/paper banding machines specifically designed for printing, pharmaceutical, and delicate retail industries. Utilizing either OPP plastic film or eco-friendly paper bands, they bundle lightweight items via instant thermal heat sealing without leaving any adhesive residue or pressure marks. Featuring photoelectric automatic triggering and dual-model specifications, they provide a damage-free, eco-friendly bundling solution for small, delicate goods.
+
 
 ---
 

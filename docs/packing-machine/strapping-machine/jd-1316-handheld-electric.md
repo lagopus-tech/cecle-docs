@@ -2,8 +2,8 @@
 
 ![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/JD-1316.jpg?v=1793355835)
 
-> **Core Abstract:** 
-> The JD-1316 is a versatile, cordless handheld battery-powered strapping tool universally compatible with both PET and PP straps (13–16 mm). Designed for mobile packaging stations, warehouses, and logistics loading docks, it delivers up to 2800 N of adjustable tension force and features friction heat-sealing for secure, buckle-free strapping. Weighing only 2.8 KG, it significantly boosts daily packaging output while eliminating consumable metal seal costs and providing ultimate portability.
+The JD-1316 is a versatile, cordless handheld battery-powered strapping tool universally compatible with both PET and PP straps (13–16 mm). Designed for mobile packaging stations, warehouses, and logistics loading docks, it delivers up to 2800 N of adjustable tension force and features friction heat-sealing for secure, buckle-free strapping. Weighing only 2.8 KG, it significantly boosts daily packaging output while eliminating consumable metal seal costs and providing ultimate portability.
+
 
 ---
 
