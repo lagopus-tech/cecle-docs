@@ -124,7 +124,17 @@ To help customers establish a complete production loop from raw powder to finish
 
 ---
 
-## VII. Media & Materials
+## VII. Additional Models & Documentation
+
+The models below belong to the same solid-dosage counting and bottling family and each has a dedicated technical page:
+
+* **[YMGP Series Fully Automatic Tablet & Capsule Counting Machine](./automatic-capsule-pill-tablet-counter.md)** — Fully automatic counting and bottling line equipment with flexible head design (single / double / multi-head) and three capacity tiers: 20–50, 40–80, and 100–300 bottles/min. Filling accuracy ≥ 98%; 1 kW; 2000 × 700 × 1800 mm.
+* **[JF-24A 24-Channel Automatic Electronic Counting Machine](./jf24-automatic-electronic-counter.md)** — High-speed 24-channel electronic counter with filling accuracy ≥ 99.5% and 20–90 bottles/min throughput. Bottle setting range 2–9,999 pcs; 1.5 kW; 450 kg; 1760 × 1650 × 1650 mm.
+* **[Fully Automatic Desiccant Inserter Machine](./automatic-desiccantinserter-machine.md)** — Companion equipment that inserts desiccant into plastic or glass bottles (height 20–200 mm) at 20–80 bottles/min, normally installed downstream of the counter on the same packaging line. 220V / 380V 50Hz; 160 × 95 × 170 cm.
+
+---
+
+## VIII. Media & Materials
 
 *   [🎬 Click here to watch the SPN-400 Semi-Automatic Counter Machine operation demo (YouTube)](https://youtu.be/Eb_UVT-VUkw?si=UGyebjjTtDd-0epH)
 *   [🎬 Click here to watch the JF-8 Automatic Counter Machine operation demo (YouTube)](https://youtu.be/tII6s_zSfH8?si=7bAwJC9-PWbnUdqI)
