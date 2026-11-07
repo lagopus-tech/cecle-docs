@@ -34,7 +34,7 @@ This unit delivers high-efficiency refrigeration through the seamless synergy of
 
 * **Ultimate Space-Optimized Vertical Asset**: Combining a slim 30" width with a 4-door split configuration delivers **28 cubic feet** of highly organized vertical storage, meeting high-volume inventory demands while maximizing floor space utilization in tight kitchens.
 * **Ultra-Low Air Loss 4-Door Architecture**: Compared to standard full-height single doors, the four half-door design lets staff open only the specific quadrant needed, retaining the vast majority of internal cold air, slashing energy consumption, and preserving critical temperature stability.
-* **Exceptional Durability & Superior ROI**: Built from rugged all-stainless steel construction to withstand high-volume, high-humidity kitchen conditions, minimizing food spoilage risks caused by equipment failure.
+* **Exceptional Durability**: Built from rugged all-stainless steel construction to withstand high-volume, high-humidity kitchen conditions, minimizing food spoilage risks caused by equipment failure.
 
 ---
 
@@ -141,15 +141,12 @@ Watch an actual machine demonstration of this 30" four-door stainless steel comm
 
 ## VI. Commercial Terms & Purchasing Guide
 
-### 1. Kitchen Return on Investment (ROI)
-For commercial kitchens operating with limited floor space but demanding high-volume prep requirements, a dependable, space-optimized multi-door reach-in freezer is a core productivity driver. This 30"W four-door stainless steel freezer provides 28 Cu.ft of spacious vertical storage, effectively safeguarding valuable inventory against spoilage and disorganization. Premium commercial refrigeration protects food safety while lowering electrical overhead through everyday energy efficiency, typically recouping equipment capital expenditure within the initial operating months.
-
-### 2. Logistics, Shipping & Warranty
+### 1. Logistics, Shipping & Warranty
 
 * **Heavy-Duty Commercial Equipment Logistics**:
   * **Ocean Freight DDP Door-to-Door / Dedicated Truckload Freight**: Due to the height and weight of the 30" four-door freezer, factory shipments are reinforced with heavy-duty wooden skids and impact-resistant protective packaging. We offer professional international ocean shipping and local heavy freight delivery with liftgate services, ensuring safe, undamaged arrival at your restaurant or central kitchen loading area.
 * **Factory Warranty & Technical Support**: Core refrigeration components (such as the high-performance compressor) are backed by long-term official factory warranty support. CECLE maintains an established commercial spare parts supply chain and a professional engineering support team, ready to provide one-on-one video assistance and troubleshooting guidance whenever needed.
 
-### 3. Official Procurement & Inquiries
+### 2. Official Procurement & Inquiries
 
 * 🛒 **Official Direct Purchase Link**: [Click here to order the Commercial 30" Four Solid Door Stainless Steel Reach-In Freezer (28 Cu.ft) on the CECLE Store](https://cecle.net/products/commercial-30-w-four-door-stainless-steel-reach-in-freezer-28-cu-ft-1)

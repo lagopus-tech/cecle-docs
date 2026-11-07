@@ -112,8 +112,6 @@ The Electric Remote-Control EV Charger Hanging Bracket is a smart overhead lifti
 
 ### International Trade
 * **MOQ**: 1 set
-* **Payment Method**: T/T (100% in advance)
-* **Lead Time**: Within 7 days
 * **Packaging Standard**: Ordinary carton
 * **Place of origin**: WenZhou, Zhejiang, China
 

@@ -41,7 +41,7 @@
 
 * **Tiered Presentation Drives Impulse Purchasing**: The 3-tier stepped structure eliminates the blind spots of traditional flat chest freezers, showcasing ingredients in an appetizing, panoramic layout that boosts appetite and increases customer grab-and-go frequency.
 * **High Space Efficiency (2 Units in 1)**: Merges a conventional prep counter with a separate chest freezer into a single footprint, freeing up valuable floor space in busy kitchens and dining halls.
-* **Exceptional Return on Investment (ROI)**: The 300W low-wattage design delivers ongoing utility savings, while superior moisture retention cuts down on food waste from meat discoloration, typically recovering the equipment purchase cost within the first few months of operation.
+* **Energy Efficiency & Moisture Retention**: The 300W low-wattage design delivers ongoing utility savings, while superior moisture retention cuts down on food waste from meat discoloration.
 
 ---
 
@@ -87,7 +87,7 @@
 | **Door & Exterior Trim**             | HD dual-curved tempered anti-fog glass sliding doors + food-grade stainless steel exterior |
 | **Interior Build**                   | Hygienic & clean plastic-sprayed storage interior panels     |
 | **Mobility System**                  | Movable cabinet feet with heavy-duty rollers and locking brakes |
-| **Global Shipping Options**          | **Ocean Freight DDP Door-to-Door (Customs clearance & duties prepaid, approx. 50-60 days) / Dedicated Truck Freight** |
+| **Global Shipping Options**          | **Ocean Freight DDP Door-to-Door (Customs clearance & duties prepaid) / Dedicated Truck Freight** |
 
 *(Note: Confirm proper electrical grounding before powering on. Run empty for 1–2 hours upon initial setup).*
 
@@ -141,15 +141,12 @@ Watch the unit's exterior craftsmanship, smooth sliding door operation, and spac
 
 ## VI. Commercial Terms & Purchasing Guide
 
-### 1. Store Return on Investment (ROI)
-In busy buffet restaurants, hot pot/BBQ concepts, or fresh food displays, this 3-tier unit expands visible display capacity by over 30% compared to flat wells, and its open sightlines directly stimulate customer selection. Combined with an ultra-low 300W power draw and moisture-retaining direct cooling, lower utility bills and reduced food shrinkage often offset the initial purchase cost within 1 to 2 months of launch.
-
-### 2. Logistics, Freight & Warranty
+### 1. Logistics, Freight & Warranty
 
 * **Heavy Commercial Equipment Delivery**:
-  * **Ocean Freight DDP Door-to-Door**: Due to the heavy-duty build and tempered glass doors, all units ship in fully crated wooden frames with shock-absorbing honeycomb foam. We provide hassle-free international sea freight DDP service (customs clearance, import duties, and final delivery included; delivery window approx. 50–60 days) alongside local liftgate truck transport.
+  * **Ocean Freight DDP Door-to-Door**: Due to the heavy-duty build and tempered glass doors, all units ship in fully crated wooden frames with shock-absorbing honeycomb foam. We provide hassle-free international sea freight DDP service (customs clearance, import duties, and final delivery included) alongside local liftgate truck transport.
 * **Factory Warranty & Technical Support**: Core refrigeration compressors include comprehensive factory warranty coverage. CECLE maintains an extensive commercial refrigeration parts inventory and an experienced engineering support team ready to provide remote video setup, commissioning, and technical guidance.
 
-### 3. Official Procurement & Inquiries
+### 2. Official Procurement & Inquiries
 
 * 🛒 **Official Direct Purchase Link**: [Click here to order the Commercial Three-Level Ladder Stainless Steel Sliding Glass Door Refrigerator & Freezer on the CECLE Store](https://cecle.net/products/three-level-ladder-type-freezer-stainless-steel-material-with-glass-sliding-door-type-upper-refrigeration-and-lower-freezing)

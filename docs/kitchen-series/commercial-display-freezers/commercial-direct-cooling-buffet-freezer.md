@@ -34,7 +34,7 @@ This unit delivers high-efficiency refrigeration through the seamless synergy of
 
 * **Appetite-Inducing Self-Service Merchandising**: The panoramic tempered glass sliding top combined with wide-angle presentation showcases neatly arrayed steaks, lamb rolls, shellfish, and skewers, significantly boosting patron appetite and perceived venue quality.
 * **Low-Loss Sliding Door Architecture**: Segmented top-sliding glass doors allow diners to open only the targeted section, preventing whole-cabinet cold air dumping. Compared to fully open island wells, it blocks over 60% of ambient heat transfer, dramatically reducing compressor cycling.
-* **Exceptional Durability & Superior ROI**: Rugged stainless steel counters endure accidental knife contact, bone friction, and heavy food pan drops without denting. Superior moisture-retention preserves expensive cuts of meat, typically recouping initial capital investment within the first 1–2 months of operation.
+* **Exceptional Durability**: Rugged stainless steel counters endure accidental knife contact, bone friction, and heavy food pan drops without denting. Superior moisture retention preserves expensive cuts of meat.
 
 ---
 
@@ -141,15 +141,12 @@ Watch an actual machine demonstration of this commercial stainless steel direct 
 
 ## VI. Commercial Terms & Purchasing Guide
 
-### 1. Kitchen Return on Investment (ROI)
-For busy barbecue buffet restaurants, hot pot self-service lines, or fresh food bars, an attractive and thermally dependable display showcase is a direct revenue engine. This commercial direct-cooling stainless steel buffet freezer pairs large-capacity stockpiling with enticing open presentation, eliminating repetitive kitchen trips for staff refills and stopping meat oxidation and dehydration at the source. Most restaurant operators fully recover their equipment acquisition cost within the first 1–2 months through saved labor and dramatically reduced food spoilage.
-
-### 2. Logistics, Shipping & Warranty
+### 1. Logistics, Shipping & Warranty
 
 * **Heavy-Duty Commercial Equipment Logistics**:
   * **Ocean Freight DDP Door-to-Door / Dedicated Truckload Freight**: Due to the large footprint and tempered glass components, factory shipments are reinforced with heavy-duty solid wooden pallet bases, full-coverage honeycomb cardboard, and shock-absorbent foam. We provide international customs-cleared DDP ocean freight and domestic liftgate truck delivery directly to your venue entrance.
 * **Factory Warranty & Technical Support**: The core commercial refrigeration compressor is backed by long-term official factory warranty protection. CECLE maintains an established commercial spare parts inventory and an engineering support team ready to provide video setup assistance and ongoing maintenance guidance.
 
-### 3. Official Procurement & Inquiries
+### 2. Official Procurement & Inquiries
 
 * 🛒 **Official Direct Purchase Link**: [Click here to order the Commercial Direct Cooling Buffet Restaurant Stainless Steel Freezer on the CECLE Store](https://cecle.net/products/commercial-direct-cooling-buffet-restaurant)

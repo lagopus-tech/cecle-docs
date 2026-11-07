@@ -141,15 +141,11 @@ The LMJ-110P Handheld Fiber Laser Marker is an industrial-grade, commercial port
 ## VII. Business Terms
 
 ### **Domestic Terms**
-* **Payment Terms**: 30% advance deposit; remaining 70% balance payable after factory video inspection prior to shipment.
 * **Logistics**: Dedicated freight line shipping with custom vibration-absorbing foam inserts and reinforced wooden crate packaging.
-* **Lead Time**: Standard models shipped within 3–5 working days following commissioning; customized fixtures or attachments delivered in 7–10 working days.
 * **Warranty & Service**: 1-year full machine warranty with manufacturer-backed laser source service and lifelong remote technical support.
 
 ### **International Terms**
-* **Payment Terms**: 30% T/T deposit in advance, 70% balance paid before shipment following video inspection.
 * **Trade Terms**: FOB (Ningbo/Shanghai), CFR, CIF, or DDP to door via express/air/ocean freight.
-* **Lead Time**: 5–7 working days after receipt of payment for standard voltage/plug configurations.
 * **Packaging**: Export-standard heavy-duty reinforced wooden crate or flight case with custom EVA foam cushioning suitable for international transit.
 * **After-Sales Support**: 12 months full warranty on major components; lifelong English technical guidance, parameter tuning, and remote desktop troubleshooting.
 

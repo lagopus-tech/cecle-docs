@@ -65,7 +65,7 @@ The PDL Mini Fiber Laser Engraver is an industrial-grade, ultra-compact desktop 
 
 ### **Sales Suggestions:**
 - **Target Industry Pain Points**: Highlight advantages such as "zero consumables", "maintenance-free operation", and "permanent wear-resistant marks" to customers dealing with messy inkjet printing or loud dot-peen markers.
-- **Emphasize ROI for Small Businesses**: Showcase the 330*460*580mm compact footprint and 100,000-hour laser source lifespan to small studios seeking quick return on investment with minimal shop overhead.
+- **Emphasize Suitability for Small Businesses**: Showcase the 330*460*580mm compact footprint and 100,000-hour laser source lifespan to small studios with minimal shop overhead.
 - **Sample Testing Strategy**: Offer free sample marking services or record customized short videos on clients' metal samples to showcase the fine micro-level details.
 
 ### **Frequently Asked Questions (FAQ):**
@@ -135,15 +135,11 @@ The PDL Mini Fiber Laser Engraver is an industrial-grade, ultra-compact desktop 
 ## VII. Business Terms
 
 ### **Domestic Terms**
-- **Payment**: 30% advance deposit; remaining 70% balance payable after factory video inspection prior to shipment.
 - **Logistics**: Dedicated freight line dispatch with shock-absorbing foam inserts and reinforced wooden crate packaging.
-- **Lead Time**: In-stock units ready to ship or dispatched within 3–5 working days following debugging.
 - **Warranty**: 1-year full machine warranty with lifelong remote technical guidance.
 
 ### **International Terms**
-- **Payment Terms**: 30% T/T deposit in advance, 70% balance paid before shipment following video inspection.
 - **Trade Terms**: FOB (Ningbo/Shanghai), CFR, CIF, or door-to-door DDP (via express/air/sea).
-- **Lead Time**: 5–7 working days following receipt of deposit for standard setups.
 - **Packaging**: Export-standard reinforced wooden crate or flight case suitable for international transit.
 - **After-Sales Support**: 12 months warranty on core components; lifelong English technical guidance and remote setup support.
 

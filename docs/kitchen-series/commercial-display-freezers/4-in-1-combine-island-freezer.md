@@ -82,7 +82,7 @@ To ensure reliable, long-term operation and maximum cooling performance, store o
 | **Lid Construction**                   | High-strength, anti-fog, low-emissivity dual-curved tempered glass sliding doors |
 | **Cabinet Insulation**                 | High-density high-pressure eco-friendly polyurethane foam, thermal-break sealed |
 | **Interior Display Hardware**          | Heavy-duty dip-coated / stainless steel divider grids and high-capacity wire baskets |
-| **Global Shipping Options**            | **DDP by sea to door about 45-65 days (customs clearance & duties prepaid) / Freight truck** |
+| **Global Shipping Options**            | **DDP by sea to door (customs clearance & duties prepaid) / Freight truck** |
 
 *(Note: Large modular commercial freezer installations require stable commercial electrical circuits. Verify store power capacity prior to installation).*
 
@@ -136,15 +136,12 @@ Review the exterior modular assembly, smooth glide of the sliding lids, and expa
 
 ## VI. Commercial Terms & Purchasing Guide
 
-### 1. Store Return on Investment (ROI)
-In high-traffic supermarkets, wholesale clubs, or frozen specialty outlets, the combination island freezer is a primary driver of frozen category conversions and loss prevention. The panoramic display and flexible splicing increase display capacity by over 40%, while closed convective moisture retention eliminates shrinkage from product drying, weight loss, and discoloration. Combined with the utility savings delivered by independent low-noise compressors, operators typically recoup their equipment investment within 2 to 3 months of deployment.
-
-### 2. Heavy Commercial Logistics & Warranty
+### 1. Heavy Commercial Logistics & Warranty
 
 * **Turnkey International Freight**:
-  * **DDP Ocean Freight Delivery (approx. 45–65 days)**: Due to the physical footprint and tempered glass components, units ship fully protected on heavy-duty export-grade solid wood skids wrapped in honeycomb buffering board and multi-layer pearl foam. We provide end-to-end customs-cleared, duty-paid door-to-door delivery (DDP) alongside local liftgate truck transport directly to your retail entrance.
+  * **DDP Ocean Freight Delivery**: Due to the physical footprint and tempered glass components, units ship fully protected on heavy-duty export-grade solid wood skids wrapped in honeycomb buffering board and multi-layer pearl foam. We provide end-to-end customs-cleared, duty-paid door-to-door delivery (DDP) alongside local liftgate truck transport directly to your retail entrance.
 * **Factory Warranty & Engineering Support**: Core hermetic compressors are supported by a comprehensive manufacturer warranty. CECLE maintains an established commercial spare parts inventory and a veteran engineering support team, offering remote video assembly guidance, digital parameter calibration, and ongoing operational support.
 
-### 3. Official Ordering & Inquiries
+### 2. Official Ordering & Inquiries
 
 * 🛒 **Official Direct Purchase Link**: [Click here to order the Commercial 4-In-1 Modular Combination Island Freezer on the CECLE Store](https://cecle.net/products/4-in-1-combine-island-freezer-two-styles-to-choose-from)

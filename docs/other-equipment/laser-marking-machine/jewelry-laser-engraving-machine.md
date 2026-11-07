@@ -136,15 +136,11 @@ The High Accuracy Desktop Jewelry Laser Engraving Machine (Desktop Necklace Proj
 ## VII. Business Terms
 
 ### **Domestic Terms**
-* **Payment Terms**: 30% advance deposit; factory sample video inspection and approval prior to the 70% balance payment and dispatch.
 * **Logistics**: Dedicated freight line shipping with custom high-density shock-absorbing foam packaging inside a reinforced wooden crate.
-* **Lead Time**: 5–7 working days for optical alignment and factory burn-in testing on standard configurations; 7–10 working days for setups with customized rotary fixtures.
 * **Warranty & Service**: 1-year full machine warranty with manufacturer coverage on the UV laser source; lifelong remote technical assistance, process parameters, and software updates.
 
 ### **International Terms**
-* **Payment Terms**: 30% T/T deposit in advance, 70% balance paid before shipment following detailed video micro-engraving inspection.
 * **Trade Terms**: FOB (Ningbo/Shanghai), CFR, CIF, or door-to-door DDP (via express/air/sea).
-* **Lead Time**: 7–10 working days after receipt of down payment for optical calibration and burn-in testing.
 * **Packaging**: Heavy-duty export-standard wooden crate with shock-absorbing foam packaging compliant with international transit standards.
 * **After-Sales Support**: 12 months full warranty on main functional components; lifelong English remote desktop setup, parameter calibration guidance, and operational assistance.
 

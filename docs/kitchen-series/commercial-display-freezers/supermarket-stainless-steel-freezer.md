@@ -34,7 +34,7 @@ This unit delivers high-efficiency cooling through the coordinated operation of 
 
 * **High-Impact Visual Merchandising**: Clear tempered glass top doors combined with a wide-angle presentation plane showcase neatly arranged steaks, sliced meats, shellfish, and prepared foods at a glance, elevating store aesthetics and customer buying intent.
 * **Low-Loss Segmented Door Design**: The segmented sliding glass door design allows shoppers to access specific display zones without exposing the entire cabinet interior. Compared to conventional open island freezers, it blocks over 60% of external warm air infiltration, noticeably lowering compressor cycle frequency and power consumption.
-* **Superior Durability & ROI**: The heavy-duty stainless steel countertop resists denting and deformation from heavy trays or contact with bone edges. Its long-lasting moisture-locking preservation minimizes spoilage of premium meat cuts, typically allowing retailers to recoup equipment acquisition costs within 1–2 months of operation.
+* **Superior Durability**: The heavy-duty stainless steel countertop resists denting and deformation from heavy trays or contact with bone edges. Its long-lasting moisture-locking preservation minimizes spoilage of premium meat cuts.
 
 ---
 
@@ -133,15 +133,12 @@ Inspect the exterior craftsmanship, smooth-sliding glass doors, and expansive in
 
 ## VI. Commercial Terms & Procurement Guide
 
-### 1. Store Return on Investment (ROI)
-Across high-traffic supermarkets, butcheries, and open market fresh departments, an attractive, high-insulation display freezer serves as an operational focal point to attract foot traffic and minimize shrinkage. This commercial direct-cooling stainless showcase integrates high-density merchandising with bulk inventory storage, cutting labor hours spent shuttling back and forth to back-room cold storage. By stopping oxidation, discoloration, and dehydration waste at the source, the unit typically offsets its acquisition cost within 1–2 months through saved labor and reduced shrinkage.
-
-### 2. Logistics, Shipping & Warranty
+### 1. Logistics, Shipping & Warranty
 
 * **Heavy Commercial Equipment Delivery**:
   * **Ocean Freight DDP Door-to-Door / Dedicated Line Truck Freight**: Given the cabinet footprint and tempered glass door assemblies, all shipments are packed with heavy-duty solid wood pallet bases, full-coverage honeycomb fiberboard, and anti-vibration pearl foam protection. We provide mature international customs-cleared, duty-paid door-to-door (DDP) logistics and local liftgate truck transport, ensuring equipment arrives safely at your retail storefront.
 * **Factory Warranty & Technical Support**: Core commercial compressors are backed by comprehensive factory warranty coverage. CECLE maintains an extensive commercial refrigeration parts inventory alongside veteran technical support teams, providing one-on-one video commissioning, digital parameter setup, and ongoing maintenance support.
 
-### 3. Official Procurement & Inquiries
+### 2. Official Procurement & Inquiries
 
 * 🛒 **Official Direct Purchase Link**: [Click here to order the Commercial Supermarket Stainless Steel Display Refrigerator Freezer on the CECLE Store](https://cecle.net/products/supermarket-display-cabinets-stainless-steel-refrigerator-freezer)

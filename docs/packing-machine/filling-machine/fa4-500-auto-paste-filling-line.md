@@ -76,7 +76,7 @@ The line is built from three main machines: the **FA4-500 four-head automatic fi
 - Best positioned for small and medium-sized cosmetics, daily chemical and food factories with **daily output under 10,000 bottles** that need both paste and liquid capability — low entry investment and quick to master.
 - For high-viscosity pastes (such as face cream or hair wax), recommend the 316 stainless steel contact parts plus the glass cover option together.
 - For mixed production of round and square bottles, recommend adding the bottle distributing machine to significantly reduce manual bottle loading.
-- Lead time is 30–45 working days with wooden case packing, FOB Ningbo port — well suited to overseas customers' quotation and negotiation cycles.
+- Wooden case packing, FOB Ningbo port.
 
 **FAQ**
 
@@ -92,8 +92,8 @@ A: It works with common bottle types such as plastic (PET) bottles and glass bot
 **Q4: Can the voltage be customised?**
 A: Standard voltage is 220 V 50/60 Hz; it can be customised to local requirements (e.g. 110 V or 380 V).
 
-**Q5: What about lead time and warranty?**
-A: Lead time is 30–45 working days. The whole machine carries a one-year warranty (counted from start-up in the buyer's factory); free parts are provided for quality problems during the warranty period, and lifetime repair service is available afterwards.
+**Q5: What about the warranty?**
+A: The whole machine carries a one-year warranty (counted from start-up in the buyer's factory); free parts are provided for quality problems during the warranty period, and lifetime repair service is available afterwards.
 
 **Q6: Is there an operation video for the line?**
 A: Yes — see the operation video and the line working process video in "Media & Materials" below.
@@ -137,10 +137,10 @@ A: Yes — see the operation video and the line working process video in "Media 
     },
     {
       "@type": "Question",
-      "name": "What is the delivery time and warranty?",
+      "name": "What is the warranty?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Delivery takes 30 to 45 working days. Warranty is one year from start-up in the buyer's factory; free parts are provided for quality problems during the warranty period, with lifetime maintenance service afterwards."
+        "text": "Warranty is one year from start-up in the buyer's factory; free parts are provided for quality problems during the warranty period, with lifetime maintenance service afterwards."
       }
     }
   ]

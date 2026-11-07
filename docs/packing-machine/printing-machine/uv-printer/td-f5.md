@@ -132,11 +132,9 @@ The TD-F5 is a high-speed, industrial-grade cylindrical UV printer designed for 
 ## VII. Commercial Terms
 
 ### International Trade Terms
-* **MOQ**：1 set
-* **Payment Method**：T/T (100% in advance)
-* **Lead Time**：Within 15 days
-* **Packaging Standard**：Wooden case (Export standard)
-* **Place of origin**：Wenzhou, Zhejiang, China
+* **MOQ**: 1 set
+* **Packaging Standard**: Wooden case (Export standard)
+* **Place of origin**: Wenzhou, Zhejiang, China
 
 ### Request a Quote & Purchase
 [🛒 Click here to view pricing and purchase on our official store](https://cecle.net/products/high-speed-cylindrical-uv-printer-round-bottle-printing-machine-thermos-mug-cup-conical-cup-printer)

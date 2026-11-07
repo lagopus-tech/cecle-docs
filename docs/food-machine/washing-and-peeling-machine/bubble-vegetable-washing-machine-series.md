@@ -156,13 +156,13 @@ Watch the commercial industrial continuous bubble fruit and vegetable washing as
 
 ## VI. Commercial Terms & Purchasing Guide
 
-### 1. Equipment Investment & Return on Investment (ROI)
-The reference starting price for this commercial continuous bubble washing assembly line is **$11,000.00 USD** (customizable across VAL-200 / VAL-300 / VAL-400 tank lengths and belt widths, with 220V / 380V / 415V 3-phase power options; door-to-door DDP ocean shipping or container freight available). For a central kitchen or distribution center processing 5–10 tons of produce daily, this line saves the labor costs of 12 to 18 manual prep workers while reducing fresh water usage by 60%. **Capital investment is typically fully recouped within 2 to 3 months of commercial production**.
+### 1. Model Options & Configuration
+This commercial continuous bubble washing assembly line is available in VAL-200 / VAL-300 / VAL-400 configurations with different tank lengths and belt widths, and with 220V / 380V / 415V 3-phase power options. Door-to-door DDP ocean shipping or container freight is available.
 
 ### 2. Logistics, Shipping & Warranty
 
 * **Ocean Freight Door-to-Door & Port Delivery Services**:
-  * **Heavy-Duty Non-Fumigation Crated Sea Freight DDP**: Transit time is approximately **45–55 days**. Machines are wrapped with rust-inhibiting stretch film, secured inside heavy-duty solid wood crates, and delivered directly to your commercial warehouse with import duties and customs clearance handled.
+  * **Heavy-Duty Non-Fumigation Crated Sea Freight DDP**: Machines are wrapped with rust-inhibiting stretch film, secured inside heavy-duty solid wood crates, and delivered directly to your commercial warehouse with import duties and customs clearance handled.
   * **Standard Ocean Container Freight (FCL / LCL)**: Ideal for complete processing line orders (washer + air-knife dryer + vegetable cutter), supported by full shipping documentation including Bill of Lading (B/L), Certificate of Origin (CO), and commercial clearance papers.
 * **Industrial Factory Warranty & Lifetime Spare Parts Support**: The structural frame, high-pressure vortex blower, water pumps, VFD, and gear motors carry a 1-year official factory warranty. CECLE maintains long-term inventory of genuine SUS304 mesh belts, aeration nozzles, fan spray heads, waterproof electrical controls, and drive chains, offering expedited international air delivery and one-on-one video support from industrial equipment engineers.
 
