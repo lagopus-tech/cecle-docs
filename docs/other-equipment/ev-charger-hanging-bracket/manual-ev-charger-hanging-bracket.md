@@ -1,6 +1,8 @@
 # Manual EV Charger Hanging Bracket
 
-![](https://cdn.shopify.com/s/files/1/0010/4982/1242/products/ev-charger-hanging-bracket-for-basementmiddle-parking-ev-charging-station-holder-and-support-681001.jpg?v=1691210897)
+![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/f9670cc4c93a85a653dc6e3484c2499c.jpg?v=1769411382)
+
+![](https://cdn.shopify.com/s/files/1/0010/4982/1242/files/a87132cefa2c5af04b8583c556c1bdd6.jpg?v=1769411396)
 
 ---
 
@@ -64,15 +66,15 @@ The Manual EV Charger Hanging Bracket is an overhead telescopic mounting solutio
 
 ### FAQ
 * **Q1: Is this bracket compatible with all EV charger brands?**
-  * **A**: Yes. The long version features a 30 cm wide mounting plate, and the short version is 32 cm wide. It accommodates mainstream models including **Tesla, Volkswagen ID, Mercedes-Benz EQC, ORA, Zeekr, NIO, BYD, Li Auto, and Xpeng**. Custom hole patterns are available upon request.
+  * **A**: Yes. It accommodates mainstream models including **Tesla, Volkswagen ID, Mercedes-Benz EQC, ORA, Zeekr, NIO, BYD, Li Auto, and Xpeng**. Custom hole patterns are available upon request.
 * **Q2: How is it installed and wired?**
   * **A**: The top mounting plate includes 4 pre-drilled holes, secured to the ceiling or structural beam using the included 4 heavy-duty expansion bolts. Consult property management prior to wiring; ceiling runs should use rigid conduits with flexible piping for the moving sections.
 * **Q3: Is it secure enough to prevent falling?**
   * **A**: Absolutely secure. Each heavy-duty expansion bolt supports hundreds of kilograms, and the 4-bolt configuration easily withstands thousands of pounds of pull force, providing an exceptionally safe overhead mount.
 * **Q4: Is it difficult to pull down or will it snap upward uncontrollably?**
   * **A**: Not at all. It features **2 heavy-duty tension springs** for balancing assistance. Depending on individual strength, users can choose to attach either one or two springs. With a **60 cm telescopic travel range and 7 height locking gears**, users can smoothly select and lock into their ideal resting height.
-* **Q5: How do I choose the correct bracket length? Can it be customized?**
-  * **A**: Choose the **Short Version (1.0m–1.6m)** for ceiling heights **under 3.3m**, and the **Long Version (1.5m–2.1m)** for ceiling heights around **3.5m–4.0m**. Non-standard customized dimensions are fully supported.
+* **Q5: How to choose the bracket length? Is customization available?**
+  * **A**: Choose the **Short Version (1.0m–1.6m)** for garage ceiling heights below 3.5 meters, and the **Long Version (1.5m–2.1m)** for garage ceiling heights above 3.5 meters. Non-standard customized dimensions are fully supported.
 
 <script type="application/ld+json">
 {
@@ -84,7 +86,7 @@ The Manual EV Charger Hanging Bracket is an overhead telescopic mounting solutio
       "name": "Is this bracket compatible with all EV charger brands?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The long version features a 30 cm wide mounting plate, and the short version is 32 cm wide. It accommodates mainstream models including Tesla, Volkswagen ID, Mercedes-Benz EQC, ORA, Zeekr, NIO, BYD, Li Auto, and Xpeng. Custom hole patterns are available upon request."
+        "text": "Yes. It accommodates mainstream models including Tesla, Volkswagen ID, Mercedes-Benz EQC, ORA, Zeekr, NIO, BYD, Li Auto, and Xpeng. Custom hole patterns are available upon request."
       }
     },
     {
@@ -113,10 +115,10 @@ The Manual EV Charger Hanging Bracket is an overhead telescopic mounting solutio
     },
     {
       "@type": "Question",
-      "name": "How do I choose the correct bracket length? Can it be customized?",
+      "name": "How to choose the bracket length? Is customization available?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Choose the Short Version (1.0m–1.6m) for ceiling heights under 3.3m, and the Long Version (1.5m–2.1m) for ceiling heights around 3.5m–4.0m. Non-standard customized dimensions are fully supported."
+        "text": "Choose the Short Version (1.0m–1.6m) for garage ceiling heights below 3.5 meters; choose the Long Version (1.5m–2.1m) for garage ceiling heights above 3.5 meters. Non-standard customized dimensions are fully supported."
       }
     }
   ]
@@ -136,10 +138,10 @@ The Manual EV Charger Hanging Bracket is an overhead telescopic mounting solutio
 ## VI. Commercial Terms
 
 ### International Trade
-* **MOQ**: 1 set 
+* **MOQ**: 1 set
 * **Payment Method**: T/T (100% in advance)
 * **Lead Time**: Within 7 days
-* **Packaging Standard**: Ordinary carton 
+* **Packaging Standard**: Ordinary carton
 * **Place of origin**: WenZhou, Zhejiang, China
 
 ### Request a Quote & Purchase
