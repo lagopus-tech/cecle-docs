@@ -1,5 +1,4 @@
-# Commercial Industrial Bubble Fruit & Vegetable Washing Assembly Line (Multifunctional Continuous Produce Washer) - Technical Specifications & Operation Manual
-The CECLE Commercial Automatic Continuous Bubble Bath Fruit and Vegetable Washing Assembly Line (CBW Series, covering **CBW-2500 / CBW-3000 / CBW-4000 / CBW-5000**) is an industrial-grade continuous washing solution engineered for large fresh-cut produce distribution hubs, chain restaurant central kitchens, frozen food processors, dehydrated vegetable manufacturing bases, canning/juice pre-treatment facilities, and pickled vegetable desalting workshops. This assembly line completely resolves the industry bottlenecks of traditional batch washing—excessive water consumption, high labor overhead, and mechanical damage to tender leafy greens and delicate soft fruit skins. It features an innovative combination of **high-pressure vortex air pump bottom micro-porous aeration surging + hydrodynamic directional propulsion + elevating mesh belt discharge with secondary high-pressure fresh water fan spraying + independent multi-stage circulating water filtration and sedimentation system**. Once introduced, produce is gently and thoroughly cleaned within surging microbubbles and steadily conveyed out via a heavy-duty food-grade stainless steel mesh belt with stepless VFD speed adjustment. Processing capacities range from **500 to 3000 kg/h**. Constructed entirely from **heavy-duty food-grade SUS304 stainless steel**, supporting **220V / 380V / 415V** 3-phase industrial power customization, it accommodates leafy greens (spinach, lettuce, celery, cabbage), soft fruits & berries (tomatoes, strawberries, dates, grapes, apples), root vegetables, edible fungi, herbs, and shellfish. Delivering an impurity removal rate over 98% with zero mechanical bruising, it significantly prolongs the commercial shelf life of processed produce.
+# Commercial Industrial Bubble Fruit & Vegetable Washing Assembly Line
 
 <div align="center">
   <img src="https://cecle.net/cdn/shop/products/commercial-bubble-water-multi-functional-fruit-and-vegetable-washer-715424.jpg?v=1691211632" alt="CECLE Commercial Industrial Multi-Functional Bubble Fruit and Vegetable Washing Assembly Line" width="1000" height="600" style="object-fit: contain; max-width: 100%; height: auto;" />
@@ -12,7 +11,7 @@ The CECLE Commercial Automatic Continuous Bubble Bath Fruit and Vegetable Washin
 ### 1. Basic Equipment Information
 
 * **Product Name**: Commercial Industrial Bubble Fruit and Vegetable Washing Assembly Line / Multifunctional Continuous Produce Washer (Commercial Bubble Water Washer Multi-Functional Fruit and Vegetable Assembly Line)
-* **Product Models**: CBW-2500 (2.5m Body) / CBW-3000 (3m Standard) / CBW-4000 (4m High-Capacity) / CBW-5000 (5m Extra-Large Industrial Line)
+* **Product Models**: VAL-200 / VAL-300 / VAL-400
 * **Equipment Type**: Continuous water bath bubble surging and inclined mesh-belt secondary high-pressure rinse integrated assembly line
 * **Market Positioning**: Targeted at modern agricultural industrial parks, university and corporate central kitchens, fresh-cut salad processing facilities, and frozen/dehydrated food manufacturers to overcome high daily throughput demands, escalating manual washing costs, ineffective sand/floating debris removal, and persistent pesticide residue buildup.
 
@@ -35,7 +34,7 @@ The line operates continuously through four hydrodynamic mechanisms: high-pressu
 
 ### 3. Core Value: Why Choose This Equipment?
 
-* **Industrial-Scale Throughput (1 Line Replaces 15–20 Workers)**: Continuous throughput delivers **500 to 3000 kg/h** of thoroughly cleaned produce, eliminating morning prep bottlenecks in large central kitchens and distribution centers.
+* **Industrial-Scale Throughput (1 Line Replaces 15–20 Workers)**: Continuous throughput delivers **600 to 1500 kg/h** of thoroughly cleaned produce, eliminating morning prep bottlenecks in large central kitchens and distribution centers.
 * **Zero Damage & Zero Bruising**: Unlike abrasive brush rollers or tumbling drum washers, bubble water bath washing provides the gentlest cleaning method available: strawberries retain their stems, leafy greens remain crisp, and tomatoes stay unblemished, preserving freshness and shelf life.
 * **Eco-Friendly Water Conservation**: The dual-tank circulation and filtration system continuously purifies and reuses wash water, balanced dynamically by secondary fresh-water spray makeup, reducing overall water consumption by **over 60%** compared to traditional continuous tap-water washing.
 
@@ -83,22 +82,16 @@ Follow these standardized procedures to ensure optimal cleaning performance, pre
 
 ## III. Technical Specifications Table
 
-| Technical Specifications       | CBW-2500 Standard Commercial                                 | CBW-3000 Efficient Line                                     | CBW-4000 High-Capacity Industrial                           | CBW-5000 Extra-Large Central Kitchen                        |
-| :----------------------------- | :----------------------------------------------------------- | :---------------------------------------------------------- | :---------------------------------------------------------- | :---------------------------------------------------------- |
-| **Model Number**               | **CBW-2500**                                                 | **CBW-3000**                                                | **CBW-4000**                                                | **CBW-5000**                                                |
-| **Overall Line Length**        | **2500 mm** (~2.5 m / 8.2 ft)                                | **3000 mm** (~3.0 m / 9.8 ft)                               | **4000 mm** (~4.0 m / 13.1 ft)                              | **5000 mm** (~5.0 m / 16.4 ft)                              |
-| **Effective Belt Width**       | **600 mm** (~23.6″)                                          | **800 mm** (~31.5″)                                         | **1000 mm** (~39.4″)                                        | **1200 mm** (~47.2″)                                        |
-| **Hourly Production Capacity** | **500 – 800 kg/h**                                           | **1000 – 1500 kg/h**                                        | **1800 – 2200 kg/h**                                        | **2500 – 3000 kg/h**                                        |
-| **Rated Operating Voltage**    | **220V / 380V (3-Phase, 50/60Hz)**                           | **220V / 380V (3-Phase, 50/60Hz)**                          | **380V / 415V (3-Phase, 50/60Hz)**                          | **380V / 415V (3-Phase, 50/60Hz)**                          |
-| **High-Pressure Blower Power** | **2.2 kW**                                                   | **3.0 kW**                                                  | **4.0 kW**                                                  | **5.5 kW**                                                  |
-| **Circulation Pump Power**     | **1.5 kW**                                                   | **2.2 kW**                                                  | **3.0 kW**                                                  | **4.0 kW**                                                  |
-| **Conveyor Drive Motor**       | **0.75 kW (Stepless VFD)**                                   | **1.1 kW (Stepless VFD)**                                   | **1.5 kW (Stepless VFD)**                                   | **2.2 kW (Stepless VFD)**                                   |
-| **Secondary Spray Rinse**      | Dedicated clean water manifold + Fan spray nozzle assembly   | Dedicated clean water manifold + Fan spray nozzle assembly  | Dedicated clean water manifold + Fan spray nozzle assembly  | Dedicated clean water manifold + Fan spray nozzle assembly  |
-| **Dimensions (L × W × H)**     | **2500 × 1000 × 1350 mm**                                    | **3000 × 1200 × 1450 mm**                                   | **4000 × 1400 × 1500 mm**                                   | **5000 × 1600 × 1600 mm**                                   |
-| **Construction Material**      | Heavy-duty food-grade **SUS304 Stainless Steel** throughout  | Heavy-duty food-grade **SUS304 Stainless Steel** throughout | Heavy-duty food-grade **SUS304 Stainless Steel** throughout | Heavy-duty food-grade **SUS304 Stainless Steel** throughout |
-| **Optional Configurations**    | Ozone generator (pesticide degradation) / Ultrasonic transducer array / Automated box-dumping infeed elevator / Air-knife dewatering drying line |                                                             |                                                             |                                                             |
-| **Applicable Produce**         | Spinach, lettuce, celery, strawberries, cherry tomatoes, dates, grapes, apples, peppers, cucumbers, mushrooms, kelp, etc. |                                                             |                                                             |                                                             |
-| **Global Shipping Options**    | **Sea Freight to Door DDP (45–55 Days)** / **Full Container / LCL Ocean Freight to Port (FOB/CIF)** |                                                             |                                                             |                                                             |
+| Product Specification                 | VAL-200                 | VAL-300                 | VAL-400                 |
+| :------------------------------------ | :---------------------- | :---------------------- | :---------------------- |
+| **Model:**                            | VAL-200                 | VAL-300                 | VAL-400                 |
+| **Power:**                            | 2.6kw/3.5hp             | 3.5kw/4.7hp             | 3.9kw/5.2hp             |
+| **Output:**                           | 600kg/hours             | 800-1000kg/hour         | 1000-1500kg/hour        |
+| **Effective width of conveyor belt:** | 480mm/18"               | 480mm/18"               | 480mm/18"               |
+| **Material of conveyor belt:**        | POM Engineering plastic | POM Engineering plastic | POM Engineering plastic |
+| **Conveyor belt speed:**              | Manually adjustable     | Manually adjustable     | Manually adjustable     |
+| **Machine material:**                 | 304 Stainless steel     | 304 Stainless steel     | 304 Stainless steel     |
+| **Weight:**                           | 600kg/1322lbs           | 800kg/1763lbs           | 1500kg/3307lbs          |
 
 ---
 
@@ -164,7 +157,7 @@ Watch the commercial industrial continuous bubble fruit and vegetable washing as
 ## VI. Commercial Terms & Purchasing Guide
 
 ### 1. Equipment Investment & Return on Investment (ROI)
-The reference starting price for this commercial continuous bubble washing assembly line is **$11,000.00 USD** (customizable across CBW-2500 / CBW-3000 / CBW-4000 / CBW-5000 tank lengths and belt widths, with 220V / 380V / 415V 3-phase power options; door-to-door DDP ocean shipping or container freight available). For a central kitchen or distribution center processing 5–10 tons of produce daily, this line saves the labor costs of 12 to 18 manual prep workers while reducing fresh water usage by 60%. **Capital investment is typically fully recouped within 2 to 3 months of commercial production**.
+The reference starting price for this commercial continuous bubble washing assembly line is **$11,000.00 USD** (customizable across VAL-200 / VAL-300 / VAL-400 tank lengths and belt widths, with 220V / 380V / 415V 3-phase power options; door-to-door DDP ocean shipping or container freight available). For a central kitchen or distribution center processing 5–10 tons of produce daily, this line saves the labor costs of 12 to 18 manual prep workers while reducing fresh water usage by 60%. **Capital investment is typically fully recouped within 2 to 3 months of commercial production**.
 
 ### 2. Logistics, Shipping & Warranty
 

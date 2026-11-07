@@ -1,92 +1,146 @@
-# Commercial Samosa Folding Machine Series: Product Manual & Guide
+# Commercial Samosa & Pastry Machine Series
 
-This series covers various precision **samosa folding machines**, ranging from semi-automatic to industrial-grade fully automatic models, designed to meet the standardized production needs of food processing plants, restaurant chains, and central kitchens of different scales. Below is an integrated overview of the detailed technical parameters and functional features of our three core samosa folding machines.
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 25px 0;">
+  <div style="flex: 1; min-width: 250px; max-width: 320px; text-align: center; border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; background: #fff;">
+    <img src="https://cdn.shopify.com/s/files/1/0010/4982/1242/files/pangjiabi.jpg?v=1780133381" alt="CECLE Semi-Automatic Punjabi Samosa Machine" referrerpolicy="no-referrer" style="width: 100%; height: 180px; border-radius: 6px; object-fit: contain;" />
+    <h3 style="margin: 10px 0 5px; font-size: 16px;">Model: SSF-GT-R120-2</h3>
+    <p style="margin: 0; font-size: 13px; color: #64748b;">Semi-Auto Punjabi | 400 pcs/h</p>
+  </div>
+  <div style="flex: 1; min-width: 250px; max-width: 320px; text-align: center; border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; background: #fff;">
+    <img src="https://cdn.shopify.com/s/files/1/0010/4982/1242/files/A_131c6500-3c56-430f-a039-ce278a10affe.jpg?v=1780123999" alt="CECLE Semi-Automatic Triangle Samosa Machine" referrerpolicy="no-referrer" style="width: 100%; height: 180px; border-radius: 6px; object-fit: contain;" />
+    <h3 style="margin: 10px 0 5px; font-size: 16px;">Model: SSF-RL-75-3</h3>
+    <p style="margin: 0; font-size: 13px; color: #64748b;">Semi-Auto Triangle | 650 pcs/h</p>
+  </div>
+  <div style="flex: 1; min-width: 250px; max-width: 320px; text-align: center; border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; background: #fff;">
+    <img src="https://cdn.shopify.com/s/files/1/0010/4982/1242/files/1_1_0531d78e-3457-4ecc-aed8-77af25b7ac7c.jpg?v=1782199828" alt="CECLE Fully Automatic Samosa Production Line" referrerpolicy="no-referrer" style="width: 100%; height: 180px; border-radius: 6px; object-fit: contain;" />
+    <h3 style="margin: 10px 0 5px; font-size: 16px;">Model: ASM-1500-72-5</h3>
+    <p style="margin: 0; font-size: 13px; color: #64748b;">Fully Auto Line | 1,500 pcs/h</p>
+  </div>
+</div>
 
-------
+---
 
+## 1. Quick Comparison Matrix
 
+Use the matrix below to evaluate capacities, folding trajectories, filling capabilities, and auxiliary requirements across the 3 core models in the CECLE samosa lineup:
 
-## I. Core Equipment Overview
+| Model Series      | Automation Grade                  | Design Capacity               | Finished Product Shape                    | Folding Technique                     | Wrapper Sourcing                         | Weight Specification            | Auxiliary Equipment               | Best For...                                                  |
+| :---------------- | :-------------------------------- | :---------------------------- | :---------------------------------------- | :------------------------------------ | :--------------------------------------- | :------------------------------ | :-------------------------------- | :----------------------------------------------------------- |
+| **SSF-GT-R120-2** | Semi-Automatic (Manual load)      | Approx. 400 pcs/h             | Traditional Semi-Circle / Punjabi Cone    | 2-Fold Spatial Mechanical Fold        | Pre-Cut Semi-Circular (R75–120mm)        | Fixed 28g or 32g                | Air Compressor (≥ 2.2 kW)         | Traditional Punjabi samosas with chunky potato/pea filling   |
+| **SSF-RL-75-3**   | Semi-Automatic (Stack magazine)   | Approx. 650 pcs/h             | Classic Equilateral Triangle / Curry Puff | 3-Fold Sequential Precise Fold        | Pre-Cut Rectangular Sheet (75mm width)   | Fixed 28g or 32g (Customizable) | Air Compressor (Pneumatic assist) | Startups & restaurants producing triangle samosas & sambusas |
+| **ASM-1500-72-5** | Fully Automatic (Continuous line) | 1,500 pcs/h (24/7 continuous) | Equilateral Triangle (Industrial 5-Fold)  | 5-Fold Multi-Layer Anti-Leakage Crimp | Automated Drum Baking from Liquid Slurry | 20g–40g Servo Adjustable        | Air Compressor (≥ 5.0 kW)         | Large food factories, industrial frozen wholesale supply     |
 
-### 1. SSF-RL-75-3 Semi-Automatic Samosa Folding Machine (Standard 3-Fold Version)
+---
 
-- **Equipment Positioning**: A precision **semi-automatic samosa folding machine** designed for small-to-medium food processing plants, restaurant chains, and central kitchens.
-- **Standard Capacity**: 650 pcs/hour.
-- **Forming Process**: Utilizes a standard 3-fold mechanical cycle to press each product into an equilateral triangle with smooth lines and a highly consistent appearance.
-- **Dough Wrapper Specifications**: Applicable wrapper width is fixed at 75 mm.
-- **Filling System**: Dedicated system, must be explicitly specified at the time of order. Options include the "Paste Version" (e.g., mashed potatoes, cheese) or the "Meat/Granular Version" (e.g., pure meat, beans). Dual-use or interchangeable switching is not supported.
-- **Core Advantages**:
-  - **Low Investment Barrier**: Compared to a fully automatic samosa making machine, the investment cost of this semi-automatic model is only about one-third, significantly reducing financial pressure during the startup phase.
-  - **Precise Edge Sealing**: The folding machine uses a specially designed pneumatically assisted actuator for precise edge sealing, effectively preventing bursting or filling leakage during subsequent frying or baking processes.
-  - **Human-Machine Collaboration**: It retains the flexibility of manual wrapper placement while having the machine take over the most time-consuming and difficult-to-standardize filling and folding processes.
+## 2. In-Depth Category Profiles
 
-### 2. SSF-GT-R120-2 Semi-Automatic Punjabi Samosa Folding Machine
+### Category A: Semi-Automatic Punjabi Samosa Machine (SSF-GT-R120-2)
+* **Core Identity:** The Authentic Punjabi Cone & Chunky-Filling Artisan Solution.
+* **Key Mechanism:** An operator places pre-cut semi-circular pastry sheets onto the feeding fixture. The pneumatic gripper transfers the sheet into the forming mold, where an automated servo piston deposits particulate-rich filling before a 2-fold mechanical manipulator wraps and seals the cone.
+* **Included Model:**
+  * **SSF-GT-R120-2 Semi-Automatic Punjabi/Semi-Circle Folding Machine**
 
-- **Equipment Positioning**: A precision **commercial samosa folding machine** developed for startup food factories or small food shops pursuing standardized production.
-- **Standard Capacity**: Approx. 400 pcs/hour.
-- **Forming Process**: Employs a standard 2-fold mechanical folding process, ensuring each Punjabi product presents a perfect semi-circle.
-- **Wrapper & Final Product Specifications**: Requires semi-circular Punjabi wrappers (straight edge 240 mm, radius 120 mm). The finished product weight is fixed at 28g or 32g upon ordering, and cannot be adjusted or changed later.
-- **Filling System**: Similar to the 3-fold model, it is divided into a dedicated granular type and a dedicated paste type, customized according to the physical characteristics of the material. Dual-use is not supported.
-- **Core Advantages**:
-  - **Precise Weight Control**: Once the wrapper specifications and filling system are locked, the wrapper-to-filling ratio and individual product weight variation can be controlled within an extremely small range, perfectly solving the pain point of inconsistent sizes in manual production.
-  - **Low Operation Barrier**: No need to hire highly-paid professional technicians. General staff can operate this samosa folding equipment after brief training.
-  - **Auxiliary Facility Requirements**: Normal operation of this machine requires pneumatic assistance. Users must provide their own air compressor of 2.2kW or above.
+<div align="center" style="margin: 20px 0;">
+  <img src="https://cdn.shopify.com/s/files/1/0010/4982/1242/files/pangjiabi.jpg?v=1780133381" alt="CECLE SSF-GT-R120-2 Punjabi Samosa Machine" referrerpolicy="no-referrer" width="800" height="480" style="object-fit: contain; max-width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;" />
+</div>
 
-### 3. ASM-1500-75-5 Fully Automatic Samosa Folding Machine & Production Line (5-Fold Version)
+* **Key Strengths:**
+  * **Granular Chunk Compatibility:** Dedicated pumping mechanism handles diced potato chunks, whole peas, and coarse minced meat without grinding them into paste;
+  * **Authentic Handcrafted Profile:** Delivers an upright, traditional Punjabi pocket shape with consistent seam integrity;
+  * **Low Investment Barrier:** Requires minimal initial capital while delivering 400 pcs/h, replacing 2–3 skilled hand-folders.
 
-- **Equipment Positioning**: An industrial-grade **fully automatic samosa folding machine** specifically developed for large food processing plants and chain restaurant central kitchens with large-scale production needs. This production line integrates three core functions: automatic batter-to-wrapper making, precise filling injection, and precision folding.
-- **Standard Capacity**: Stable output of 1500 pcs/hour, achieving ultimate industrial-grade capacity.
-- **Forming Process**: Adopts an advanced 5-fold spatial trajectory folding process with more overlapping layers, achieving top-level anti-leakage capabilities and an extremely tight structure.
-- **Wrapper & Filling Specifications**: Applicable continuous dough band width is fixed at 75 mm (an ultra-wide deep-customization specification). The filling weight range is precisely controlled by the servo system between 20-40g.
-- **Core Advantages**:
-  - **Disruptive Film-Forming Wrapper Technology**: Breaking the traditional "kneading-resting-pressing" process, it uses industry-leading direct batter curing and film-forming technology. The batter is instantly heated and cured on a customized temperature-controlled drum, demolding in one step into a continuous wrapper with absolutely consistent thickness.
-  - **Complete Automation Replacement**: Achieves full-link automation from "batter-to-wrapper making" to "automatic filling and folding." The entire process only requires manual material loading, greatly reducing long-term operational labor costs.
-  - **High-Standard Industrial Hygiene Design**: The overall structure and outer shell are entirely made of food-grade SUS304 stainless steel. Electromechanical connecting wires inside the machine are uniformly housed in heavy-duty stainless steel corrugated hoses. The cooling fans are also equipped with stainless steel wrapped protection, perfectly preventing moisture infiltration in humid environments and achieving extremely high waterproof and rust-proof performance.
-  - **Auxiliary Facility Requirements**: Users need to equip their factory with an air compressor of 5kW or above to provide a stable and continuous high-pressure air supply.
+📖 **[Read the Full SSF-GT-R120-2 Technical Specifications & SOP Manual &rarr;](./punjabi-samosa.md)**
 
-------
+---
 
+### Category B: Semi-Automatic Triangle Samosa Machine (SSF-RL-75-3)
+* **Core Identity:** The High-Yield Startup Workhorse for Classic Triangle Samosas.
+* **Key Mechanism:** Operators stack pre-cut 75mm rectangular dough sheets onto an automated magazine. The mechanical transfer feeds sheets sequentially, doses measured filling at the center, executes a 3-fold spatial geometric fold, and completes airtight sealing via a pneumatically assisted pressing head.
+* **Included Model:**
+  * **SSF-RL-75-3 Semi-Automatic Samosa/Curry Puff Folding Machine**
 
+<div align="center" style="margin: 20px 0;">
+  <img src="https://cdn.shopify.com/s/files/1/0010/4982/1242/files/A_131c6500-3c56-430f-a039-ce278a10affe.jpg?v=1780123999" alt="CECLE SSF-RL-75-3 Semi-Automatic Samosa Machine" referrerpolicy="no-referrer" width="800" height="480" style="object-fit: contain; max-width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;" />
+</div>
 
-## II. Core Technical Parameters Comparison
+* **Key Strengths:**
+  * **Equilateral Geometry:** Synchronized mechanical arms produce clean, sharp triangular corners with balanced skin-to-filling ratios;
+  * **High Output per Dollar:** Produces up to 650 pieces per hour on a compact 80×64 cm footprint with single-phase power;
+  * **Airtight Pneumatic Sealing:** Calibrated edge pressing ensures pastries do not burst or absorb hot oil during deep frying.
 
-To help you quickly grasp the hard metrics of each model, the following parameter comparison table is provided:
+📖 **[Read the Full SSF-RL-75-3 Technical Specifications & SOP Manual &rarr;](./semi-automatic-series.md)**
 
-| Comparison Dimension           | SSF-RL-75-3 Semi-Auto Samosa Folding Machine                 | SSF-GT-R120-2 Punjabi Samosa Folding Machine                 | ASM-1500-75-5 Fully Auto Samosa Folding Machine              |
-| ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Equipment Positioning**      | Small/medium plants, chain central kitchens                  | Startup food factories, small food shops                     | Large industrial bases, scaled central kitchens              |
-| **Control Method**             | Side button control (one-button start/stop)                  | Side button control (one-button start/stop)                  | Side button & PLC smart control panel                        |
-| **Finished Appearance**        | Standard equilateral triangle                                | Perfect semi-circle (Standard Punjabi)                       | Equilateral triangle with extreme tightness                  |
-| **Forming Process**            | Standard 3-fold mechanical cycle                             | Standard 2-fold mechanical folding                           | Advanced 5-fold spatial trajectory folding                   |
-| **Standard Capacity**          | 650 pcs / hour                                               | Approx. 400 pcs / hour                                       | 1500 pcs / hour (Industrial-grade output)                    |
-| **Wrapper Preparation**        | Requires manual pre-cutting and placement                    | Requires manual pre-cutting and placement                    | Direct batter curing & automatic wrapper output              |
-| **Molds & Interchangeability** | **Independent model, dedicated machine, non-interchangeable** | **Independent model, dedicated machine, non-interchangeable** | **Independent model, dedicated machine, non-interchangeable** |
-| **Filling Compatibility**      | Granular/Paste select one (switching not supported)          | Granular/Paste select one (switching not supported)          | Independent core filling module (switching not supported)    |
-| **Auxiliary Air Supply**       | Requires pneumatically assisted actuator                     | Requires user-provided 2.2kW+ air compressor                 | Requires user-provided 5kW+ air compressor                   |
-| **Standard Pricing**           | Please consult customer service                              | Please consult customer service                              | /                                                            |
+---
 
-------
+### Category C: Fully Automatic Samosa Production Line (ASM-1500-72-5)
+* **Core Identity:** The Industrial Batter-to-Samosa Mass-Production Flagship.
+* **Key Mechanism:** Fluid batter is automatically pumped onto a precision temperature-controlled heating drum, instantly baking a continuous 72mm dough ribbon. The ribbon is continuously cut, filled with servo-metered stuffing, and enclosed through an advanced 5-fold mechanical manipulator array.
+* **Included Model:**
+  * **ASM-1500-72-5 Fully Automatic Samosa Molding Production Line**
 
+<div align="center" style="margin: 20px 0;">
+  <img src="https://cdn.shopify.com/s/files/1/0010/4982/1242/files/1_1_0531d78e-3457-4ecc-aed8-77af25b7ac7c.jpg?v=1782199828" alt="CECLE ASM-1500-72-5 Fully Automatic Samosa Production Line" referrerpolicy="no-referrer" width="800" height="480" style="object-fit: contain; max-width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;" />
+</div>
 
+* **Key Strengths:**
+  * **Complete Full-Link Automation:** Eliminates dough mixing, sheeting, resting, and manual transfer—converts liquid slurry into finished pastries in one pass;
+  * **Industrial Throughput (1,500 pcs/h):** Engineered for 24-hour continuous mass production supplying supermarket cold chains and wholesale markets;
+  * **5-Fold Deep-Frying Defense:** Multi-layer folded seams ensure zero oil penetration during deep-frying and zero bursting during blast freezing;
+  * **Washdown Food-Grade Build:** All SUS304 construction featuring stainless corrugated wiring conduits and waterproof enclosed fan housings.
 
-## III. Business Types and Equipment Selection Guide
+<div align="center" style="display: flex; justify-content: center; gap: 15px; margin: 15px 0;">
+  <img src="https://cdn.shopify.com/s/files/1/0010/4982/1242/files/8b465053d72bf33c227fa9eedfc2486b.jpg?v=1782199825" alt="Waterproof Stainless Conduits" referrerpolicy="no-referrer" style="width: 48%; max-height: 240px; border-radius: 6px; object-fit: cover;" />
+  <img src="https://cdn.shopify.com/s/files/1/0010/4982/1242/files/5_9d9a1564-e642-480f-bbd9-1ac7cfc0c996.jpg?v=1782199827" alt="Multi-Machine Production Line" referrerpolicy="no-referrer" style="width: 48%; max-height: 240px; border-radius: 6px; object-fit: cover;" />
+</div>
 
-To ensure maximum Return on Investment (ROI) and minimize the risk of equipment integration, precise selection based on specific business models and development stages is recommended:
+📖 **[Read the Full ASM-1500-72-5 Technical Specifications & SOP Manual &rarr;](./automatic-series.md)**
 
-### 1. Applicable Model: SSF-GT-R120-2 Semi-Automatic Punjabi Samosa Folding Machine
+---
 
-- **Target Audience**: Startup food workshops / local specialty restaurants / regional takeout stalls
-- **Business Pain Points**: Purely manual wrapping leads to inconsistent product sizes, inability to keep up with output during peak dining hours, and difficulty scaling to a multi-store model.
-- **Selection Advantages**: This samosa folding machine utilizes minimalist side button control, perfectly avoiding complicated foot pedal operations; general staff can operate it with minimal training. Weight and dimensions are completely fixed at the factory as an "independent model, dedicated machine, non-interchangeable," eliminating manual errors at the source. It is an absolute weapon for achieving standardization at a low cost in the early stages of a brand.
+## 3. Buyer's Selection & Decision Matrix
 
-### 2. Applicable Model: SSF-RL-75-3 Semi-Automatic Samosa Folding Machine (Standard 3-Fold Version)
+Choose the equipment model that best matches your target pastry shape, daily production volume, and upstream facility readiness:
 
-- **Target Audience**: Small-to-medium food processing plants / rapidly expanding restaurant chains / medium-scale central kitchens
-- **Business Pain Points**: Urgent need to increase capacity to handle wholesale delivery orders, but limited by cash flow budgets and unable to directly invest hundreds of thousands in heavy-duty fully automatic production lines.
-- **Selection Advantages**: Extremely high cost-effectiveness. This folding machine can stably output 650 high-quality equilateral triangle samosas per hour with a very economical investment. The design philosophy of an "independent model, dedicated machine, non-interchangeable" ensures the ultimate stability of single-item production, making it the preferred transition equipment for enterprises during the mid-term capacity ramp-up phase.
+### Choose the Semi-Automatic Punjabi Model (SSF-GT-R120-2) if:
+1. **Your market expects traditional cone-shaped Punjabi samosas:** You use semi-circular dough sheets and need an authentic upright pocket.
+2. **Your recipe contains whole chunks:** Your filling includes diced potato cubes, whole chickpeas, or coarse meat pieces that cannot be processed by standard screw extruders.
+3. **Daily target output is 2,000 to 4,000 units:** A 400 pcs/h pace satisfies your daily restaurant dining or local batch supply.
 
-### 3. Applicable Model: ASM-1500-75-5 Fully Automatic Samosa Folding Machine (5-Fold Version)
+### Choose the Semi-Automatic Triangle Model (SSF-RL-75-3) if:
+1. **You make flat triangular samosas, sambusas, or curry puffs:** You use rectangular pastry sheets (75mm standard width) and require uniform 3-corner symmetry.
+2. **You want high yield on a tight budget:** At 650 pcs/h, it quadruples manual output with roughly one-third the investment of an industrial line.
+3. **You utilize pre-sheeted dough:** Your facility already produces dough bands or purchases frozen rectangular wrappers.
 
-- **Target Audience**: Large-scale industrial food bases / conglomerate central kitchens / high-output cold chain export enterprises
-- **Business Pain Points**: Traditional wrapper preparation processes are lengthy and highly dependent on manual labor; the end products suffer from high rates of breakage and filling leakage when passing through deep fryers or Individual Quick Freezing (IQF) tunnels, severely impacting the profitability of bulk shipments.
-- **Selection Advantages**: This heavy-duty industrial automatic samosa folding machine, can thoroughly solve scaling pain points. The direct batter curing-to-band technology eliminates complex front-end processes; the advanced 5-fold hermetic sealing can withstand extreme hot and cold processing environments. The entire machine complies with top-tier all-stainless steel Clean-In-Place (CIP) hygiene standards, acting as a moat asset to help enterprises secure large commercial orders.
+### Choose the Fully Automatic Production Line (ASM-1500-72-5) if:
+1. **Complete labor replacement is your primary goal:** You want a fully hands-off line where operators only pour liquid batter and bulk filling into hoppers.
+2. **You serve wholesale cold-chain distribution:** You fulfill major contracts requiring 10,000 to 30,000 units per day under continuous 24-hour operation.
+3. **Zero oil seepage is mandatory:** The proprietary 5-fold crimping architecture creates an impermeable multi-layer seal that prevents cooking oil absorption.
+4. **Your facility has adequate electrical and air infrastructure:** You have 380V/220V 35 kW combined electrical capacity and a ≥5.0 kW compressed air supply.
+
+---
+
+## 4. Shared Engineering & Quality Standards
+
+Regardless of the model selected, every CECLE Commercial Samosa Machine strictly adheres to the following manufacturing standards:
+
+1. **Food-Grade SUS304 Construction:** All product-contact components, chassis plates, hoppers, and folding arms are made of certified food-grade 304 stainless steel for corrosion resistance and rapid washdown sanitization.
+2. **Pneumatically Assisted Precision Sealing:** Mechanical press heads apply calibrated pneumatic pressure along every pastry seam, guaranteeing tight closure without pastry rupture.
+3. **Dedicated Viscosity-Matched Filling Systems:** Systems are engineered specifically for either granular chunks or smooth high-viscosity pastes, preventing texture breakdown.
+4. **Strict Gram-Weight Uniformity:** High-accuracy servo metering ensures wrapper-to-filling ratios and total finished weights remain strictly within minimal industrial variance tolerances.
+5. **Worldwide Door-to-Door Logistics:** Packed in heavy-duty export-standard non-fumigation wooden crates with full-service DDP ocean and truck freight directly to your facility entrance.
+6. **Factory Warranty & Lifetime Support:** Backed by 1-year factory warranty coverage on core mechanical parts and lifetime remote video engineering guidance.
+
+---
+
+## 5. Quick Links & Documentation Index
+
+Access the detailed technical specifications and SOP manuals for all 3 models below:
+
+| Machine Category       | Specific Model          | Output Capacity          | Documentation Link                             | Official Store Purchase                                      |
+| :--------------------- | :---------------------- | :----------------------- | :--------------------------------------------- | :----------------------------------------------------------- |
+| **Semi-Auto Punjabi**  | SSF-GT-R120-2 (2 Folds) | Approx. 400 pcs/h        | [View Tech Manual](./punjabi-samosa.md)        | [Shop SSF-GT-R120-2 Online](https://cecle.net/products/curry-puff-empanada-making-machine-semi-auto-maker?_pos=1&_sid=c96b5807b&_ss=r) |
+| **Semi-Auto Triangle** | SSF-RL-75-3 (3 Folds)   | Approx. 650 pcs/h        | [View Tech Manual](./semi-automatic-series.md) | [Shop SSF-RL-75-3 Online](https://cecle.net/products/automatic-samosa-making-samosa-folding-machine-and-fold-patti-samosa?_pos=7&_sid=c17744283&_ss=r) |
+| **Fully Auto Line**    | ASM-1500-72-5 (5 Folds) | 1,500 pcs/h (Continuous) | [View Tech Manual](./automatic-series.md)      | [Shop ASM-1500-72-5 Online](https://cecle.net/products/commercial-samosa-paste-sheets-and-folding-into-samosa-pasta-products?_pos=1&_sid=e1fe3f266&_ss=r) |
+
+---
+*For customized mold tooling, non-standard wrapper widths (exceeding 70mm), recipe calibration, or multi-machine joint layout consultations, please contact our engineering team via [CECLE Official Support](https://cecle.net).*

@@ -278,6 +278,10 @@ nav:
               - YYD Series Single-Head Single-Color Open Inkwell: packing-machine/printing-machine/pad-printing-machine/yyd-series-single-head-single-color-open-inkwell.md
               - YYD2 Series Double-Head Single-Color Open Inkwell: packing-machine/printing-machine/pad-printing-machine/yyd2-series-double-head-single-color-open-inkwell.md
               - YYS-100-100 Automatic Rotary Circumference Open Inkwell: packing-machine/printing-machine/pad-printing-machine/yys-100-100-automatic-rotary-circumference-open-inkwell.md
+          - Digital Printing Machine:
+              - RC-600 Digital Printing Machine: packing-machine/printing-machine/digital-printing-machine/rc-600.md
+          - UV Printer:
+              - TD-F5 Cylindrical UV Printer: packing-machine/printing-machine/uv-printer/td-f5.md
       - Cup & Tray Sealing Machine:
           - MS / MSS-220 Cup & Tray Sealer: packing-machine/cup-sealing-machine/ms-mss-220.md
           - VS-600 Table-top Semi-automatic Tray Sealer: packing-machine/cup-sealing-machine/vs-600.md
@@ -336,6 +340,7 @@ nav:
           - AL-5000 Automatic Liquid Filling Line: packing-machine/filling-machine/al-5000-automatic-liquid-filling-line.md
           - NLA-ALC-500 Automatic Aluminium Filling Line: packing-machine/filling-machine/nla-alc-500-automatic-aluminium-liquid-paste-filling-line.md
           - PF-500 + DC-1 + AL-220 Automatic Powder Filling Line: packing-machine/filling-machine/pf-500-auto-powder-filling-line.md
+          - FA4-500 Automatic Paste & Liquid Filling Line: packing-machine/filling-machine/fa4-500-auto-paste-filling-line.md
       - Form Fill & Seal Systems:
           - Overview: packing-machine/form-fill-sealing-systems/pouch-packing-machine-index.md
           - Liquid Pouch Packing Machine: packing-machine/form-fill-sealing-systems/liquid-pouch-packing-machine.md
@@ -343,6 +348,7 @@ nav:
           - Powder Pouch Packing Machine: packing-machine/form-fill-sealing-systems/powder-pouch-packing-machine.md
           - Granule Pouch Packing Machine: packing-machine/form-fill-sealing-systems/granule-pouch-packing-machine.md
           - Small Liquid & Paste Vertical Packaging Machine (S2 Series): packing-machine/form-fill-sealing-systems/small-paste-sachet-filling-sealing-machine.md
+          - Small Granule Vertical Packaging Machine: packing-machine/form-fill-sealing-systems/small-granule-sachet-filling-sealing-machine.md
       - Cartoning Machine:
           - Fully Automatic Cartoning Machine Series: packing-machine/cartoning-machine/cartoning-machine.md
       - Sugar Straw Filling Machine:
@@ -483,6 +489,17 @@ nav:
           - Upright Glass Door Display Refrigerator: kitchen-series/commercial-refrigeration-equipment/glass-door-display-fridge.md
           - Single Door Refrigerator: kitchen-series/commercial-refrigeration-equipment/single-door-refrigerator.md
           - Three-Temperature La Carte Display Freezer: kitchen-series/commercial-refrigeration-equipment/sushi-and-prep-refrigerator.md
+      - Commercial Display Freezers:
+          - Overview: kitchen-series/commercial-display-freezers/commercial-display-freezer-series-index.md
+          - 4-In-1 Modular Combination Island Freezer: kitchen-series/commercial-display-freezers/4-in-1-combine-island-freezer.md
+          - Direct Cooling Buffet Freezer: kitchen-series/commercial-display-freezers/commercial-direct-cooling-buffet-freezer.md
+          - Supermarket Stainless Steel Display Freezer: kitchen-series/commercial-display-freezers/supermarket-stainless-steel-freezer.md
+          - Three-Level Ladder Type Display Freezer: kitchen-series/commercial-display-freezers/three-level-ladder-type-freezer.md
+      - Commercial Reach-In Freezers:
+          - Overview: kitchen-series/commercial-reach-in-freezers/commercial-reach-in-freezer-series-index.md
+          - 27-Inch Single Door Freezer: kitchen-series/commercial-reach-in-freezers/27-inch-single-door-freezer.md
+          - 30-Inch Four Door Freezer: kitchen-series/commercial-reach-in-freezers/30-inch-four-door-freezer.md
+          - 54-Inch Double Door Freezer: kitchen-series/commercial-reach-in-freezers/54-inch-double-door-freezer.md
   - Pharmaceutical Equipment:
       - Capsule Filling Machine:
           - Overview: pharmaceutical-equipment/caspule-filling-machine/capsul-filling-machine-index.md
@@ -500,6 +517,8 @@ nav:
           - ZP17 Old Model Rotary: pharmaceutical-equipment/tablet-press-machine/zp17-old-rotary-tablet-press-machine.md
           - ZP27 High-Speed Rotary: pharmaceutical-equipment/tablet-press-machine/zp27-rotary-tablet-press-machine.md
           - ZP420 High-Speed Rotary: pharmaceutical-equipment/tablet-press-machine/zp420-high-speed-rotary-tablet-press-machine.md
+          - TDP-180D Single Punch Tablet Press: pharmaceutical-equipment/tablet-press-machine/tdp-180d-tablet-press-machine.md
+          - YQD-6S Automatic Pill Making & Polishing Machine: pharmaceutical-equipment/tablet-press-machine/yqd-6s-automatic-pill-making-machine.md
           - TDP-120D Single Punch: pharmaceutical-equipment/tablet-press-machine/tdp-120d-tablet-press-machine.md
           - GZPT Series High-Speed Rotary: pharmaceutical-equipment/tablet-press-machine/gzpt-series-high-speed-rotary-tablet-press-machine.md
       - Pill Making Machine:
@@ -525,6 +544,7 @@ nav:
           - YMGP Series Automatic Tablet & Capsule Counting Machine: pharmaceutical-equipment/counting-machine/automatic-capsule-pill-tablet-counter.md
           - Fully Automatic Desiccant Inserter: pharmaceutical-equipment/counting-machine/automatic-desiccantinserter-machine.md
           - JF-24A 24-Channel Electronic Counting Machine: pharmaceutical-equipment/counting-machine/jf24-automatic-electronic-counter.md
+          - DSJ-8C Visual Imaging Counting Machine: pharmaceutical-equipment/counting-machine/dsj-8c-visual-imaging-counting-machine.md
       - Vacuum Feeder:
           - Overview: pharmaceutical-equipment/vacuum-feeder/qvc-series-vacuum-feeder-index.md
           - QVC Series Pneumatic Feeder: pharmaceutical-equipment/vacuum-feeder/qvc-series-vacuum-feeder.md
@@ -589,6 +609,9 @@ nav:
           - Cabinet Type Fiber Laser Marking Machine: other-equipment/laser-marking-machine/cabinet-type-fiber-laser-marking-machine.md
           - CO2 Laser Marking Machine: other-equipment/laser-marking-machine/co2-laser-marking-machine.md
           - UV Laser Marking Machine: other-equipment/laser-marking-machine/uv-laser-marking-machine.md
+          - LMJ-110P Handheld Fiber Laser Marker: other-equipment/laser-marking-machine/handheld-fiber-laser-marker.md
+          - Desktop Jewelry Laser Engraving Machine: other-equipment/laser-marking-machine/jewelry-laser-engraving-machine.md
+          - PDL Mini Fiber Laser Engraver: other-equipment/laser-marking-machine/mini-fiber-laser-engraver.md
       - EV Charger Hanging Bracket:
           - Manual EV Charger Hanging Bracket: other-equipment/ev-charger-hanging-bracket/manual-ev-charger-hanging-bracket.md
           - Electric Remote-Control EV Charger Hanging Bracket: other-equipment/ev-charger-hanging-bracket/electric-remote-control-ev-charger-hanging-bracket.md
