@@ -128,14 +128,11 @@ Watch the live demonstration of the **MC-2** commercial double-cup bubble tea sh
 
 ## VI. Commercial Terms & Purchasing Guide
 
-### 1. Store Return on Investment (ROI)
-While manual shaking takes 30–45 seconds per cup and strains staff, the MC-2 thoroughly blends two drinks in just 15 seconds. Standardized mechanical agitation produces uniform foam and taste across every order, boosting customer satisfaction and helping stores recoup equipment costs within weeks of opening.
-
-### 2. Logistics, Shipping, and After-Sales Warranty
+### 1. Logistics, Shipping, and After-Sales Warranty
 
 * **Secure Export Packaging**: Padded internally with custom shock-absorbing foam and enclosed in reinforced export-grade corrugated cartons for safe worldwide transit.
 * **Warranty & Technical Support**: Covered by a comprehensive 12-month factory warranty on core components, backed by lifetime remote technical assistance.
 
-### 3. Official Direct Purchasing
+### 2. Official Direct Purchasing
 
 * 🛒 **Official Direct Purchase Link**: [Order the MC-2 Double Cups Shaker at CECLE Store](https://cecle.net/products/commercial-bubble-tea-machine-double-cups-shaker-milk-tea-shaking)

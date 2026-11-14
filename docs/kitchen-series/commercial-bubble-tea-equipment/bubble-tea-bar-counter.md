@@ -139,15 +139,12 @@ Watch the live demonstration showcasing the exterior structure, stainless steel 
 
 ## VI. Commercial Terms & Purchasing Guide
 
-### 1. Store Return on Investment (ROI)
-Along the core workflow of high-traffic beverage shops, a scientifically designed, high-efficiency refrigerated **Bubble tea bar milk tea bar counter with refrigeration and boba bar equipment** is a core weapon for increasing daily revenue and output speed. By seamlessly integrating prep work and cold storage, it drastically reduces unnecessary staff walking steps. Precise low-temperature freshness preservation not only secures the quality of dairy and toppings but also minimizes ingredient spoilage losses from the source. High efficiency and low waste typically allow store owners to recover equipment investment costs within a short period through incremental order profits.
-
-### 2. Logistics, Shipping, and After-Sales Warranty
+### 1. Logistics, Shipping, and After-Sales Warranty
 
 * **Precision Commercial Equipment Logistics Delivery**:
   * **Sea Freight DDP Door-to-Door / Dedicated Truck Freight Delivery**: Given the weight and structural traits of commercial stainless steel refrigeration units, factory shipments utilize heavy-duty outer cartons, fully wrapped honeycomb cardboard, and shockproof pearl cotton for deep reinforcement. We provide mature, standardized international customs-cleared DDP door-to-door logistics and local freight services to ensure this heavy equipment arrives safely and undamaged at your beverage shop.
 * **Factory Warranty & Technical Support**: Core refrigeration compressors enjoy long-term original factory warranty coverage. CECLE possesses a robust commercial refrigeration spare parts system and a professional after-sales engineer team, providing end-to-end guidance for electrical setting adjustments and routine maintenance.
 
-### 3. Official Purchasing & Inquiries
+### 2. Official Purchasing & Inquiries
 
 * 🛒 **Official Direct Purchase Link**: [Click here to order the Bubble tea bar milk tea bar counter with refrigeration and boba bar equipment Explosive Combination Set](https://cecle.net/products/bubble-tea-bar-milk-tea-with-refrigeration-and-boba-bar-equipment)

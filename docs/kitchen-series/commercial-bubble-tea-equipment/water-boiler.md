@@ -132,14 +132,11 @@ Watch the live demonstration of the **YC-10** commercial step-by-step water boil
 
 ## VI. Commercial Terms & Purchasing Guide
 
-### 1. Store Return on Investment (ROI)
-A reliable step-by-step boiler cuts tea steeping wait times by over 60% and saves more than 30% in continuous heating electricity costs. By preventing batch spoilage caused by sub-optimal water temperatures, most shops recover equipment costs within 1–2 months.
-
-### 2. Logistics, Shipping, and After-Sales Warranty
+### 1. Logistics, Shipping, and After-Sales Warranty
 
 * **Heavy-Duty Packaging**: Packed with 5-ply export-grade reinforced corrugated cartons and custom high-density shock-absorbing foam inserts for zero-damage transit.
 * **Warranty & Support**: Includes an original 12-month factory warranty with full technical guidance and replacement parts support.
 
-### 3. Official Purchasing & Inquiries
+### 2. Official Purchasing & Inquiries
 
 * 🛒 **Official Direct Purchase Link**: [Order the YC-10 Commercial Water Boiler at CECLE Store](https://cecle.net/products/commercial-milk-tea-shop-cafe-restaurant-using-water-boiler)

@@ -133,8 +133,6 @@ The LX6000A is a continuous automatic electromagnetic induction sealing machine 
 
 ### International Trade
 * **MOQ**: 1 set
-* **Payment Method**: T/T (100% in advance)
-* **Lead Time**: Within 7 days
 * **Packaging Standard**: Wooden case (Export standard)
 * **Place of origin**: WenZhou, Zhejiang, China
 

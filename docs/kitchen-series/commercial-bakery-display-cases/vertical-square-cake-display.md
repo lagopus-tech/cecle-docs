@@ -35,7 +35,7 @@ This unit achieves high-efficiency preservation through the coordinated operatio
 
 * **Golden Right-Angle Display Stimulating Impulse Purchases**: The unique double-tier square transparency combined with dead-angle-free LED lighting on every shelf edge makes delicate breads, dual-tier cake slices, and cold beverages fully visible at a glance, significantly increasing cross-selling conversion rates near the checkout counter.
 * **High-Efficiency Compact Desktop Design**: Perfectly utilizes idle counter spaces on bars, checkout counters, or prep tables without taking up valuable floor space. The double-tier vertical structural design doubles display capacity, and the outstanding marble countertop texture makes it exceptionally ideal for high-end boutique stores where every square inch counts.
-* **Outstanding Durability & Return on Investment**: High-end marble bases paired with easy-to-clean food-grade interiors and shelf materials effectively inhibit bacterial growth; precise and even air-cooling temperature control extends the shelf life of sensitive dairy items and freshly cut fruits, substantially cutting down product spoilage losses, typically recovering equipment investment costs within a few short months through newly unlocked sales profits.
+* **Outstanding Durability**: High-end marble bases paired with easy-to-clean food-grade interiors and shelf materials effectively inhibit bacterial growth; precise and even air-cooling temperature control extends the shelf life of sensitive dairy items and freshly cut fruits, substantially cutting down product spoilage losses.
 
 ---
 
@@ -131,15 +131,12 @@ Watch the actual machine demonstration showcasing the appearance structure, high
 
 ## VI. Commercial Terms & Purchasing Guide
 
-### 1. Store Return on Investment (ROI)
-Along high-traffic operational paths on crowded cafe counters or high-end bakery floors, an aesthetically pleasing, luxuriously textured marble countertop double-tier right-angle refrigerated display case acts as the most powerful catalyst for customers' impulse-buying tendencies. It transforms idle bar countertops into high-profit double-decker golden sales zones. Backed by stable, precise air-cooling fresh-keeping temperature control, it not only enhances the visual value proposition of individual cake slices and beverages, but also drastically curtails spoilage and waste rates of dairy products and pastries caused by thermal inconsistencies. Typically within a very short span of deployment, the incremental sales profits generated will fully offset the initial equipment purchase cost.
-
-### 2. Logistics, Transportation & After-Sales Warranty
+### 1. Logistics, Transportation & After-Sales Warranty
 
 * **Precision Commercial Equipment Logistics & Delivery**:
   * **Ocean Freight DDP Door-to-Door / Dedicated Line Truck Freight Delivery**: Given that the display case features large-area anti-fog double-layer flat tempered glass components and high-end marble countertops, factory packaging utilizes heavy-duty pressure-resistant outer containers, full-wrap honeycomb cardboard, and shock-absorbent pearl cotton deep reinforcement. We provide mature, standardized international logistics customs-cleared DDP door delivery and local freight services to ensure this luxury equipment arrives at your counter completely safe and undamaged.
 * **Factory Warranty & Technical Support**: Core refrigeration compressors enjoy long-term original factory warranty protection. CECLE maintains a robust commercial refrigeration spare parts ecosystem and a professional after-sales engineering team, offering end-to-end electronic control setup tuning and routine maintenance technical guidance services.
 
-### 3. Official Purchasing & Consultation
+### 2. Official Purchasing & Consultation
 
 * 🛒 **Official Direct Purchase Link**: [Click here to order the Desktop Double-Tier Right-Angle Marble Bakery Refrigerated Display Case at the CECLE store](https://cecle.net/products/right-angle-cake-display-freezer-marble-countertops-black-and-white-selection)

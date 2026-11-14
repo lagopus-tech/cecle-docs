@@ -20,7 +20,7 @@ The Cabinet CO2 Laser Cutting Machine is an industrial-grade non-metal processin
 2. **Versatile Configurations**: Offers multiple working dimensions (from 40x60cm up to 80x100cm) and laser power options (from 50W to 100W) to precisely match diverse production requirements.
 3. **Explicit Non-Metal Processing Capability**: Specially optimized and labeled for paper and plastic laser cutting, while also delivering exceptional results on wood, acrylic, leather, and fabric.
 4. **Factory-Ready Durability & Mobility**: Designed for heavy-duty factory use with a robust structural framework, accompanied by integrated bottom casters for easy repositioning within workshop layouts.
-5. **Attractive Shipping Terms**: Backed by highly competitive logistics solutions, including hassle-free tax-free sea delivery straight to your door (25-40 days).
+5. **Attractive Shipping Terms**: Backed by highly competitive logistics solutions, including door-to-door sea delivery.
 
 ---
 
@@ -63,7 +63,7 @@ The Cabinet CO2 Laser Cutting Machine is an industrial-grade non-metal processin
 ### **Sales Suggestions**
 * **Highlight Safety and Enclosure**: Emphasize the fully enclosed cabinet design and protective cover to clients concerned about workplace safety, laser radiation, and dust control.
 * **Leverage Flexible Sizing and Power**: Help buyers match their exact production needs by explaining the scalable work area options (6040, 9060, 1080) and laser wattages (50W to 100W).
-* **Emphasize Turnkey Shipping Advantage**: Promote the tax-free door-to-door sea shipping option (25–40 days) as a major cost-saving and hassle-free benefit for international buyers.
+* **Emphasize Turnkey Shipping Advantage**: Promote the door-to-door sea shipping option to international buyers.
 
 ### **Frequently Asked Questions (FAQ)**
 * **Q: Can this machine cut through metal sheets?**
@@ -117,13 +117,9 @@ The Cabinet CO2 Laser Cutting Machine is an industrial-grade non-metal processin
 ## VII. Business Terms
 
 ### **【Domestic Terms】**
-* **Payment**: 30% advance deposit; remaining balance to be paid after production and video inspection prior to shipment.
 * **Logistics**: Specialized line logistics delivery with reinforced wooden crate packaging.
 * **After-Sales**: One-year full machine warranty with long-term technical support for key components.
 
 ### **【International Terms】**
-* **Payment**: 30% T/T deposit, 70% balance paid prior to shipment.
-* **Lead Time**: 10-15 working days.
 * **Packaging**: Standard export-grade plywood case for maximum transit protection.
-* **Shipping Special**: Available via sea to door, **TAX FREE (25-40 days)**.
 * **After-Sales**: 12-month warranty on key components; professional English technical support and remote video debugging assistance.

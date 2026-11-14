@@ -35,7 +35,7 @@ This unit achieves highly efficient preservation through the coordinated operati
 
 * The square glass design provides clean lines and excellent transparency, which, combined with top and shelf-edge dead-angle-free LED lighting, makes exquisite breads, sliced cakes, and cold brew teas visible at a glance, significantly increasing cross-selling rates near the cash register.
 * **High-Efficiency Compact Desktop Design**: Perfectly utilizes the idle counter space of bars, checkout counters, or operating tables without taking up valuable floor business area. The flat top surface can also be used as a temporary placement area for light items (such as table tents or small items), making it exceptionally suitable for spaces where every square inch counts.
-* **Outstanding Durability & ROI**: Easy-to-clean food-grade interior and shelf materials effectively prevent bacterial growth; precise and even air-cooling temperature control extends the shelf life of sensitive dairy products and freshly cut fruits, drastically reducing product spoilage and waste, usually recovering the equipment cost through newly added cross-selling profits in a short period.
+* **Outstanding Durability**: Easy-to-clean food-grade interior and shelf materials effectively prevent bacterial growth; precise and even air-cooling temperature control extends the shelf life of sensitive dairy products and freshly cut fruits, drastically reducing product spoilage and waste.
 
 ---
 
@@ -132,15 +132,12 @@ Watch the actual machine demonstration of the appearance structure, minimalist s
 
 ## VI. Commercial Terms & Purchasing Guide
 
-### 1. Store Return on Investment (ROI)
-In the core traffic line of a crowded cafe checkout counter or bakery, an aesthetically pleasing and professionally textured square-glass refrigerated display case is the strongest weapon to trigger customers' "impulse buying desire." It transforms an otherwise idle bar desktop into a highly profitable golden sales spot. Through stable and precise air-cooling fresh-locking temperature control, it not only enhances the visual premium of a single piece of cake and drink, but also drastically reduces the spoilage and discard rate of dairy products and pastries due to uneven temperatures from the source. Usually, within a very short period of use, the incremental sales profit it brings can fully offset the procurement cost of the equipment.
-
-### 2. Logistics, Transportation & After-Sales Warranty
+### 1. Logistics, Transportation & After-Sales Warranty
 
 * **Precision Commercial Equipment Logistics & Delivery**:
   * **Ocean Freight DDP Door-to-Door / Dedicated Line Truck Freight Delivery**: Given that the display case is equipped with large-area anti-fog flat tempered glass accessories, factory shipments use pressure-resistant heavy-duty outer boxes, fully wrapped honeycomb cardboard, and shockproof pearl cotton for deep reinforcement. We provide mature and standard international logistics customs clearance and tax-paid door-to-door (DDP) and local freight services to ensure this exquisite equipment is delivered safely and intact to your bar counter.
 * **Factory Warranty & Technical Support**: The core refrigeration compressor enjoys long-term original factory warranty protection. CECLE has a sound commercial refrigeration spare parts system and a professional after-sales engineer team, providing full-process electronic control setting, debugging, and daily maintenance technical guidance services.
 
-### 3. Official Purchasing & Consultation
+### 2. Official Purchasing & Consultation
 
 * 🛒 **Official Direct Purchase Link**: [Click here to order the Desktop Refrigerated Bakery Display Case (Square Glass Model) at the CECLE store](https://cecle.net/products/refrigerated-desktop-bakery-display-case-a-compact-stylish-option-for-chilled-treats)

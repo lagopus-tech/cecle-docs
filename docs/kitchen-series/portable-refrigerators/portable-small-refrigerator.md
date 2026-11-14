@@ -35,7 +35,7 @@ This unit achieves high-efficiency preservation through the coordinated operatio
 
 * **Exclusive Convenience Within Arm's Reach**: The golden-sized 70L (2.5 cu.ft.) capacity design perfectly utilizes idle space under office desks, beside sofas, or next to nightstands. No need for frequent trips to the main kitchen refrigerator—enjoy a chilled refreshment anytime while working or resting.
 * **Hygienic Safety via Dedicated Zoning**: For breastfeeding mothers or users with skincare storage needs, this small refrigerator provides a perfect "physical isolation" space, avoiding cross-contamination and odor mixing caused by storing raw kitchen ingredients together.
-* **Superior Durability & Cost-Effectiveness**: Offering exceptional value at a regular price of around $630.00 USD, paired with an easy-to-clean food-grade interior and top-tier compressor, it not only minimizes produce spoilage and waste but serves as a premium home appliance investment that elevates long-term quality of life.
+* **Superior Durability**: An easy-to-clean food-grade interior and top-tier compressor help minimize produce spoilage and waste.
 
 ---
 
@@ -73,7 +73,6 @@ The following specifications are based on the standard parameters of the CECLE *
 | **Product Model**              | **70L / 2.5 cu.ft. Portable Refrigerator**                   |
 | **Applicable Scenarios**       | Storage of beverages, fresh fruits, snacks, and breast milk  |
 | **Rated Voltage**              | **110V / 220V Compatible Home/Office Specs**                 |
-| **Market Price**               | **$630.00 USD**                                              |
 | **Refrigeration Method**       | Commercial-Grade Silent Compressor / Eco-Friendly Refrigerant |
 | **Internal Capacity**          | **70 L (2.5 cu. ft.)**                                       |
 | **Shelving & Storage Design**  | Multi-tier adjustable shelves + Door-side high/low bottle storage zones |
@@ -132,15 +131,12 @@ Watch the live demonstration showcasing the exterior structure, minimalist elega
 
 ## VI. Commercial Terms & Purchasing Guide
 
-### 1. Return on Investment (ROI) & Life Quality Experience
-In fast-paced modern living, a high-quality portable refrigerator within arm's reach is the ultimate tool for enhancing happiness. It transforms otherwise idle under-desk or corner space into your personal "energy replenishment station." Through stable and precise compressor freshness preservation, it not only simplifies the daily retrieval of cold drinks and fruits but also establishes a hygienic, worry-free environment for storing baby breast milk from the source. Within a remarkably short time of deployment, the resulting life convenience, time savings, and health security far outweigh the initial purchase cost of the device.
-
-### 2. Logistics, Shipping, and After-Sales Warranty
+### 1. Logistics, Shipping, and After-Sales Warranty
 
 * **High-Strength Safe Packaging & Logistics Delivery**:
   * **Express Logistics / Door-to-Door Delivery**: Given the precision of refrigeration equipment, factory units are shipped utilizing heavy-duty outer cartons, fully wrapped anti-shock pearl cotton, and reinforced designs. We provide mature, standardized logistics delivery services to ensure this exquisite equipment arrives safely and undamaged at your home or office.
 * **Factory Warranty & Technical Support**: Core refrigeration compressors enjoy long-term original factory warranty coverage. CECLE possesses a robust spare parts system and a professional after-sales support team, offering end-to-end guidance for equipment setup, commissioning, and routine maintenance.
 
-### 3. Official Purchasing & Inquiries
+### 2. Official Purchasing & Inquiries
 
 * 🛒 **Official Direct Purchase Link**: [Click here to order the Home & Office Portable Small Refrigerator (70L / 2.5 cu.ft.) at the CECLE Store](https://cecle.net/products/home-office-portable-small-refrigerator-70l-2-5-cu-ft-for-drinks-fruits-and-breast-milk)

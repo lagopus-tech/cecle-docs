@@ -128,8 +128,6 @@ The DL-800A is a portable handheld electromagnetic induction sealing machine, en
 
 ### International Trade
 * **MOQ**: 1 set
-* **Payment Method**: T/T (100% in advance)
-* **Lead Time**: Within 7 days
 * **Packaging Standard**: Ordinary carton
 * **Place of origin**: WenZhou, Zhejiang, China
 

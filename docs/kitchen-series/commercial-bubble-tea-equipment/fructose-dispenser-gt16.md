@@ -129,14 +129,11 @@ Watch the live demonstration of the **GT-16** liquid dispensing workstation:
 
 ## VI. Commercial Terms & Purchasing Guide
 
-### 1. Store Return on Investment (ROI)
-Precision liquid dispensing ensures recipe standardization, cuts down manual pouring time, and prevents costly ingredient waste, allowing store owners to quickly recover their investment through enhanced operational efficiency.
-
-### 2. Logistics, Shipping, and After-Sales Warranty
+### 1. Logistics, Shipping, and After-Sales Warranty
 
 * **Logistics Delivery**: Shipped with heavy-duty packaging and secure padding via DDP sea freight, air freight, or international express delivery to ensure safe arrival.
 * **Warranty & Support**: Backed by original factory warranty coverage and professional technical support for troubleshooting.
 
-### 3. Official Purchasing & Inquiries
+### 2. Official Purchasing & Inquiries
 
 * 🛒 **Official Direct Purchase Link**: [Order the GT-16 Set at CECLE Store](https://cecle.net/products/automatic-fructose-dispenser-and-8l-syrup-dispenser-bubble-tea-fructose-quantitative-machine-stainless-steel-barrel)

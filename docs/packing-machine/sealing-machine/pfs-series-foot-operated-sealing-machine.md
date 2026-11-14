@@ -113,8 +113,6 @@ The PFS series (PFS-350, PFS-450, and PFS-650) consists of foot-operated double-
 
 ### International Trade
 * **MOQ**: 1 set
-* **Payment Method**: T/T (100% in advance)
-* **Lead Time**: Within 7 days
 * **Packaging Standard**: Ordinary carton
 * **Place of origin**: WenZhou, Zhejiang, China
 

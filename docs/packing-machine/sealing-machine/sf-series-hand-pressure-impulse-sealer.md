@@ -116,8 +116,6 @@ The SF series (SF-200, SF-300, and SF-400) consists of lightweight, portable pla
 
 ### International Trade
 * **MOQ**: 10 sets
-* **Payment Method**: T/T (100% in advance)
-* **Lead Time**: Within 7 days
 * **Packaging Standard**: Ordinary carton
 * **Place of origin**: WenZhou, Zhejiang, China
 

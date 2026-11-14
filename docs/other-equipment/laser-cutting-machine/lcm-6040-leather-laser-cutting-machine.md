@@ -115,13 +115,10 @@ The LCM-6040 is an advanced CO2 laser processing system specifically designed fo
 ## VI. Business Terms
 
 ### **【Domestic Terms】**
-* **Payment**: 30% advance deposit; remaining balance to be paid after factory production, video inspection, and approval prior to shipment.
 * **Logistics**: Dedicated industrial freight delivery with customized internal foam protection and reinforced wooden crate packaging to ensure transport safety.
 * **Warranty & Service**: 1-year full machine warranty (consumables such as laser tubes and optical lenses follow standard terms); long-term remote technical support and software debugging guidance provided.
 
 ### **【International Terms】**
-* **Payment**: 30% T/T deposit in advance, 70% balance paid before shipment upon inspection video/photo confirmation.
-* **Lead Time**: Normally 10–15 working days.
 * **Export Packaging**: Standard export fumigation-free plywood case equipped with internal shock-absorbing structures to secure international sea or air freight.
 * **After-Sales Support**: 12-month global warranty on core components; complete English operation manuals, video tutorials, and professional English remote technical assistance provided.
 

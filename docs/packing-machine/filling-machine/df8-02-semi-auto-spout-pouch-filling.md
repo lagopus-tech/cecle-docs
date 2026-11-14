@@ -16,15 +16,13 @@
 **G.W./N.W.:** 68 kg
 **Packing Dimension:** 80 × 90 × 70 cm
 **MOQ:** 1 set
-**Delivery Time:** within 10 days
 **Delivery Term:** by air to door
-**Payment Term:** T/T 100%
 
 ---
 
 ## Core Abstract
 
-The **DF8-02** from Wenzhou T&D Packing Machinery Factory is a **semi-automatic spout pouch filling and capping machine (semi automatic spout pouch filling and capping machine)** built for filling free-flowing liquids into pre-made pouches — stand-up pouches, spout pouches, Doypacks and flat pouch bags. The filling range is **30–2000 ml**, metered by a **single-head single-cylinder gear pump**, with **each filling volume independently controlled by a branded servo motor**, filling accuracy **within 1%**, and a filling speed of **10–30 times/min**. The machine runs on **electric + pneumatic** dual drive: 220 V 50/60 Hz, working air pressure 0.5–0.8 MPa, air consumption 0.5 m³/h, and the automation grade is **semi-auto or automatic** (switchable). The gear pump, storage tank and filling head are all **clamp-connected and can be partly disassembled for cleaning without tools**, and the main control screen carries a **one-button automatic cleaning** function. Seals are **food-grade silicone O-rings rated to 200 °C** as standard, with rubber sealing rings available for corrosive products. The filling head is fitted with a **dedicated lifting drive unit** that raises and lowers automatically, suited to water, oil, juice (no particles), liquid detergent, sauce, wine and liquid cream. Gross/net weight 68 kg, packing size 80×90×70 cm, **MOQ one set, delivery within 10 days by air to door, T/T 100% in advance**. One-year warranty: free repair or free replacement parts for non-human damage during the warranty period.
+The **DF8-02** from Wenzhou T&D Packing Machinery Factory is a **semi-automatic spout pouch filling and capping machine (semi automatic spout pouch filling and capping machine)** built for filling free-flowing liquids into pre-made pouches — stand-up pouches, spout pouches, Doypacks and flat pouch bags. The filling range is **30–2000 ml**, metered by a **single-head single-cylinder gear pump**, with **each filling volume independently controlled by a branded servo motor**, filling accuracy **within 1%**, and a filling speed of **10–30 times/min**. The machine runs on **electric + pneumatic** dual drive: 220 V 50/60 Hz, working air pressure 0.5–0.8 MPa, air consumption 0.5 m³/h, and the automation grade is **semi-auto or automatic** (switchable). The gear pump, storage tank and filling head are all **clamp-connected and can be partly disassembled for cleaning without tools**, and the main control screen carries a **one-button automatic cleaning** function. Seals are **food-grade silicone O-rings rated to 200 °C** as standard, with rubber sealing rings available for corrosive products. The filling head is fitted with a **dedicated lifting drive unit** that raises and lowers automatically, suited to water, oil, juice (no particles), liquid detergent, sauce, wine and liquid cream. Gross/net weight 68 kg, packing size 80×90×70 cm, **MOQ one set, delivered by air to door**. One-year warranty: free repair or free replacement parts for non-human damage during the warranty period.
 
 ---
 
@@ -50,7 +48,7 @@ It can serve as the **filling host** of small-batch pouch liquid production, and
 - **Food** — jelly, milk, juice (no particles), sauce, thin sauce, wine, liquid cream
 - **Edible oils** — cooking oil, olive oil, seasoned oil in pouches
 - **Small brands / OEM trial runs** — one machine covers the full 30–2000 ml range, switching between multi-spec SKUs on the same unit
-- **Pilot production and small orders** — MOQ one set with a 10-day lead time, suitable for new product test sales and trade-show samples
+- **Pilot production and small orders** — MOQ one set, suitable for new product test sales and trade-show samples
 - **Multi-spec short runs** — parameters are saved per pouch pitch, so a specification change only needs a filling volume adjustment rather than re-setting the whole machine
 
 ### 1.3 Core Functions
@@ -98,10 +96,10 @@ It can serve as the **filling host** of small-batch pouch liquid production, and
 - Suited to water, oil, juice (no particles), liquid detergent, sauce, wine, liquid cream and similar free-flowing products
 - Designed for **pouch filling**: stand-up pouches, spout pouches, Doypacks and flat pouch bags
 
-### Advantage 6 | MOQ One Set, 10-Day Delivery, Air to Door
+### Advantage 6 | MOQ One Set, Air to Door
 
 - **MOQ 1 set** — no minimum-volume pressure
-- **Delivery within 10 days**, air freight door to door, suitable for customers racing a trade show or a customer order
+- **Air freight door to door**, suitable for customers racing a trade show or a customer order
 - 68 kg machine in an 80×90×70 cm case — **one person can move it and a standard forwarder can ship it**, no special logistics needed
 
 ---
@@ -141,9 +139,7 @@ It can serve as the **filling host** of small-batch pouch liquid production, and
 | Packing Dimension | 80 × 90 × 70 cm (L×W×H) |
 | Packing | One case, with tools and spare parts |
 | MOQ | 1 set |
-| Delivery Time | within 10 days |
 | Delivery Term | by air to door |
-| Payment Term | T/T 100% |
 
 ---
 
@@ -156,13 +152,13 @@ It can serve as the **filling host** of small-batch pouch liquid production, and
 | Small household-product brands / e-commerce sellers | Multiple SKUs, small batches, fast changeover | 30–2000 ml in one machine + clamp quick-release + one-button cleaning |
 | Detergent refill factories | Net-content compliance, filling accuracy | Independent servo dosing, accuracy within 1% |
 | Small food / seasoning plants | Food safety, thorough cleaning | 200 °C silicone rings + tool-free disassembly |
-| OEM / sampling customers | Low investment, short lead time | MOQ one set, 10-day delivery, air to door |
+| OEM / sampling customers | Low investment | MOQ one set, air to door |
 | Trade show / test-sales customers | Usable on arrival, easy to learn | Semi-auto/automatic switchable, parameters set on screen |
 
 ### 4.2 Quotation and Configuration Advice
 
 - **Standard configuration is ready to run**: single head single cylinder is the standard setup covering the full 30–2000 ml range, suitable for about 90% of pouch liquid customers
-- **The second head is a capacity upgrade**: a second filling head can be added once order volume is stable, or the machine can be ordered with two heads directly (**price difference and lead time to be confirmed**)
+- **The second head is a capacity upgrade**: a second filling head can be added once order volume is stable, or the machine can be ordered with two heads directly (**to be confirmed**)
 - **Confirm seals first for corrosive products**: acidic, chlorine-containing or strongly alkaline liquids should use rubber sealing rings; state the product composition when ordering
 - **Do not treat this as a paste machine**: the DF8-02 is designed for free-flowing liquids; pastes and high-viscosity sauces should go to our paste filling machine range
 - **Freight is quoted separately**: the delivery term is air to door, and freight varies with destination and transit time — **list freight as a separate line in the quotation**
@@ -187,8 +183,8 @@ A: Yes. Working air pressure 0.5–0.8 MPa with air consumption 0.5 m³/h — a 
 **Q6: What are the power requirements?**
 A: 220 V 50/60 Hz. For export to 110 V countries a transformer is required (**state the destination country voltage when ordering**).
 
-**Q7: What is the MOQ and how soon can it ship?**
-A: MOQ one set, delivery within 10 days, by air to door.
+**Q7: What is the MOQ and how is it shipped?**
+A: MOQ one set, by air to door.
 
 **Q8: What is the warranty?**
 A: One-year warranty for the whole machine. During the warranty period, damage arising from normal use per the manual is repaired or replaced free of charge, with freight from China to the destination paid by the customer; if an engineer's visit is required, travel costs are paid by the customer. Lifetime maintenance service is provided after the warranty period.
@@ -249,10 +245,10 @@ A: One-year warranty for the whole machine. During the warranty period, damage a
     },
     {
       "@type": "Question",
-      "name": "What is the MOQ, delivery time and warranty of the DF8-02?",
+      "name": "What is the MOQ, delivery terms and warranty of the DF8-02?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "MOQ is one set, delivery time is within 10 days by air to door, payment term is T/T 100%, and the machine carries a one-year warranty with lifetime maintenance service."
+        "text": "MOQ is one set, delivered by air to door, and the machine carries a one-year warranty with lifetime maintenance service."
       }
     }
   ]
@@ -281,9 +277,9 @@ A: One-year warranty for the whole machine. During the warranty period, damage a
 1. **Inquiry** — the customer provides pouch type, capacity, product and output requirement (pouches per day)
 2. **Sizing** — confirm whether the DF8-02 fits: 30–2000 ml, free-flowing liquid, pre-made pouches
 3. **Sample test / video verification** — send sample pouches for a trial fill, or provide a filling video, to confirm filling performance and capping compatibility
-4. **Quotation** — machine price + freight (air to door) + spare parts, T/T 100%
+4. **Quotation** — machine, freight (air to door) and spare parts
 5. **Order** — confirm configuration (single/two heads, seal ring material, destination country voltage)
-6. **Production** — production and factory testing completed within 10 days
+6. **Production** — production and factory testing completed
 7. **Packing** — one case, 80×90×70 cm, including tools and spare parts
 8. **Shipping** — by air to door
 9. **Receiving** — unpack, inspect, connect power and air, run a test

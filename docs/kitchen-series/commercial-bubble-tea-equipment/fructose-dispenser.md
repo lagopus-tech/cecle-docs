@@ -127,14 +127,11 @@ Watch the operational reference of commercial automatic fructose dispensers:
 
 ## VI. Commercial Terms & Purchasing Guide
 
-### 1. Store Return on Investment (ROI)
-The FM-5FG eliminates human pouring errors, cuts syrup waste by over 15%, and accelerates cup preparation during rush hours, enabling commercial beverage shops to recover equipment investment within the first few months.
-
-### 2. Logistics, Shipping, and After-Sales Warranty
+### 1. Logistics, Shipping, and After-Sales Warranty
 
 * **Packaging & Delivery**: Packed in reinforced export cartons with protective foam lining; available via international express courier, air freight, or DDP shipping.
 * **Warranty & Support**: Includes standard 12-month factory warranty and lifetime remote technical guidance.
 
-### 3. Official Purchasing & Inquiries
+### 2. Official Purchasing & Inquiries
 
 * 🛒 **Official Direct Purchase Link**: [Order the FM-5FG Fructose Machine at CECLE Store](https://cecle.net/products/fructose-machine-fm-5fg)

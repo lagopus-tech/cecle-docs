@@ -116,13 +116,10 @@ The SC-ICE01 Horizontal Loss-in-Weight Ice Cream Dosing & Filling Machine is an 
 ## VII. Business Terms
 
 ### **【Domestic Terms】**
-* **Payment**: 30% deposit to initiate production; balance 70% paid after manufacturing, testing, and factory inspection or video verification before shipment.
 * **Packaging & Logistics**: Shipped in secure, vibration-damped wooden crates via direct freight lines to the client's facility.
 * **Warranty**: 1-year warranty for the complete machine (excluding wear parts and human error), with lifetime remote technical support and original parts supply.
 
 ### **【International Terms】**
-* **Payment Terms**: 30% T/T deposit to commence manufacturing; 70% balance paid prior to dispatch upon review of inspection photos and testing videos.
-* **Lead Time**: 15–20 working days following deposit confirmation and approved technical specifications.
 * **Packaging**: Export-grade fumigation-free plywood crate with internal moisture-barrier wrapping and shock protection, compliant with sea and air shipping standards.
 * **Warranty & Service**: 12-month warranty on key components (PLC, servo drives, Secop compressor), accompanied by full English documentation and ongoing remote engineering assistance.
 
