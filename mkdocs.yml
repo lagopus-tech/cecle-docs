@@ -286,6 +286,11 @@ nav:
       - Cup & Tray Sealing Machine:
           - MS / MSS-220 Cup & Tray Sealer: packing-machine/cup-sealing-machine/ms-mss-220.md
           - VS-600 Table-top Semi-automatic Tray Sealer: packing-machine/cup-sealing-machine/vs-600.md
+      - Sealing Machine Series:
+          - PFS Series Foot-Operated Sealing Machine: packing-machine/sealing-machine/pfs-series-foot-operated-sealing-machine.md
+          - SF Series Hand Pressure Impulse Sealer: packing-machine/sealing-machine/sf-series-hand-pressure-impulse-sealer.md
+          - DL-800A Handheld Induction Sealer: packing-machine/sealing-machine/dl-800a-handheld-electromagnetic-induction-sealing-machine.md
+          - LX6000A Continuous Induction Sealing Machine: packing-machine/sealing-machine/l6000a-continuous-electromagnetic-induction-sealing-machine.md
       - 3D Printer:
           - S1 Combo High-Speed Multi-Color 3D Printer: packing-machine/printing-machine/3d-printer/s1.md
       - Cup Filling & Sealing Machine:
@@ -342,6 +347,7 @@ nav:
           - NLA-ALC-500 Automatic Aluminium Filling Line: packing-machine/filling-machine/nla-alc-500-automatic-aluminium-liquid-paste-filling-line.md
           - PF-500 + DC-1 + AL-220 Automatic Powder Filling Line: packing-machine/filling-machine/pf-500-auto-powder-filling-line.md
           - FA4-500 Automatic Paste & Liquid Filling Line: packing-machine/filling-machine/fa4-500-auto-paste-filling-line.md
+          - DF8-02 Semi-Automatic Spout Pouch Filling & Capping Machine: packing-machine/filling-machine/df8-02-semi-auto-spout-pouch-filling.md
       - Form Fill & Seal Systems:
           - Overview: packing-machine/form-fill-sealing-systems/pouch-packing-machine-index.md
           - Liquid Pouch Packing Machine: packing-machine/form-fill-sealing-systems/liquid-pouch-packing-machine.md
@@ -501,6 +507,21 @@ nav:
           - 27-Inch Single Door Freezer: kitchen-series/commercial-reach-in-freezers/27-inch-single-door-freezer.md
           - 30-Inch Four Door Freezer: kitchen-series/commercial-reach-in-freezers/30-inch-four-door-freezer.md
           - 54-Inch Double Door Freezer: kitchen-series/commercial-reach-in-freezers/54-inch-double-door-freezer.md
+      - Commercial Bakery Display Cases:
+          - Overview: kitchen-series/commercial-bakery-display-cases/commercial-bakery-display-cases-index.md
+          - Curved Glass Bakery Display Case: kitchen-series/commercial-bakery-display-cases/curved-cake-display.md
+          - Square Glass Bakery Display Case: kitchen-series/commercial-bakery-display-cases/square-cake-display.md
+          - Double-Layer Curved Bakery Display Case: kitchen-series/commercial-bakery-display-cases/vertical-curved-cake-display.md
+          - Right-Angle Marble Cake Display Case: kitchen-series/commercial-bakery-display-cases/vertical-square-cake-display.md
+      - Commercial Bubble Tea Equipment:
+          - Bubble Tea Bar Counter with Refrigeration: kitchen-series/commercial-bubble-tea-equipment/bubble-tea-bar-counter.md
+          - Bubble Tea Bar with Refrigeration: kitchen-series/commercial-bubble-tea-equipment/bubble-tea-bar-with-refrigeration.md
+          - Automatic Double-Cup Bubble Tea Shaker: kitchen-series/commercial-bubble-tea-equipment/cup-shaker.md
+          - GT-16 Automatic Fructose Dispenser: kitchen-series/commercial-bubble-tea-equipment/fructose-dispenser-gt16.md
+          - FM-5FG Automatic Fructose Dispenser: kitchen-series/commercial-bubble-tea-equipment/fructose-dispenser.md
+          - YC-10 Step-by-Step Water Boiler: kitchen-series/commercial-bubble-tea-equipment/water-boiler.md
+      - Portable Refrigerators:
+          - 70L Portable Small Refrigerator: kitchen-series/portable-refrigerators/portable-small-refrigerator.md
   - Pharmaceutical Equipment:
       - Capsule Filling Machine:
           - Overview: pharmaceutical-equipment/caspule-filling-machine/capsul-filling-machine-index.md
@@ -522,6 +543,7 @@ nav:
           - YQD-6S Automatic Pill Making & Polishing Machine: pharmaceutical-equipment/tablet-press-machine/yqd-6s-automatic-pill-making-machine.md
           - TDP-120D Single Punch: pharmaceutical-equipment/tablet-press-machine/tdp-120d-tablet-press-machine.md
           - GZPT Series High-Speed Rotary: pharmaceutical-equipment/tablet-press-machine/gzpt-series-high-speed-rotary-tablet-press-machine.md
+          - ZP-33D Rotary Tablet Press Machine: pharmaceutical-equipment/tablet-press-machine/zp-33d-rotary-tablet-press-machine.md
       - Pill Making Machine:
           - CQZ Series Pill Making Machine: pharmaceutical-equipment/tablet-press-machine/cqz-series-pill-making-machine.md
           - CQZ-3-30 Automatic Pill Making Machine: pharmaceutical-equipment/tablet-press-machine/cqz-3-30-automatic-pill-making-machine.md
@@ -546,6 +568,7 @@ nav:
           - Fully Automatic Desiccant Inserter: pharmaceutical-equipment/counting-machine/automatic-desiccantinserter-machine.md
           - JF-24A 24-Channel Electronic Counting Machine: pharmaceutical-equipment/counting-machine/jf24-automatic-electronic-counter.md
           - DSJ-8C Visual Imaging Counting Machine: pharmaceutical-equipment/counting-machine/dsj-8c-visual-imaging-counting-machine.md
+          - GDSL-12 Electronic Automatic Counting Machine: pharmaceutical-equipment/counting-machine/gdsl-12-electronic-automatic-counting-machine.md
       - Vacuum Feeder:
           - Overview: pharmaceutical-equipment/vacuum-feeder/qvc-series-vacuum-feeder-index.md
           - QVC Series Pneumatic Feeder: pharmaceutical-equipment/vacuum-feeder/qvc-series-vacuum-feeder.md
@@ -564,6 +587,8 @@ nav:
       - Sorting Scale:
           - HB-220 High-Precision Dynamic Checkweigher: pharmaceutical-equipment/sorting-scale/high-precision-dynamic-checkweigher.md
           - Multi-Stage Weight Sorting Scale: pharmaceutical-equipment/sorting-scale/multi-stage-weight-sorting-scale.md
+      - Granulator:
+          - GK-25 Dry Granulator: pharmaceutical-equipment/granulator/gk-25-dry-granulator.md
   - Material Handling Equipment:
       - Stacker Series:
           - Overview: material-handling/stacker/stacker-index.md
@@ -606,6 +631,7 @@ nav:
           - 1390/1690 CO2 Laser Engraving Machine: other-equipment/laser-machine/1390-1690-co2-laser-engraving-machine.md
           - 9060 CO2 Laser Engraving Machine: other-equipment/laser-machine/9060-co2-laser-engraving-machine.md
           - Mini Desktop Portable CNC Laser Engraver: other-equipment/laser-machine/mini-desktop-portable-cnc-laser-engraving-machine.md
+          - Laser Engraving Machine Buying Guide: other-equipment/laser-machine/laser-engraving-machine-index.md
       - Laser Marking Machine:
           - Cabinet Type Fiber Laser Marking Machine: other-equipment/laser-marking-machine/cabinet-type-fiber-laser-marking-machine.md
           - CO2 Laser Marking Machine: other-equipment/laser-marking-machine/co2-laser-marking-machine.md
@@ -613,9 +639,14 @@ nav:
           - LMJ-110P Handheld Fiber Laser Marker: other-equipment/laser-marking-machine/handheld-fiber-laser-marker.md
           - Desktop Jewelry Laser Engraving Machine: other-equipment/laser-marking-machine/jewelry-laser-engraving-machine.md
           - PDL Mini Fiber Laser Engraver: other-equipment/laser-marking-machine/mini-fiber-laser-engraver.md
+          - Laser Marking Machine Buying Guide: other-equipment/laser-marking-machine/laser-marking-machine-index.md
       - EV Charger Hanging Bracket:
           - Manual EV Charger Hanging Bracket: other-equipment/ev-charger-hanging-bracket/manual-ev-charger-hanging-bracket.md
           - Electric Remote-Control EV Charger Hanging Bracket: other-equipment/ev-charger-hanging-bracket/electric-remote-control-ev-charger-hanging-bracket.md
+      - Laser Cutting Machine:
+          - CO2 Laser Cutting Machine Buying Guide: other-equipment/laser-cutting-machine/laser-cutting-machine-index.md
+          - Cabinet CO2 Laser Cutting Machine: other-equipment/laser-cutting-machine/cabinet-co2-laser-cutting-machine.md
+          - LCM-6040 Leather Laser Cutting Machine: other-equipment/laser-cutting-machine/lcm-6040-leather-laser-cutting-machine.md
   - Agricultural Machinery:
       - Tiller:
           - Mini Tiller Machine: agricultural-machine/tiller/multifunctional-mini-tiller.md
